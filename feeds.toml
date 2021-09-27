@@ -180,3 +180,11 @@ url = "https://www.vanvulpenroozenburg.nl/aanbod/?filter-group-id=3&filter[11]=&
 entrySelector = ".object-block"
 titleSelector = ".object-content-header"
 linkSelector = "a"
+
+[mommersteeg]
+title = "Mommersteeg Makelaardij"
+url = "https://www.mommersteegmakelaardij.nl/woning/"
+entrySelector = ".woning"
+titleSelector = ".objectTitle"
+linkSelector = "a.objectTitle"
+matchAllOf = ["Utrecht", "Beschikbaar"]
