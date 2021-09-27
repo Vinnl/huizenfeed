@@ -173,3 +173,10 @@ url = "https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht?locationof
 entrySelector = ".objectcontainer"
 titleSelector = ".obj_address"
 linkSelector = ".obj_address a"
+
+[vanvulpenroozenburg]
+title = "Van Vulpen & Roozenburg makelaars"
+url = "https://www.vanvulpenroozenburg.nl/aanbod/?filter-group-id=3&filter[11]=&filter[14][]=UTRECHT&filter[12]=&range-filter-to=400000&filter[15]=%2C400000"
+entrySelector = ".object-block"
+titleSelector = ".object-content-header"
+linkSelector = "a"
