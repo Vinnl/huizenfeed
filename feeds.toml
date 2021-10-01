@@ -188,3 +188,10 @@ entrySelector = ".woning"
 titleSelector = ".objectTitle"
 linkSelector = "a.objectTitle"
 matchAllOf = ["Utrecht", "Beschikbaar"]
+
+[welzenes]
+title = "Van Welzenes Makelaars"
+url = "https://www.vanwelzenes.nl/aanbod/"
+entrySelector = "[data-filter-price='250001-500000'][data-filter-place='utrecht']"
+titleSelector = "h3"
+linkSelector = "a"
