@@ -203,3 +203,11 @@ entrySelector = ".card--wonen"
 titleSelector = "h3"
 linkSelector = "a.card__overlay"
 matchAllOf = ["Utrecht", "Beschikbaar"]
+
+[deruiter]
+title = "De Ruiter Makelaarshuis"
+url = "https://www.deruitermakelaarshuis.nl/utrecht/woningen/"
+entrySelector = ".woning"
+titleSelector = "li:first-child dl dd"
+linkSelector = "a.thumbnail"
+matchAllOf = ["Utrecht", "nieuwsticker"]
