@@ -228,3 +228,12 @@ entrySelector = ".rw-wonen-teaser"
 titleSelector = ".rw-wonen-teaser__anchor"
 linkSelector = ".rw-wonen-teaser__anchor"
 matchAllOf = ["Utrecht", "nieuw"]
+
+[starthousing]
+title = "StartHousing"
+url = "https://www.starthousing.nl/woningaanbod/koop/utrecht?locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&pricerange.maxprice=400000"
+entrySelector = ".new_forsale"
+titleSelector = "h2"
+linkSelector = "a.sys-property-link"
+matchAllOf = ["Utrecht", "Nieuw"]
+waitUntil = "networkidle"
