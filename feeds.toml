@@ -220,3 +220,11 @@ titleSelector = ".title .left p"
 linkSelector = "a.overlay"
 matchAllOf = ["Utrecht", "Beschikbaar"]
 waitUntil = "networkidle"
+
+[dekoning]
+title = "De Koning Wonen"
+url = "https://www.dekoningwonen.nl/woningaanbod/prijs-tot+400000/page+1/plaats+Utrecht/status+tekoop/aanbodtype+koop/aantal-slaapkamers+2"
+entrySelector = ".rw-wonen-teaser"
+titleSelector = ".rw-wonen-teaser__anchor"
+linkSelector = ".rw-wonen-teaser__anchor"
+matchAllOf = ["Utrecht", "nieuw"]
