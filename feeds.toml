@@ -218,7 +218,7 @@ url = "https://www.wijmakelaardij.nl/woningaanbod/"
 entrySelector = ".item-woning"
 titleSelector = ".title .left p"
 linkSelector = "a.overlay"
-matchAllOf = ["Utrecht", "Beschikbaar"]
+matchAllOf = ["Utrecht", "Beschikbaar", "k.k."]
 waitUntil = "networkidle"
 
 [dekoning]
