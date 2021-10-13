@@ -156,7 +156,7 @@ url = "https://vanscherpenzeel.nl/woningen/makelaar/935799"
 entrySelector = "#entity-items .woning"
 titleSelector = "h2 a:last-child"
 linkSelector = "h2 a.overlay"
-matchAllOf = ["Utrecht", "Beschikbaar"]
+matchAllOf = ["Utrecht", "Beschikbaar", "€ 3"]
 waitUntil = "networkidle"
 
 [gevaert]
@@ -187,7 +187,7 @@ url = "https://www.mommersteegmakelaardij.nl/woning/"
 entrySelector = ".woning"
 titleSelector = ".objectTitle"
 linkSelector = "a.objectTitle"
-matchAllOf = ["Utrecht", "Beschikbaar"]
+matchAllOf = ["Utrecht", "Beschikbaar", "€ 3"]
 
 [welzenes]
 title = "Van Welzenes Makelaars"
@@ -202,7 +202,7 @@ url = "https://beumerutrecht.nl/woningen/"
 entrySelector = ".card--wonen"
 titleSelector = "h3"
 linkSelector = "a.card__overlay"
-matchAllOf = ["Utrecht", "Beschikbaar"]
+matchAllOf = ["Utrecht", "Beschikbaar", "€ 3"]
 
 [deruiter]
 title = "De Ruiter Makelaarshuis"
@@ -210,7 +210,7 @@ url = "https://www.deruitermakelaarshuis.nl/utrecht/woningen/"
 entrySelector = ".woning"
 titleSelector = "li:first-child dl dd"
 linkSelector = "a.thumbnail"
-matchAllOf = ["Utrecht", "nieuwsticker"]
+matchAllOf = ["Utrecht", "nieuwsticker", "€ 3"]
 
 [wij]
 title = "Wij Makelaardij"
@@ -218,7 +218,7 @@ url = "https://www.wijmakelaardij.nl/woningaanbod/"
 entrySelector = ".item-woning"
 titleSelector = ".title .left p"
 linkSelector = "a.overlay"
-matchAllOf = ["Utrecht", "Beschikbaar", "k.k."]
+matchAllOf = ["Utrecht", "Beschikbaar", "k.k.", "€ 3"]
 waitUntil = "networkidle"
 
 [dekoning]
