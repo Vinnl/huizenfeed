@@ -268,3 +268,11 @@ entrySelector = ".woning"
 titleSelector = "h2"
 linkSelector = "a.thumbnail"
 matchAllOf = ["Utrecht", "€ 3"]
+
+[veldhuizenkoot]
+title = "Veldhuizenkoot Makelaars"
+url = "https://veldhuizenkoot.nl/woningen/?type=koop&plaats=utrecht&radius=&adres="
+entrySelector = ".houseblock"
+titleSelector = ".adres"
+linkSelector = "a.check"
+matchAllOf = ["€ 3"]
