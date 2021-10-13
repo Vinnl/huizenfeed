@@ -237,3 +237,12 @@ titleSelector = "h2"
 linkSelector = "a.sys-property-link"
 matchAllOf = ["Utrecht", "Nieuw"]
 waitUntil = "networkidle"
+
+[ludenhoff]
+title = "Ludenhoff Groep"
+url = "https://www.ludenhoff.nl/aanbod-utrecht"
+entrySelector = ".object"
+titleSelector = ".adres"
+linkSelector = "a.adreslink"
+matchAllOf = ["UTRECHT", "€ 3"]
+waitUntil = "networkidle"
