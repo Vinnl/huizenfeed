@@ -246,3 +246,10 @@ titleSelector = ".adres"
 linkSelector = "a.adreslink"
 matchAllOf = ["UTRECHT", "€ 3"]
 waitUntil = "networkidle"
+
+[waltmann]
+title = "Waltmann Makelaars"
+url = "https://www.waltmann.nl/wonen/zoeken/heel-nederland/utrecht/0-400000/koop/3-kamers/beschikbaar/"
+entrySelector = ".card-house"
+titleSelector = "h4"
+linkSelector = "*"
