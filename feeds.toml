@@ -260,3 +260,11 @@ url = "https://www.aspektmakelaars.nl/wonen/zoeken/heel-nederland/utrecht/0-4000
 entrySelector = ".card-house"
 titleSelector = "h4"
 linkSelector = "*"
+
+[domstadmakelaars]
+title = "Domstad Makelaars"
+url = "https://domstadmakelaars.nl/woningen/"
+entrySelector = ".woning"
+titleSelector = "h2"
+linkSelector = "a.thumbnail"
+matchAllOf = ["Utrecht", "€ 3"]
