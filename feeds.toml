@@ -1,6 +1,6 @@
 [default]
 timeout = 300
-filters = ["Onder bod", "Verkocht", "VERKOCHT"]
+filters = ["Onder bod", "Verkocht", "VERKOCHT", "dreef"]
 onFail = "stale"
 
 [peekenpompe]
