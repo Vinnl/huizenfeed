@@ -260,7 +260,7 @@ linkSelector = "*"
 title = "Aspekt Makelaars"
 url = "https://www.aspektmakelaars.nl/wonen/zoeken/heel-nederland/utrecht/0-400000/koop/3-kamers/beschikbaar/"
 entrySelector = ".card-house"
-titleSelector = "h4"
+titleSelector = "h2"
 linkSelector = "*"
 
 [domstadmakelaars]
