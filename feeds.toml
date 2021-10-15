@@ -75,11 +75,12 @@ filters = ["EINDHOVEN"]
 
 [walton]
 title = "Walton Makelaars"
-url = "https://www.walton.nl/nieuw-in-verkoop-makelaar"
+url = "https://www.walton.nl/aanbod-makelaar/?_plaatsen=utrecht&_prijs_tot=1-400000"
 entrySelector = ".object"
-titleSelector = "h4"
-linkSelector = "a.adreslink"
-filters = ["Onder bod", "Verkocht"]
+titleSelector = ".object-address-line"
+linkSelector = "a.d-table"
+matchAllOf = ["Nieuw"]
+waitUntil = "networkidle"
 
 [huf]
 title = "Makelaardij Huf"
