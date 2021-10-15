@@ -37,6 +37,7 @@ url = "https://www.brecheisen.nl/woningaanbod/koop/utrecht?iscustom=true&isnewst
 entrySelector = ".objectcontainer"
 titleSelector = ".obj_address"
 linkSelector = "a.sys-property-link"
+waitUntil = "networkidle"
 
 [punt]
 title = "Punt Makelaars"
@@ -128,6 +129,7 @@ url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_koop
 entrySelector = ".aanbod"
 titleSelector = ".row"
 linkSelector = "a.aanbod-item"
+waitUntil = "networkidle"
 
 [makelaarsland]
 title = "Makelaarsland"
