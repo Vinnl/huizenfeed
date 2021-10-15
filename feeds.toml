@@ -271,6 +271,7 @@ url = "https://www.aspektmakelaars.nl/wonen/zoeken/heel-nederland/utrecht/0-4000
 entrySelector = ".card-house"
 titleSelector = "h2"
 linkSelector = "*"
+waitUntil = "load"
 
 [domstadmakelaars]
 title = "Domstad Makelaars"
