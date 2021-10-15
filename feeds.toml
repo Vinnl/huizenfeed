@@ -47,6 +47,7 @@ entrySelector = "ul.listHouses li"
 titleSelector = ".houseOverviewPopup"
 linkSelector = "a"
 filters = ["Kantoor", "Schrijf je nu in", "Verkocht"]
+waitUntil = "load"
 
 [ingridvaneck]
 title = "Ingrid van Eck Makelardij"
