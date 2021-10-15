@@ -92,10 +92,11 @@ filters = ["Onder bod", "Verkocht", "Zeist", "Meern", "Hilversum"]
 [blauweeik]
 title = "Blauwe Eik makelaardij"
 url = "https://www.blauweeik.nl/wonen/zoeken/Utrecht/5km/0-400000/koop/"
-entrySelector = "offer__result li"
-titleSelector = "article"
+entrySelector = ".offer__result li"
+titleSelector = "h4"
 linkSelector = "figure a"
 filters = ["Onder bod", "Verkocht", "V.O.V.", "Wil jij liever persoonlijk advies?"]
+waitUntil = "networkidle"
 
 #[mijnhuisverkoopikzelf]
 #title = "Mijn huis verkoop ik zelf"
