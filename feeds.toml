@@ -180,6 +180,7 @@ url = "https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht?locationof
 entrySelector = ".objectcontainer"
 titleSelector = ".obj_address"
 linkSelector = ".obj_address a"
+waitUntil = "load"
 
 [vanvulpenroozenburg]
 title = "Van Vulpen & Roozenburg makelaars"
