@@ -276,3 +276,11 @@ entrySelector = ".houseblock"
 titleSelector = ".adres"
 linkSelector = "a.check"
 matchAllOf = ["€ 3"]
+
+[jipmakelaars]
+title = "JIP Makelaars"
+url = "https://jipmakelaars.nl/woningen/?s=Utrecht&area=0&vanField=&totField=400000&van=&tot=400000&soort_object=Woningsoort&slaapkamers=2&woonoppervlakte=Woonoppervlakte&aangebodensinds=Aangeboden+sinds&object_type=1"
+entrySelector = ".property"
+titleSelector = ".property-block .row:nth-child(2)"
+linkSelector = "a"
+waitUntil = "networkidle"
