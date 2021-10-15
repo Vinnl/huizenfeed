@@ -187,6 +187,7 @@ url = "https://www.vanvulpenroozenburg.nl/aanbod/?filter-group-id=3&filter[11]=&
 entrySelector = ".object-block"
 titleSelector = ".object-content-header"
 linkSelector = "a"
+waitUntil = "load"
 
 [mommersteeg]
 title = "Mommersteeg Makelaardij"
