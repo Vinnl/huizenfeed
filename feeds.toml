@@ -147,6 +147,7 @@ entrySelector = ".thumbs-item"
 titleSelector = "h3"
 linkSelector = ".slick-slide a"
 filters = ["Onder bod", "Verkocht", "VERKOCHT", "Amsterdam", "Nieuwegein", "Zeist", "De Bilt", "Bilthoven", "Bosch en Duin"]
+waitUntil = "load"
 
 [lauteslager]
 title = "Lauteslager Makelaar"
