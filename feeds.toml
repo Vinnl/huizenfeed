@@ -2,6 +2,7 @@
 timeout = 300
 filters = ["Onder bod", "Verkocht", "VERKOCHT", "dreef"]
 onFail = "stale"
+waitUntil = "load"
 
 [peekenpompe]
 title = "Peek & Pompe makelaars"
@@ -9,6 +10,7 @@ url = "https://www.peekenpompe.nl/nl/woningaanbod?ignoreType[]=isBought#{%22view
 entrySelector = ".card-object"
 titleSelector = ".card-object-address"
 linkSelector = ".card-object-address"
+waitUntil = "domcontentloaded"
 
 [moib]
 title = "MOIB makelaars"
@@ -16,6 +18,7 @@ url = "https://moib.nl/aanbod/"
 entrySelector = ".horizon"
 titleSelector = "h3"
 linkSelector = "a.overlay-link"
+waitUntil = "domcontentloaded"
 
 [rvl]
 title = "Rosenberg Van Leusden makelaars"
@@ -23,7 +26,6 @@ url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?e=401000"
 entrySelector = ".h-card"
 titleSelector = ".p-name"
 linkSelector = "a.home"
-waitUntil = "load"
 
 [molenbeek]
 title = "Molenbeek makelaars"
@@ -31,6 +33,7 @@ url = "https://molenbeek.nl/wonen/aanbod?buyOrRent=buy&maxPrice=400000&amountOfR
 entrySelector = ".grid-objects__item"
 titleSelector = ".card--default__body"
 linkSelector = "a.card--object"
+waitUntil = "domcontentloaded"
 
 [brecheisen]
 title = "Brecheisen makelaars"
@@ -47,7 +50,6 @@ entrySelector = "ul.listHouses li"
 titleSelector = ".houseOverviewPopup"
 linkSelector = "a"
 filters = ["Kantoor", "Schrijf je nu in", "Verkocht"]
-waitUntil = "load"
 
 [ingridvaneck]
 title = "Ingrid van Eck Makelardij"
@@ -56,6 +58,7 @@ entrySelector = ".col-md-3"
 titleSelector = ".card__body"
 linkSelector = "a"
 filters = ["Verkocht"]
+waitUntil = "domcontentloaded"
 
 [kraaijkamp]
 title = "Kraaijkamp Makelaars"
@@ -67,6 +70,7 @@ entrySelector = "article.object"
 titleSelector = ".details"
 linkSelector = "a.link_invis"
 filters = ["sold"]
+waitUntil = "domcontentloaded"
 
 [gustocasa]
 title = "Gusto Casa"
@@ -75,6 +79,7 @@ entrySelector = ".woning"
 titleSelector = ".item-content-inner"
 linkSelector = "a.thumbnail"
 filters = ["EINDHOVEN"]
+waitUntil = "domcontentloaded"
 
 [walton]
 title = "Walton Makelaars"
@@ -92,6 +97,7 @@ entrySelector = ".object"
 titleSelector = "h4"
 linkSelector = "a.adreslink"
 filters = ["Onder bod", "Verkocht", "Zeist", "Meern", "Hilversum"]
+waitUntil = "domcontentloaded"
 
 [blauweeik]
 title = "Blauwe Eik makelaardij"
@@ -117,6 +123,7 @@ url = "https://wdmakelaars.nl/woningen/"
 entrySelector = ".card"
 titleSelector = ".card-body"
 linkSelector = "a"
+waitUntil = "domcontentloaded"
 
 [dekeizer]
 title = "De Keizer makelaarsgroep"
@@ -124,6 +131,7 @@ url = "https://www.dekeizer.nl/woningaanbod/koop/utrecht/type-appartement,woonhu
 entrySelector = ".objectcontainer"
 titleSelector = ".object_data"
 linkSelector = "a.sys-property-link"
+waitUntil = "domcontentloaded"
 
 [lef]
 title = "LEF Makelaars"
@@ -131,7 +139,6 @@ url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_koop
 entrySelector = ".aanbod"
 titleSelector = ".row"
 linkSelector = "a.aanbod-item"
-waitUntil = "load"
 
 [makelaarsland]
 title = "Makelaarsland"
@@ -139,6 +146,7 @@ url = "https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&min=&max=400000&type=
 entrySelector = ".m-search-result"
 titleSelector = ".m-search-result__content-wrap"
 linkSelector = ".m-search-result__content-wrap"
+waitUntil = "domcontentloaded"
 
 [coversjonker]
 title = "Covers & Jonker Makelaars"
@@ -147,7 +155,6 @@ entrySelector = ".thumbs-item"
 titleSelector = "h3"
 linkSelector = ".slick-slide a"
 filters = ["Onder bod", "Verkocht", "VERKOCHT", "Amsterdam", "Nieuwegein", "Zeist", "De Bilt", "Bilthoven", "Bosch en Duin"]
-waitUntil = "load"
 
 [lauteslager]
 title = "Lauteslager Makelaar"
@@ -173,6 +180,7 @@ entrySelector = ".object-block"
 titleSelector = ".objectblock__body-address"
 linkSelector = "a.objectblock"
 matchAllOf = ["BESCHIKBAAR"]
+waitUntil = "domcontentloaded"
 
 [janwolters]
 title = "Jan Wolters Makelaardij"
@@ -180,7 +188,6 @@ url = "https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht?locationof
 entrySelector = ".objectcontainer"
 titleSelector = ".obj_address"
 linkSelector = ".obj_address a"
-waitUntil = "load"
 
 [vanvulpenroozenburg]
 title = "Van Vulpen & Roozenburg makelaars"
@@ -188,7 +195,6 @@ url = "https://www.vanvulpenroozenburg.nl/aanbod/?filter-group-id=3&filter[11]=&
 entrySelector = ".object-block"
 titleSelector = ".object-content-header"
 linkSelector = "a"
-waitUntil = "load"
 
 [mommersteeg]
 title = "Mommersteeg Makelaardij"
@@ -197,6 +203,7 @@ entrySelector = ".woning"
 titleSelector = ".objectTitle"
 linkSelector = "a.objectTitle"
 matchAllOf = ["Utrecht", "Beschikbaar", "€ 3"]
+waitUntil = "domcontentloaded"
 
 [welzenes]
 title = "Van Welzenes Makelaars"
@@ -204,6 +211,7 @@ url = "https://www.vanwelzenes.nl/aanbod/"
 entrySelector = "[data-filter-price='250001-500000'][data-filter-place='utrecht']"
 titleSelector = "h3"
 linkSelector = "a"
+waitUntil = "domcontentloaded"
 
 [beumer]
 title = "Beumer Utrecht"
@@ -212,7 +220,6 @@ entrySelector = ".card--wonen"
 titleSelector = "h3"
 linkSelector = "a.card__overlay"
 matchAllOf = ["Utrecht", "Beschikbaar", "€ 3"]
-waitUntil = "load"
 
 [deruiter]
 title = "De Ruiter Makelaarshuis"
@@ -221,7 +228,6 @@ entrySelector = ".woning"
 titleSelector = "li:first-child dl dd"
 linkSelector = "a.thumbnail"
 matchAllOf = ["Utrecht", "nieuwsticker", "€ 3"]
-waitUntil = "load"
 
 [wij]
 title = "Wij Makelaardij"
@@ -239,6 +245,7 @@ entrySelector = ".rw-wonen-teaser"
 titleSelector = ".rw-wonen-teaser__anchor"
 linkSelector = ".rw-wonen-teaser__anchor"
 matchAllOf = ["Utrecht", "nieuw"]
+waitUntil = "domcontentloaded"
 
 [starthousing]
 title = "StartHousing"
@@ -264,6 +271,7 @@ url = "https://www.waltmann.nl/wonen/zoeken/heel-nederland/utrecht/0-400000/koop
 entrySelector = ".card-house"
 titleSelector = "h4"
 linkSelector = "*"
+waitUntil = "domcontentloaded"
 
 [aspektmakelaars]
 title = "Aspekt Makelaars"
@@ -271,7 +279,6 @@ url = "https://www.aspektmakelaars.nl/wonen/zoeken/heel-nederland/utrecht/0-4000
 entrySelector = ".card-house"
 titleSelector = "h2"
 linkSelector = "*"
-waitUntil = "load"
 
 [domstadmakelaars]
 title = "Domstad Makelaars"
@@ -280,7 +287,6 @@ entrySelector = ".woning"
 titleSelector = "h2"
 linkSelector = "a.thumbnail"
 matchAllOf = ["Utrecht", "€ 3"]
-waitUntil = "load"
 
 [veldhuizenkoot]
 title = "Veldhuizenkoot Makelaars"
@@ -289,6 +295,7 @@ entrySelector = ".houseblock"
 titleSelector = ".adres"
 linkSelector = "a.check"
 matchAllOf = ["€ 3"]
+waitUntil = "domcontentloaded"
 
 [jipmakelaars]
 title = "JIP Makelaars"
