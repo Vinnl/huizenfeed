@@ -129,7 +129,7 @@ url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_koop
 entrySelector = ".aanbod"
 titleSelector = ".row"
 linkSelector = "a.aanbod-item"
-waitUntil = "networkidle"
+waitUntil = "load"
 
 [makelaarsland]
 title = "Makelaarsland"
