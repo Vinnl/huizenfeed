@@ -221,6 +221,7 @@ entrySelector = ".woning"
 titleSelector = "li:first-child dl dd"
 linkSelector = "a.thumbnail"
 matchAllOf = ["Utrecht", "nieuwsticker", "€ 3"]
+waitUntil = "load"
 
 [wij]
 title = "Wij Makelaardij"
