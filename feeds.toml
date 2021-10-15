@@ -280,6 +280,7 @@ entrySelector = ".woning"
 titleSelector = "h2"
 linkSelector = "a.thumbnail"
 matchAllOf = ["Utrecht", "€ 3"]
+waitUntil = "load"
 
 [veldhuizenkoot]
 title = "Veldhuizenkoot Makelaars"
