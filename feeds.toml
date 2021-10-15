@@ -23,6 +23,7 @@ url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?e=401000"
 entrySelector = ".h-card"
 titleSelector = ".p-name"
 linkSelector = "a.home"
+waitUntil = "load"
 
 [molenbeek]
 title = "Molenbeek makelaars"
