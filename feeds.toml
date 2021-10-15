@@ -212,6 +212,7 @@ entrySelector = ".card--wonen"
 titleSelector = "h3"
 linkSelector = "a.card__overlay"
 matchAllOf = ["Utrecht", "Beschikbaar", "€ 3"]
+waitUntil = "load"
 
 [deruiter]
 title = "De Ruiter Makelaarshuis"
