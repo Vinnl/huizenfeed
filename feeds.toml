@@ -57,8 +57,8 @@ url = "https://www.ingridvaneck.nl/te-koop/"
 entrySelector = ".col-md-3"
 titleSelector = ".card__body"
 linkSelector = "a"
-filters = ["Verkocht"]
-waitUntil = "domcontentloaded"
+matchAllOf = ["Utrecht", "€3"]
+waitUntil = "load"
 
 [kraaijkamp]
 title = "Kraaijkamp Makelaars"
