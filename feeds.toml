@@ -1,6 +1,6 @@
 [default]
 timeout = 300
-filters = ["Onder bod", "Verkocht", "VERKOCHT", "dreef"]
+filters = ["Onder bod", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
 onFail = "stale"
 waitUntil = "load"
 
@@ -78,7 +78,6 @@ url = "https://www.gustocasa.nl/woningen/?status=beschikbaar&type=&prijsvan=&pri
 entrySelector = ".woning"
 titleSelector = ".item-content-inner"
 linkSelector = "a.thumbnail"
-filters = ["EINDHOVEN"]
 waitUntil = "domcontentloaded"
 
 [walton]
