@@ -255,6 +255,7 @@ entrySelector = ".card-product"
 titleSelector = "h5"
 linkSelector = "a.card-product__link"
 waitUntil = "networkidle"
+matchOneOf = ["€ 5", "€ 6"]
 
 [waltmann]
 title = "Waltmann Makelaars"
