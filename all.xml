@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-20T05:45:15.504Z</updated>
+    <updated>2025-02-20T17:43:22.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Makelaardij Huf)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-02-20T05:38:16.119Z</updated>
+        <updated>2025-02-20T17:36:36.296Z</updated>
         <content type="html"><![CDATA[<div class="row"><div class="col-12"><div class="object-image position-relative mb-3"><div class="object-image-img">
 <img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/184427849.jpg?portalid=4286&amp;check=api_sha256%3abe878daebf7ce76df81bab527ae7827b16da426421339d5b53372ee7038358b6&amp;=20240528142237&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" alt="Paul Abrahamstraat 7 Utrecht"><div class="object-status position-absolute py-2 px-3">
 Aangekocht</div></div><div class="object-favorite object-favorite-add position-absolute" data-favorite-id="1428">
@@ -80,42 +80,6 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 
 						
 						<div class="aanbod-prijs notranslate">€ 409.000 / K.K.</div>
-
-					</div>
-				</div>
-			</a>
-
-		</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prinses Irenelaan 196
-							Utrecht
-						
-
-						
-						€ 695.000 / K.K. (LEF Makelaars)]]></title>
-        <id>https://www.lefmakelaars.nl/aanbod/prinses-irenelaan-196-utrecht/</id>
-        <link href="https://www.lefmakelaars.nl/aanbod/prinses-irenelaan-196-utrecht/"/>
-        <updated>2025-02-17T10:24:17.866Z</updated>
-        <content type="html"><![CDATA[<div class="block-spacer">
-
-			
-			<a href="https://www.lefmakelaars.nl/aanbod/prinses-irenelaan-196-utrecht/" class="block-inner aanbod-item" style="background-image: url('https://www.lefmakelaars.nl/wp-content/uploads/2025/02/212274127-768x512.jpg');">
-				<div class="gradient bottom"></div>
-				<div class="hover"></div>
-
-				<div class="statuslabel ">Te koop</div>
-                
-				<div class="row">
-					<div class="col-md-12 align-self-end notranslate">
-						
-						<div class="aanbod-header">
-							<h2 class="text-truncate notranslate">Prinses Irenelaan 196</h2>
-							<p class="notranslate">Utrecht</p>
-						</div>
-
-						
-						<div class="aanbod-prijs notranslate">€ 695.000 / K.K.</div>
 
 					</div>
 				</div>
@@ -213,7 +177,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -275,7 +239,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/0b7bf997-baa5-47c5-a162-5bea7d077b8d" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/0b7bf997-baa5-47c5-a162-5bea7d077b8d&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/0b7bf997-baa5-47c5-a162-5bea7d077b8d" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -323,13 +287,13 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-02-20T05:43:29.374Z</updated>
+        <updated>2025-02-20T17:41:47.552Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>265 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>268 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -479,119 +443,6 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 			</div>
 		</div>
 	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Louis Bouwmeesterlaan 87
-                            3584GE
-                                                    Utrecht (Jan Wolters Makelaardij)]]></title>
-        <id>https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12</id>
-        <link href="https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12"/>
-        <updated>2025-02-17T10:24:42.749Z</updated>
-        <content type="html"><![CDATA[<div class="object   ">
-            <div class="object_status_container">
-                                        <span class="object_energyclass object_energyclass-c">
-                            C
-                        </span>
-            </div>
-            <a class="img-container" href="/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                <div class="datashort">
-                    <span class="street">Louis Bouwmeesterlaan 87</span>
-                        <span class="location">Utrecht</span>
-                                                    <span class="obj_price">
-                                    € 695.000,- k.k.
-                                </span>
-                                <span class="obj_price pricesquaremeter">€ 4.426,75/m<sup>2</sup></span>
-                </div>
-
-                <div class="content">
-                    <img width="350" alt="Te koop: Louis Bouwmeesterlaan 87, 3584GE Utrecht" class="img-responsive object_image_srcset img-fluid" loading="lazy" srcset="https://haywebattachments.blob.core.windows.net/public/2521/3379563/101851585/$m/200916633.jpg 600w,
-                            https://haywebattachments.blob.core.windows.net/public/2521/3379563/101851585/$s/200916633.jpg 300w" sizes="auto" src="https://haywebattachments.blob.core.windows.net/public/2521/3379563/101851585/$s/200916633.jpg">
-                </div>
-            </a>
-
-            <div class="data">
-                <div class="stats">
-                        <a class="item photos" href="/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                            <i class="fal fa-image" aria-hidden="true"></i>26
-                        </a>
-                                            <a class="item videos" href="/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                            <i class="fal fa-film" aria-hidden="true"></i>2
-                        </a>
-                                            <a class="item floorplans" href="/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                            <i class="fal fa-map" aria-hidden="true"></i>4
-                        </a>
-                                            <a class="item extras" href="/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                            <i class="fal fa-file-pdf" aria-hidden="true"></i>1
-                        </a>
-                                            <a class="item  make-favorite object-favorite " id="object-favorite-3379563" data-property-id="3379563" data-property-address="Te koop: Louis Bouwmeesterlaan 87, 3584GE Utrecht" href="#" data-toggle="tooltip" data-trigger="hover" data-placement="top" title="" data-original-title="Als favoriet opslaan">
-                            <span class="favorite fav-icon">
-                                <i class="fal fa-heart" aria-hidden="true"></i>
-                            </span>
-                        </a>
-                                            <a class="item  object-follow " id="object-follow-3379563" data-property-id="3379563" data-property-address="Te koop: Louis Bouwmeesterlaan 87, 3584GE Utrecht" href="#" data-toggle="tooltip" data-trigger="hover" data-placement="top" title="" data-original-title="Object volgen">
-                            <span class="follow fol-icon">
-                                <i class="fal fa-bell" aria-hidden="true"></i>
-                            </span>
-                        </a>
-                                    </div>
-                <h3 class="obj_address">
-                    <a href="/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                        <span class="street">Louis Bouwmeesterlaan 87</span>
-                            <span class="zipcode">3584GE</span>
-                                                    <span class="locality">Utrecht</span>
-                    </a>
-                </h3>
-                <a class="saletitle" href="/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                </a>
-                <a class="object_data_labels" href="/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-
-
-                        <span class="object_label object_type">
-
-                            <i class="fa fa-house-building" aria-hidden="true"></i>
-                            <span class="text">
-                                Eengezinswoning
-                            </span>
-                        </span>
-
-
-
-                        <span class="object_label object_rooms">
-                            <span class="number">6</span>
-                            <i class="fa fa-clone" aria-hidden="true"></i>
-                            <span class="text">kamers</span>
-                        </span>
-
-                        <span class="object_label object_bed_rooms">
-                            <span class="number">5</span>
-                            <i class="fa fa-bed" aria-hidden="true"></i>
-                            <span class="text">slaapkamers</span>
-                        </span>
-                    
-                        <span class="object_label object_sqfeet">
-                            <span class="number">157 m²</span>
-                            <span class="text">Woonopp.</span>
-                        </span>
-
-
-
-
-
-
-                        <span class="object_label object_sqfeet">
-                            <span class="number">225 m²</span>
-                            <span class="text">Perceelopp.</span>
-                        </span>
-                                                            
-                                    </a>
-                    <a class="obj_price" href="/woningaanbod/koop/utrecht/louis-bouwmeesterlaan/87?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                                <span class="obj_price">
-                                    € 695.000,- k.k.
-                                </span>
-                                <span class="obj_price pricesquaremeter">€ 4.426,75/m<sup>2</sup></span>
-                    </a>
-            </div>
-    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Van Vollenhovenlaan 185 (Beumer Utrecht)]]></title>
