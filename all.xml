@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-19T17:39:20.712Z</updated>
+    <updated>2025-02-20T05:45:15.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Makelaardij Huf)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-02-19T17:37:25.789Z</updated>
+        <updated>2025-02-20T05:38:16.119Z</updated>
         <content type="html"><![CDATA[<div class="row"><div class="col-12"><div class="object-image position-relative mb-3"><div class="object-image-img">
 <img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/184427849.jpg?portalid=4286&amp;check=api_sha256%3abe878daebf7ce76df81bab527ae7827b16da426421339d5b53372ee7038358b6&amp;=20240528142237&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" alt="Paul Abrahamstraat 7 Utrecht"><div class="object-status position-absolute py-2 px-3">
 Aangekocht</div></div><div class="object-favorite object-favorite-add position-absolute" data-favorite-id="1428">
@@ -160,6 +160,42 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 		</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Winklerlaan 14
+							Utrecht
+						
+
+						
+						€ 599.000 / K.K. (LEF Makelaars)]]></title>
+        <id>https://www.lefmakelaars.nl/aanbod/winklerlaan-14-utrecht/</id>
+        <link href="https://www.lefmakelaars.nl/aanbod/winklerlaan-14-utrecht/"/>
+        <updated>2025-02-20T05:43:24.100Z</updated>
+        <content type="html"><![CDATA[<div class="block-spacer">
+
+			
+			<a href="https://www.lefmakelaars.nl/aanbod/winklerlaan-14-utrecht/" class="block-inner aanbod-item" style="background-image: url('https://www.lefmakelaars.nl/wp-content/uploads/2025/02/215583919-768x512.jpg');">
+				<div class="gradient bottom"></div>
+				<div class="hover"></div>
+
+				<div class="statuslabel ">Te koop</div>
+                
+				<div class="row">
+					<div class="col-md-12 align-self-end notranslate">
+						
+						<div class="aanbod-header">
+							<h2 class="text-truncate notranslate">Winklerlaan 14</h2>
+							<p class="notranslate">Utrecht</p>
+						</div>
+
+						
+						<div class="aanbod-prijs notranslate">€ 599.000 / K.K.</div>
+
+					</div>
+				</div>
+			</a>
+
+		</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Predikherenstraat 27
             Utrecht
             4 kamers
@@ -287,13 +323,13 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-02-19T17:37:46.412Z</updated>
+        <updated>2025-02-20T05:43:29.374Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>262 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>265 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
