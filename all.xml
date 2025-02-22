@@ -2,13 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-22T05:43:31.490Z</updated>
+    <updated>2025-02-22T17:38:04.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Verlengde Hoogravenseweg  110 
+
+                                Utrecht                            
+       
+                            €629.000,00 kk
+
+                            Sfeervolle jaren '30 eindwoning (Ingrid van Eck Makelardij)]]></title>
+        <id>https://www.ingridvaneck.nl/aanbod/verlengde-hoogravenseweg-110-utrecht/</id>
+        <link href="https://www.ingridvaneck.nl/aanbod/verlengde-hoogravenseweg-110-utrecht/"/>
+        <updated>2025-02-22T17:36:05.381Z</updated>
+        <content type="html"><![CDATA[<a class="card card--house" href="https://www.ingridvaneck.nl/aanbod/verlengde-hoogravenseweg-110-utrecht/">
+                        <div class="card__hover-overlay"></div>
+                        <div class="card__image" style="background-image: url(https://www.ingridvaneck.nl/wp-content/uploads/2025/02/Verlengde_Hoogravenseweg-110-Utrecht-01-scaled.jpg);">
+                                                            <div class="card__image__label">NIEUW!</div>
+                                                    </div>
+                        <div class="card__body">
+                            <address class="card--house__address">
+                                Verlengde Hoogravenseweg  110 <br>
+
+                                Utrecht                            </address>
+       
+                            <div class="card--house__price">€629.000,00 kk</div>
+
+                            <div class="card--house__type">Sfeervolle jaren '30 eindwoning</div>
+                        </div>
+                    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Makelaardij Huf)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-02-22T05:36:45.120Z</updated>
+        <updated>2025-02-22T17:36:14.326Z</updated>
         <content type="html"><![CDATA[<div class="row"><div class="col-12"><div class="object-image position-relative mb-3"><div class="object-image-img">
 <img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/184427849.jpg?portalid=4286&amp;check=api_sha256%3abe878daebf7ce76df81bab527ae7827b16da426421339d5b53372ee7038358b6&amp;=20240528142237&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" alt="Paul Abrahamstraat 7 Utrecht"><div class="object-status position-absolute py-2 px-3">
 Aangekocht</div></div><div class="object-favorite object-favorite-add position-absolute" data-favorite-id="1428">
@@ -141,7 +169,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -203,7 +231,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/0b7bf997-baa5-47c5-a162-5bea7d077b8d" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/0b7bf997-baa5-47c5-a162-5bea7d077b8d" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/0b7bf997-baa5-47c5-a162-5bea7d077b8d&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -251,7 +279,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-02-22T05:41:58.579Z</updated>
+        <updated>2025-02-22T17:36:34.027Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
