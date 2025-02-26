@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-26T05:40:32.988Z</updated>
+    <updated>2025-02-26T17:39:34.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Verlengde Hoogravenseweg  110 
@@ -36,7 +36,7 @@
         <title type="html"><![CDATA[undefined (Makelaardij Huf)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-02-26T05:38:40.445Z</updated>
+        <updated>2025-02-26T17:37:27.719Z</updated>
         <content type="html"><![CDATA[<div class="row"><div class="col-12"><div class="object-image position-relative mb-3"><div class="object-image-img">
 <img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/184427849.jpg?portalid=4286&amp;check=api_sha256%3abe878daebf7ce76df81bab527ae7827b16da426421339d5b53372ee7038358b6&amp;=20240528142237&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" alt="Paul Abrahamstraat 7 Utrecht"><div class="object-status position-absolute py-2 px-3">
 Aangekocht</div></div><div class="object-favorite object-favorite-add position-absolute" data-favorite-id="1428">
@@ -160,6 +160,68 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 		</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lauwerecht 108 BS
+            Utrecht
+            4 kamers
+          
+          
+            € 550.000 (Makelaarsland)]]></title>
+        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-lauwerecht-108-bs/</id>
+        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-lauwerecht-108-bs/"/>
+        <updated>2025-02-26T17:37:49.137Z</updated>
+        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
+  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
+  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-lauwerecht-108-bs/">
+    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/c0fe2c55-8491-4d77-a28b-1f9c53abf37d" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/6223500b-2020-45c8-8324-623a5aed7fd4" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/9f9bc0e3-e738-4a3b-b3e8-4e9fca182cad" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/95c4cf8c-583f-4292-8c35-598fbfb218fe" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/e657d8ac-25dd-4c63-915a-fb7a72c96680" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
+
+      
+    </div>
+  </a>
+  <button class="m-search-result__button" data-next-slide="next"></button>
+</figure>
+
+        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-lauwerecht-108-bs/" class="m-search-result__content-wrap">
+          <div class="m-search-result__content">
+            <h3 class="m-search-result__adress">Lauwerecht 108 BS</h3>
+            <h3 class="m-search-result__city">Utrecht</h3>
+            <h4 class="m-search-result__amount-of-rooms">4 kamers</h4>
+          </div>
+          <div class="m-search-result__details">
+            <h3 class="m-search-result__price"><span>€</span> 550.000</h3>
+
+            <div class="m-search-result__status-wrap">
+              
+                          </div>
+
+          </div>
+        </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Predikherenstraat 27
             Utrecht
             4 kamers
@@ -177,7 +239,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -222,78 +284,16 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steijnstraat 21
-            Utrecht
-            5 kamers
-          
-          
-            € 500.000 (Makelaarsland)]]></title>
-        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-steijnstraat-21/</id>
-        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-steijnstraat-21/"/>
-        <updated>2025-02-17T10:24:22.204Z</updated>
-        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
-  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
-  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-steijnstraat-21/">
-    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/0b7bf997-baa5-47c5-a162-5bea7d077b8d" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/0b7bf997-baa5-47c5-a162-5bea7d077b8d&quot;); opacity: 1;" data-is-in-view="true"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/f17d8c68-017b-4b44-93ef-5cb75803e08a" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/57db30ea-94d4-45a7-be13-37e1c60f0b06" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/565365b0-0e0e-4db7-9fd3-37ffe780fe36" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/0eafc44e-4ed8-4127-9a28-53272936a32c" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
-
-      
-    </div>
-  </a>
-  <button class="m-search-result__button" data-next-slide="next"></button>
-</figure>
-
-        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-steijnstraat-21/" class="m-search-result__content-wrap">
-          <div class="m-search-result__content">
-            <h3 class="m-search-result__adress">Steijnstraat 21</h3>
-            <h3 class="m-search-result__city">Utrecht</h3>
-            <h4 class="m-search-result__amount-of-rooms">5 kamers</h4>
-          </div>
-          <div class="m-search-result__details">
-            <h3 class="m-search-result__price"><span>€</span> 500.000</h3>
-
-            <div class="m-search-result__status-wrap">
-              
-                          </div>
-
-          </div>
-        </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-02-26T05:38:58.317Z</updated>
+        <updated>2025-02-26T17:37:49.118Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>269 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>270 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -641,6 +641,61 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
                     </p>
                             </div>
         </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eisenhowerlaan 286 (365makelaardij)]]></title>
+        <id>https://365makelaardij.nl/wonen/object/eisenhowerlaan-286-utrecht/</id>
+        <link href="https://365makelaardij.nl/wonen/object/eisenhowerlaan-286-utrecht/"/>
+        <updated>2025-02-26T17:39:04.736Z</updated>
+        <content type="html"><![CDATA[<a href="https://365makelaardij.nl/wonen/object/eisenhowerlaan-286-utrecht/" class="card-property" title="Eisenhowerlaan 286 ">
+    <div class="card-property__image">
+
+                
+<picture>
+                                                    
+                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp" type="image/webp" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp">
+                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg" type="image/jpeg" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg">
+            
+                                                            
+                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp" type="image/webp" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp">
+                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg" type="image/jpeg" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg">
+            
+                                                            
+                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp" type="image/webp" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp">
+                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg" type="image/jpeg" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg">
+            
+                                                <img fetchpriority="high" data-src="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671-150x150.webp" alt="UT101716-18965-Eisenhowerlaan-286,-Utrecht-218532671" class=" ls-is-cached lazyloaded" loading="lazy" src="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671-150x150.webp">
+                                        </picture>
+    </div>
+
+            <div class="card-property__label">
+            <span>Beschikbaar</span>
+        </div>
+    
+    <div class="card-property__content">
+        <div class="row align-items-end">
+            <div class="col-md-6">
+                <h4>Eisenhowerlaan 286 </h4>
+                                    <ul class="card-property__list">
+                                                    <li class="card-property__list-item">
+                                            € 350.000 k.k.
+                                </li>
+                                                                            <li class="card-property__list-item">
+                                Utrecht
+                            </li>
+                                            </ul>
+                            </div>
+
+                            <div class="col-md-6 mt-15 mt-md-0 d-flex justify-content-md-end">
+                    <ul class="card-property__list justify-content-md-end">
+                                                                            <li class="card-property__list-item">
+                                <i class="icon-door"></i>4
+                            </li>
+                                            </ul>
+                </div>
+                    </div>
     </div>
 </a>]]></content>
     </entry>
