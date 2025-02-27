@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-02-27T05:46:34.896Z</updated>
+    <updated>2025-02-27T17:40:04.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Azielaan 268]]></title>
+        <id>https://www.beumer.nl/wonen/object/azielaan-268-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/azielaan-268-utrecht/"/>
+        <updated>2025-02-27T17:39:02.910Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/azielaan-268-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT102653/UT102653-199978-Azielaan-268-Utrecht-218771095-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT102653/UT102653-199978-Azielaan-268-Utrecht-218771095-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT102653/UT102653-199978-Azielaan-268-Utrecht-218771095-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT102653/UT102653-199978-Azielaan-268-Utrecht-218771095-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/UT102653/UT102653-199978-Azielaan-268-Utrecht-218771095-150x150.jpg" alt="                        Azielaan 268
+                    " src="/app/uploads/sure/media/UT102653/UT102653-199978-Azielaan-268-Utrecht-218771095-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Azielaan 268
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 385.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>107 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        4 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        B
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Van Vollenhovenlaan 185]]></title>
         <id>https://www.beumer.nl/wonen/object/van-vollenhovenlaan-185-utrecht/</id>
@@ -45,56 +95,6 @@
                                                     <p>
                         <i class="icon icon-doorstep"></i>
                         4 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benny Goodmanstraat 15]]></title>
-        <id>https://www.beumer.nl/wonen/object/benny-goodmanstraat-15-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/benny-goodmanstraat-15-utrecht/"/>
-        <updated>2025-02-17T10:25:02.019Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/benny-goodmanstraat-15-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN23511/MN23511-197687-Benny-Goodmanstraat-15-Utrecht-212650869-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN23511/MN23511-197687-Benny-Goodmanstraat-15-Utrecht-212650869-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN23511/MN23511-197687-Benny-Goodmanstraat-15-Utrecht-212650869-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN23511/MN23511-197687-Benny-Goodmanstraat-15-Utrecht-212650869-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/MN23511/MN23511-197687-Benny-Goodmanstraat-15-Utrecht-212650869-150x150.jpg" alt="                        Benny Goodmanstraat 15
-                    " src="/app/uploads/sure/media/MN23511/MN23511-197687-Benny-Goodmanstraat-15-Utrecht-212650869-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Benny Goodmanstraat 15
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 689.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>137 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        6 kamer(s)
                     </p>
                                                     <p>
                         <i class="icon icon-label"></i>
@@ -149,56 +149,6 @@
                                                     <p>
                         <i class="icon icon-label"></i>
                         E
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azielaan 418]]></title>
-        <id>https://www.beumer.nl/wonen/object/azielaan-418-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/azielaan-418-utrecht/"/>
-        <updated>2025-02-17T10:25:02.023Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/azielaan-418-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT102651/UT102651-187988-Azielaan-418-Utrecht-207488693-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT102651/UT102651-187988-Azielaan-418-Utrecht-207488693-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT102651/UT102651-187988-Azielaan-418-Utrecht-207488693-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT102651/UT102651-187988-Azielaan-418-Utrecht-207488693-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/UT102651/UT102651-187988-Azielaan-418-Utrecht-207488693-150x150.jpg" alt="                        Azielaan 418
-                    " src="/app/uploads/sure/media/UT102651/UT102651-187988-Azielaan-418-Utrecht-207488693-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Azielaan 418
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 375.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>105 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        4 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        B
                     </p>
                             </div>
         </div>
