@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ludenhoff.nl/wonen/zoeken/heel-nederland/utrecht/4-kamers/beschikbaar/</id>
     <title>Ludenhoff Groep</title>
-    <updated>2025-03-04T05:40:33.111Z</updated>
+    <updated>2025-03-04T17:39:37.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ludenhoff.nl/app/themes/supress/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[Herenweg 44]]></title>
+        <title type="html"><![CDATA[Herenweg 44 Bs]]></title>
         <id>https://www.ludenhoff.nl/wonen/object/herenweg-44bs-utrecht/</id>
         <link href="https://www.ludenhoff.nl/wonen/object/herenweg-44bs-utrecht/"/>
         <updated>2025-02-17T10:25:45.695Z</updated>
@@ -31,7 +31,7 @@
         <div class="card-product__content">
             <div class="card-product__name">Utrecht</div>
 
-            <h5>Herenweg 44 </h5>
+            <h5>Herenweg 44 Bs</h5>
 
             <div class="card-product__price">
                                                             € 550.000

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-04T05:40:33.118Z</updated>
+    <updated>2025-03-04T17:39:37.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Verlengde Hoogravenseweg  110 
@@ -36,7 +36,7 @@
         <title type="html"><![CDATA[undefined (Makelaardij Huf)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-04T05:38:37.974Z</updated>
+        <updated>2025-03-04T17:37:42.732Z</updated>
         <content type="html"><![CDATA[<div class="row"><div class="col-12"><div class="object-image position-relative mb-3"><div class="object-image-img">
 <img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/184427849.jpg?portalid=4286&amp;check=api_sha256%3abe878daebf7ce76df81bab527ae7827b16da426421339d5b53372ee7038358b6&amp;=20240528142237&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" alt="Paul Abrahamstraat 7 Utrecht"><div class="object-status position-absolute py-2 px-3">
 Aangekocht</div></div><div class="object-favorite object-favorite-add position-absolute" data-favorite-id="1428">
@@ -387,13 +387,13 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-04T05:38:57.596Z</updated>
+        <updated>2025-03-04T17:38:02.572Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>290 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>285 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -443,54 +443,6 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 					</div>
 
 					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 649.000,- k.k.</span></a>
-				</div>
-			</div>
-		</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lange Smeestraat 14 (Lauteslager Makelaar)]]></title>
-        <id>https://www.lauteslager.nl/nl/woning/utrecht/lange-smeestraat-14/</id>
-        <link href="https://www.lauteslager.nl/nl/woning/utrecht/lange-smeestraat-14/"/>
-        <updated>2025-02-17T10:24:34.003Z</updated>
-        <content type="html"><![CDATA[<div class="album-wrapper">
-		<div class="row">
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-smeestraat-14/">
-					<div class="main-photo">
-						<div class="offer-status-flag ">
-							Beschikbaar						</div>
-
-						<div class="main-photo-slider">
-							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.081.763/213650343.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
-						</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="col-md-3">			
-				<div class="thumbnails 8.081.763">
-					<div class="photo-album">
-														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.081.763/213650343-1024x683.jpg">
-															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.081.763/213651865-1024x683.jpg">
-												</div>
-				</div>
-			</div>
-			
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-smeestraat-14/"></a>
-				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-smeestraat-14/">
-					<div class="item-data" data-no-translation="">
-						<h1>Lange Smeestraat 14</h1>
-						<h2>3511 PW - UTRECHT</h2>
-					</div>
-
-					<div class="specs">
-						<ul>
-							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>107 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>6 (2 slaapkamers)</li>						</ul>
-					</div>
-
-					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-smeestraat-14/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 635.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
@@ -904,7 +856,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Herenweg 44 (Ludenhoff Groep)]]></title>
+        <title type="html"><![CDATA[Herenweg 44 Bs (Ludenhoff Groep)]]></title>
         <id>https://www.ludenhoff.nl/wonen/object/herenweg-44bs-utrecht/</id>
         <link href="https://www.ludenhoff.nl/wonen/object/herenweg-44bs-utrecht/"/>
         <updated>2025-02-17T10:25:45.695Z</updated>
@@ -929,7 +881,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         <div class="card-product__content">
             <div class="card-product__name">Utrecht</div>
 
-            <h5>Herenweg 44 </h5>
+            <h5>Herenweg 44 Bs</h5>
 
             <div class="card-product__price">
                                                             € 550.000
