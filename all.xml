@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-03T17:45:05.209Z</updated>
+    <updated>2025-03-04T05:40:33.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Verlengde Hoogravenseweg  110 
@@ -36,7 +36,7 @@
         <title type="html"><![CDATA[undefined (Makelaardij Huf)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-03T17:38:17.444Z</updated>
+        <updated>2025-03-04T05:38:37.974Z</updated>
         <content type="html"><![CDATA[<div class="row"><div class="col-12"><div class="object-image position-relative mb-3"><div class="object-image-img">
 <img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/184427849.jpg?portalid=4286&amp;check=api_sha256%3abe878daebf7ce76df81bab527ae7827b16da426421339d5b53372ee7038358b6&amp;=20240528142237&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" alt="Paul Abrahamstraat 7 Utrecht"><div class="object-status position-absolute py-2 px-3">
 Aangekocht</div></div><div class="object-favorite object-favorite-add position-absolute" data-favorite-id="1428">
@@ -50,6 +50,34 @@ Perceelopp.</div></div><div class="col-7"><div class="object-feature-info text-t
 402 m²</div></div></div></div><div class="object-feature object-feature-aantalkamers "><div class="row"><div class="col-5"><div class="object-feature-title text-truncate">
 Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text-truncate">
 7 kamers</div></div></div></div></div></div></div></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Handelstraat 86                                 
+                                    3533 GM Utrecht (Blauwe Eik makelaardij)]]></title>
+        <id>https://www.blauweeik.nl/wonen/object/handelstraat-86-utrecht/</id>
+        <link href="https://www.blauweeik.nl/wonen/object/handelstraat-86-utrecht/"/>
+        <updated>2025-03-04T05:38:47.542Z</updated>
+        <content type="html"><![CDATA[<section>
+    <figure>
+                <a href="/wonen/object/handelstraat-86-utrecht/">
+                                    
+                                    <picture>
+                                                    <source data-srcset="/wp-content/uploads/sure/media/BL103622/BL103622-1820548-Handelstraat-86-Utrecht-218992861.jpg.webp" media="(min-width: 100px)" type="image/webp" srcset="/wp-content/uploads/sure/media/BL103622/BL103622-1820548-Handelstraat-86-Utrecht-218992861.jpg.webp">
+                                                <source data-srcset="/wp-content/uploads/sure/media/BL103622/BL103622-1820548-Handelstraat-86-Utrecht-218992861.jpg" media="(min-width: 100px)" type="image/jpg" srcset="/wp-content/uploads/sure/media/BL103622/BL103622-1820548-Handelstraat-86-Utrecht-218992861.jpg">
+                        <img loading="lazy" class=" ls-is-cached lazyloaded" data-src="/wp-content/uploads/sure/media/BL103622/BL103622-1820548-Handelstraat-86-Utrecht-218992861-150x150.jpg" alt="3533 gm" src="/wp-content/uploads/sure/media/BL103622/BL103622-1820548-Handelstraat-86-Utrecht-218992861-150x150.jpg">
+                    </picture>
+                
+            <span>Nieuw</span>                    </a>
+        </figure>
+    <article class="">
+        <h4><a href="/wonen/object/handelstraat-86-utrecht/">                                Handelstraat 86                 <!--				-->                <br>
+                                    <span>3533 GM Utrecht</span>
+                                            </a>
+                </h4>
+                                            <p>€ 689.000,- Kosten koper</p>
+                            <a href="/wonen/object/handelstraat-86-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
+                    </article>
+</section>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Van Vollenhovenlaan 175
@@ -359,13 +387,13 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-03T17:43:27.615Z</updated>
+        <updated>2025-03-04T05:38:57.596Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>288 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>290 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
