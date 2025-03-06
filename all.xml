@@ -2,103 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-05T17:40:59.221Z</updated>
+    <updated>2025-03-06T05:41:24.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Beerzestraat 4 BS (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e"/>
-        <updated>2025-03-05T17:38:45.751Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67c6fdf4331242eeae15150e/rw-api-sha/MjE5MzI1NzExLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EwNzk0NmU4NDU1Yzc3YzUyZDFiZWMxZmM2NTI0MmRjOWEwMzkyMjNmODA0ODc1MWYzMGIxMWRhODRiNzM2MGUz/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-				<span class="card-object-status new">Nieuw!</span>
-			
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e" class="card-object-address">Beerzestraat 4 BS</a><br>
-				<span class="card-object-price"><b>3522 XB Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 585,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Bovenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">107</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">5</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heemstedelaan 5 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/heemstedelaan-5/67ab6a8d732b3e0d71d60070</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/heemstedelaan-5/67ab6a8d732b3e0d71d60070"/>
-        <updated>2025-03-05T17:38:45.754Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/heemstedelaan-5/67ab6a8d732b3e0d71d60070" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67ab6a8d732b3e0d71d60070/rw-api-sha/MjEyNDU2NTgxLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0ExNWJkNWM2ZTc4MDZhNzE0OTE5ZDdkM2Q4YmQ1MDJhNGY3NGFhZWM3ZTQ1MmU4YzA0MjlhNTRhMGJlNjAyZmRi/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/heemstedelaan-5/67ab6a8d732b3e0d71d60070" class="card-object-address">Heemstedelaan 5</a><br>
-				<span class="card-object-price"><b>3523 KE Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 675,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">154</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">3</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verlengde Hoogravenseweg 254 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/verlengde-hoogravenseweg-254/6749e98a1c847d770264893a</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/verlengde-hoogravenseweg-254/6749e98a1c847d770264893a"/>
-        <updated>2025-03-05T17:38:45.766Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/verlengde-hoogravenseweg-254/6749e98a1c847d770264893a" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/6749e98a1c847d770264893a/rw-api-sha/MjA3Njc4NDczLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EwZmIyY2VjZTU2NGFmMDQ2MzJmNjJlNzRiNWMzN2FmOTkwZjJhMzlmNTUzN2UwODUxM2RiNDI5M2NkNDAyYjgz/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/verlengde-hoogravenseweg-254/6749e98a1c847d770264893a" class="card-object-address">Verlengde Hoogravenseweg 254</a><br>
-				<span class="card-object-price"><b>3523 KH Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 575,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">109</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Verlengde Hoogravenseweg  110 
 
@@ -131,7 +36,7 @@
         <title type="html"><![CDATA[undefined (Makelaardij Huf)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-05T17:39:04.058Z</updated>
+        <updated>2025-03-06T05:39:31.755Z</updated>
         <content type="html"><![CDATA[<div class="row"><div class="col-12"><div class="object-image position-relative mb-3"><div class="object-image-img">
 <img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/184427849.jpg?portalid=4286&amp;check=api_sha256%3abe878daebf7ce76df81bab527ae7827b16da426421339d5b53372ee7038358b6&amp;=20240528142237&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" alt="Paul Abrahamstraat 7 Utrecht"><div class="object-status position-absolute py-2 px-3">
 Aangekocht</div></div><div class="object-favorite object-favorite-add position-absolute" data-favorite-id="1428">
@@ -372,7 +277,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -434,7 +339,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/c0fe2c55-8491-4d77-a28b-1f9c53abf37d" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/c0fe2c55-8491-4d77-a28b-1f9c53abf37d&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/c0fe2c55-8491-4d77-a28b-1f9c53abf37d" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -482,7 +387,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-05T17:39:23.240Z</updated>
+        <updated>2025-03-06T05:39:50.392Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
