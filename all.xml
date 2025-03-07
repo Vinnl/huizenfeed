@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-07T05:45:26.620Z</updated>
+    <updated>2025-03-07T17:43:54.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Verlengde Hoogravenseweg  110 
@@ -36,7 +36,7 @@
         <title type="html"><![CDATA[undefined (Makelaardij Huf)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-07T05:38:42.539Z</updated>
+        <updated>2025-03-07T17:37:08.757Z</updated>
         <content type="html"><![CDATA[<div class="row"><div class="col-12"><div class="object-image position-relative mb-3"><div class="object-image-img">
 <img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/184427849.jpg?portalid=4286&amp;check=api_sha256%3abe878daebf7ce76df81bab527ae7827b16da426421339d5b53372ee7038358b6&amp;=20240528142237&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" alt="Paul Abrahamstraat 7 Utrecht"><div class="object-status position-absolute py-2 px-3">
 Aangekocht</div></div><div class="object-favorite object-favorite-add position-absolute" data-favorite-id="1428">
@@ -387,13 +387,13 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-07T05:43:53.744Z</updated>
+        <updated>2025-03-07T17:42:20.656Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>293 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>290 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -449,54 +449,6 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Obrechtstraat 39 (Lauteslager Makelaar)]]></title>
-        <id>https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/</id>
-        <link href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/"/>
-        <updated>2025-02-17T10:24:34.005Z</updated>
-        <content type="html"><![CDATA[<div class="album-wrapper">
-		<div class="row">
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/">
-					<div class="main-photo">
-						<div class="offer-status-flag ">
-							Beschikbaar						</div>
-
-						<div class="main-photo-slider">
-							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.676.645/212665727.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
-						</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="col-md-3">			
-				<div class="thumbnails 8.676.645">
-					<div class="photo-album">
-														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.676.645/212665727-1024x683.jpg">
-															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.676.645/212665745-1024x683.jpg">
-												</div>
-				</div>
-			</div>
-			
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/"></a>
-				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/">
-					<div class="item-data" data-no-translation="">
-						<h1>Obrechtstraat 39</h1>
-						<h2>3572 EC - UTRECHT</h2>
-					</div>
-
-					<div class="specs">
-						<ul>
-							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>132 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>4 (3 slaapkamers)</li>						</ul>
-					</div>
-
-					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 599.000,- k.k.</span></a>
-				</div>
-			</div>
-		</div>
-	</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[W.A. Vultostraat 139 (Lauteslager Makelaar)]]></title>
         <id>https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/</id>
         <link href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/"/>
@@ -539,6 +491,54 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 					</div>
 
 					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 599.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Obrechtstraat 39 (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/"/>
+        <updated>2025-02-17T10:24:34.005Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.676.645/212665727.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 8.676.645">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.676.645/212665727-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.676.645/212665745-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/">
+					<div class="item-data" data-no-translation="">
+						<h1>Obrechtstraat 39</h1>
+						<h2>3572 EC - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>132 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>4 (3 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 599.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
@@ -591,6 +591,30 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 			</div>
 		</div>
 	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tweede Westerparklaan 179 (Gevaert-makelaar)]]></title>
+        <id>https://www.gevaertmakelaars.nl/koop/NN107064/tweede-westerparklaan-179-3544-vp-utrecht</id>
+        <link href="https://www.gevaertmakelaars.nl/koop/NN107064/tweede-westerparklaan-179-3544-vp-utrecht"/>
+        <updated>2025-03-07T17:42:33.950Z</updated>
+        <content type="html"><![CDATA[<a href="/koop/NN107064/tweede-westerparklaan-179-3544-vp-utrecht" class="objectblock">
+            <span class="objectblock__image">
+
+                <span class="objectblock__image-label _beschikbaar">
+                    BESCHIKBAAR                </span>
+                
+                <img src="https://images.realworks.nl/servlets/images/media.objectmedia/219630413.jpg?portalid=2740&amp;check=api_sha256%3Afb80173e379ea3add2653bba94da29e188172e0b4314110e24a5d292ae50e34a" alt="" class="lazy" data-src="https://images.realworks.nl/servlets/images/media.objectmedia/219630413.jpg?portalid=2740&amp;check=api_sha256%3Afb80173e379ea3add2653bba94da29e188172e0b4314110e24a5d292ae50e34a&amp;resize=4">            </span>
+
+            <span class="objectblock__body">
+                <span class="objectblock__body-address">Tweede Westerparklaan 179</span>
+                <br>
+                <span class="objectblock__body-city">3544 VP Utrecht</span>
+                <br>
+                <span class="objectblock__body-price">€&nbsp;650.000 K.K.</span>
+            </span>
+            <br>
+            <span class="button button--text button--text-primary">Meer informatie</span>
+        </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Azielaan 268 (Beumer Utrecht)]]></title>
@@ -693,61 +717,6 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
                             </li>
                                                                             <li class="card-property__list-item">
                                 <i class="icon-door"></i>5
-                            </li>
-                                            </ul>
-                </div>
-                    </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eisenhowerlaan 286 (365makelaardij)]]></title>
-        <id>https://365makelaardij.nl/wonen/object/eisenhowerlaan-286-utrecht/</id>
-        <link href="https://365makelaardij.nl/wonen/object/eisenhowerlaan-286-utrecht/"/>
-        <updated>2025-02-26T17:39:04.736Z</updated>
-        <content type="html"><![CDATA[<a href="https://365makelaardij.nl/wonen/object/eisenhowerlaan-286-utrecht/" class="card-property" title="Eisenhowerlaan 286 ">
-    <div class="card-property__image">
-
-                
-<picture>
-                                                    
-                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp" type="image/webp" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp">
-                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg" type="image/jpeg" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg">
-            
-                                                            
-                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp" type="image/webp" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp">
-                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg" type="image/jpeg" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg">
-            
-                                                            
-                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp" type="image/webp" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.webp">
-                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg" type="image/jpeg" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671.jpg">
-            
-                                                <img fetchpriority="high" data-src="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671-150x150.webp" alt="UT101716-18965-Eisenhowerlaan-286,-Utrecht-218532671" class=" ls-is-cached lazyloaded" loading="lazy" src="https://365makelaardij.nl/app/uploads/sure/media/UT101716/UT101716-18965-Eisenhowerlaan-286-Utrecht-218532671-150x150.webp">
-                                        </picture>
-    </div>
-
-            <div class="card-property__label">
-            <span>Beschikbaar</span>
-        </div>
-    
-    <div class="card-property__content">
-        <div class="row align-items-end">
-            <div class="col-md-6">
-                <h4>Eisenhowerlaan 286 </h4>
-                                    <ul class="card-property__list">
-                                                    <li class="card-property__list-item">
-                                            € 350.000 k.k.
-                                </li>
-                                                                            <li class="card-property__list-item">
-                                Utrecht
-                            </li>
-                                            </ul>
-                            </div>
-
-                            <div class="col-md-6 mt-15 mt-md-0 d-flex justify-content-md-end">
-                    <ul class="card-property__list justify-content-md-end">
-                                                                            <li class="card-property__list-item">
-                                <i class="icon-door"></i>4
                             </li>
                                             </ul>
                 </div>
