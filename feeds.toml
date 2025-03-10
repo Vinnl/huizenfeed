@@ -56,7 +56,7 @@ url = "https://www.ingridvaneck.nl/te-koop/"
 entrySelector = ".col-md-3"
 titleSelector = ".card__body"
 linkSelector = "a"
-matchAllOf = ["Utrecht", "€6"]
+matchAllOf = ["Utrecht", "€5"]
 waitUntil = "load"
 
 # [kraaijkamp]
@@ -197,7 +197,7 @@ url = "https://www.mommersteegmakelaardij.nl/woning/"
 entrySelector = ".woning"
 titleSelector = ".objectTitle"
 linkSelector = "a.objectTitle"
-matchAllOf = ["Utrecht", "Beschikbaar", "€ 6"]
+matchAllOf = ["Utrecht", "Beschikbaar", "€ 5"]
 waitUntil = "domcontentloaded"
 
 # [welzenes]
@@ -228,7 +228,7 @@ url = "https://www.wijmakelaardij.nl/woningaanbod/"
 entrySelector = ".item-woning"
 titleSelector = ".title .left p"
 linkSelector = "a.overlay"
-matchAllOf = ["Utrecht", "Beschikbaar", "k.k.", "€ 6"]
+matchAllOf = ["Utrecht", "Beschikbaar", "k.k.", "€ 5"]
 waitUntil = "networkidle"
 
 [dekoning]
@@ -286,7 +286,7 @@ matchAllOf = ["Utrecht", "4 kamers"]
 # entrySelector = ".houseblock"
 # titleSelector = ".adres"
 # linkSelector = "a.check"
-# matchAllOf = ["€ 6"]
+# matchAllOf = ["€ 5"]
 # waitUntil = "domcontentloaded"
 
 [jipmakelaars]
