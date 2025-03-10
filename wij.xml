@@ -2,7 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wijmakelaardij.nl/woningaanbod/</id>
     <title>Wij Makelaardij</title>
-    <updated>2025-03-10T05:36:57.199Z</updated>
+    <updated>2025-03-10T17:45:26.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wijmakelaardij.nl/wp-content/uploads/2019/03/cropped-logo-1-1-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Van Swindenstraat 73BS]]></title>
+        <id>https://www.wijmakelaardij.nl/woning/utrecht-van-swindenstraat-73bs/</id>
+        <link href="https://www.wijmakelaardij.nl/woning/utrecht-van-swindenstraat-73bs/"/>
+        <updated>2025-03-10T17:44:39.601Z</updated>
+        <content type="html"><![CDATA[<div class="woning_img">
+        <img class="list-image" src="https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/8.490.887/219866681-768x512.jpg" alt="">
+    </div>
+    <div class="content" style="background-image:url(https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/8.490.887/219866681-768x512.jpg);">
+        <div class="status ">
+                            Beschikbaar                    </div>
+        <div class="title clearfix">
+            <div class="left grid">
+                <h2>Utrecht</h2>
+                <p>Van Swindenstraat 73BS</p>
+            </div>
+            <div class="left list">
+                <h2>Van Swindenstraat 73BS, Utrecht</h2>
+                <p>Bovenwoning € 667.500,- k.k.</p>
+            </div>
+            <div class="right grid">
+                <span>Bovenwoning</span>
+                <p>€ 667.500,- k.k.</p>
+            </div>
+            <div class="bottom clearfix">
+                <p>
+                    <i class="fa fa-home"></i>
+                    109 m<sup>2</sup>                </p>
+                <p>
+                    <i class="fa fa-bed"></i>
+                    3                </p>
+                <p>
+                    <i class="fa fa-bath"></i>
+                    1                </p>
+            </div>
+        </div>
+    </div>
+    <a class="overlay" href="https://www.wijmakelaardij.nl/woning/utrecht-van-swindenstraat-73bs/"></a>]]></content>
+    </entry>
 </feed>

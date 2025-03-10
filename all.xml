@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-10T05:36:57.222Z</updated>
+    <updated>2025-03-10T17:45:26.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Makelaardij Huf)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-10T05:35:03.293Z</updated>
+        <updated>2025-03-10T17:38:26.788Z</updated>
         <content type="html"><![CDATA[<div class="row"><div class="col-12"><div class="object-image position-relative mb-3"><div class="object-image-img">
 <img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/184427849.jpg?portalid=4286&amp;check=api_sha256%3abe878daebf7ce76df81bab527ae7827b16da426421339d5b53372ee7038358b6&amp;=20240528142237&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" alt="Paul Abrahamstraat 7 Utrecht"><div class="object-status position-absolute py-2 px-3">
 Aangekocht</div></div><div class="object-favorite object-favorite-add position-absolute" data-favorite-id="1428">
@@ -80,42 +80,6 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 
 						
 						<div class="aanbod-prijs notranslate">€ 409.000 / K.K.</div>
-
-					</div>
-				</div>
-			</a>
-
-		</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winklerlaan 14
-							Utrecht
-						
-
-						
-						€ 599.000 / K.K. (LEF Makelaars)]]></title>
-        <id>https://www.lefmakelaars.nl/aanbod/winklerlaan-14-utrecht/</id>
-        <link href="https://www.lefmakelaars.nl/aanbod/winklerlaan-14-utrecht/"/>
-        <updated>2025-02-20T05:43:24.100Z</updated>
-        <content type="html"><![CDATA[<div class="block-spacer">
-
-			
-			<a href="https://www.lefmakelaars.nl/aanbod/winklerlaan-14-utrecht/" class="block-inner aanbod-item" style="background-image: url('https://www.lefmakelaars.nl/wp-content/uploads/2025/02/215583919-768x512.jpg');">
-				<div class="gradient bottom"></div>
-				<div class="hover"></div>
-
-				<div class="statuslabel ">Te koop</div>
-                
-				<div class="row">
-					<div class="col-md-12 align-self-end notranslate">
-						
-						<div class="aanbod-header">
-							<h2 class="text-truncate notranslate">Winklerlaan 14</h2>
-							<p class="notranslate">Utrecht</p>
-						</div>
-
-						
-						<div class="aanbod-prijs notranslate">€ 599.000 / K.K.</div>
 
 					</div>
 				</div>
@@ -232,6 +196,42 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 		</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kastanjestraat 23
+							Utrecht
+						
+
+						
+						€ 675.000 / K.K. (LEF Makelaars)]]></title>
+        <id>https://www.lefmakelaars.nl/aanbod/kastanjestraat-23-utrecht/</id>
+        <link href="https://www.lefmakelaars.nl/aanbod/kastanjestraat-23-utrecht/"/>
+        <updated>2025-03-10T17:43:34.842Z</updated>
+        <content type="html"><![CDATA[<div class="block-spacer">
+
+			
+			<a href="https://www.lefmakelaars.nl/aanbod/kastanjestraat-23-utrecht/" class="block-inner aanbod-item" style="background-image: url('https://www.lefmakelaars.nl/wp-content/uploads/2025/03/218703901-768x512.jpg');">
+				<div class="gradient bottom"></div>
+				<div class="hover"></div>
+
+				<div class="statuslabel ">Te koop</div>
+                
+				<div class="row">
+					<div class="col-md-12 align-self-end notranslate">
+						
+						<div class="aanbod-header">
+							<h2 class="text-truncate notranslate">Kastanjestraat 23</h2>
+							<p class="notranslate">Utrecht</p>
+						</div>
+
+						
+						<div class="aanbod-prijs notranslate">€ 675.000 / K.K.</div>
+
+					</div>
+				</div>
+			</a>
+
+		</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Predikherenstraat 27
             Utrecht
             4 kamers
@@ -249,7 +249,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -311,7 +311,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/c0fe2c55-8491-4d77-a28b-1f9c53abf37d" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/c0fe2c55-8491-4d77-a28b-1f9c53abf37d&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/c0fe2c55-8491-4d77-a28b-1f9c53abf37d" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -356,16 +356,78 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nieuwe Koekoekstraat 72
+            Utrecht
+            5 kamers
+          
+          
+            € 695.000 (Makelaarsland)]]></title>
+        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-nieuwe-koekoekstraat-72/</id>
+        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-nieuwe-koekoekstraat-72/"/>
+        <updated>2025-03-10T17:43:39.840Z</updated>
+        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
+  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
+  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-nieuwe-koekoekstraat-72/">
+    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/765fb7d4-b442-4d38-8953-fbc542263e2b" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/a90494d6-bcae-4c1b-b465-d12d002a78af" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/a32cba34-9493-4e00-b9c1-51858dbbb6b9" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/cbad78a3-f993-4f54-b98e-cc9681eff7e2" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/c090d0dd-4f67-4d31-b8d9-f8f749e50918" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
+
+      
+    </div>
+  </a>
+  <button class="m-search-result__button" data-next-slide="next"></button>
+</figure>
+
+        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-nieuwe-koekoekstraat-72/" class="m-search-result__content-wrap">
+          <div class="m-search-result__content">
+            <h3 class="m-search-result__adress">Nieuwe Koekoekstraat 72</h3>
+            <h3 class="m-search-result__city">Utrecht</h3>
+            <h4 class="m-search-result__amount-of-rooms">5 kamers</h4>
+          </div>
+          <div class="m-search-result__details">
+            <h3 class="m-search-result__price"><span>€</span> 695.000</h3>
+
+            <div class="m-search-result__status-wrap">
+              
+                          </div>
+
+          </div>
+        </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-10T05:35:22.081Z</updated>
+        <updated>2025-03-10T17:43:39.805Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>292 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>296 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -421,54 +483,6 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[W.A. Vultostraat 139 (Lauteslager Makelaar)]]></title>
-        <id>https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/</id>
-        <link href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/"/>
-        <updated>2025-02-28T17:43:14.627Z</updated>
-        <content type="html"><![CDATA[<div class="album-wrapper">
-		<div class="row">
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/">
-					<div class="main-photo">
-						<div class="offer-status-flag ">
-							Beschikbaar						</div>
-
-						<div class="main-photo-slider">
-							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.359.485/205252861.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
-						</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="col-md-3">			
-				<div class="thumbnails 8.359.485">
-					<div class="photo-album">
-														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.359.485/205252861-1024x683.jpg">
-															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.359.485/205252891-1024x683.jpg">
-												</div>
-				</div>
-			</div>
-			
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/"></a>
-				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/">
-					<div class="item-data" data-no-translation="">
-						<h1>W.A. Vultostraat 139</h1>
-						<h2>3523 TW - UTRECHT</h2>
-					</div>
-
-					<div class="specs">
-						<ul>
-							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>104 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (3 slaapkamers)</li>						</ul>
-					</div>
-
-					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 599.000,- k.k.</span></a>
-				</div>
-			</div>
-		</div>
-	</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Obrechtstraat 39 (Lauteslager Makelaar)]]></title>
         <id>https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/</id>
         <link href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/"/>
@@ -511,6 +525,54 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 					</div>
 
 					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/obrechtstraat-39/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 599.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[W.A. Vultostraat 139 (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/"/>
+        <updated>2025-02-28T17:43:14.627Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.359.485/205252861.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 8.359.485">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.359.485/205252861-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.359.485/205252891-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/">
+					<div class="item-data" data-no-translation="">
+						<h1>W.A. Vultostraat 139</h1>
+						<h2>3523 TW - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>104 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (3 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 599.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
@@ -637,6 +699,45 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         </div>
     </div>
 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Swindenstraat 73BS (Wij Makelaardij)]]></title>
+        <id>https://www.wijmakelaardij.nl/woning/utrecht-van-swindenstraat-73bs/</id>
+        <link href="https://www.wijmakelaardij.nl/woning/utrecht-van-swindenstraat-73bs/"/>
+        <updated>2025-03-10T17:44:39.601Z</updated>
+        <content type="html"><![CDATA[<div class="woning_img">
+        <img class="list-image" src="https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/8.490.887/219866681-768x512.jpg" alt="">
+    </div>
+    <div class="content" style="background-image:url(https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/8.490.887/219866681-768x512.jpg);">
+        <div class="status ">
+                            Beschikbaar                    </div>
+        <div class="title clearfix">
+            <div class="left grid">
+                <h2>Utrecht</h2>
+                <p>Van Swindenstraat 73BS</p>
+            </div>
+            <div class="left list">
+                <h2>Van Swindenstraat 73BS, Utrecht</h2>
+                <p>Bovenwoning € 667.500,- k.k.</p>
+            </div>
+            <div class="right grid">
+                <span>Bovenwoning</span>
+                <p>€ 667.500,- k.k.</p>
+            </div>
+            <div class="bottom clearfix">
+                <p>
+                    <i class="fa fa-home"></i>
+                    109 m<sup>2</sup>                </p>
+                <p>
+                    <i class="fa fa-bed"></i>
+                    3                </p>
+                <p>
+                    <i class="fa fa-bath"></i>
+                    1                </p>
+            </div>
+        </div>
+    </div>
+    <a class="overlay" href="https://www.wijmakelaardij.nl/woning/utrecht-van-swindenstraat-73bs/"></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Blois van Treslongstraat 73 (365makelaardij)]]></title>
