@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ludenhoff.nl/wonen/zoeken/heel-nederland/utrecht/4-kamers/beschikbaar/</id>
     <title>Ludenhoff Groep</title>
-    <updated>2025-03-12T05:40:44.123Z</updated>
+    <updated>2025-03-12T17:40:22.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ludenhoff.nl/app/themes/supress/favicon-32x32.png</icon>
     <entry>
@@ -35,40 +35,6 @@
 
             <div class="card-product__price">
                                                             € 550.000
-                        ,- k.k.
-                                                </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aquamarijnlaan 352]]></title>
-        <id>https://www.ludenhoff.nl/wonen/object/aquamarijnlaan-352-utrecht-2/</id>
-        <link href="https://www.ludenhoff.nl/wonen/object/aquamarijnlaan-352-utrecht-2/"/>
-        <updated>2025-02-27T17:39:42.697Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.ludenhoff.nl/wonen/object/aquamarijnlaan-352-utrecht-2/" class="card-product__link"></a>
-        
-        <div class="card-product__image">
-            <picture>
-                <source media="(min-width:560px)" srcset="/app/uploads/sure/media/UT101839/UT101839-320006-Aquamarijnlaan-352-Utrecht-218037375-730x486-c-default.webp">
-                <source media="(min-width:560px)" srcset="/app/uploads/sure/media/UT101839/UT101839-320006-Aquamarijnlaan-352-Utrecht-218037375-730x486-c-default.jpg">
-                <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT101839/UT101839-320006-Aquamarijnlaan-352-Utrecht-218037375-560x448-c-default.webp">
-                <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT101839/UT101839-320006-Aquamarijnlaan-352-Utrecht-218037375-560x448-c-default.jpg">
-                <img loading="lazy" data-src="/app/uploads/sure/media/UT101839/UT101839-320006-Aquamarijnlaan-352-Utrecht-218037375-730x486-c-default.jpg" alt="" src="/app/uploads/sure/media/UT101839/UT101839-320006-Aquamarijnlaan-352-Utrecht-218037375-730x486-c-default.jpg" data-ll-status="loaded" class="loaded">
-            </picture>
-        </div>
-
-                    <span class="card-product__label">Beschikbaar</span>
-        
-                    <div class="card-product__heart btn btn--io btn--white heart-favorite" data-id="320006">
-                <i class="icon-heart"></i>
-            </div>
-        
-        <div class="card-product__content">
-            <div class="card-product__name">Utrecht</div>
-
-            <h5>Aquamarijnlaan 352 </h5>
-
-            <div class="card-product__price">
-                                                            € 525.000
                         ,- k.k.
                                                 </div>
         </div>]]></content>
