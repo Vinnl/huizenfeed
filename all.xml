@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-17T05:41:03.443Z</updated>
+    <updated>2025-03-17T17:40:07.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Goedestraat  110 BS 
@@ -360,7 +360,7 @@
         <title type="html"><![CDATA[undefined (Makelaardij Huf)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-17T05:39:05.654Z</updated>
+        <updated>2025-03-17T17:38:15.092Z</updated>
         <content type="html"><![CDATA[<div class="row"><div class="col-12"><div class="object-image position-relative mb-3"><div class="object-image-img">
 <img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/184427849.jpg?portalid=4286&amp;check=api_sha256%3abe878daebf7ce76df81bab527ae7827b16da426421339d5b53372ee7038358b6&amp;=20240528142237&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" alt="Paul Abrahamstraat 7 Utrecht"><div class="object-status position-absolute py-2 px-3">
 Aangekocht</div></div><div class="object-favorite object-favorite-add position-absolute" data-favorite-id="1428">
@@ -468,6 +468,42 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 
 						
 						<div class="aanbod-prijs notranslate">€ 675.000 / K.K.</div>
+
+					</div>
+				</div>
+			</a>
+
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tweede Oosterparklaan 269
+							Utrecht
+						
+
+						
+						€ 699.000 / K.K. (LEF Makelaars)]]></title>
+        <id>https://www.lefmakelaars.nl/aanbod/tweede-oosterparklaan-269-utrecht/</id>
+        <link href="https://www.lefmakelaars.nl/aanbod/tweede-oosterparklaan-269-utrecht/"/>
+        <updated>2025-03-17T17:38:30.466Z</updated>
+        <content type="html"><![CDATA[<div class="block-spacer">
+
+			
+			<a href="https://www.lefmakelaars.nl/aanbod/tweede-oosterparklaan-269-utrecht/" class="block-inner aanbod-item" style="background-image: url('https://www.lefmakelaars.nl/wp-content/uploads/2025/03/218371369-768x512.jpg');">
+				<div class="gradient bottom"></div>
+				<div class="hover"></div>
+
+				<div class="statuslabel ">Te koop</div>
+                
+				<div class="row">
+					<div class="col-md-12 align-self-end notranslate">
+						
+						<div class="aanbod-header">
+							<h2 class="text-truncate notranslate">Tweede Oosterparklaan 269</h2>
+							<p class="notranslate">Utrecht</p>
+						</div>
+
+						
+						<div class="aanbod-prijs notranslate">€ 699.000 / K.K.</div>
 
 					</div>
 				</div>
@@ -662,16 +698,78 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
         </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kwartelstraat 36 BS
+            Utrecht
+            6 kamers
+          
+          
+            € 635.000 (Makelaarsland)]]></title>
+        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-kwartelstraat-36-bs/</id>
+        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-kwartelstraat-36-bs/"/>
+        <updated>2025-03-17T17:38:34.487Z</updated>
+        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
+  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
+  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-kwartelstraat-36-bs/">
+    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/9b7d204c-0101-4cc0-af6e-e02e579b28b0" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/acb88449-c95d-4cd5-b0bc-425f0af1bc63" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/e1893cd0-0612-4b51-8686-fd5d19dfc4bc" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/2b91d13c-f026-4570-bcc9-c01de1bd1821" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
+
+      
+    </div>
+  </a>
+  <button class="m-search-result__button" data-next-slide="next"></button>
+</figure>
+
+        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-kwartelstraat-36-bs/" class="m-search-result__content-wrap">
+          <div class="m-search-result__content">
+            <h3 class="m-search-result__adress">Kwartelstraat 36 BS</h3>
+            <h3 class="m-search-result__city">Utrecht</h3>
+            <h4 class="m-search-result__amount-of-rooms">6 kamers</h4>
+          </div>
+          <div class="m-search-result__details">
+            <h3 class="m-search-result__price"><span>€</span> 635.000</h3>
+
+            <div class="m-search-result__status-wrap">
+              
+                          </div>
+
+          </div>
+        </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-17T05:39:26.727Z</updated>
+        <updated>2025-03-17T17:38:34.451Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>311 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>321 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -871,48 +969,48 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lanslaan 54 (Lauteslager Makelaar)]]></title>
-        <id>https://www.lauteslager.nl/nl/woning/utrecht/lanslaan-54/</id>
-        <link href="https://www.lauteslager.nl/nl/woning/utrecht/lanslaan-54/"/>
-        <updated>2025-02-27T17:38:39.482Z</updated>
+        <title type="html"><![CDATA[Anthoniedijk 48 (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/"/>
+        <updated>2025-03-17T17:38:44.245Z</updated>
         <content type="html"><![CDATA[<div class="album-wrapper">
 		<div class="row">
 			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/lanslaan-54/">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/">
 					<div class="main-photo">
 						<div class="offer-status-flag ">
 							Beschikbaar						</div>
 
 						<div class="main-photo-slider">
-							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.271.631/218543077.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.848.859/220820125.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
 						</div>
 					</div>
 				</a>
 			</div>
 
 			<div class="col-md-3">			
-				<div class="thumbnails 8.271.631">
+				<div class="thumbnails 8.848.859">
 					<div class="photo-album">
-														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.271.631/218543077-1024x576.jpg">
-															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.271.631/218543289-1024x683.jpg">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.848.859/220820125-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.848.859/220820157-1024x682.jpg">
 												</div>
 				</div>
 			</div>
 			
 			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/lanslaan-54/"></a>
-				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/lanslaan-54/">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/">
 					<div class="item-data" data-no-translation="">
-						<h1>Lanslaan 54</h1>
-						<h2>3526 XH - UTRECHT</h2>
+						<h1>Anthoniedijk 48</h1>
+						<h2>3552 XD - UTRECHT</h2>
 					</div>
 
 					<div class="specs">
 						<ul>
-							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>136 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (3 slaapkamers)</li>						</ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>100 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>4 (2 slaapkamers)</li>						</ul>
 					</div>
 
-					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/lanslaan-54/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 595.000,- k.k.</span></a>
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 589.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
@@ -965,6 +1063,56 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
             <br>
             <span class="button button--text button--text-primary">Meer informatie</span>
         </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ondiep 103 (Beumer Utrecht)]]></title>
+        <id>https://www.beumer.nl/wonen/object/ondiep-103-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/ondiep-103-utrecht/"/>
+        <updated>2025-03-17T17:39:07.847Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/ondiep-103-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-150x150.jpg" alt="                        Ondiep 103
+                    " src="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Ondiep 103
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 625.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>120 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        5 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        A+
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Koppestokstraat 78 (Beumer Utrecht)]]></title>
@@ -1057,28 +1205,28 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
   </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blois van Treslongstraat 73 (365makelaardij)]]></title>
-        <id>https://365makelaardij.nl/wonen/object/blois-van-treslongstraat-73-utrecht/</id>
-        <link href="https://365makelaardij.nl/wonen/object/blois-van-treslongstraat-73-utrecht/"/>
-        <updated>2025-03-05T05:45:34.114Z</updated>
-        <content type="html"><![CDATA[<a href="https://365makelaardij.nl/wonen/object/blois-van-treslongstraat-73-utrecht/" class="card-property" title="Blois van Treslongstraat 73 ">
+        <title type="html"><![CDATA[Constant Erzeijstraat 18 (365makelaardij)]]></title>
+        <id>https://365makelaardij.nl/wonen/object/constant-erzeijstraat-18-utrecht/</id>
+        <link href="https://365makelaardij.nl/wonen/object/constant-erzeijstraat-18-utrecht/"/>
+        <updated>2025-03-17T17:39:38.233Z</updated>
+        <content type="html"><![CDATA[<a href="https://365makelaardij.nl/wonen/object/constant-erzeijstraat-18-utrecht/" class="card-property" title="Constant Erzeijstraat 18 ">
     <div class="card-property__image">
 
                 
 <picture>
                                                     
-                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.webp" type="image/webp" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.webp">
-                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.jpg" type="image/jpeg" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.jpg">
+                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.webp" type="image/webp" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.webp">
+                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.jpg" type="image/jpeg" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.jpg">
             
                                                             
-                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.webp" type="image/webp" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.webp">
-                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.jpg" type="image/jpeg" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.jpg">
+                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.webp" type="image/webp" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.webp">
+                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.jpg" type="image/jpeg" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.jpg">
             
                                                             
-                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.webp" type="image/webp" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.webp">
-                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.jpg" type="image/jpeg" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845.jpg">
+                                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.webp" type="image/webp" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.webp">
+                                <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.jpg" type="image/jpeg" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459.jpg">
             
-                                                <img fetchpriority="high" data-src="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845-150x150.webp" alt="UT101727-19027-Blois-van-Treslongstraat-73,-Utrecht-219592845" class=" ls-is-cached lazyloaded" loading="lazy" src="https://365makelaardij.nl/app/uploads/sure/media/UT101727/UT101727-19027-Blois-van-Treslongstraat-73-Utrecht-219592845-150x150.webp">
+                                                <img fetchpriority="high" data-src="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459-150x150.webp" alt="UT101797-19726-Constant-Erzeijstraat-18,-Utrecht-221204459" class=" ls-is-cached lazyloaded" loading="lazy" src="https://365makelaardij.nl/app/uploads/sure/media/UT101797/UT101797-19726-Constant-Erzeijstraat-18-Utrecht-221204459-150x150.webp">
                                         </picture>
     </div>
 
@@ -1089,10 +1237,10 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
     <div class="card-property__content">
         <div class="row align-items-end">
             <div class="col-md-6">
-                <h4>Blois van Treslongstraat 73 </h4>
+                <h4>Constant Erzeijstraat 18 </h4>
                                     <ul class="card-property__list">
                                                     <li class="card-property__list-item">
-                                            € 565.000 k.k.
+                                            € 700.000 k.k.
                                 </li>
                                                                             <li class="card-property__list-item">
                                 Utrecht
@@ -1103,7 +1251,7 @@ Aantal kamers</div></div><div class="col-7"><div class="object-feature-info text
                             <div class="col-md-6 mt-15 mt-md-0 d-flex justify-content-md-end">
                     <ul class="card-property__list justify-content-md-end">
                                                     <li class="card-property__list-item">
-                                <i class="icon-surface"></i>66m²
+                                <i class="icon-surface"></i>141m²
                             </li>
                                                                             <li class="card-property__list-item">
                                 <i class="icon-door"></i>5
