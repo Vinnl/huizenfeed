@@ -78,7 +78,7 @@ waitUntil = "load"
 
 [walton]
 title = "Walton Makelaars"
-url = "https://www.walton.nl/aanbod-makelaar/?_plaatsen=utrecht&_prijs_van=600000-9999999&_prijs_tot=1-700000"
+url = "https://www.walton.nl/aanbod-makelaar/?_plaatsen=utrecht&_prijs_van=500000-9999999&_prijs_tot=1-700000"
 entrySelector = ".object"
 titleSelector = ".object-address-line"
 linkSelector = "a.d-table"
@@ -87,7 +87,7 @@ waitUntil = "networkidle"
 
 [huf]
 title = "Makelaardij Huf"
-url = "https://www.makelaardijhuf.nl/aanbod/?_plaatsen=utrecht&_prijs_van=600000-9999999&_prijs_tot=1-700000"
+url = "https://www.makelaardijhuf.nl/aanbod/?_plaatsen=utrecht&_prijs_van=500000-9999999&_prijs_tot=1-700000"
 entrySelector = ".object"
 titleSelector = "h4"
 linkSelector = "a.adreslink"
