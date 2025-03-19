@@ -2,35 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ingridvaneck.nl/te-koop/</id>
     <title>Ingrid van Eck Makelardij</title>
-    <updated>2025-03-19T10:35:11.643Z</updated>
+    <updated>2025-03-19T17:40:45.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ingridvaneck.nl/wp-content/uploads/2023/05/cropped-favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Goedestraat  110 BS 
-
-                                Utrecht                            
-       
-                            €595.000,00 kk
-
-                            Riante bovenwoning]]></title>
-        <id>https://www.ingridvaneck.nl/aanbod/goedestraat-110-bs-utrecht/</id>
-        <link href="https://www.ingridvaneck.nl/aanbod/goedestraat-110-bs-utrecht/"/>
-        <updated>2025-03-10T20:27:44.181Z</updated>
-        <content type="html"><![CDATA[<a class="card card--house" href="https://www.ingridvaneck.nl/aanbod/goedestraat-110-bs-utrecht/">
-                        <div class="card__hover-overlay"></div>
-                        <div class="card__image" style="background-image: url(https://www.ingridvaneck.nl/wp-content/uploads/2025/03/Goedestraat-110_BS-Utrecht-58-scaled.jpg);">
-                                                            <div class="card__image__label">NIEUW!</div>
-                                                    </div>
-                        <div class="card__body">
-                            <address class="card--house__address">
-                                Goedestraat  110 BS <br>
-
-                                Utrecht                            </address>
-       
-                            <div class="card--house__price">€595.000,00 kk</div>
-
-                            <div class="card--house__type">Riante bovenwoning</div>
-                        </div>
-                    </a>]]></content>
-    </entry>
 </feed>

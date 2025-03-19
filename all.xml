@@ -2,36 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-19T10:35:11.635Z</updated>
+    <updated>2025-03-19T17:40:45.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Goedestraat  110 BS 
-
-                                Utrecht                            
-       
-                            €595.000,00 kk
-
-                            Riante bovenwoning (Ingrid van Eck Makelardij)]]></title>
-        <id>https://www.ingridvaneck.nl/aanbod/goedestraat-110-bs-utrecht/</id>
-        <link href="https://www.ingridvaneck.nl/aanbod/goedestraat-110-bs-utrecht/"/>
-        <updated>2025-03-10T20:27:44.181Z</updated>
-        <content type="html"><![CDATA[<a class="card card--house" href="https://www.ingridvaneck.nl/aanbod/goedestraat-110-bs-utrecht/">
-                        <div class="card__hover-overlay"></div>
-                        <div class="card__image" style="background-image: url(https://www.ingridvaneck.nl/wp-content/uploads/2025/03/Goedestraat-110_BS-Utrecht-58-scaled.jpg);">
-                                                            <div class="card__image__label">NIEUW!</div>
-                                                    </div>
-                        <div class="card__body">
-                            <address class="card--house__address">
-                                Goedestraat  110 BS <br>
-
-                                Utrecht                            </address>
-       
-                            <div class="card--house__price">€595.000,00 kk</div>
-
-                            <div class="card--house__type">Riante bovenwoning</div>
-                        </div>
-                    </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Bernard de Waalstraat
 				
@@ -617,68 +589,6 @@
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lauwerecht 108 BS
-            Utrecht
-            4 kamers
-          
-          
-            € 550.000 (Makelaarsland)]]></title>
-        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-lauwerecht-108-bs/</id>
-        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-lauwerecht-108-bs/"/>
-        <updated>2025-02-26T17:37:49.137Z</updated>
-        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
-  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
-  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-lauwerecht-108-bs/">
-    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/c0fe2c55-8491-4d77-a28b-1f9c53abf37d" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/c0fe2c55-8491-4d77-a28b-1f9c53abf37d&quot;); opacity: 1;" data-is-in-view="true"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/6223500b-2020-45c8-8324-623a5aed7fd4" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/9f9bc0e3-e738-4a3b-b3e8-4e9fca182cad" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/95c4cf8c-583f-4292-8c35-598fbfb218fe" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/e657d8ac-25dd-4c63-915a-fb7a72c96680" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
-
-      
-    </div>
-  </a>
-  <button class="m-search-result__button" data-next-slide="next"></button>
-</figure>
-
-        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-lauwerecht-108-bs/" class="m-search-result__content-wrap">
-          <div class="m-search-result__content">
-            <h3 class="m-search-result__adress">Lauwerecht 108 BS</h3>
-            <h3 class="m-search-result__city">Utrecht</h3>
-            <h4 class="m-search-result__amount-of-rooms">4 kamers</h4>
-          </div>
-          <div class="m-search-result__details">
-            <h3 class="m-search-result__price"><span>€</span> 550.000</h3>
-
-            <div class="m-search-result__status-wrap">
-              
-                          </div>
-
-          </div>
-        </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kwartelstraat 36 BS
             Utrecht
             6 kamers
@@ -744,13 +654,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-19T10:33:35.009Z</updated>
+        <updated>2025-03-19T17:39:10.115Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>318 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>316 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -902,54 +812,6 @@
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[W.A. Vultostraat 139 (Lauteslager Makelaar)]]></title>
-        <id>https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/</id>
-        <link href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/"/>
-        <updated>2025-02-28T17:43:14.627Z</updated>
-        <content type="html"><![CDATA[<div class="album-wrapper">
-		<div class="row">
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/">
-					<div class="main-photo">
-						<div class="offer-status-flag ">
-							Beschikbaar						</div>
-
-						<div class="main-photo-slider">
-							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.359.485/205252861.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
-						</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="col-md-3">			
-				<div class="thumbnails 8.359.485">
-					<div class="photo-album">
-														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.359.485/205252861-1024x683.jpg">
-															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.359.485/205252891-1024x683.jpg">
-												</div>
-				</div>
-			</div>
-			
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/"></a>
-				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/">
-					<div class="item-data" data-no-translation="">
-						<h1>W.A. Vultostraat 139</h1>
-						<h2>3523 TW - UTRECHT</h2>
-					</div>
-
-					<div class="specs">
-						<ul>
-							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>104 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (3 slaapkamers)</li>						</ul>
-					</div>
-
-					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/w-a-vultostraat-139/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 599.000,- k.k.</span></a>
-				</div>
-			</div>
-		</div>
-	</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anthoniedijk 48 (Lauteslager Makelaar)]]></title>
         <id>https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/</id>
         <link href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/"/>
@@ -992,6 +854,54 @@
 					</div>
 
 					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 589.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abstederdijk 123A (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/"/>
+        <updated>2025-03-19T17:39:20.132Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.669.241/218162045.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 8.669.241">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.669.241/218162045-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.669.241/218163999-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/">
+					<div class="item-data" data-no-translation="">
+						<h1>Abstederdijk 123A</h1>
+						<h2>3582 BD - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>117 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (4 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 575.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
