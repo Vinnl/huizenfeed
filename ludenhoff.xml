@@ -2,41 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ludenhoff.nl/wonen/zoeken/heel-nederland/utrecht/4-kamers/beschikbaar/</id>
     <title>Ludenhoff Groep</title>
-    <updated>2025-03-20T05:41:11.643Z</updated>
+    <updated>2025-03-20T17:46:25.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ludenhoff.nl/app/themes/supress/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Herenweg 44 Bs]]></title>
-        <id>https://www.ludenhoff.nl/wonen/object/herenweg-44bs-utrecht/</id>
-        <link href="https://www.ludenhoff.nl/wonen/object/herenweg-44bs-utrecht/"/>
-        <updated>2025-02-17T10:25:45.695Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.ludenhoff.nl/wonen/object/herenweg-44bs-utrecht/" class="card-product__link"></a>
-        
-        <div class="card-product__image">
-            <picture>
-                <source media="(min-width:560px)" srcset="/app/uploads/sure/media/UT101808/UT101808-317504-Herenweg-44BS-Utrecht-215366611-730x486-c-default.webp">
-                <source media="(min-width:560px)" srcset="/app/uploads/sure/media/UT101808/UT101808-317504-Herenweg-44BS-Utrecht-215366611-730x486-c-default.jpg">
-                <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT101808/UT101808-317504-Herenweg-44BS-Utrecht-215366611-560x448-c-default.webp">
-                <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT101808/UT101808-317504-Herenweg-44BS-Utrecht-215366611-560x448-c-default.jpg">
-                <img loading="lazy" data-src="/app/uploads/sure/media/UT101808/UT101808-317504-Herenweg-44BS-Utrecht-215366611-730x486-c-default.jpg" alt="" src="/app/uploads/sure/media/UT101808/UT101808-317504-Herenweg-44BS-Utrecht-215366611-730x486-c-default.jpg" data-ll-status="loaded" class="loaded">
-            </picture>
-        </div>
-
-                    <span class="card-product__label">Beschikbaar</span>
-        
-                    <div class="card-product__heart btn btn--io btn--white heart-favorite" data-id="317504">
-                <i class="icon-heart"></i>
-            </div>
-        
-        <div class="card-product__content">
-            <div class="card-product__name">Utrecht</div>
-
-            <h5>Herenweg 44 Bs</h5>
-
-            <div class="card-product__price">
-                                                            € 550.000
-                        ,- k.k.
-                                                </div>
-        </div>]]></content>
-    </entry>
 </feed>
