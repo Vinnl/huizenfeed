@@ -2,7 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.peekenpompe.nl/nl/woningaanbod?ignoreType[]=isBought#{%22view%22:%22grid%22,%22sort%22:%22addedDesc%22,%22address%22:%22%22,%22title%22:%22%22,%22salesRentals%22:%22sales%22,%22salesPriceMin%22:0,%22salesPriceMax%22:700000,%22devSalesPriceMin%22:0,%22devSalesPriceMax%22:9999999999,%22rentalsPriceMin%22:0,%22rentalsPriceMax%22:9999999999,%22devRentalsPriceMin%22:0,%22devRentalsPriceMax%22:9999999999,%22surfaceMin%22:0,%22surfaceMax%22:9999999999,%22unitsMin%22:0,%22unitsMax%22:9999999999,%22devSurfaceMin%22:0,%22devSurfaceMax%22:9999999999,%22plotSurfaceMin%22:0,%22plotSurfaceMax%22:9999999999,%22roomsMin%22:4,%22roomsMax%22:9999999999,%22bedroomsMin%22:0,%22bedroomsMax%22:9999999999,%22bathroomsMin%22:0,%22bathroomsMax%22:9999999999,%22city%22:[%22Utrecht%22],%22district%22:[],%22mainType%22:[],%22buildType%22:[],%22tag%22:[],%22country%22:[],%22state%22:[],%22listingsType%22:[],%22ignoreType%22:[%22isBought%22],%22categories%22:[],%22status%22:%22available%22,%22statusStrict%22:false,%22user%22:%22%22,%22branch%22:%22%22,%22archiveTime%22:0,%22page%22:1}</id>
     <title>Peek &amp; Pompe makelaars</title>
-    <updated>2025-03-21T05:45:32.705Z</updated>
+    <updated>2025-03-21T17:41:00.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.peekenpompe.nl/favicons/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Tijmstraat 15]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/tijmstraat-15/67d04683331242eeaed4dccd</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/tijmstraat-15/67d04683331242eeaed4dccd"/>
+        <updated>2025-03-21T17:38:49.531Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/tijmstraat-15/67d04683331242eeaed4dccd" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67d04683331242eeaed4dccd/rw-api-sha/MjIwMjYzNjI5LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E4OTQxMzBmMzIzYTExODRkMWMzNDQxMmNlYjY2NmRjZjE0NjkzZTZiYzE3YWI2MThlNTBhMDZmODcyN2UzZGNk/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/tijmstraat-15/67d04683331242eeaed4dccd" class="card-object-address">Tijmstraat 15</a><br>
+				<span class="card-object-price"><b>3551 GK Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 535,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Tussenwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">100</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">3</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nieuwe Koekoekstraat 36]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/nieuwe-koekoekstraat-36/67d00e3c331242eeaeb214f7</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/nieuwe-koekoekstraat-36/67d00e3c331242eeaeb214f7"/>
+        <updated>2025-03-21T17:38:49.532Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/nieuwe-koekoekstraat-36/67d00e3c331242eeaeb214f7" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67d00e3c331242eeaeb214f7/rw-api-sha/MjE5NzEwNDcxLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FmY2QxZmQ0YzFhNWJmMDA2YjRiZDg5YjgzNTYyNmM3OGQyMWNiYzQ2ZTFhNTUwYWJlMWEyM2NhNmRkMTg4ZWU2/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/nieuwe-koekoekstraat-36/67d00e3c331242eeaeb214f7" class="card-object-address">Nieuwe Koekoekstraat 36</a><br>
+				<span class="card-object-price"><b>3514 EG Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 695,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Tussenwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">106</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">4</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rijnlaan 168]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2"/>
+        <updated>2025-03-21T17:38:49.534Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67caba33331242eeae6663a2/rw-api-sha/MjE3NTcyNTA1LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EzNmU4NjQyNWYwYWMzOWU5NjE4Zjc3YWYyNzNhZjQ4MTMxMzUyZDBkZDExZGIyZjk2NTdmMTc0YzU5OTY1YzVh/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+				<span class="card-object-status">Open Huis</span>
+			
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2" class="card-object-address">Rijnlaan 168</a><br>
+				<span class="card-object-price"><b>3522 BX Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 687,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Tussenwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">128</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">5</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beerzestraat 4 BS]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e"/>
+        <updated>2025-03-21T17:38:49.537Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67c6fdf4331242eeae15150e/rw-api-sha/MjE5MzI1NzExLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EwNzk0NmU4NDU1Yzc3YzUyZDFiZWMxZmM2NTI0MmRjOWEwMzkyMjNmODA0ODc1MWYzMGIxMWRhODRiNzM2MGUz/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e" class="card-object-address">Beerzestraat 4 BS</a><br>
+				<span class="card-object-price"><b>3522 XB Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 585,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Bovenwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">107</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">5</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
 </feed>
