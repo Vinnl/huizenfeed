@@ -2,134 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-21T17:41:00.828Z</updated>
+    <updated>2025-03-22T05:40:28.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Tijmstraat 15 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/tijmstraat-15/67d04683331242eeaed4dccd</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/tijmstraat-15/67d04683331242eeaed4dccd"/>
-        <updated>2025-03-21T17:38:49.531Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/tijmstraat-15/67d04683331242eeaed4dccd" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67d04683331242eeaed4dccd/rw-api-sha/MjIwMjYzNjI5LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E4OTQxMzBmMzIzYTExODRkMWMzNDQxMmNlYjY2NmRjZjE0NjkzZTZiYzE3YWI2MThlNTBhMDZmODcyN2UzZGNk/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/tijmstraat-15/67d04683331242eeaed4dccd" class="card-object-address">Tijmstraat 15</a><br>
-				<span class="card-object-price"><b>3551 GK Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 535,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">100</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">3</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nieuwe Koekoekstraat 36 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/nieuwe-koekoekstraat-36/67d00e3c331242eeaeb214f7</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/nieuwe-koekoekstraat-36/67d00e3c331242eeaeb214f7"/>
-        <updated>2025-03-21T17:38:49.532Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/nieuwe-koekoekstraat-36/67d00e3c331242eeaeb214f7" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67d00e3c331242eeaeb214f7/rw-api-sha/MjE5NzEwNDcxLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FmY2QxZmQ0YzFhNWJmMDA2YjRiZDg5YjgzNTYyNmM3OGQyMWNiYzQ2ZTFhNTUwYWJlMWEyM2NhNmRkMTg4ZWU2/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/nieuwe-koekoekstraat-36/67d00e3c331242eeaeb214f7" class="card-object-address">Nieuwe Koekoekstraat 36</a><br>
-				<span class="card-object-price"><b>3514 EG Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 695,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">106</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rijnlaan 168 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2"/>
-        <updated>2025-03-21T17:38:49.534Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67caba33331242eeae6663a2/rw-api-sha/MjE3NTcyNTA1LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EzNmU4NjQyNWYwYWMzOWU5NjE4Zjc3YWYyNzNhZjQ4MTMxMzUyZDBkZDExZGIyZjk2NTdmMTc0YzU5OTY1YzVh/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-				<span class="card-object-status">Open Huis</span>
-			
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2" class="card-object-address">Rijnlaan 168</a><br>
-				<span class="card-object-price"><b>3522 BX Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 687,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">128</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">5</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beerzestraat 4 BS (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e"/>
-        <updated>2025-03-21T17:38:49.537Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67c6fdf4331242eeae15150e/rw-api-sha/MjE5MzI1NzExLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EwNzk0NmU4NDU1Yzc3YzUyZDFiZWMxZmM2NTI0MmRjOWEwMzkyMjNmODA0ODc1MWYzMGIxMWRhODRiNzM2MGUz/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/beerzestraat-4-bs/67c6fdf4331242eeae15150e" class="card-object-address">Beerzestraat 4 BS</a><br>
-				<span class="card-object-price"><b>3522 XB Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 585,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Bovenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">107</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">5</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Dantelaan
 				
@@ -843,42 +717,6 @@
 		</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kastanjestraat 23
-							Utrecht
-						
-
-						
-						€ 675.000 / K.K. (LEF Makelaars)]]></title>
-        <id>https://www.lefmakelaars.nl/aanbod/kastanjestraat-23-utrecht/</id>
-        <link href="https://www.lefmakelaars.nl/aanbod/kastanjestraat-23-utrecht/"/>
-        <updated>2025-03-10T17:43:34.842Z</updated>
-        <content type="html"><![CDATA[<div class="block-spacer">
-
-			
-			<a href="https://www.lefmakelaars.nl/aanbod/kastanjestraat-23-utrecht/" class="block-inner aanbod-item" style="background-image: url('https://www.lefmakelaars.nl/wp-content/uploads/2025/03/218703901-768x512.jpg');">
-				<div class="gradient bottom"></div>
-				<div class="hover"></div>
-
-				<div class="statuslabel ">Te koop</div>
-                
-				<div class="row">
-					<div class="col-md-12 align-self-end notranslate">
-						
-						<div class="aanbod-header">
-							<h2 class="text-truncate notranslate">Kastanjestraat 23</h2>
-							<p class="notranslate">Utrecht</p>
-						</div>
-
-						
-						<div class="aanbod-prijs notranslate">€ 675.000 / K.K.</div>
-
-					</div>
-				</div>
-			</a>
-
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tweede Oosterparklaan 269
 							Utrecht
 						
@@ -1104,7 +942,7 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-21T17:39:26.120Z</updated>
+        <updated>2025-03-22T05:38:53.193Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
