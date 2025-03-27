@@ -296,3 +296,11 @@ entrySelector = ".property"
 titleSelector = ".property-block .row:nth-child(2)"
 linkSelector = "a"
 waitUntil = "networkidle"
+
+[broekmancalis]
+title = "Broekman & Calis Makelaars"
+url = "https://www.broekman-calis.nl/aanbod"
+entrySelector = ".object-info"
+titleSelector = ".adres"
+linkSelector = "a.adreslink"
+matchAllOf = ["€ 5", "Utrecht"]
