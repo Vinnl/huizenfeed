@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-27T05:41:40.791Z</updated>
+    <updated>2025-03-27T14:59:29.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dantelaan
@@ -329,34 +329,6 @@
 								</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Duurstedelaan 55                                 
-                                    3525 AN Utrecht (Blauwe Eik makelaardij)]]></title>
-        <id>https://www.blauweeik.nl/wonen/object/duurstedelaan-55-utrecht/</id>
-        <link href="https://www.blauweeik.nl/wonen/object/duurstedelaan-55-utrecht/"/>
-        <updated>2025-03-21T17:39:16.684Z</updated>
-        <content type="html"><![CDATA[<section>
-    <figure>
-                <a href="/wonen/object/duurstedelaan-55-utrecht/">
-                                    
-                                    <picture>
-                                                    <source data-srcset="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021.jpg.webp" media="(min-width: 100px)" type="image/webp" srcset="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021.jpg.webp">
-                                                <source data-srcset="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021.jpg" media="(min-width: 100px)" type="image/jpg" srcset="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021.jpg">
-                        <img loading="lazy" class=" ls-is-cached lazyloaded" data-src="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021-150x150.jpg" alt="3525 an" src="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021-150x150.jpg">
-                    </picture>
-                
-            <span>Nieuw</span>                    </a>
-        </figure>
-    <article class="">
-        <h4><a href="/wonen/object/duurstedelaan-55-utrecht/">                                Duurstedelaan 55                 <!--				-->                <br>
-                                    <span>3525 AN Utrecht</span>
-                                            </a>
-                </h4>
-                                            <p>€ 575.000,- Kosten koper</p>
-                            <a href="/wonen/object/duurstedelaan-55-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
-                    </article>
-</section>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Van Vollenhovenlaan 175
 							Utrecht
 						
@@ -449,7 +421,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -574,7 +546,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -622,13 +594,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-27T05:39:51.818Z</updated>
+        <updated>2025-03-27T14:57:48.747Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>316 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>317 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -900,30 +872,6 @@
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tweede Westerparklaan 179 (Gevaert-makelaar)]]></title>
-        <id>https://www.gevaertmakelaars.nl/koop/NN107064/tweede-westerparklaan-179-3544-vp-utrecht</id>
-        <link href="https://www.gevaertmakelaars.nl/koop/NN107064/tweede-westerparklaan-179-3544-vp-utrecht"/>
-        <updated>2025-03-07T17:42:33.950Z</updated>
-        <content type="html"><![CDATA[<a href="/koop/NN107064/tweede-westerparklaan-179-3544-vp-utrecht" class="objectblock">
-            <span class="objectblock__image">
-
-                <span class="objectblock__image-label _beschikbaar">
-                    BESCHIKBAAR                </span>
-                
-                <img src="https://images.realworks.nl/servlets/images/media.objectmedia/219630413.jpg?portalid=2740&amp;check=api_sha256%3Afb80173e379ea3add2653bba94da29e188172e0b4314110e24a5d292ae50e34a" alt="" class="lazy" data-src="https://images.realworks.nl/servlets/images/media.objectmedia/219630413.jpg?portalid=2740&amp;check=api_sha256%3Afb80173e379ea3add2653bba94da29e188172e0b4314110e24a5d292ae50e34a&amp;resize=4">            </span>
-
-            <span class="objectblock__body">
-                <span class="objectblock__body-address">Tweede Westerparklaan 179</span>
-                <br>
-                <span class="objectblock__body-city">3544 VP Utrecht</span>
-                <br>
-                <span class="objectblock__body-price">€&nbsp;650.000 K.K.</span>
-            </span>
-            <br>
-            <span class="button button--text button--text-primary">Meer informatie</span>
-        </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sweder van Zuylenweg 15 (Beumer Utrecht)]]></title>
         <id>https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/</id>
         <link href="https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/"/>
@@ -940,8 +888,8 @@
                     </picture>
                             
                         <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
+                
+                                    <div class="card-house__label">Open huis op 05-04-2025 11:00 tot 15:00</div>
                             </div>
         </div>
         <div class="card-house__content">

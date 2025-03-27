@@ -2,35 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.blauweeik.nl/wonen/zoeken/Utrecht/5km/0-700000/100-oppervlakte/koop/</id>
     <title>Blauwe Eik makelaardij</title>
-    <updated>2025-03-27T05:41:40.808Z</updated>
+    <updated>2025-03-27T14:59:29.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.blauweeik.nl/wp-content/uploads/cropped-blauwe-eik-1-78x78.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Duurstedelaan 55                                 
-                                    3525 AN Utrecht]]></title>
-        <id>https://www.blauweeik.nl/wonen/object/duurstedelaan-55-utrecht/</id>
-        <link href="https://www.blauweeik.nl/wonen/object/duurstedelaan-55-utrecht/"/>
-        <updated>2025-03-21T17:39:16.684Z</updated>
-        <content type="html"><![CDATA[<section>
-    <figure>
-                <a href="/wonen/object/duurstedelaan-55-utrecht/">
-                                    
-                                    <picture>
-                                                    <source data-srcset="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021.jpg.webp" media="(min-width: 100px)" type="image/webp" srcset="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021.jpg.webp">
-                                                <source data-srcset="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021.jpg" media="(min-width: 100px)" type="image/jpg" srcset="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021.jpg">
-                        <img loading="lazy" class=" ls-is-cached lazyloaded" data-src="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021-150x150.jpg" alt="3525 an" src="/wp-content/uploads/sure/media/BL103686/BL103686-1820988-Duurstedelaan-55-Utrecht-219457021-150x150.jpg">
-                    </picture>
-                
-            <span>Nieuw</span>                    </a>
-        </figure>
-    <article class="">
-        <h4><a href="/wonen/object/duurstedelaan-55-utrecht/">                                Duurstedelaan 55                 <!--				-->                <br>
-                                    <span>3525 AN Utrecht</span>
-                                            </a>
-                </h4>
-                                            <p>€ 575.000,- Kosten koper</p>
-                            <a href="/wonen/object/duurstedelaan-55-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
-                    </article>
-</section>]]></content>
-    </entry>
 </feed>
