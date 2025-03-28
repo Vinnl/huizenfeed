@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-28T05:49:12.524Z</updated>
+    <updated>2025-03-28T17:51:29.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dantelaan
@@ -594,13 +594,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-28T05:47:32.057Z</updated>
+        <updated>2025-03-28T17:44:48.107Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>318 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>321 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -800,76 +800,52 @@
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthoniedijk 48 (Lauteslager Makelaar)]]></title>
-        <id>https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/</id>
-        <link href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/"/>
-        <updated>2025-03-17T17:38:44.245Z</updated>
+        <title type="html"><![CDATA[Waalstraat 166B (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/"/>
+        <updated>2025-03-28T17:44:59.072Z</updated>
         <content type="html"><![CDATA[<div class="album-wrapper">
 		<div class="row">
 			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/">
 					<div class="main-photo">
 						<div class="offer-status-flag ">
 							Beschikbaar						</div>
 
 						<div class="main-photo-slider">
-							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.848.859/220820125.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/6.724.529/216042121.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
 						</div>
 					</div>
 				</a>
 			</div>
 
 			<div class="col-md-3">			
-				<div class="thumbnails 8.848.859">
+				<div class="thumbnails 6.724.529">
 					<div class="photo-album">
-														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.848.859/220820125-1024x683.jpg">
-															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.848.859/220820157-1024x682.jpg">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/6.724.529/216042121-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/6.724.529/215805935-1024x683.jpg">
 												</div>
 				</div>
 			</div>
 			
 			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/"></a>
-				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/">
 					<div class="item-data" data-no-translation="">
-						<h1>Anthoniedijk 48</h1>
-						<h2>3552 XD - UTRECHT</h2>
+						<h1>Waalstraat 166B</h1>
+						<h2>3522 SW - UTRECHT</h2>
 					</div>
 
 					<div class="specs">
 						<ul>
-							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>100 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>4 (2 slaapkamers)</li>						</ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>132 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (4 slaapkamers)</li>						</ul>
 					</div>
 
-					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/anthoniedijk-48/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 589.000,- k.k.</span></a>
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 599.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
 	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filipijnen 279 (Gevaert-makelaar)]]></title>
-        <id>https://www.gevaertmakelaars.nl/koop/NN107245/filipijnen-279-3524-jl-utrecht</id>
-        <link href="https://www.gevaertmakelaars.nl/koop/NN107245/filipijnen-279-3524-jl-utrecht"/>
-        <updated>2025-03-14T17:37:10.050Z</updated>
-        <content type="html"><![CDATA[<a href="/koop/NN107245/filipijnen-279-3524-jl-utrecht" class="objectblock">
-            <span class="objectblock__image">
-
-                <span class="objectblock__image-label _beschikbaar">
-                    BESCHIKBAAR                </span>
-                
-                <img src="https://images.realworks.nl/servlets/images/media.objectmedia/220781797.jpg?portalid=2740&amp;check=api_sha256%3A5ee8d182fafd4f5465d5faf1db06b80cf1b2879e4568e99d9767f4a42e2a465e" alt="" class="lazy" data-src="https://images.realworks.nl/servlets/images/media.objectmedia/220781797.jpg?portalid=2740&amp;check=api_sha256%3A5ee8d182fafd4f5465d5faf1db06b80cf1b2879e4568e99d9767f4a42e2a465e&amp;resize=4">            </span>
-
-            <span class="objectblock__body">
-                <span class="objectblock__body-address">Filipijnen 279</span>
-                <br>
-                <span class="objectblock__body-city">3524 JL Utrecht</span>
-                <br>
-                <span class="objectblock__body-price">€&nbsp;519.000 K.K.</span>
-            </span>
-            <br>
-            <span class="button button--text button--text-primary">Meer informatie</span>
-        </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sweder van Zuylenweg 15 (Beumer Utrecht)]]></title>
@@ -1027,7 +1003,8 @@
         <link href="https://www.deruitermakelaarshuis.nl/aanbod/appartement-gildstraat-88bs-utrecht/"/>
         <updated>2025-03-21T17:40:10.509Z</updated>
         <content type="html"><![CDATA[<span class="label ">Te koop</span>
-  
+		<span class="label openhuis">Open huis</span>
+	  
 <div class="overlay rounded overflow-hidden">
 	<img class="img-fluid" src="https://www.deruitermakelaarshuis.nl/wp-content/uploads/2025/03/221875661-720x415.jpg" alt="">
 </div>

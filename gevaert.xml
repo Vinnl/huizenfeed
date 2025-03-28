@@ -2,31 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gevaertmakelaars.nl/koop?city%5B%5D=UTRECHT&amp;sale_price_from=&amp;sale_price_until=700000&amp;surface_lot_from=&amp;surface_living_from=100</id>
     <title>Gevaert-makelaar</title>
-    <updated>2025-03-28T05:49:12.526Z</updated>
+    <updated>2025-03-28T17:51:29.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gevaertmakelaars.nl/gevaert/img/favicon/favicon-32x32.png?1604907972</icon>
-    <entry>
-        <title type="html"><![CDATA[Filipijnen 279]]></title>
-        <id>https://www.gevaertmakelaars.nl/koop/NN107245/filipijnen-279-3524-jl-utrecht</id>
-        <link href="https://www.gevaertmakelaars.nl/koop/NN107245/filipijnen-279-3524-jl-utrecht"/>
-        <updated>2025-03-14T17:37:10.050Z</updated>
-        <content type="html"><![CDATA[<a href="/koop/NN107245/filipijnen-279-3524-jl-utrecht" class="objectblock">
-            <span class="objectblock__image">
-
-                <span class="objectblock__image-label _beschikbaar">
-                    BESCHIKBAAR                </span>
-                
-                <img src="https://images.realworks.nl/servlets/images/media.objectmedia/220781797.jpg?portalid=2740&amp;check=api_sha256%3A5ee8d182fafd4f5465d5faf1db06b80cf1b2879e4568e99d9767f4a42e2a465e" alt="" class="lazy" data-src="https://images.realworks.nl/servlets/images/media.objectmedia/220781797.jpg?portalid=2740&amp;check=api_sha256%3A5ee8d182fafd4f5465d5faf1db06b80cf1b2879e4568e99d9767f4a42e2a465e&amp;resize=4">            </span>
-
-            <span class="objectblock__body">
-                <span class="objectblock__body-address">Filipijnen 279</span>
-                <br>
-                <span class="objectblock__body-city">3524 JL Utrecht</span>
-                <br>
-                <span class="objectblock__body-price">€&nbsp;519.000 K.K.</span>
-            </span>
-            <br>
-            <span class="button button--text button--text-primary">Meer informatie</span>
-        </a>]]></content>
-    </entry>
 </feed>
