@@ -2,70 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-31T05:42:59.430Z</updated>
+    <updated>2025-03-31T17:40:14.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Livingstonelaan 808 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/livingstonelaan-808/67e1780d9e47880321ce5db6</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/livingstonelaan-808/67e1780d9e47880321ce5db6"/>
-        <updated>2025-03-31T05:40:13.309Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/livingstonelaan-808/67e1780d9e47880321ce5db6" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67e1780d9e47880321ce5db6/rw-api-sha/MjIxODA1ODgxLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E5ZTg1OWUzOGQwMTk4NTdlM2MyNGY2YzNiMGU2YzUwNTBjZmNlZjY3YWIwMjUzYmEwYzJmZGQ1MjUwM2NlMWM0/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/livingstonelaan-808/67e1780d9e47880321ce5db6" class="card-object-address">Livingstonelaan 808</a><br>
-				<span class="card-object-price"><b>3526 JK Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 380,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Galerijflat</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">110</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">3</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rijnlaan 168 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2"/>
-        <updated>2025-03-31T05:40:13.314Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67caba33331242eeae6663a2/rw-api-sha/MjE3NTcyNTA1LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EzNmU4NjQyNWYwYWMzOWU5NjE4Zjc3YWYyNzNhZjQ4MTMxMzUyZDBkZDExZGIyZjk2NTdmMTc0YzU5OTY1YzVh/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2" class="card-object-address">Rijnlaan 168</a><br>
-				<span class="card-object-price"><b>3522 BX Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 687,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">128</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">5</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Dantelaan
 				
@@ -447,7 +385,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -510,7 +448,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -617,16 +555,82 @@
         </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Marco Pololaan 359
+            Utrecht
+            4 kamers
+          
+          
+            € 300.000
+
+            
+                              Open Huis (Makelaarsland)]]></title>
+        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/</id>
+        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/"/>
+        <updated>2025-03-31T17:38:35.403Z</updated>
+        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
+  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
+  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/">
+    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/dc85804a-a459-4f64-adff-4fc8b3da7bc5" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/4a10e35d-5e84-45f0-b0b7-5ca70f31ee7c" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/1c89f0fa-0483-407c-be66-8d6ce07dd06a" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/3aecdfb8-0b28-4fec-8e75-e3bb07cb0a14" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/8802496b-53a6-4dfa-85f2-e08e4977b560" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
+
+      
+    </div>
+  </a>
+  <button class="m-search-result__button" data-next-slide="next"></button>
+</figure>
+
+        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/" class="m-search-result__content-wrap">
+          <div class="m-search-result__content">
+            <h3 class="m-search-result__adress">Marco Pololaan 359</h3>
+            <h3 class="m-search-result__city">Utrecht</h3>
+            <h4 class="m-search-result__amount-of-rooms">4 kamers</h4>
+          </div>
+          <div class="m-search-result__details">
+            <h3 class="m-search-result__price"><span>€</span> 300.000</h3>
+
+            <div class="m-search-result__status-wrap">
+                              <span class="m-search-result-status m-search-result-status--open-house">Open Huis</span>
+              
+                          </div>
+
+          </div>
+        </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-31T05:41:04.812Z</updated>
+        <updated>2025-03-31T17:38:35.370Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>322 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>321 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -676,54 +680,6 @@
 					</div>
 
 					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/arthur-van-schendelstraat-621/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 695.000,- k.k.</span></a>
-				</div>
-			</div>
-		</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julianaweg 447 (Lauteslager Makelaar)]]></title>
-        <id>https://www.lauteslager.nl/nl/woning/utrecht/julianaweg-447/</id>
-        <link href="https://www.lauteslager.nl/nl/woning/utrecht/julianaweg-447/"/>
-        <updated>2025-03-14T17:37:06.524Z</updated>
-        <content type="html"><![CDATA[<div class="album-wrapper">
-		<div class="row">
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/julianaweg-447/">
-					<div class="main-photo">
-						<div class="offer-status-flag ">
-							Beschikbaar						</div>
-
-						<div class="main-photo-slider">
-							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.728.201/220908897.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
-						</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="col-md-3">			
-				<div class="thumbnails 8.728.201">
-					<div class="photo-album">
-														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.728.201/220908897-1024x683.jpg">
-															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.728.201/220332323-1024x683.jpg">
-												</div>
-				</div>
-			</div>
-			
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/julianaweg-447/"></a>
-				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/julianaweg-447/">
-					<div class="item-data" data-no-translation="">
-						<h1>Julianaweg 447</h1>
-						<h2>3523 XG - UTRECHT</h2>
-					</div>
-
-					<div class="specs">
-						<ul>
-							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>107 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>6 (5 slaapkamers)</li>						</ul>
-					</div>
-
-					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/julianaweg-447/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 685.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
@@ -874,6 +830,54 @@
 	</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Abstederdijk 123A (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/"/>
+        <updated>2025-03-31T17:38:45.876Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.669.241/218162045.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 8.669.241">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.669.241/218162045-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.669.241/218163999-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/">
+					<div class="item-data" data-no-translation="">
+						<h1>Abstederdijk 123A</h1>
+						<h2>3582 BD - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>117 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (4 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 575.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sweder van Zuylenweg 15 (Beumer Utrecht)]]></title>
         <id>https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/</id>
         <link href="https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/"/>
@@ -917,106 +921,6 @@
                                                     <p>
                         <i class="icon icon-label"></i>
                         C
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Augusto Sandinostraat 33 (Beumer Utrecht)]]></title>
-        <id>https://www.beumer.nl/wonen/object/augusto-sandinostraat-33-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/augusto-sandinostraat-33-utrecht/"/>
-        <updated>2025-03-18T17:48:24.703Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/augusto-sandinostraat-33-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT102552/UT102552-202771-Augusto-Sandinostraat-33-Utrecht-221231315-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT102552/UT102552-202771-Augusto-Sandinostraat-33-Utrecht-221231315-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT102552/UT102552-202771-Augusto-Sandinostraat-33-Utrecht-221231315-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT102552/UT102552-202771-Augusto-Sandinostraat-33-Utrecht-221231315-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/UT102552/UT102552-202771-Augusto-Sandinostraat-33-Utrecht-221231315-150x150.jpg" alt="                        Augusto Sandinostraat 33
-                    " src="/app/uploads/sure/media/UT102552/UT102552-202771-Augusto-Sandinostraat-33-Utrecht-221231315-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Augusto Sandinostraat 33
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 575.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>106 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        5 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ondiep 103 (Beumer Utrecht)]]></title>
-        <id>https://www.beumer.nl/wonen/object/ondiep-103-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/ondiep-103-utrecht/"/>
-        <updated>2025-03-17T17:39:07.847Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/ondiep-103-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-150x150.jpg" alt="                        Ondiep 103
-                    " src="/app/uploads/sure/media/UT102880/UT102880-202487-Ondiep-103-Utrecht-219931225-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Ondiep 103
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 625.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>120 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        5 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A+
                     </p>
                             </div>
         </div>

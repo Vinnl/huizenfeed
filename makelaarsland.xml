@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-03-31T05:42:59.369Z</updated>
+    <updated>2025-03-31T17:40:14.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -26,7 +26,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -89,7 +89,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -196,16 +196,82 @@
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[Marco Pololaan 359
+            Utrecht
+            4 kamers
+          
+          
+            € 300.000
+
+            
+                              Open Huis]]></title>
+        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/</id>
+        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/"/>
+        <updated>2025-03-31T17:38:35.403Z</updated>
+        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
+  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
+  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/">
+    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/dc85804a-a459-4f64-adff-4fc8b3da7bc5" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/4a10e35d-5e84-45f0-b0b7-5ca70f31ee7c" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/1c89f0fa-0483-407c-be66-8d6ce07dd06a" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/3aecdfb8-0b28-4fec-8e75-e3bb07cb0a14" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/8802496b-53a6-4dfa-85f2-e08e4977b560" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
+
+      
+    </div>
+  </a>
+  <button class="m-search-result__button" data-next-slide="next"></button>
+</figure>
+
+        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/" class="m-search-result__content-wrap">
+          <div class="m-search-result__content">
+            <h3 class="m-search-result__adress">Marco Pololaan 359</h3>
+            <h3 class="m-search-result__city">Utrecht</h3>
+            <h4 class="m-search-result__amount-of-rooms">4 kamers</h4>
+          </div>
+          <div class="m-search-result__details">
+            <h3 class="m-search-result__price"><span>€</span> 300.000</h3>
+
+            <div class="m-search-result__status-wrap">
+                              <span class="m-search-result-status m-search-result-status--open-house">Open Huis</span>
+              
+                          </div>
+
+          </div>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-03-31T05:41:04.812Z</updated>
+        <updated>2025-03-31T17:38:35.370Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>322 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>321 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
