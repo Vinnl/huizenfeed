@@ -2,8 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-30T17:39:23.530Z</updated>
+    <updated>2025-03-31T05:42:59.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Livingstonelaan 808 (Peek & Pompe makelaars)]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/livingstonelaan-808/67e1780d9e47880321ce5db6</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/livingstonelaan-808/67e1780d9e47880321ce5db6"/>
+        <updated>2025-03-31T05:40:13.309Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/livingstonelaan-808/67e1780d9e47880321ce5db6" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67e1780d9e47880321ce5db6/rw-api-sha/MjIxODA1ODgxLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E5ZTg1OWUzOGQwMTk4NTdlM2MyNGY2YzNiMGU2YzUwNTBjZmNlZjY3YWIwMjUzYmEwYzJmZGQ1MjUwM2NlMWM0/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/livingstonelaan-808/67e1780d9e47880321ce5db6" class="card-object-address">Livingstonelaan 808</a><br>
+				<span class="card-object-price"><b>3526 JK Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 380,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Galerijflat</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">110</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">3</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rijnlaan 168 (Peek & Pompe makelaars)]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2"/>
+        <updated>2025-03-31T05:40:13.314Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67caba33331242eeae6663a2/rw-api-sha/MjE3NTcyNTA1LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EzNmU4NjQyNWYwYWMzOWU5NjE4Zjc3YWYyNzNhZjQ4MTMxMzUyZDBkZDExZGIyZjk2NTdmMTc0YzU5OTY1YzVh/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/rijnlaan-168/67caba33331242eeae6663a2" class="card-object-address">Rijnlaan 168</a><br>
+				<span class="card-object-price"><b>3522 BX Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 687,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Tussenwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">128</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">5</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dantelaan
 				
@@ -385,7 +447,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -448,7 +510,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -558,7 +620,7 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-03-30T17:37:45.696Z</updated>
+        <updated>2025-03-31T05:41:04.812Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
