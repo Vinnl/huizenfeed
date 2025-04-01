@@ -2,9 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-04-01T05:42:28.979Z</updated>
+    <updated>2025-04-01T17:46:08.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Schoenlappervlinder 28]]></title>
+        <id>https://www.beumer.nl/wonen/object/schoenlappervlinder-28-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/schoenlappervlinder-28-utrecht/"/>
+        <updated>2025-04-01T17:44:52.650Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/schoenlappervlinder-28-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-150x150.jpg" alt="                        Schoenlappervlinder 28
+                    " src="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Schoenlappervlinder 28
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 700.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>121 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        6 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        A
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burt Bacharachstraat 30]]></title>
+        <id>https://www.beumer.nl/wonen/object/burt-bacharachstraat-30-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/burt-bacharachstraat-30-utrecht/"/>
+        <updated>2025-04-01T17:44:52.652Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/burt-bacharachstraat-30-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN23303/MN23303-204626-Burt-Bacharachstraat-30-Utrecht-184820681-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN23303/MN23303-204626-Burt-Bacharachstraat-30-Utrecht-184820681-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN23303/MN23303-204626-Burt-Bacharachstraat-30-Utrecht-184820681-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN23303/MN23303-204626-Burt-Bacharachstraat-30-Utrecht-184820681-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/MN23303/MN23303-204626-Burt-Bacharachstraat-30-Utrecht-184820681-150x150.jpg" alt="                        Burt Bacharachstraat 30
+                    " src="/app/uploads/sure/media/MN23303/MN23303-204626-Burt-Bacharachstraat-30-Utrecht-184820681-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Burt Bacharachstraat 30
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 569.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>114 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        4 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        B
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sweder van Zuylenweg 15]]></title>
         <id>https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/</id>
