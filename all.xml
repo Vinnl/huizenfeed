@@ -2,44 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-02T05:48:08.070Z</updated>
+    <updated>2025-04-02T17:40:33.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Van Vollenhovenlaan 175
-							Utrecht
-						
-
-						
-						€ 409.000 / K.K. (LEF Makelaars)]]></title>
-        <id>https://www.lefmakelaars.nl/aanbod/van-vollenhovenlaan-175-utrecht/</id>
-        <link href="https://www.lefmakelaars.nl/aanbod/van-vollenhovenlaan-175-utrecht/"/>
-        <updated>2025-02-17T10:24:17.864Z</updated>
-        <content type="html"><![CDATA[<div class="block-spacer">
-
-			
-			<a href="https://www.lefmakelaars.nl/aanbod/van-vollenhovenlaan-175-utrecht/" class="block-inner aanbod-item" style="background-image: url('https://www.lefmakelaars.nl/wp-content/uploads/2024/04/177744911-768x511.jpg');">
-				<div class="gradient bottom"></div>
-				<div class="hover"></div>
-
-				<div class="statuslabel ">Te koop</div>
-                
-				<div class="row">
-					<div class="col-md-12 align-self-end notranslate">
-						
-						<div class="aanbod-header">
-							<h2 class="text-truncate notranslate">Van Vollenhovenlaan 175</h2>
-							<p class="notranslate">Utrecht</p>
-						</div>
-
-						
-						<div class="aanbod-prijs notranslate">€ 409.000 / K.K.</div>
-
-					</div>
-				</div>
-			</a>
-
-		</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Marco Pololaan 359
             Utrecht
@@ -300,13 +264,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-04-02T05:46:29.727Z</updated>
+        <updated>2025-04-02T17:38:50.332Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>324 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>330 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -500,6 +464,54 @@
 					</div>
 
 					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/abstederdijk-123a/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 575.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seringstraat 2 (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/seringstraat-2/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/seringstraat-2/"/>
+        <updated>2025-04-02T17:39:00.152Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/seringstraat-2/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.430.581/222111861.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 8.430.581">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.430.581/222111861-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.430.581/222437239-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/seringstraat-2/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/seringstraat-2/">
+					<div class="item-data" data-no-translation="">
+						<h1>Seringstraat 2</h1>
+						<h2>3551 TL - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>138 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (4 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/seringstraat-2/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 499.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
