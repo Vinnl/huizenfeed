@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-05T17:44:46.698Z</updated>
+    <updated>2025-04-06T05:40:48.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[P.G. van Nieuwkerkpad
@@ -446,7 +446,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/b6cbc814-71f5-4e0e-9cb4-cb8a3776a62c" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -496,10 +496,7 @@
             4 kamers
           
           
-            € 300.000
-
-            
-                              Open Huis (Makelaarsland)]]></title>
+            € 300.000 (Makelaarsland)]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/"/>
         <updated>2025-03-31T17:38:35.403Z</updated>
@@ -511,7 +508,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/fad44424-c38c-465c-9439-7e605b86367a" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/fad44424-c38c-465c-9439-7e605b86367a&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/fad44424-c38c-465c-9439-7e605b86367a" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -549,7 +546,6 @@
             <h3 class="m-search-result__price"><span>€</span> 300.000</h3>
 
             <div class="m-search-result__status-wrap">
-                              <span class="m-search-result-status m-search-result-status--open-house">Open Huis</span>
               
                           </div>
 
@@ -574,7 +570,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/99c42533-3991-4654-8359-c93d68d83dc0" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -684,7 +680,7 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-04-05T17:43:11.402Z</updated>
+        <updated>2025-04-06T05:38:52.890Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
