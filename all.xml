@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-07T05:47:47.746Z</updated>
+    <updated>2025-04-07T17:40:30.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[P.G. van Nieuwkerkpad
@@ -680,13 +680,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-04-07T05:45:54.615Z</updated>
+        <updated>2025-04-07T17:38:39.754Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>337 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>338 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -886,6 +886,56 @@
 	</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rijksdaalderplantsoen 19 (Beumer Utrecht)]]></title>
+        <id>https://www.beumer.nl/wonen/object/rijksdaalderplantsoen-19-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/rijksdaalderplantsoen-19-utrecht/"/>
+        <updated>2025-04-07T17:39:17.938Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/rijksdaalderplantsoen-19-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24108/MN24108-205524-Rijksdaalderplantsoen-19-Utrecht-223520285-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24108/MN24108-205524-Rijksdaalderplantsoen-19-Utrecht-223520285-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24108/MN24108-205524-Rijksdaalderplantsoen-19-Utrecht-223520285-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24108/MN24108-205524-Rijksdaalderplantsoen-19-Utrecht-223520285-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24108/MN24108-205524-Rijksdaalderplantsoen-19-Utrecht-223520285-150x150.jpg" alt="                        Rijksdaalderplantsoen 19
+                    " src="/app/uploads/sure/media/MN24108/MN24108-205524-Rijksdaalderplantsoen-19-Utrecht-223520285-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Rijksdaalderplantsoen 19
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 637.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>111 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        4 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        A
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Schoenlappervlinder 28 (Beumer Utrecht)]]></title>
         <id>https://www.beumer.nl/wonen/object/schoenlappervlinder-28-utrecht/</id>
         <link href="https://www.beumer.nl/wonen/object/schoenlappervlinder-28-utrecht/"/>
@@ -1068,39 +1118,5 @@
 			</li>
 		</ul>
   </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coornhertstraat 76 Bs (Ludenhoff Groep)]]></title>
-        <id>https://www.ludenhoff.nl/wonen/object/coornhertstraat-76bs-utrecht/</id>
-        <link href="https://www.ludenhoff.nl/wonen/object/coornhertstraat-76bs-utrecht/"/>
-        <updated>2025-03-25T17:41:49.830Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.ludenhoff.nl/wonen/object/coornhertstraat-76bs-utrecht/" class="card-product__link"></a>
-        
-        <div class="card-product__image">
-            <picture>
-                <source media="(min-width:560px)" srcset="/app/uploads/sure/media/UT101841/UT101841-321550-Coornhertstraat-76BS-Utrecht-222308631-730x486-c-default.webp">
-                <source media="(min-width:560px)" srcset="/app/uploads/sure/media/UT101841/UT101841-321550-Coornhertstraat-76BS-Utrecht-222308631-730x486-c-default.jpg">
-                <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT101841/UT101841-321550-Coornhertstraat-76BS-Utrecht-222308631-560x448-c-default.webp">
-                <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT101841/UT101841-321550-Coornhertstraat-76BS-Utrecht-222308631-560x448-c-default.jpg">
-                <img loading="lazy" data-src="/app/uploads/sure/media/UT101841/UT101841-321550-Coornhertstraat-76BS-Utrecht-222308631-730x486-c-default.jpg" alt="" src="/app/uploads/sure/media/UT101841/UT101841-321550-Coornhertstraat-76BS-Utrecht-222308631-730x486-c-default.jpg" data-ll-status="loaded" class="loaded">
-            </picture>
-        </div>
-
-                    <span class="card-product__label">Beschikbaar</span>
-        
-                    <div class="card-product__heart btn btn--io btn--white heart-favorite" data-id="321550">
-                <i class="icon-heart"></i>
-            </div>
-        
-        <div class="card-product__content">
-            <div class="card-product__name">Utrecht</div>
-
-            <h5>Coornhertstraat 76 Bs</h5>
-
-            <div class="card-product__price">
-                                                            € 535.000
-                        ,- k.k.
-                                                </div>
-        </div>]]></content>
     </entry>
 </feed>
