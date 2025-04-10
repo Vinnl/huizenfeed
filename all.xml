@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-10T05:47:07.125Z</updated>
+    <updated>2025-04-10T17:40:25.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[P.G. van Nieuwkerkpad
@@ -680,13 +680,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-04-10T05:45:25.957Z</updated>
+        <updated>2025-04-10T17:38:45.155Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>338 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>336 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -836,6 +836,14 @@
 			</div>
 		</div>
 	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2e Daalsedijk 51 BS 3551 EB UTRECHT (Van Vulpen & Roozenburg makelaars)]]></title>
+        <id>https://www.vanvulpenroozenburg.nl/aanbod/2e-daalsedijk-51-bs/t66e84974/</id>
+        <link href="https://www.vanvulpenroozenburg.nl/aanbod/2e-daalsedijk-51-bs/t66e84974/"/>
+        <updated>2025-04-10T17:39:06.896Z</updated>
+        <content type="html"><![CDATA[<a href="/aanbod/2e-daalsedijk-51-bs/t66e84974/"></a><figure class="object-block-image" style="background-image: url(/data/temp/4-400-262/73010bef8f9c4f5ad049976d2c29f6c3.jpg)">
+<label class="label label-primary hidden"><span>Beschikbaar</span></label>            <img class="sr-only" src="/data/temp/4-400-262/73010bef8f9c4f5ad049976d2c29f6c3.jpg" title="2e Daalsedijk 51 BS UTRECHT" alt="2e Daalsedijk 51 BS UTRECHT"></figure><div class="object-block-body"><div class="object-content-header"><h4 class="font-default">2e Daalsedijk 51 BS <small>3551 EB UTRECHT</small></h4></div></div><div class="object-price">€ 450.000 <small>k.k.</small></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rijksdaalderplantsoen 19 (Beumer Utrecht)]]></title>
@@ -1070,5 +1078,44 @@
 			</li>
 		</ul>
   </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jan Pieterszoon Coenstraat 54 (Wij Makelaardij)]]></title>
+        <id>https://www.wijmakelaardij.nl/woning/utrecht-jan-pieterszoon-coenstraat-54/</id>
+        <link href="https://www.wijmakelaardij.nl/woning/utrecht-jan-pieterszoon-coenstraat-54/"/>
+        <updated>2025-04-10T17:39:37.271Z</updated>
+        <content type="html"><![CDATA[<div class="woning_img">
+        <img class="list-image" src="https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/8.880.335/224080785-768x512.jpg" alt="">
+    </div>
+    <div class="content" style="background-image:url(https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/8.880.335/224080785-768x512.jpg);">
+        <div class="status ">
+                            Beschikbaar                    </div>
+        <div class="title clearfix">
+            <div class="left grid">
+                <h2>Utrecht</h2>
+                <p>Jan Pieterszoon Coenstraat 54</p>
+            </div>
+            <div class="left list">
+                <h2>Jan Pieterszoon Coenstraat 54, Utrecht</h2>
+                <p>Benedenwoning € 550.000,- k.k.</p>
+            </div>
+            <div class="right grid">
+                <span>Benedenwoning</span>
+                <p>€ 550.000,- k.k.</p>
+            </div>
+            <div class="bottom clearfix">
+                <p>
+                    <i class="fa fa-home"></i>
+                    87 m<sup>2</sup>                </p>
+                <p>
+                    <i class="fa fa-bed"></i>
+                    2                </p>
+                <p>
+                    <i class="fa fa-bath"></i>
+                    1                </p>
+            </div>
+        </div>
+    </div>
+    <a class="overlay" href="https://www.wijmakelaardij.nl/woning/utrecht-jan-pieterszoon-coenstraat-54/"></a>]]></content>
     </entry>
 </feed>
