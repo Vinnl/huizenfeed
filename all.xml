@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-14T17:45:46.040Z</updated>
+    <updated>2025-04-15T05:42:44.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[P.G. van Nieuwkerkpad
@@ -27,9 +27,7 @@
 			
 			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/223513325.jpg?portalid=4286&amp;check=api_sha256%3a21a359c93e0265e763b23a1004ec6f635b6f6741d4b19baad06a17180c47724a&amp;=20250403211540&amp;width=720&amp;height=480" class="img-fluid img-cover w-100 lazy loaded" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/223513325.jpg?portalid=4286&amp;check=api_sha256%3a21a359c93e0265e763b23a1004ec6f635b6f6741d4b19baad06a17180c47724a&amp;=20250403211540&amp;width=720&amp;height=480" data-ll-status="loaded">
 
-																												<div class="object-status object-status-new position-absolute py-2 px-3">
-											Nieuw					</div>
-																</div>
+																													</div>
 																																											</a>
 										
 																				</div>
@@ -618,7 +616,7 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-04-14T17:44:07.335Z</updated>
+        <updated>2025-04-15T05:41:02.831Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
@@ -921,56 +919,6 @@
                                                     <p>
                         <i class="icon icon-doorstep"></i>
                         4 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schoenlappervlinder 28 (Beumer Utrecht)]]></title>
-        <id>https://www.beumer.nl/wonen/object/schoenlappervlinder-28-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/schoenlappervlinder-28-utrecht/"/>
-        <updated>2025-04-01T17:44:52.650Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/schoenlappervlinder-28-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-150x150.jpg" alt="                        Schoenlappervlinder 28
-                    " src="/app/uploads/sure/media/MN24175/MN24175-204753-Schoenlappervlinder-28-Utrecht-222713305-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Schoenlappervlinder 28
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 700.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>121 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        6 kamer(s)
                     </p>
                                                     <p>
                         <i class="icon icon-label"></i>

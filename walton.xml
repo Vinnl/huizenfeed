@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.walton.nl/aanbod-makelaar/?_plaatsen=utrecht&amp;_prijs_van=500000-9999999&amp;_prijs_tot=1-700000</id>
     <title>Walton Makelaars</title>
-    <updated>2025-04-14T17:45:46.022Z</updated>
+    <updated>2025-04-15T05:42:44.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.walton.nl/wp-content/uploads/2023/10/favicon.png</icon>
     <entry>
@@ -28,9 +28,7 @@
 			
 			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/223513325.jpg?portalid=4286&amp;check=api_sha256%3a21a359c93e0265e763b23a1004ec6f635b6f6741d4b19baad06a17180c47724a&amp;=20250403211540&amp;width=720&amp;height=480" class="img-fluid img-cover w-100 lazy loaded" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/223513325.jpg?portalid=4286&amp;check=api_sha256%3a21a359c93e0265e763b23a1004ec6f635b6f6741d4b19baad06a17180c47724a&amp;=20250403211540&amp;width=720&amp;height=480" data-ll-status="loaded">
 
-																												<div class="object-status object-status-new position-absolute py-2 px-3">
-											Nieuw					</div>
-																</div>
+																													</div>
 																																											</a>
 										
 																				</div>
