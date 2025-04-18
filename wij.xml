@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wijmakelaardij.nl/woningaanbod/</id>
     <title>Wij Makelaardij</title>
-    <updated>2025-04-18T05:47:15.446Z</updated>
+    <updated>2025-04-18T17:40:46.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wijmakelaardij.nl/wp-content/uploads/2019/03/cropped-logo-1-1-32x32.png</icon>
     <entry>
@@ -43,44 +43,5 @@
         </div>
     </div>
     <a class="overlay" href="https://www.wijmakelaardij.nl/woning/utrecht-adriaen-beyerkade-4/"></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jan Pieterszoon Coenstraat 54]]></title>
-        <id>https://www.wijmakelaardij.nl/woning/utrecht-jan-pieterszoon-coenstraat-54/</id>
-        <link href="https://www.wijmakelaardij.nl/woning/utrecht-jan-pieterszoon-coenstraat-54/"/>
-        <updated>2025-04-10T17:39:37.271Z</updated>
-        <content type="html"><![CDATA[<div class="woning_img">
-        <img class="list-image" src="https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/8.880.335/224080785-768x512.jpg" alt="">
-    </div>
-    <div class="content" style="background-image:url(https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/8.880.335/224080785-768x512.jpg);">
-        <div class="status ">
-                            Beschikbaar                    </div>
-        <div class="title clearfix">
-            <div class="left grid">
-                <h2>Utrecht</h2>
-                <p>Jan Pieterszoon Coenstraat 54</p>
-            </div>
-            <div class="left list">
-                <h2>Jan Pieterszoon Coenstraat 54, Utrecht</h2>
-                <p>Benedenwoning € 550.000,- k.k.</p>
-            </div>
-            <div class="right grid">
-                <span>Benedenwoning</span>
-                <p>€ 550.000,- k.k.</p>
-            </div>
-            <div class="bottom clearfix">
-                <p>
-                    <i class="fa fa-home"></i>
-                    87 m<sup>2</sup>                </p>
-                <p>
-                    <i class="fa fa-bed"></i>
-                    2                </p>
-                <p>
-                    <i class="fa fa-bath"></i>
-                    1                </p>
-            </div>
-        </div>
-    </div>
-    <a class="overlay" href="https://www.wijmakelaardij.nl/woning/utrecht-jan-pieterszoon-coenstraat-54/"></a>]]></content>
     </entry>
 </feed>
