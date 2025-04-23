@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vanvulpenroozenburg.nl/aanbod/?filter-group-id=3&amp;filter[11]=&amp;filter[14][]=UTRECHT&amp;filter[12]=&amp;range-filter-to=700000&amp;filter[15]=%2C700000</id>
     <title>Van Vulpen &amp; Roozenburg makelaars</title>
-    <updated>2025-04-23T05:47:53.440Z</updated>
+    <updated>2025-04-23T17:42:32.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.vanvulpenroozenburg.nl/images/favicon.png</icon>
     <entry>
@@ -11,6 +11,6 @@
         <link href="https://www.vanvulpenroozenburg.nl/aanbod/2e-daalsedijk-51-bs/t66e84974/"/>
         <updated>2025-04-10T17:39:06.896Z</updated>
         <content type="html"><![CDATA[<a href="/aanbod/2e-daalsedijk-51-bs/t66e84974/"></a><figure class="object-block-image" style="background-image: url(/data/temp/4-400-262/73010bef8f9c4f5ad049976d2c29f6c3.jpg)">
-<label class="label label-primary hidden"><span>Beschikbaar</span></label>            <img class="sr-only" src="/data/temp/4-400-262/73010bef8f9c4f5ad049976d2c29f6c3.jpg" title="2e Daalsedijk 51 BS UTRECHT" alt="2e Daalsedijk 51 BS UTRECHT"></figure><div class="object-block-body"><div class="object-content-header"><h4 class="font-default">2e Daalsedijk 51 BS <small>3551 EB UTRECHT</small></h4></div></div><div class="object-price">€ 450.000 <small>k.k.</small></div>]]></content>
+<label class="label label-primary"><span>onder bod</span></label>            <img class="sr-only" src="/data/temp/4-400-262/73010bef8f9c4f5ad049976d2c29f6c3.jpg" title="2e Daalsedijk 51 BS UTRECHT" alt="2e Daalsedijk 51 BS UTRECHT"></figure><div class="object-block-body"><div class="object-content-header"><h4 class="font-default">2e Daalsedijk 51 BS <small>3551 EB UTRECHT</small></h4></div></div><div class="object-price">€ 450.000 <small>k.k.</small></div>]]></content>
     </entry>
 </feed>
