@@ -2,165 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-25T17:40:25.688Z</updated>
+    <updated>2025-04-26T05:41:58.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Slotlaan 40 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/slotlaan-40/68075f2853df1c29efb7237b</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/slotlaan-40/68075f2853df1c29efb7237b"/>
-        <updated>2025-04-25T17:38:06.858Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/slotlaan-40/68075f2853df1c29efb7237b" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/68075f2853df1c29efb7237b/rw-api-sha/MjI0MzA3MTMxLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FhOGFiNGNmMTU0YmEyOWEzOTJhN2E1ZDg2MmI2ODU1OWRhMDFiNjA0MzFiZjliNjIzZDFiNDdhZjYwZWNiODc5/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-				<span class="card-object-status new">Nieuw!</span>
-			
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/slotlaan-40/68075f2853df1c29efb7237b" class="card-object-address">Slotlaan 40</a><br>
-				<span class="card-object-price"><b>3523 HD Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 325,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Portiekflat</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">72</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homeruslaan 30 BS (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d"/>
-        <updated>2025-04-25T17:38:06.861Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/68010e0229ede7d94440a78d/rw-api-sha/MjIyMzg5MjI5LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FiOTZlMWNjMmEyOTdmOTJjMzBjMmFiMzQ5NDNlYTJjYjY3MzM0MjI2MTQ1Yzk0MTYyYWY5NzljYTQ1MWY4NDQ4/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d" class="card-object-address">Homeruslaan 30 BS</a><br>
-				<span class="card-object-price"><b>3581 MH Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 497,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Maisonnette</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">95</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">2</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Otterstraat 80 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/otterstraat-80/67fce132d967d4031f1afd1c</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/otterstraat-80/67fce132d967d4031f1afd1c"/>
-        <updated>2025-04-25T17:38:06.867Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/otterstraat-80/67fce132d967d4031f1afd1c" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67fce132d967d4031f1afd1c/rw-api-sha/MjI0NTU4NTI4LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FlOWU3ODdjNWUyN2RlMWViN2UwZWYzMDQ0MWRmOWI5YmRmNGI1N2MzZjdlMWI0YmNkM2RlYTI3NDc3ZTdlYzVm/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/otterstraat-80/67fce132d967d4031f1afd1c" class="card-object-address">Otterstraat 80</a><br>
-				<span class="card-object-price"><b>3513 CP Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 650,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">112</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amaliastraat 80 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/amaliastraat-80/67f924f63f612903276bad5c</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/amaliastraat-80/67f924f63f612903276bad5c"/>
-        <updated>2025-04-25T17:38:06.875Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/amaliastraat-80/67f924f63f612903276bad5c" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67f924f63f612903276bad5c/rw-api-sha/MjI0NzMxMjkyLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E4Yjk4N2Q3N2I5NmM0NTZiNzUxZmMwM2VjODViZDNlODJlMDQyNjFkNjYyMDE5NGI3YWEyNWJjNWE2ZmNmMGJk/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/amaliastraat-80/67f924f63f612903276bad5c" class="card-object-address">Amaliastraat 80</a><br>
-				<span class="card-object-price"><b>3522 AW Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 669,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">100</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Johannes Gerobulusstraat 10 BS (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/johannes-gerobulusstraat-10-bs/67f78d243f612903276a30c0</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/johannes-gerobulusstraat-10-bs/67f78d243f612903276a30c0"/>
-        <updated>2025-04-25T17:38:06.875Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/johannes-gerobulusstraat-10-bs/67f78d243f612903276a30c0" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67f78d243f612903276a30c0/rw-api-sha/MjIzNTAxNjQzLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FlMmFlZDA3MmM3ZjVhYWE0N2Y1NzM1NjMyOGJlNDk0NTNmNTExZTU1NGUwMDFmMTA4MGFiMGZlZjFhOWJkZTZi/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/johannes-gerobulusstraat-10-bs/67f78d243f612903276a30c0" class="card-object-address">Johannes Gerobulusstraat 10 BS</a><br>
-				<span class="card-object-price"><b>3553 KA Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 399,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Bovenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">90</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Balderikstraat
 				
@@ -935,13 +778,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-04-25T17:38:44.979Z</updated>
+        <updated>2025-04-26T05:40:22.965Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>341 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>340 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -1053,56 +896,6 @@
 <label class="label label-primary"><span>onder bod</span></label>            <img class="sr-only" src="/data/temp/4-400-262/73010bef8f9c4f5ad049976d2c29f6c3.jpg" title="2e Daalsedijk 51 BS UTRECHT" alt="2e Daalsedijk 51 BS UTRECHT"></figure><div class="object-block-body"><div class="object-content-header"><h4 class="font-default">2e Daalsedijk 51 BS <small>3551 EB UTRECHT</small></h4></div></div><div class="object-price">€ 450.000 <small>k.k.</small></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jule Stynestraat 19 (Beumer Utrecht)]]></title>
-        <id>https://www.beumer.nl/wonen/object/jule-stynestraat-19-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/jule-stynestraat-19-utrecht/"/>
-        <updated>2025-04-11T05:47:40.791Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/jule-stynestraat-19-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN23552/MN23552-206127-Jule-Stynestraat-19-Utrecht-188653227-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN23552/MN23552-206127-Jule-Stynestraat-19-Utrecht-188653227-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN23552/MN23552-206127-Jule-Stynestraat-19-Utrecht-188653227-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN23552/MN23552-206127-Jule-Stynestraat-19-Utrecht-188653227-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/MN23552/MN23552-206127-Jule-Stynestraat-19-Utrecht-188653227-150x150.jpg" alt="                        Jule Stynestraat 19
-                    " src="/app/uploads/sure/media/MN23552/MN23552-206127-Jule-Stynestraat-19-Utrecht-188653227-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Jule Stynestraat 19
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 650.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>129 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        3 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sweder van Zuylenweg 15 (Beumer Utrecht)]]></title>
         <id>https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/</id>
         <link href="https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/"/>
@@ -1185,61 +978,6 @@
 			</li>
 		</ul>
   </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hermannus Elconiusstraat 23 (365makelaardij)]]></title>
-        <id>https://365makelaardij.nl/wonen/object/hermannus-elconiusstraat-23-utrecht/</id>
-        <link href="https://365makelaardij.nl/wonen/object/hermannus-elconiusstraat-23-utrecht/"/>
-        <updated>2025-04-15T17:47:42.974Z</updated>
-        <content type="html"><![CDATA[<a href="https://365makelaardij.nl/wonen/object/hermannus-elconiusstraat-23-utrecht/" class="card-property" title="Hermannus Elconiusstraat 23 ">
-    <div class="card-property__image">
-
-                
-<picture>
-                                                    
-                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101798/UT101798-20806-Hermannus-Elconiusstraat-23-Utrecht-225299880.jpg" type="image/jpeg" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101798/UT101798-20806-Hermannus-Elconiusstraat-23-Utrecht-225299880.jpg">
-            
-                                                            
-                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101798/UT101798-20806-Hermannus-Elconiusstraat-23-Utrecht-225299880.jpg" type="image/jpeg" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101798/UT101798-20806-Hermannus-Elconiusstraat-23-Utrecht-225299880.jpg">
-            
-                                                            
-                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101798/UT101798-20806-Hermannus-Elconiusstraat-23-Utrecht-225299880.jpg" type="image/jpeg" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101798/UT101798-20806-Hermannus-Elconiusstraat-23-Utrecht-225299880.jpg">
-            
-                                                <img fetchpriority="high" data-src="https://365makelaardij.nl/app/uploads/sure/media/UT101798/UT101798-20806-Hermannus-Elconiusstraat-23-Utrecht-225299880-150x150.webp" alt="UT101798-20806-Hermannus-Elconiusstraat-23,-Utrecht-225299880" class=" ls-is-cached lazyloaded" loading="lazy" src="https://365makelaardij.nl/app/uploads/sure/media/UT101798/UT101798-20806-Hermannus-Elconiusstraat-23-Utrecht-225299880-150x150.webp">
-                                        </picture>
-    </div>
-
-            <div class="card-property__label">
-            <span>Beschikbaar</span>
-        </div>
-    
-    <div class="card-property__content">
-        <div class="row align-items-end">
-            <div class="col-md-6">
-                <h4>Hermannus Elconiusstraat 23 </h4>
-                                    <ul class="card-property__list">
-                                                    <li class="card-property__list-item">
-                                            € 500.000 k.k.
-                                </li>
-                                                                            <li class="card-property__list-item">
-                                Utrecht
-                            </li>
-                                            </ul>
-                            </div>
-
-                            <div class="col-md-6 mt-15 mt-md-0 d-flex justify-content-md-end">
-                    <ul class="card-property__list justify-content-md-end">
-                                                    <li class="card-property__list-item">
-                                <i class="icon-surface"></i>76m²
-                            </li>
-                                                                            <li class="card-property__list-item">
-                                <i class="icon-door"></i>4
-                            </li>
-                                            </ul>
-                </div>
-                    </div>
-    </div>
-</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Verlengde Hoogravenseweg 238 (Waltmann Makelaars)]]></title>
