@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&amp;fwp_status=te-koop&amp;fwp_koopprijs=172500.00%2C699440.00&amp;fwp_oppervlakte=98.00%2C165.00</id>
     <title>LEF Makelaars</title>
-    <updated>2025-04-28T05:54:24.003Z</updated>
+    <updated>2025-04-28T17:40:31.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lefmakelaars.nl/wp-content/uploads/2018/08/cropped-favicon-32x32.png</icon>
     <entry>
@@ -70,42 +70,6 @@
 
 						
 						<div class="aanbod-prijs notranslate">€ 549.000 / K.K.</div>
-
-					</div>
-				</div>
-			</a>
-
-		</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galjoenstraat 37
-							Utrecht
-						
-
-						
-						€ 475.000 / K.K.]]></title>
-        <id>https://www.lefmakelaars.nl/aanbod/galjoenstraat-37-utrecht/</id>
-        <link href="https://www.lefmakelaars.nl/aanbod/galjoenstraat-37-utrecht/"/>
-        <updated>2025-04-15T17:46:31.735Z</updated>
-        <content type="html"><![CDATA[<div class="block-spacer">
-
-			
-			<a href="https://www.lefmakelaars.nl/aanbod/galjoenstraat-37-utrecht/" class="block-inner aanbod-item" style="background-image: url('https://www.lefmakelaars.nl/wp-content/uploads/2025/04/223725099-768x512.jpg');">
-				<div class="gradient bottom"></div>
-				<div class="hover"></div>
-
-				<div class="statuslabel ">Te koop</div>
-                
-				<div class="row">
-					<div class="col-md-12 align-self-end notranslate">
-						
-						<div class="aanbod-header">
-							<h2 class="text-truncate notranslate">Galjoenstraat 37</h2>
-							<p class="notranslate">Utrecht</p>
-						</div>
-
-						
-						<div class="aanbod-prijs notranslate">€ 475.000 / K.K.</div>
 
 					</div>
 				</div>

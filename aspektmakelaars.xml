@@ -2,7 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.aspektmakelaars.nl/wonen/zoeken/heel-nederland/koop/0-400000/utrecht/4-kamers/3-slaapkamers/beschikbaar/</id>
     <title>Aspekt Makelaars</title>
-    <updated>2025-04-28T05:54:24.029Z</updated>
+    <updated>2025-04-28T17:40:31.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.aspektmakelaars.nl/app/themes/supress/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[De Louterlaan 6]]></title>
+        <id>https://www.aspektmakelaars.nl/wonen/object/de-louterlaan-6-utrecht/</id>
+        <link href="https://www.aspektmakelaars.nl/wonen/object/de-louterlaan-6-utrecht/"/>
+        <updated>2025-04-28T17:40:15.978Z</updated>
+        <content type="html"><![CDATA[<div class="offer">
+        <div class="card-house__thumb">
+                            <picture>
+                    <img src="/app/uploads/sure/media/NN16063/NN16063-40395-De-Louterlaan-6-Utrecht-224910898.jpg" alt="">
+                </picture>
+                        <div class="card-house__status">
+                                                    
+                            </div>
+        </div>
+        <div class="short--info">
+                            <h5>Utrecht</h5>
+                                        <h2>De Louterlaan 6 </h2>
+            
+                                                <p class="lead">
+                        € 375.000
+                        ,- K.K.</p>
+                                    </div>
+        <div class="data--short">
+                            <div class="data">
+                    <span class="icon">
+                        <img src="https://www.aspektmakelaars.nl/app/themes/supress/dist//images/icons/icon-house.svg?id=270b0b3e8a6faa1799bb" alt="">
+                    </span>
+                    <span class="date__inner">
+                        75 m<sup>2</sup>
+                    </span>
+                </div>
+                                        <div class="data">
+                        <span class="icon">
+                            <img src="https://www.aspektmakelaars.nl/app/themes/supress/dist//images/icons/icon-bedroom.svg?id=c2f736c600882e1c78cd" alt="">
+                        </span>
+                    <span class="date__inner">
+                        3 slaapkamers
+                    </span>
+                </div>
+                    </div>
+    </div>]]></content>
+    </entry>
 </feed>
