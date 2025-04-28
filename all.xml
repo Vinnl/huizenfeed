@@ -2,165 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-27T17:49:46.246Z</updated>
+    <updated>2025-04-28T05:54:24.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Slotlaan 40 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/slotlaan-40/68075f2853df1c29efb7237b</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/slotlaan-40/68075f2853df1c29efb7237b"/>
-        <updated>2025-04-27T17:37:34.690Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/slotlaan-40/68075f2853df1c29efb7237b" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/68075f2853df1c29efb7237b/rw-api-sha/MjI0MzA3MTMxLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FhOGFiNGNmMTU0YmEyOWEzOTJhN2E1ZDg2MmI2ODU1OWRhMDFiNjA0MzFiZjliNjIzZDFiNDdhZjYwZWNiODc5/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-				<span class="card-object-status new">Nieuw!</span>
-			
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/slotlaan-40/68075f2853df1c29efb7237b" class="card-object-address">Slotlaan 40</a><br>
-				<span class="card-object-price"><b>3523 HD Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 325,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Portiekflat</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">72</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homeruslaan 30 BS (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d"/>
-        <updated>2025-04-27T17:37:34.693Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/68010e0229ede7d94440a78d/rw-api-sha/MjIyMzg5MjI5LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FiOTZlMWNjMmEyOTdmOTJjMzBjMmFiMzQ5NDNlYTJjYjY3MzM0MjI2MTQ1Yzk0MTYyYWY5NzljYTQ1MWY4NDQ4/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d" class="card-object-address">Homeruslaan 30 BS</a><br>
-				<span class="card-object-price"><b>3581 MH Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 497,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Maisonnette</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">95</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">2</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Otterstraat 80 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/otterstraat-80/67fce132d967d4031f1afd1c</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/otterstraat-80/67fce132d967d4031f1afd1c"/>
-        <updated>2025-04-27T17:37:34.694Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/otterstraat-80/67fce132d967d4031f1afd1c" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67fce132d967d4031f1afd1c/rw-api-sha/MjI0NTU4NTI4LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FlOWU3ODdjNWUyN2RlMWViN2UwZWYzMDQ0MWRmOWI5YmRmNGI1N2MzZjdlMWI0YmNkM2RlYTI3NDc3ZTdlYzVm/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/otterstraat-80/67fce132d967d4031f1afd1c" class="card-object-address">Otterstraat 80</a><br>
-				<span class="card-object-price"><b>3513 CP Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 650,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">112</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amaliastraat 80 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/amaliastraat-80/67f924f63f612903276bad5c</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/amaliastraat-80/67f924f63f612903276bad5c"/>
-        <updated>2025-04-27T17:37:34.697Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/amaliastraat-80/67f924f63f612903276bad5c" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67f924f63f612903276bad5c/rw-api-sha/MjI0NzMxMjkyLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E4Yjk4N2Q3N2I5NmM0NTZiNzUxZmMwM2VjODViZDNlODJlMDQyNjFkNjYyMDE5NGI3YWEyNWJjNWE2ZmNmMGJk/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/amaliastraat-80/67f924f63f612903276bad5c" class="card-object-address">Amaliastraat 80</a><br>
-				<span class="card-object-price"><b>3522 AW Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 669,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">100</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Johannes Gerobulusstraat 10 BS (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/johannes-gerobulusstraat-10-bs/67f78d243f612903276a30c0</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/johannes-gerobulusstraat-10-bs/67f78d243f612903276a30c0"/>
-        <updated>2025-04-27T17:37:34.699Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/johannes-gerobulusstraat-10-bs/67f78d243f612903276a30c0" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/67f78d243f612903276a30c0/rw-api-sha/MjIzNTAxNjQzLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FlMmFlZDA3MmM3ZjVhYWE0N2Y1NzM1NjMyOGJlNDk0NTNmNTExZTU1NGUwMDFmMTA4MGFiMGZlZjFhOWJkZTZi/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/johannes-gerobulusstraat-10-bs/67f78d243f612903276a30c0" class="card-object-address">Johannes Gerobulusstraat 10 BS</a><br>
-				<span class="card-object-price"><b>3553 KA Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 399,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Bovenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">90</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Balderikstraat
 				
@@ -701,7 +544,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -763,7 +606,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/23ab0f9b-e6dd-4241-8212-a8fa51272f5d" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/23ab0f9b-e6dd-4241-8212-a8fa51272f5d" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/23ab0f9b-e6dd-4241-8212-a8fa51272f5d&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -935,7 +778,7 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-04-27T17:43:10.267Z</updated>
+        <updated>2025-04-28T05:52:23.668Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
