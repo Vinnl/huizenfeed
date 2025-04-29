@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-29T05:48:14.830Z</updated>
+    <updated>2025-04-29T17:41:38.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Balderikstraat
@@ -393,42 +393,6 @@
 		</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vleutenseweg 241
-							Utrecht
-						
-
-						
-						€ 549.000 / K.K. (LEF Makelaars)]]></title>
-        <id>https://www.lefmakelaars.nl/aanbod/vleutenseweg-241-utrecht/</id>
-        <link href="https://www.lefmakelaars.nl/aanbod/vleutenseweg-241-utrecht/"/>
-        <updated>2025-04-14T05:46:38.422Z</updated>
-        <content type="html"><![CDATA[<div class="block-spacer">
-
-			
-			<a href="https://www.lefmakelaars.nl/aanbod/vleutenseweg-241-utrecht/" class="block-inner aanbod-item" style="background-image: url('https://www.lefmakelaars.nl/wp-content/uploads/2025/04/225047318-768x512.jpg');">
-				<div class="gradient bottom"></div>
-				<div class="hover"></div>
-
-				<div class="statuslabel ">Te koop</div>
-                
-				<div class="row">
-					<div class="col-md-12 align-self-end notranslate">
-						
-						<div class="aanbod-header">
-							<h2 class="text-truncate notranslate">Vleutenseweg 241</h2>
-							<p class="notranslate">Utrecht</p>
-						</div>
-
-						
-						<div class="aanbod-prijs notranslate">€ 549.000 / K.K.</div>
-
-					</div>
-				</div>
-			</a>
-
-		</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Byronstraat 9
             Utrecht
             6 kamers
@@ -615,68 +579,6 @@
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marco Pololaan 359
-            Utrecht
-            4 kamers
-          
-          
-            € 300.000 (Makelaarsland)]]></title>
-        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/</id>
-        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/"/>
-        <updated>2025-03-31T17:38:35.403Z</updated>
-        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
-  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
-  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/">
-    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/fad44424-c38c-465c-9439-7e605b86367a" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/c7be9b71-b5d5-434d-b1fb-15376ae58433" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/4c1476c1-d1fb-47d2-8323-f4be89944e73" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/5528915f-e9fa-42b4-a32e-9f9c6b10ca49" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/829d3a22-68ac-4757-8e32-405cdbc70773" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
-
-      
-    </div>
-  </a>
-  <button class="m-search-result__button" data-next-slide="next"></button>
-</figure>
-
-        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-marco-pololaan-359/" class="m-search-result__content-wrap">
-          <div class="m-search-result__content">
-            <h3 class="m-search-result__adress">Marco Pololaan 359</h3>
-            <h3 class="m-search-result__city">Utrecht</h3>
-            <h4 class="m-search-result__amount-of-rooms">4 kamers</h4>
-          </div>
-          <div class="m-search-result__details">
-            <h3 class="m-search-result__price"><span>€</span> 300.000</h3>
-
-            <div class="m-search-result__status-wrap">
-              
-                          </div>
-
-          </div>
-        </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Predikherenstraat 27
             Utrecht
             4 kamers
@@ -742,13 +644,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-04-29T05:46:17.636Z</updated>
+        <updated>2025-04-29T17:39:47.133Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>332 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>323 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -860,6 +762,56 @@
 <label class="label label-primary"><span>onder bod</span></label>            <img class="sr-only" src="/data/temp/4-400-262/73010bef8f9c4f5ad049976d2c29f6c3.jpg" title="2e Daalsedijk 51 BS UTRECHT" alt="2e Daalsedijk 51 BS UTRECHT"></figure><div class="object-block-body"><div class="object-content-header"><h4 class="font-default">2e Daalsedijk 51 BS <small>3551 EB UTRECHT</small></h4></div></div><div class="object-price">€ 450.000 <small>k.k.</small></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kelvinlaan 6 (Beumer Utrecht)]]></title>
+        <id>https://www.beumer.nl/wonen/object/kelvinlaan-6-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/kelvinlaan-6-utrecht/"/>
+        <updated>2025-04-29T17:40:25.627Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/kelvinlaan-6-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT102888/UT102888-208357-Kelvinlaan-6-Utrecht-226513312-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT102888/UT102888-208357-Kelvinlaan-6-Utrecht-226513312-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT102888/UT102888-208357-Kelvinlaan-6-Utrecht-226513312-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT102888/UT102888-208357-Kelvinlaan-6-Utrecht-226513312-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/UT102888/UT102888-208357-Kelvinlaan-6-Utrecht-226513312-150x150.jpg" alt="                        Kelvinlaan 6
+                    " src="/app/uploads/sure/media/UT102888/UT102888-208357-Kelvinlaan-6-Utrecht-226513312-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Kelvinlaan 6
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 599.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>146 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        6 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        E
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sweder van Zuylenweg 15 (Beumer Utrecht)]]></title>
         <id>https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/</id>
         <link href="https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/"/>
@@ -942,52 +894,6 @@
 			</li>
 		</ul>
   </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verlengde Hoogravenseweg 238 (Waltmann Makelaars)]]></title>
-        <id>https://www.waltmann.nl/wonen/object/verlengde-hoogravenseweg-238-utrecht/</id>
-        <link href="https://www.waltmann.nl/wonen/object/verlengde-hoogravenseweg-238-utrecht/"/>
-        <updated>2025-04-14T17:45:24.631Z</updated>
-        <content type="html"><![CDATA[<div class="card-house__image">
-        <picture>
-                            <img src="/app/uploads/sure/media/UT105408/UT105408-74724-Verlengde-Hoogravenseweg-238-Utrecht-225236338.jpg" alt="">
-                    </picture>
-
-                    <div class="card-house__tag">Te Koop</div>
-            </div>
-
-    <div class="card-house__content">
-                    <div class="card-house__subtitle">Utrecht</div>
-        
-                    <h4>Verlengde Hoogravenseweg 238 </h4>
-        
-        <p>
-                                                Vraagprijs:  € 619.000,-  Kosten koper
-                                    </p>
-
-                    <p class="card-house__subtitle mt-5">&nbsp;</p>
-        
-        <div class="card-house__bottom">
-            <ul class="list-unstyled d-flex">
-                                    <li>
-                        <i class="icon-expand"></i>
-                        <span>107 m<sup>2</sup></span>
-                    </li>
-                
-                                    <li>
-                        <i class="icon-bedroom"></i>
-                        <span>4</span>
-                    </li>
-                                            <li><i class="icon-energylabel"></i>ENERGIELABEL B</li>
-                                                </ul>
-
-            <span class="btn btn--text btn--il">
-                <i class="icon-chevron-right"></i>
-                                    Bekijk deze woning
-                
-            </span>
-        </div>
-    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[De Louterlaan 6 (Aspekt Makelaars)]]></title>
