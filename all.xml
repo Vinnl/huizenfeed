@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-01T05:43:06.831Z</updated>
+    <updated>2025-05-01T17:40:55.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Balderikstraat
@@ -329,34 +329,6 @@
 								</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hengeveldstraat 158                                 
-                                    3572 KJ Utrecht (Blauwe Eik makelaardij)]]></title>
-        <id>https://www.blauweeik.nl/wonen/object/hengeveldstraat-158-utrecht/</id>
-        <link href="https://www.blauweeik.nl/wonen/object/hengeveldstraat-158-utrecht/"/>
-        <updated>2025-04-22T17:39:33.073Z</updated>
-        <content type="html"><![CDATA[<section>
-    <figure>
-                <a href="/wonen/object/hengeveldstraat-158-utrecht/">
-                                    
-                                    <picture>
-                                                    <source data-srcset="/wp-content/uploads/sure/media/BL103883/BL103883-1822793-Hengeveldstraat-158-Utrecht-225029268.jpg.webp" media="(min-width: 100px)" type="image/webp" srcset="/wp-content/uploads/sure/media/BL103883/BL103883-1822793-Hengeveldstraat-158-Utrecht-225029268.jpg.webp">
-                                                <source data-srcset="/wp-content/uploads/sure/media/BL103883/BL103883-1822793-Hengeveldstraat-158-Utrecht-225029268.jpg" media="(min-width: 100px)" type="image/jpg" srcset="/wp-content/uploads/sure/media/BL103883/BL103883-1822793-Hengeveldstraat-158-Utrecht-225029268.jpg">
-                        <img loading="lazy" class=" ls-is-cached lazyloaded" data-src="/wp-content/uploads/sure/media/BL103883/BL103883-1822793-Hengeveldstraat-158-Utrecht-225029268-150x150.jpg" alt="3572 kj" src="/wp-content/uploads/sure/media/BL103883/BL103883-1822793-Hengeveldstraat-158-Utrecht-225029268-150x150.jpg">
-                    </picture>
-                
-            <span>Nieuw</span>                    </a>
-        </figure>
-    <article class="">
-        <h4><a href="/wonen/object/hengeveldstraat-158-utrecht/">                                Hengeveldstraat 158                 <!--				-->                <br>
-                                    <span>3572 KJ Utrecht</span>
-                                            </a>
-                </h4>
-                                            <p>€ 669.000,- Kosten koper</p>
-                            <a href="/wonen/object/hengeveldstraat-158-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
-                    </article>
-</section>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tweede Oosterparklaan 269
 							Utrecht
 						
@@ -644,13 +616,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-01T05:41:29.649Z</updated>
+        <updated>2025-05-01T17:39:10.653Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>309 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>319 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -752,14 +724,6 @@
 			</div>
 		</div>
 	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2e Daalsedijk 51 BS 3551 EB UTRECHT (Van Vulpen & Roozenburg makelaars)]]></title>
-        <id>https://www.vanvulpenroozenburg.nl/aanbod/2e-daalsedijk-51-bs/t66e84974/</id>
-        <link href="https://www.vanvulpenroozenburg.nl/aanbod/2e-daalsedijk-51-bs/t66e84974/"/>
-        <updated>2025-04-10T17:39:06.896Z</updated>
-        <content type="html"><![CDATA[<a href="/aanbod/2e-daalsedijk-51-bs/t66e84974/"></a><figure class="object-block-image" style="background-image: url(/data/temp/4-400-262/73010bef8f9c4f5ad049976d2c29f6c3.jpg)">
-<label class="label label-primary"><span>onder bod</span></label>            <img class="sr-only" src="/data/temp/4-400-262/73010bef8f9c4f5ad049976d2c29f6c3.jpg" title="2e Daalsedijk 51 BS UTRECHT" alt="2e Daalsedijk 51 BS UTRECHT"></figure><div class="object-block-body"><div class="object-content-header"><h4 class="font-default">2e Daalsedijk 51 BS <small>3551 EB UTRECHT</small></h4></div></div><div class="object-price">€ 450.000 <small>k.k.</small></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kelvinlaan 6 (Beumer Utrecht)]]></title>
