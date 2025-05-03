@@ -311,3 +311,10 @@ url = "https://thijssenmakelaars.nl/woningen/?plaats=utrecht&price_min=219000&pr
 entrySelector = "#dm-wonen-listing-grid .grid>.relative.w-full"
 titleSelector = "h3"
 linkSelector = "a"
+
+[stapmakelaars]
+title = "Stap makelaars"
+url = "https://www.stapmakelaars.nl/woningaanbod/#HYtLDoAgDETv0jULN8bE2xRCAoKWlKImhLtbnNX8XodEVEJrDPtvwUDJiFI1N2Hvgmg1l8Lx0LbDia-O2zIFw0AVlDb_1lcXYrKIrMxDdCnl-c6YxE9khfEB"
+entrySelector = "#entity-items article.card"
+titleSelector = "h3"
+linkSelector = "a"
