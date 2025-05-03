@@ -332,3 +332,11 @@ url = "https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht?availabil
 entrySelector = ".object_container"
 titleSelector = "h2"
 linkSelector = "a"
+
+[mozaiekmakelaardij]
+title = "Mozaiek Makelaardij"
+url = "https://www.mozaiekmakelaardij.nl/woningaanbod"
+entrySelector = ".object__holder"
+titleSelector = "h3 .street"
+linkSelector = "a"
+matchAllOf = ["€ 5", "Utrecht", "Woonhuis", "Nieuw in verkoop"]
