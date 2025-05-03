@@ -304,3 +304,10 @@ entrySelector = ".object-info"
 titleSelector = ".adres"
 linkSelector = "a.adreslink"
 matchAllOf = ["€ 5", "Utrecht"]
+
+[thijssenmakelaars]
+title = "Paul Thijssen makelaars"
+url = "https://thijssenmakelaars.nl/woningen/?plaats=utrecht&price_min=219000&price_max=620000&aantal_kamers=3&m2_min=75&m2_max=303"
+entrySelector = "#dm-wonen-listing-grid .grid>.relative.w-full"
+titleSelector = "h3"
+linkSelector = "a"
