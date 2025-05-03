@@ -318,3 +318,10 @@ url = "https://www.stapmakelaars.nl/woningaanbod/#HYtLDoAgDETv0jULN8bE2xRCAoKWlK
 entrySelector = "#entity-items article.card"
 titleSelector = "h3"
 linkSelector = "a"
+
+[overduyn]
+title = "overduyn makelaars"
+url = "https://overduyn.nl/koopaanbod/?_prijs_tot=1-650000&_plaatsen=utrecht&_slaapkamers=3-100"
+entrySelector = ".facetwp-template>.col-12"
+titleSelector = ".object-address-line"
+linkSelector = "a"
