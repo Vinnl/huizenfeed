@@ -379,3 +379,11 @@ url = "https://reineriehouten.nl/woningen/#HY3LCgIxDEX_Jesiguii_-FKZOgj0NrptCQpK
 entrySelector = ".card--wonen"
 titleSelector = "[itemprop=streetAddress]"
 linkSelector = "a"
+
+[pauwmakelaardij]
+title = "Pauw Makelaardij"
+url = "https://www.pauwmakelaardij.nl/aanbod/?view=list&straat&plaats=utrecht&prijs_vanaf=0&prijs_tot=650000&buitenruimte%5B0%5D=achtertuin&buitenruimte%5B1%5D=tuin-rondom&buitenruimte%5B2%5D=voortuin&woonoppervlakte=75"
+entrySelector = ".rw_makelaar_houses"
+titleSelector = "h3"
+linkSelector = "a"
+filters = ["Slaapkamers: 2", "onder bod", "Onder bod", "verkocht", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
