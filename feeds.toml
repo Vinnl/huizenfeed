@@ -1,6 +1,6 @@
 [default]
 timeout = 300
-filters = ["Onder bod", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
+filters = ["Onder bod", "verkocht", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
 onFail = "stale"
 waitUntil = "load"
 
