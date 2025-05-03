@@ -394,3 +394,11 @@ entrySelector = ".rw_makelaar_houses"
 titleSelector = "h3"
 linkSelector = "a"
 filters = ["Slaapkamers: 2", "onder bod", "Onder bod", "verkocht", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
+
+[domvast]
+title = "Domvast"
+url = "https://domvast.nl/woningen/#q1YqyElMLClWslIqLSlKTc4oUdJRKi5JLCkFCkUrJaUWJ2dkZiclJhYpxeoo5RelpBYlVQIVQ5RYJRYnK9UCAA"
+entrySelector = ".woning"
+titleSelector = "header h2:last-child"
+linkSelector = "a"
+matchAllOf = ["€ 5", "UTRECHT", "Beschikbaar"]
