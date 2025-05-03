@@ -356,3 +356,11 @@ entrySelector = ".card-object"
 titleSelector = ".card-object-address"
 linkSelector = "a"
 matchAllOf = ["€ 5", "Utrecht"]
+
+[huisportaal]
+title = "Huisportaal"
+url = "https://huisportaal.nl/koopwoningen"
+entrySelector = ".property"
+titleSelector = ".address"
+linkSelector = "a"
+matchAllOf = ["€ 5", "Utrecht"]
