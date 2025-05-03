@@ -372,3 +372,10 @@ entrySelector = "a[data-openday]"
 titleSelector = "h3"
 linkSelector = "*"
 filters = ["Aantal kamers 2", "onder bod", "Onder bod", "verkocht", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
+
+[reineriehouten]
+title = "Reinerie Houten"
+url = "https://reineriehouten.nl/woningen/#HY3LCgIxDEX_Jesiguii_-FKZOgj0NrptCQpKMP8u-lkleRczt2huoKrcwT2BYR5Q8qY2hDcLtsKbwOltZ7G0MC5goGueeGlN5bQIip4CmFIMhnlD4Pd1ftV8LhfdeAwwOJk8GzxyCHl4mep-lltvbiKpBRu6mgUkfxPrzBYWl3Oh3UcTB9-zcFJxqi6aqO64PgD"
+entrySelector = ".card--wonen"
+titleSelector = "[itemprop=streetAddress]"
+linkSelector = "a"
