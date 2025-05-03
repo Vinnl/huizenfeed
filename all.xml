@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-03T13:28:16.754Z</updated>
+    <updated>2025-05-03T17:39:57.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Tweede Oosterparklaan 269
@@ -120,7 +120,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -182,7 +182,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/23ab0f9b-e6dd-4241-8212-a8fa51272f5d" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/23ab0f9b-e6dd-4241-8212-a8fa51272f5d" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/23ab0f9b-e6dd-4241-8212-a8fa51272f5d&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -292,7 +292,7 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-03T13:26:01.138Z</updated>
+        <updated>2025-05-03T17:37:34.188Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
