@@ -35,13 +35,13 @@ titleSelector = ".card--default__body"
 linkSelector = "a.card--object"
 waitUntil = "domcontentloaded"
 
-# [brecheisen]
-# title = "Brecheisen makelaars"
-# url = "https://www.brecheisen.nl/woningaanbod/koop/utrecht?iscustom=true&isnewstate=false&locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&orderby=7&pricerange.maxprice=400000"
-# entrySelector = ".objectcontainer"
-# titleSelector = ".obj_address"
-# linkSelector = "a.sys-property-link"
-# waitUntil = "networkidle"
+[brecheisen]
+title = "Brecheisen makelaars"
+url = "https://www.brecheisen.nl/woningen/aanbod/zoeken/Utrecht+/beschikbaar/koop/0-650000/3-kamers"
+entrySelector = ".card-house"
+titleSelector = "h3"
+linkSelector = "a"
+waitUntil = "networkidle"
 
 # [punt]
 # title = "Punt Makelaars"
