@@ -333,6 +333,13 @@ entrySelector = ".object_container"
 titleSelector = "h2"
 linkSelector = "a"
 
+[yourhouse]
+title = "Your House"
+url = "https://your-house.nl/woningaanbod/koop/utrecht?availability=1&iscustom=true&locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&orderby=10&orderdescending=true&pricerange.maxprice=650000"
+entrySelector = ".object_container"
+titleSelector = "h2"
+linkSelector = "a"
+
 [mozaiekmakelaardij]
 title = "Mozaiek Makelaardij"
 url = "https://www.mozaiekmakelaardij.nl/woningaanbod"
