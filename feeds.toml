@@ -259,7 +259,7 @@ matchOneOf = ["€ 5", "€ 6"]
 
 [waltmann]
 title = "Waltmann Makelaars"
-url = "https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/4-kamers/100-oppervlakte/beschikbaar/"
+url = "https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/"
 entrySelector = ".card-house"
 titleSelector = "h4"
 linkSelector = "*"
