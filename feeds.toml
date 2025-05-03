@@ -386,6 +386,7 @@ url = "https://reineriehouten.nl/woningen/#HY3LCgIxDEX_Jesiguii_-FKZOgj0NrptCQpK
 entrySelector = ".card--wonen"
 titleSelector = "[itemprop=streetAddress]"
 linkSelector = "a"
+waitUntil = "networkidle"
 
 [pauwmakelaardij]
 title = "Pauw Makelaardij"
