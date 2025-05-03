@@ -340,3 +340,11 @@ entrySelector = ".object__holder"
 titleSelector = "h3 .street"
 linkSelector = "a"
 matchAllOf = ["€ 5", "Utrecht", "Woonhuis", "Nieuw in verkoop"]
+
+[markrenkemamakelaardij]
+title = "Mark Renkema Makelaardij"
+url = "https://www.markrenkemamakelaardij.nl/wonen/zoeken/Utrecht/0-650000/"
+entrySelector = ".houses__item"
+titleSelector = ".card-product__content p"
+linkSelector = "a"
+matchAllOf = ["€ 5", "Beschikbaar", "Utrecht"]
