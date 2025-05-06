@@ -411,3 +411,12 @@ entrySelector = ".woning"
 titleSelector = ".item-content header h2"
 linkSelector = "a.overlay"
 waitUntil = "networkidle"
+
+[vandoorn]
+title = "Van Doorn makelaardij"
+url = "https://www.van-doorn.nl/woningen/#q1YqyElMLClWslIqLSlKTc4oUdJRKijKzAKKVCvlJlYAJcwNQECpthYA"
+entrySelector = "#entity-items > .grid"
+titleSelector = "h2"
+linkSelector = "a"
+matchAllOf = ["€ 5", "Utrecht", "Beschikbaar", "Woonhuis"]
+waitUntil = "networkidle"
