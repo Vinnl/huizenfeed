@@ -403,3 +403,11 @@ entrySelector = ".woning"
 titleSelector = "header h2:last-child"
 linkSelector = "a"
 matchAllOf = ["€ 5", "UTRECHT", "Beschikbaar"]
+
+[pauldijkstra]
+title = "Paul Dijkstra makelaars"
+url = "https://www.leefengeniet.nl/woningen/#FclLDoAgDEXRvbwxAxI_A3dToYkKCKk10Rj3bh3ecx-0TKQHJpwqHBaFA9GulBMVln90RqnW1mTdrB8UuozHfvDe43WoElnm2yyS8hT5CHg_"
+entrySelector = ".woning"
+titleSelector = ".item-content header h2"
+linkSelector = "a.overlay"
+waitUntil = "networkidle"
