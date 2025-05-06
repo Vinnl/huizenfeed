@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-05T17:48:08.774Z</updated>
+    <updated>2025-05-06T05:45:07.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Huizerweg 49 B (Brecheisen makelaars)]]></title>
@@ -592,7 +592,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/80fbf568-4f5d-4ae5-8547-54aea120efd9" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/80fbf568-4f5d-4ae5-8547-54aea120efd9" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/80fbf568-4f5d-4ae5-8547-54aea120efd9&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -654,7 +654,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -716,7 +716,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/23ab0f9b-e6dd-4241-8212-a8fa51272f5d" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/23ab0f9b-e6dd-4241-8212-a8fa51272f5d" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/23ab0f9b-e6dd-4241-8212-a8fa51272f5d&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -826,13 +826,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-05T17:44:52.897Z</updated>
+        <updated>2025-05-06T05:42:04.843Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>326 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>327 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -1385,7 +1385,7 @@
     </div>
 
     <div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
-        <div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>95 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>2</span></div>    </div>]]></content>
+        <div class="card__listing-item u-flex u-align-center u-gap-10"><svg class="svg-inline--fa fa-home" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="home" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M575.8 255.5c0 18-15 32.1-32 32.1l-32 0 .7 160.2c0 2.7-.2 5.4-.5 8.1l0 16.2c0 22.1-17.9 40-40 40l-16 0c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1L416 512l-24 0c-22.1 0-40-17.9-40-40l0-24 0-64c0-17.7-14.3-32-32-32l-64 0c-17.7 0-32 14.3-32 32l0 64 0 24c0 22.1-17.9 40-40 40l-24 0-31.9 0c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2l-16 0c-22.1 0-40-17.9-40-40l0-112c0-.9 0-1.9 .1-2.8l0-69.7-32 0c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"></path></svg><!-- <i class="fas fa-home"></i> --><span>95 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><svg class="svg-inline--fa fa-bed" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bed" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M32 32c17.7 0 32 14.3 32 32l0 256 224 0 0-160c0-17.7 14.3-32 32-32l224 0c53 0 96 43 96 96l0 224c0 17.7-14.3 32-32 32s-32-14.3-32-32l0-32-224 0-32 0L64 416l0 32c0 17.7-14.3 32-32 32s-32-14.3-32-32L0 64C0 46.3 14.3 32 32 32zm144 96a80 80 0 1 1 0 160 80 80 0 1 1 0-160z"></path></svg><!-- <i class="fas fa-bed"></i> --><span>2</span></div>    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Te koop: Cremerstraat 374, 3532BR Utrecht (van den Hoorn Makelaardij)]]></title>
@@ -1761,66 +1761,6 @@
                 </span>
             </div>
         </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoendiepstraat 36 (Reinerie Houten)]]></title>
-        <id>https://reineriehouten.nl/woningen/koop/utrecht/hoendiepstraat-36/</id>
-        <link href="https://reineriehouten.nl/woningen/koop/utrecht/hoendiepstraat-36/"/>
-        <updated>2025-05-03T19:58:57.878Z</updated>
-        <content type="html"><![CDATA[<div class="card__outer">
-                <a href="https://reineriehouten.nl/woningen/koop/utrecht/hoendiepstraat-36/" class="card__overlay" itemprop="url">
-            <span class="vh">Bekijk: koop  Utrecht  Hoendiepstraat 36</span>
-        </a>
-
-        <figure class="card__figure">
-            <span class="card__tag card__tag--beschikbaar">
-                                    Beschikbaar                            </span>
-            
-                                                                                    <img src="https://reineriehouten.nl/wp-content/uploads/realworks/wonen/8.764.719/225468836-465x275.jpg" data-src="https://reineriehouten.nl/wp-content/uploads/realworks/wonen/8.764.719/225468836-465x275.jpg" width="465" height="275" class="card__image card__image--grid ls-is-cached lazyloaded" alt="Hoofdfoto van Utrecht Hoendiepstraat 36">
-            <img src="https://reineriehouten.nl/wp-content/themes/garantiemakelaars/assets/images/placeholders/archive-rw-list-size.svg" data-src="https://reineriehouten.nl/wp-content/uploads/realworks/wonen/8.764.719/225468836-530x400.jpg" width="530" height="400" class=" card__image card__image--list lazyload" alt="Hoofdfoto van Utrecht Hoendiepstraat 36">
-
-        </figure>
-
-        <div class="card__inner">
-            <div class="card__content" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-                <div class="card__heading heading" itemprop="streetAddress">
-                    <h3>Hoendiepstraat 36</h3>
-                </div>
-
-                                                    <div class="card__location prose clean clean color-dark-gray1">
-                        <p><span itemprop="postalCode">3522 GD</span>, <span itemprop="addressLocality">Utrecht</span>, <span itemprop="addressRegion">Nederland</span></p>
-                    </div>
-                
-                <div class="card__description prose clean lighter color-dark-gray4 lh-30">
-                    <p>Altijd al in een jaren 30-woning willen wonen waar je zó in kunt? Liefst een beetje dicht bij het centrum?…</p>
-                </div>
-
-                                
-                <a href="#" data-object="1974200" class="card__favorite favorite" data-featherlight="#login">
-                    <span class="icon card__icon card__icon--heart favorite__icon">
-                        <svg class="icon__svg favorite__svg favorite__svg-stroke" viewBox="0 0 100 87.92 "><use xlink:href="https://reineriehouten.nl/wp-content/themes/garantiemakelaars/assets/images/icons.svg#icon--heart"></use></svg>
-                        <svg class="icon__svg favorite__svg favorite__svg-solid" viewBox="0 0 100 87.92 "><use xlink:href="https://reineriehouten.nl/wp-content/themes/garantiemakelaars/assets/images/icons.svg#icon--heart-solid"></use></svg>
-                    </span>
-                </a>
-            </div>
-
-                            <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
-                    <meta itemprop="latitude" content="52.0686946">
-                    <meta itemprop="longitude" content="5.114589">
-                </span>
-            
-            <footer class="card__footer group">
-                <div class="card__price prose fl clean fancy">
-                    <p>€ 520.000,- k.k.</p>
-                </div>
-
-                <div class="card__type prose color-green fr median clean tiny">
-                    <a href="https://reineriehouten.nl/woningen/woonhuis/">Woonhuis</a>
-                </div>
-            </footer>
-
-            <ul class="card__details"><li class="card__detail">55 m<sup>2</sup> <span>Perceelopp.</span></li><li class="card__detail">86 m<sup>2</sup> <span>Woonopp.</span></li><li class="card__detail">3 <span>Slaapkamers</span></li></ul>        </div>
-    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[H. Wijnmalenstraat 50 (Domvast)]]></title>
