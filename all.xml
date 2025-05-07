@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-06T17:58:29.805Z</updated>
+    <updated>2025-05-07T05:46:24.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Huizerweg 49 B (Brecheisen makelaars)]]></title>
@@ -822,13 +822,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-06T17:49:57.926Z</updated>
+        <updated>2025-05-07T05:42:33.480Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>327 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>330 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -1848,8 +1848,7 @@
                         <a class="sys-property-link" href="/woningaanbod/koop/utrecht/jadelaan/66?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10" title="Te koop: Jadelaan 66, 3523CW Utrecht">
                             <div class="image-container sys-oneimg-nocycle" style="overflow: hidden; position: relative;">
                                     <img alt="Jadelaan 66, 3523CW Utrecht" width="250" class="img-responsive object_image" src="https://haywebattachments.blob.core.windows.net/public/3052/3627434/110677880/$m/02. jadelaan 66_16.jpg" title="Te koop: Jadelaan 66, 3523CW Utrecht" style="position: absolute; width: auto; height: 271px; max-width: none; max-height: none; left: 0px; top: -7px;">
-                                                                        <span class="openhouse">Open huis:<span>dinsdag 6 mei 2025 16:00 - 18:30</span></span>
-
+                                
                             </div>
                         </a>
                                 <span class="object_status new_forsale">Nieuw in verkoop</span>
