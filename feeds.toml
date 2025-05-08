@@ -410,6 +410,8 @@ url = "https://www.leefengeniet.nl/woningen/#FclLDoAgDEXRvbwxAxI_A3dToYkKCKk10Rj
 entrySelector = ".woning"
 titleSelector = ".item-content header h2"
 linkSelector = "a.overlay"
+# THe `waitUntil` doesn't seem to be sufficient for waiting for the search to be completed:
+matchAllOf = ["€ 5", "Utrecht", "Beschikbaar", "Woonhuis"]
 waitUntil = "networkidle"
 
 [vandoorn]
