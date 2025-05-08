@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.van-doorn.nl/woningen/#q1YqyElMLClWslIqLSlKTc4oUdJRKijKzAKKVCvlJlYAJcwNQECpthYA</id>
     <title>Van Doorn makelaardij</title>
-    <updated>2025-05-08T05:46:14.965Z</updated>
+    <updated>2025-05-08T12:48:43.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.van-doorn.nl/wp-content/uploads/2023/12/favicon.ico-1.png</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://www.van-doorn.nl/woning/utrecht-zilvergeldstraat-51/"/>
         <updated>2025-05-06T14:52:41.872Z</updated>
         <content type="html"><![CDATA[<a class="bg-[#f8f8f8] relative  h-full flex justify-center items-center h-full md:h-[400px] order-1 md:order-2 " href="https://www.van-doorn.nl/woning/utrecht-zilvergeldstraat-51/">
-			<img width="2048" height="1365" src="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980.jpg" class="object-cover object-center w-full h-full md:h-[400px] wp-post-image" alt="" decoding="async" srcset="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980.jpg 2048w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980-300x200.jpg 300w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980-1024x683.jpg 1024w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980-768x512.jpg 768w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980-1536x1024.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px">		</a>
+			<img width="2048" height="1365" src="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980.jpg" class="object-cover object-center w-full h-full md:h-[400px] wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980.jpg 2048w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980-300x200.jpg 300w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980-1024x683.jpg 1024w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980-768x512.jpg 768w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/8.985.054/227088980-1536x1024.jpg 1536w" sizes="auto, (max-width: 2048px) 100vw, 2048px">		</a>
     <div class="grid grid-cols-1 h-full bg-gray-dark p-30 order-2 md:order-1 ">
             <div class="flex flex-col justify-center flex-1 order-2 mb-0">
                     <header>
