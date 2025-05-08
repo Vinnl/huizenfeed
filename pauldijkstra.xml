@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.leefengeniet.nl/woningen/#FclLDoAgDEXRvbwxAxI_A3dToYkKCKk10Rj3bh3ecx-0TKQHJpwqHBaFA9GulBMVln90RqnW1mTdrB8UuozHfvDe43WoElnm2yyS8hT5CHg_</id>
     <title>Paul Dijkstra makelaars</title>
-    <updated>2025-05-07T17:44:25.446Z</updated>
+    <updated>2025-05-08T05:46:14.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.leefengeniet.nl/wp-content/uploads/2023/11/cropped-logo-32x32.png</icon>
     <entry>
@@ -11,25 +11,55 @@
         <link href="https://www.leefengeniet.nl/woning/plantage-147/"/>
         <updated>2025-05-07T17:44:18.889Z</updated>
         <content type="html"><![CDATA[<div class="item">
-		<a href="https://www.leefengeniet.nl/woning/plantage-147/" class="thumbnail">
-            <!--<div class="item-status">Nieuw</div>-->
-			<div class="item-status">Beschikbaar</div>            <img width="1024" height="683" src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px">		</a>
-
-		<div class="item-content">
-			<header>
-				<h2>Plantage 147</h2>
-			</header>
-
-			<div class="entry-content hidden-sm">
-				                
-                <div class="item-address">3551 DH Utrecht</div>                
-                <div class="item-price"><b>€ 445.000,- k.k.</b></div>                
-                <div class="item-info"><span><i class="fas fa-ruler"></i> 80 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 2 slaapkamers</span> <span><i class="fas fa-home"></i> Appartement</span></div>                
-							</div>
-		</div>
-
-		<a href="https://www.leefengeniet.nl/woning/plantage-147/" class="overlay" rel="bookmark"></a>
-	</div>]]></content>
+<a href="https://www.leefengeniet.nl/woning/plantage-147/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.961.655/225616002.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Plantage 147</h2></header><div class="entry-content hidden-sm"><div class="item-address">3551 DH Utrecht</div><div class="item-price"><b>€ 445.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 80 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 2 slaapkamers</span> <span><i class="fas fa-home"></i> Appartement</span></div></div></div><a href="https://www.leefengeniet.nl/woning/plantage-147/" class="overlay" rel="bookmark"></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julianaweg 208]]></title>
+        <id>https://www.leefengeniet.nl/woning/julianaweg-208/</id>
+        <link href="https://www.leefengeniet.nl/woning/julianaweg-208/"/>
+        <updated>2025-05-08T05:46:07.813Z</updated>
+        <content type="html"><![CDATA[<div class="item">
+<a href="https://www.leefengeniet.nl/woning/julianaweg-208/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.970.559/227905406-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.970.559/227905406-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.970.559/227905406-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.970.559/227905406-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.970.559/227905406-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.970.559/227905406.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Julianaweg 208</h2></header><div class="entry-content hidden-sm"><div class="item-address">3525 VL Utrecht</div><div class="item-price"><b>€ 745.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 130 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 5 slaapkamers</span> <span><i class="fas fa-home"></i> Woonhuis</span></div></div></div><a href="https://www.leefengeniet.nl/woning/julianaweg-208/" class="overlay" rel="bookmark"></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hendrick de Keyserstraat 42]]></title>
+        <id>https://www.leefengeniet.nl/woning/hendrick-de-keyserstraat-42/</id>
+        <link href="https://www.leefengeniet.nl/woning/hendrick-de-keyserstraat-42/"/>
+        <updated>2025-05-08T05:46:07.815Z</updated>
+        <content type="html"><![CDATA[<div class="item">
+<a href="https://www.leefengeniet.nl/woning/hendrick-de-keyserstraat-42/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.923.361/227382706-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.923.361/227382706-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.923.361/227382706-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.923.361/227382706-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.923.361/227382706-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.923.361/227382706.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Hendrick de Keyserstraat 42</h2></header><div class="entry-content hidden-sm"><div class="item-address">3583 TK Utrecht</div><div class="item-price"><b>€ 1.135.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 146 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 5 slaapkamers</span> <span><i class="fas fa-home"></i> Woonhuis</span></div></div></div><a href="https://www.leefengeniet.nl/woning/hendrick-de-keyserstraat-42/" class="overlay" rel="bookmark"></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brigittenstraat 3B]]></title>
+        <id>https://www.leefengeniet.nl/woning/brigittenstraat-3b/</id>
+        <link href="https://www.leefengeniet.nl/woning/brigittenstraat-3b/"/>
+        <updated>2025-05-08T05:46:07.818Z</updated>
+        <content type="html"><![CDATA[<div class="item">
+<a href="https://www.leefengeniet.nl/woning/brigittenstraat-3b/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.834.707/225319320-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.834.707/225319320-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.834.707/225319320-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.834.707/225319320-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.834.707/225319320-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.834.707/225319320.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Brigittenstraat 3B</h2></header><div class="entry-content hidden-sm"><div class="item-address">3512 KJ Utrecht</div><div class="item-price"><b>€ 775.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 110 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 1 slaapkamer</span> <span><i class="fas fa-home"></i> Appartement</span></div></div></div><a href="https://www.leefengeniet.nl/woning/brigittenstraat-3b/" class="overlay" rel="bookmark"></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engelsmanplaat 48]]></title>
+        <id>https://www.leefengeniet.nl/woning/engelsmanplaat-48/</id>
+        <link href="https://www.leefengeniet.nl/woning/engelsmanplaat-48/"/>
+        <updated>2025-05-08T05:46:07.819Z</updated>
+        <content type="html"><![CDATA[<div class="item">
+<a href="https://www.leefengeniet.nl/woning/engelsmanplaat-48/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Engelsmanplaat 48</h2></header><div class="entry-content hidden-sm"><div class="item-address">3524 AZ Utrecht</div><div class="item-price"><b>€ 530.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 120 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 3 slaapkamers</span> <span><i class="fas fa-home"></i> Woonhuis</span></div></div></div><a href="https://www.leefengeniet.nl/woning/engelsmanplaat-48/" class="overlay" rel="bookmark"></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stadhouderslaan 99]]></title>
+        <id>https://www.leefengeniet.nl/woning/stadhouderslaan-99/</id>
+        <link href="https://www.leefengeniet.nl/woning/stadhouderslaan-99/"/>
+        <updated>2025-05-08T05:46:07.821Z</updated>
+        <content type="html"><![CDATA[<div class="item">
+<a href="https://www.leefengeniet.nl/woning/stadhouderslaan-99/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/7.489.093/227505148-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/7.489.093/227505148-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/7.489.093/227505148-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/7.489.093/227505148-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/7.489.093/227505148-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/7.489.093/227505148.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Stadhouderslaan 99</h2></header><div class="entry-content hidden-sm"><div class="item-address">3583 JG Utrecht</div><div class="item-price"><b>€ 995.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 157 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 5 slaapkamers</span> <span><i class="fas fa-home"></i> Woonhuis</span></div></div></div><a href="https://www.leefengeniet.nl/woning/stadhouderslaan-99/" class="overlay" rel="bookmark"></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reyer Anslostraat 63]]></title>
+        <id>https://www.leefengeniet.nl/woning/reyer-anslostraat-63/</id>
+        <link href="https://www.leefengeniet.nl/woning/reyer-anslostraat-63/"/>
+        <updated>2025-05-08T05:46:07.822Z</updated>
+        <content type="html"><![CDATA[<div class="item">
+<a href="https://www.leefengeniet.nl/woning/reyer-anslostraat-63/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.573.653/227439606-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.573.653/227439606-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.573.653/227439606-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.573.653/227439606-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.573.653/227439606-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.573.653/227439606.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Reyer Anslostraat 63</h2></header><div class="entry-content hidden-sm"><div class="item-address">3522 DG Utrecht</div><div class="item-price"><b>€ 875.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 141 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 4 slaapkamers</span> <span><i class="fas fa-home"></i> Woonhuis</span></div></div></div><a href="https://www.leefengeniet.nl/woning/reyer-anslostraat-63/" class="overlay" rel="bookmark"></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oudwijkerdwarsstraat 3]]></title>
@@ -37,24 +67,22 @@
         <link href="https://www.leefengeniet.nl/woning/oudwijkerdwarsstraat-3/"/>
         <updated>2025-05-06T14:52:36.357Z</updated>
         <content type="html"><![CDATA[<div class="item">
-		<a href="https://www.leefengeniet.nl/woning/oudwijkerdwarsstraat-3/" class="thumbnail">
-            <!--<div class="item-status">Nieuw</div>-->
-			<div class="item-status">Beschikbaar</div>            <img width="1024" height="683" src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px">		</a>
-
-		<div class="item-content">
-			<header>
-				<h2>Oudwijkerdwarsstraat 3</h2>
-			</header>
-
-			<div class="entry-content hidden-sm">
-				                
-                <div class="item-address">3581 LA Utrecht</div>                
-                <div class="item-price"><b>€ 565.000,- k.k.</b></div>                
-                <div class="item-info"><span><i class="fas fa-ruler"></i> 75 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 2 slaapkamers</span> <span><i class="fas fa-home"></i> Woonhuis</span></div>                
-							</div>
-		</div>
-
-		<a href="https://www.leefengeniet.nl/woning/oudwijkerdwarsstraat-3/" class="overlay" rel="bookmark"></a>
-	</div>]]></content>
+<a href="https://www.leefengeniet.nl/woning/oudwijkerdwarsstraat-3/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.450.203/217937975.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Oudwijkerdwarsstraat 3</h2></header><div class="entry-content hidden-sm"><div class="item-address">3581 LA Utrecht</div><div class="item-price"><b>€ 565.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 75 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 2 slaapkamers</span> <span><i class="fas fa-home"></i> Woonhuis</span></div></div></div><a href="https://www.leefengeniet.nl/woning/oudwijkerdwarsstraat-3/" class="overlay" rel="bookmark"></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koningsweg 16]]></title>
+        <id>https://www.leefengeniet.nl/woning/koningsweg-16/</id>
+        <link href="https://www.leefengeniet.nl/woning/koningsweg-16/"/>
+        <updated>2025-05-08T05:46:07.825Z</updated>
+        <content type="html"><![CDATA[<div class="item">
+<a href="https://www.leefengeniet.nl/woning/koningsweg-16/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.944.879/224884304-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.944.879/224884304-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.944.879/224884304-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.944.879/224884304-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.944.879/224884304-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.944.879/224884304.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Koningsweg 16</h2></header><div class="entry-content hidden-sm"><div class="item-address">3582 GG Utrecht</div><div class="item-price"><b>€ 395.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 74 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 3 slaapkamers</span> <span><i class="fas fa-home"></i> Appartement</span></div></div></div><a href="https://www.leefengeniet.nl/woning/koningsweg-16/" class="overlay" rel="bookmark"></a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frederik Hendrikstraat 94]]></title>
+        <id>https://www.leefengeniet.nl/woning/frederik-hendrikstraat-94/</id>
+        <link href="https://www.leefengeniet.nl/woning/frederik-hendrikstraat-94/"/>
+        <updated>2025-05-08T05:46:07.827Z</updated>
+        <content type="html"><![CDATA[<div class="item">
+<a href="https://www.leefengeniet.nl/woning/frederik-hendrikstraat-94/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.026.507/225306584-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.026.507/225306584-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.026.507/225306584-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.026.507/225306584-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.026.507/225306584-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.026.507/225306584.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Frederik Hendrikstraat 94</h2></header><div class="entry-content hidden-sm"><div class="item-address">3583 VP Utrecht</div><div class="item-price"><b>€ 1.200.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 213 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 6 slaapkamers</span> <span><i class="fas fa-home"></i> Woonhuis</span></div></div></div><a href="https://www.leefengeniet.nl/woning/frederik-hendrikstraat-94/" class="overlay" rel="bookmark"></a></div>]]></content>
     </entry>
 </feed>
