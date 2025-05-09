@@ -378,7 +378,7 @@ url = "https://burgersdijk.com/koopwoningen/?in=utrecht&tot=600000"
 entrySelector = "a[data-openday]"
 titleSelector = "h3"
 linkSelector = "*"
-filters = ["Aantal kamers 2", "onder bod", "Onder bod", "verkocht", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
+filters = ["Aantal kamers 1", "Aantal kamers 2", "onder bod", "Onder bod", "verkocht", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
 
 [reineriehouten]
 title = "Reinerie Houten"
