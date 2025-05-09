@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-08T17:43:08.974Z</updated>
+    <updated>2025-05-09T05:44:49.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Huizerweg 49 B (Brecheisen makelaars)]]></title>
@@ -848,7 +848,7 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-08T17:39:25.797Z</updated>
+        <updated>2025-05-09T05:41:49.007Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
@@ -2157,7 +2157,7 @@
         <updated>2025-05-07T17:43:24.352Z</updated>
         <content type="html"><![CDATA[<div class="object__image" data-href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9">
                     <div class="swiper object-swiper swiper--lazy swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden entered" id="swiperLazy0" data-ll-status="entered">
-                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-b7b778411b6149109" aria-live="polite">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-3bb10fe3f9efb8741" aria-live="polite">
                                 <a class="swiper-slide swiper-slide-active" href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9" style="width: 339px;" role="group" aria-label="1 / 4">
                                     <img width="350" alt="Te koop: Grasstraat 1, 3572TV Utrecht" class="lazy entered loaded" data-srcset="
                                           
@@ -2197,8 +2197,8 @@
                                 <div class="swiper-lazy-preloader"></div>
                             </a>
                         </div>
-                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-b7b778411b6149109" aria-disabled="false"></div>
-                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-b7b778411b6149109" aria-disabled="true"></div>
+                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-3bb10fe3f9efb8741" aria-disabled="false"></div>
+                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-3bb10fe3f9efb8741" aria-disabled="true"></div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
 
 
@@ -2326,6 +2326,50 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
         </div>
     </div>
 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cremerstraat 22 
+                        3532 BE UTRECHT (Burgersdijk makelaars)]]></title>
+        <id>https://burgersdijk.com/koopwoningen/cremerstraat-22-utrecht-8778899</id>
+        <link href="https://burgersdijk.com/koopwoningen/cremerstraat-22-utrecht-8778899"/>
+        <updated>2025-05-09T05:44:20.193Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-cremerstraat-22-utrecht-224285467.66aaaafc3e0b3da2f955290cd55cf6f7.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-cremerstraat-22-utrecht-224285467.66aaaafc3e0b3da2f955290cd55cf6f7.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-cremerstraat-22-utrecht-224285467.9d66b9d5bba0dc3202049f7581f92fd8.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-cremerstraat-22-utrecht-224285467.9d66b9d5bba0dc3202049f7581f92fd8.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Cremerstraat 22 </span><br>
+                        <span class="postal-code">3532 BE</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 195.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 24 m<sup>2</sup><br>
+                        Aantal kamers 1
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0945955</span>
+                            <span class="longitude">5.1037519</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pieter Nieuwlandstraat 35 
