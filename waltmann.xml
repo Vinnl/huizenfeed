@@ -2,9 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/</id>
     <title>Waltmann Makelaars</title>
-    <updated>2025-05-09T05:44:49.303Z</updated>
+    <updated>2025-05-09T12:17:02.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.waltmann.nl/app/themes/supress/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Zwanenvechtlaan 14]]></title>
+        <id>https://www.waltmann.nl/wonen/object/zwanenvechtlaan-14-utrecht/</id>
+        <link href="https://www.waltmann.nl/wonen/object/zwanenvechtlaan-14-utrecht/"/>
+        <updated>2025-05-09T12:14:59.811Z</updated>
+        <content type="html"><![CDATA[<div class="card-house__image">
+        <picture>
+                            <img src="/app/uploads/sure/media/UT105423/UT105423-75166-Zwanenvechtlaan-14-Utrecht-228366952.jpg" alt="">
+                    </picture>
+
+                    <div class="card-house__tag">Te Koop</div>
+            </div>
+
+    <div class="card-house__content">
+                    <div class="card-house__subtitle">Utrecht</div>
+        
+                    <h4>Zwanenvechtlaan 14 </h4>
+        
+        <p>
+                                                Vraagprijs:  € 385.000,-  Kosten koper
+                                    </p>
+
+                    <p class="card-house__subtitle mt-5">&nbsp;</p>
+        
+        <div class="card-house__bottom">
+            <ul class="list-unstyled d-flex">
+                                    <li>
+                        <i class="icon-expand"></i>
+                        <span>72 m<sup>2</sup></span>
+                    </li>
+                
+                                    <li>
+                        <i class="icon-bedroom"></i>
+                        <span>2</span>
+                    </li>
+                                            <li><i class="icon-energylabel"></i>ENERGIELABEL C</li>
+                                                </ul>
+
+            <span class="btn btn--text btn--il">
+                <i class="icon-chevron-right"></i>
+                                    Bekijk deze woning
+                
+            </span>
+        </div>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1e Daalsedijk 157]]></title>
         <id>https://www.waltmann.nl/wonen/object/1e-daalsedijk-157-utrecht/</id>

@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://overduyn.nl/koopaanbod/?_prijs_tot=1-650000&amp;_plaatsen=utrecht&amp;_slaapkamers=3-100</id>
     <title>overduyn makelaars</title>
-    <updated>2025-05-09T05:44:49.334Z</updated>
+    <updated>2025-05-09T12:17:02.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://overduyn.nl/wp-content/uploads/2022/11/favicon-150x150.png</icon>
+    <icon>https://overduyn.nl/wp-content/uploads/2025/02/favicon-150x150.png</icon>
     <entry>
         <title type="html"><![CDATA[Steve Bikostraat
 				
@@ -18,7 +18,7 @@
         <updated>2025-05-06T14:51:25.790Z</updated>
         <content type="html"><![CDATA[<div class="object object-status-beschikbaar object-price-koop  mb-4">
 																					<div class="row">
-																	<div class="col-12 col-md-5">
+																	<div class="col-12">
 																											
 										
 										<div class="object-image position-relative mb-3">
@@ -27,7 +27,7 @@
 																																	<div class="object-image-img">
 													
 			
-			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/227362446.jpg?portalid=4286&amp;check=api_sha256%3a0731c27e01bb38af28a4add8133da5ec0d563452577380a3f6294b432d9cdbc2&amp;=20250501115940&amp;width=520&amp;height=347" class="img-fluid img-cover w-100 lazy loaded" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/227362446.jpg?portalid=4286&amp;check=api_sha256%3a0731c27e01bb38af28a4add8133da5ec0d563452577380a3f6294b432d9cdbc2&amp;=20250501115940&amp;width=520&amp;height=347" data-ll-status="loaded">
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/227362446.jpg?portalid=4286&amp;check=api_sha256%3a0731c27e01bb38af28a4add8133da5ec0d563452577380a3f6294b432d9cdbc2&amp;=20250501115940&amp;width=720&amp;height=480" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/227362446.jpg?portalid=4286&amp;check=api_sha256%3a0731c27e01bb38af28a4add8133da5ec0d563452577380a3f6294b432d9cdbc2&amp;=20250501115940&amp;width=720&amp;height=480" data-ll-status="native">
 
 																													</div>
 																																											</a>
@@ -35,7 +35,7 @@
 																				</div>
 
 																												</div>
-																	<div class="col-12 col-md-7">
+																	<div class="col-12">
 																		<div class="object-info">
 									
 														
@@ -75,9 +75,6 @@
 						<div class="object-address-line">
 				
 									
-										
-							<span class="object-zipcode">3573 BH</span>
-				
 										
 										
 							<span class="object-place">Utrecht</span>
@@ -142,6 +139,8 @@
 		
 			
 			
+				
+			
 			
 				
 					<span class="object-price-value">
@@ -181,7 +180,34 @@
 	
 	
 	
-	
+					
+				<div class="object-feature object-feature-bouwjaar ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Bouwjaar				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								1992 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
 	
 	
 	
@@ -301,7 +327,34 @@
 	
 	
 	
-		
+					
+				<div class="object-feature object-features-energy object-features-energy-B ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Energielabel				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								B 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+					
 	
 	
 	
@@ -321,7 +374,7 @@
 	
 											</div>
 																																																					<div class="object-view mb-3">
-																																						<a href="https://overduyn.nl/woningen/steve-bikostraat-306-utrecht-1168717504eb3b2034b5a8e7f15b9b2c491ec/" class="position-relative p-3 text-decoration-none d-table" title="Steve Bikostraat 306 3573 BH Utrecht">
+																																						<a href="https://overduyn.nl/woningen/steve-bikostraat-306-utrecht-1168717504eb3b2034b5a8e7f15b9b2c491ec/" class="position-relative p-3 text-decoration-none d-table" title="Steve Bikostraat 306 Utrecht">
 																										Bekijk object													</a>
 												</div>
 																															</div>
