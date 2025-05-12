@@ -422,3 +422,11 @@ titleSelector = "h2"
 linkSelector = "a"
 matchAllOf = ["€ 5", "Utrecht", "Beschikbaar", "Woonhuis"]
 waitUntil = "networkidle"
+
+[ddvmakelaars]
+title = "DDV makelaars"
+url = "https://www.ddvmakelaars.com/aanbod"
+entrySelector = ".aanbod-card-wrapper [role=listitem]"
+titleSelector = ".aanbod-blog-card-item :nth-child(4) :first-child :first-child"
+linkSelector = "a"
+matchAllOf = ["€ 5", "Utrecht"]
