@@ -438,3 +438,11 @@ entrySelector = ".col-sm-6"
 titleSelector = "h3"
 linkSelector = "a"
 matchAllOf = ["€ 5", "Utrecht"]
+
+[dinaverkoopt]
+title = "Dina verkoopt"
+url = "https://www.dinaverkoopt.nl/woning-aanbod/?view=list&straat&plaats=utrecht&prijs_vanaf=0&prijs_tot=600000&buitenruimte%5B0%5D=achtertuin&buitenruimte%5B1%5D=patio-atrium&buitenruimte%5B2%5D=voortuin&buitenruimte%5B3%5D=zijtuin&buitenruimte%5B4%5D=zonneterras&woonoppervlakte=75"
+entrySelector = "#overzicht-grid .grid-houses__col"
+titleSelector = "h4"
+linkSelector = "a"
+filters = ["1 slaapkamers", "2 slaapkamers"]
