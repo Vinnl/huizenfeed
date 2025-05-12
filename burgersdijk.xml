@@ -2,53 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-05-12T13:14:49.271Z</updated>
+    <updated>2025-05-12T17:48:39.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Pieter Nieuwlandstraat 35 
-                        3514 HC UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/pieter-nieuwlandstraat-35-utrecht-8460639</id>
-        <link href="https://burgersdijk.com/koopwoningen/pieter-nieuwlandstraat-35-utrecht-8460639"/>
-        <updated>2025-05-03T19:58:53.941Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-pieter-nieuwlandstraat-35-utrecht-226694548.b34d0e5d39ee51d99e0a49d38ef4b940.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-pieter-nieuwlandstraat-35-utrecht-226694548.b34d0e5d39ee51d99e0a49d38ef4b940.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-pieter-nieuwlandstraat-35-utrecht-226694548.b50dfd3bbbe83dab0910cfeacd1d8f81.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-pieter-nieuwlandstraat-35-utrecht-226694548.b50dfd3bbbe83dab0910cfeacd1d8f81.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Pieter Nieuwlandstraat 35 </span><br>
-                        <span class="postal-code">3514 HC</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 550.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 93 m<sup>2</sup><br>
-                        Aantal kamers 4
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.1027617</span>
-                            <span class="longitude">5.1257667</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Oudwijkerdwarsstraat 119 
                         3581 LC UTRECHT]]></title>
@@ -87,50 +43,6 @@
                         <span class="geo">
                             <span class="latitude">52.087758</span>
                             <span class="longitude">5.1349643</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karel Doormanlaan 223 
-                        3572 NZ UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/karel-doormanlaan-223-utrecht-8904723</id>
-        <link href="https://burgersdijk.com/koopwoningen/karel-doormanlaan-223-utrecht-8904723"/>
-        <updated>2025-05-03T19:58:53.944Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-karel-doormanlaan-223-utrecht-226069758.1a531ff3d40096c4f8423a29f78d8d7c.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-karel-doormanlaan-223-utrecht-226069758.1a531ff3d40096c4f8423a29f78d8d7c.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-karel-doormanlaan-223-utrecht-226069758.eba6734b0a6bdfa1ed4451cbb2627670.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-karel-doormanlaan-223-utrecht-226069758.eba6734b0a6bdfa1ed4451cbb2627670.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Karel Doormanlaan 223 </span><br>
-                        <span class="postal-code">3572 NZ</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 450.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 74 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0984883</span>
-                            <span class="longitude">5.1420624</span>
                         </span>
                     </span>
                 </span>

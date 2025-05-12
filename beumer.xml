@@ -2,9 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-05-12T13:14:49.250Z</updated>
+    <updated>2025-05-12T17:48:39.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Everard Zoudenbalchstraat 19]]></title>
+        <id>https://www.beumer.nl/wonen/object/everard-zoudenbalchstraat-19-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/everard-zoudenbalchstraat-19-utrecht/"/>
+        <updated>2025-05-12T17:41:06.524Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/everard-zoudenbalchstraat-19-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MA12726/MA12726-210870-Everard-Zoudenbalchstraat-19-Utrecht-202542353-600x476-c-default.webp" srcset="/app/uploads/sure/media/MA12726/MA12726-210870-Everard-Zoudenbalchstraat-19-Utrecht-202542353-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MA12726/MA12726-210870-Everard-Zoudenbalchstraat-19-Utrecht-202542353-400x317-c-default.webp" srcset="/app/uploads/sure/media/MA12726/MA12726-210870-Everard-Zoudenbalchstraat-19-Utrecht-202542353-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/MA12726/MA12726-210870-Everard-Zoudenbalchstraat-19-Utrecht-202542353-150x150.jpg" alt="                        Everard Zoudenbalchstraat 19
+                    " src="/app/uploads/sure/media/MA12726/MA12726-210870-Everard-Zoudenbalchstraat-19-Utrecht-202542353-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Everard Zoudenbalchstraat 19
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 535.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>108 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        6 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        C
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Socrateslaan 37]]></title>
+        <id>https://www.beumer.nl/wonen/object/socrateslaan-37-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/socrateslaan-37-utrecht/"/>
+        <updated>2025-05-12T17:41:06.526Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/socrateslaan-37-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT102931/UT102931-211016-Socrateslaan-37-Utrecht-227988348-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT102931/UT102931-211016-Socrateslaan-37-Utrecht-227988348-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT102931/UT102931-211016-Socrateslaan-37-Utrecht-227988348-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT102931/UT102931-211016-Socrateslaan-37-Utrecht-227988348-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/UT102931/UT102931-211016-Socrateslaan-37-Utrecht-227988348-150x150.jpg" alt="                        Socrateslaan 37
+                    " src="/app/uploads/sure/media/UT102931/UT102931-211016-Socrateslaan-37-Utrecht-227988348-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Socrateslaan 37
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 599.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>120 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        5 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        C
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kelvinlaan 6]]></title>
         <id>https://www.beumer.nl/wonen/object/kelvinlaan-6-utrecht/</id>
