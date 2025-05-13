@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.brecheisen.nl/woningen/aanbod/zoeken/Utrecht+/beschikbaar/koop/0-650000/3-kamers</id>
     <title>Brecheisen makelaars</title>
-    <updated>2025-05-13T05:45:26.443Z</updated>
+    <updated>2025-05-13T10:17:45.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.brecheisen.nl/app/themes/supress/favicon-32x32.png</icon>
     <entry>
@@ -481,17 +481,17 @@
     <a href="https://www.brecheisen.nl/woningen/aanbod/w-a-vultostraat-1a-utrecht/" class="btn btn--small"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Himalaya 33]]></title>
-        <id>https://www.brecheisen.nl/woningen/aanbod/himalaya-33-utrecht/</id>
-        <link href="https://www.brecheisen.nl/woningen/aanbod/himalaya-33-utrecht/"/>
-        <updated>2025-05-09T17:38:46.014Z</updated>
+        <title type="html"><![CDATA[Keucheniusstraat 13]]></title>
+        <id>https://www.brecheisen.nl/woningen/aanbod/keucheniusstraat-13-utrecht/</id>
+        <link href="https://www.brecheisen.nl/woningen/aanbod/keucheniusstraat-13-utrecht/"/>
+        <updated>2025-05-13T10:13:41.953Z</updated>
         <content type="html"><![CDATA[<picture>
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108464/UT108464-178998-Himalaya-33-Utrecht-225777230-750x490-c-default.webp">
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108464/UT108464-178998-Himalaya-33-Utrecht-225777230-750x490-c-default.jpg">
+        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222-750x490-c-default.webp">
+        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222-750x490-c-default.jpg">
 
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108464/UT108464-178998-Himalaya-33-Utrecht-225777230-510x340-c-default.webp">
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108464/UT108464-178998-Himalaya-33-Utrecht-225777230-510x340-c-default.jpg">
-        <img loading="lazy" src="/app/uploads/sure/media/UT108464/UT108464-178998-Himalaya-33-Utrecht-225777230.jpg" data-src="/app/uploads/sure/media/UT108464/UT108464-178998-Himalaya-33-Utrecht-225777230.jpg" alt="" data-ll-status="loaded" class="loaded">
+        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222-510x340-c-default.webp">
+        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222-510x340-c-default.jpg">
+        <img loading="lazy" src="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222.jpg" data-src="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222.jpg" alt="" data-ll-status="loaded" class="loaded">
     </picture>
 
     <span class="card-house__labels">
@@ -502,13 +502,13 @@
 
     <div class="card-house__content">
         <div class="card-house__content__info">
-                            <h3 class="h4">Himalaya 33 </h3>
+                            <h3 class="h4">Keucheniusstraat 13 </h3>
             
             
             <div class="card-house__content__info__inner">
                 <h4 class="h5 city">Utrecht</h4>
                 <h4 class="h5">
-                                            € 540.000,-  k.k.
+                                            € 525.000,-  k.k.
                                     </h4>
             </div>
         </div>
@@ -516,23 +516,23 @@
         <div class="card-house__content__specs">
                             <div class="spec">
                     <i class="icon-vierkante-meter"></i>
-                    <span>110 m<sup>2</sup></span>
+                    <span>86 m<sup>2</sup></span>
                 </div>
             
                             <div class="spec">
                     <i class="icon-perceel"></i>
-                    <span>140 m<sup>2</sup></span>
+                    <span>89 m<sup>2</sup></span>
                 </div>
             
                             <div class="spec">
                     <i class="icon-rooms"></i>
-                    <span>5 kamer(s)</span>
+                    <span>4 kamer(s)</span>
                 </div>
                     </div>
     </div>
 
-    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/himalaya-33-utrecht/"></a>
+    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/keucheniusstraat-13-utrecht/"></a>
 
-    <a href="https://www.brecheisen.nl/woningen/aanbod/himalaya-33-utrecht/" class="btn btn--small"></a>]]></content>
+    <a href="https://www.brecheisen.nl/woningen/aanbod/keucheniusstraat-13-utrecht/" class="btn btn--small"></a>]]></content>
     </entry>
 </feed>
