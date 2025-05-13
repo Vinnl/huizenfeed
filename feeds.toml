@@ -445,4 +445,4 @@ url = "https://www.dinaverkoopt.nl/woning-aanbod/?view=list&straat&plaats=utrech
 entrySelector = "#overzicht-grid .grid-houses__col"
 titleSelector = "h4"
 linkSelector = "a"
-filters = ["1 slaapkamers", "2 slaapkamers"]
+filters = ["1 slaapkamers", "2 slaapkamers", "Onder bod", "verkocht", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
