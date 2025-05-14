@@ -131,7 +131,7 @@ waitUntil = "networkidle"
 
 [lef]
 title = "LEF Makelaars"
-url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_status=te-koop&fwp_koopprijs=172500.00%2C699440.00&fwp_oppervlakte=98.00%2C165.00"
+url = "https://www.lefmakelaars.nl/actueel-aanbod/?fwp_locaties=utrecht&fwp_status=te-koop&fwp_koopprijs=172500.00%2C649440.00&fwp_oppervlakte=98.00%2C165.00"
 entrySelector = ".aanbod"
 titleSelector = ".row"
 linkSelector = "a.aanbod-item"
@@ -315,7 +315,7 @@ linkSelector = "a"
 
 [stapmakelaars]
 title = "Stap makelaars"
-url = "https://www.stapmakelaars.nl/woningaanbod/#HYtLDoAgDETv0jULN8bE2xRCAoKWlKImhLtbnNX8XodEVEJrDPtvwUDJiFI1N2Hvgmg1l8Lx0LbDia-O2zIFw0AVlDb_1lcXYrKIrMxDdCnl-c6YxE9khfEB"
+url = "https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw"
 entrySelector = "#entity-items article.card"
 titleSelector = "h3"
 linkSelector = "a"
