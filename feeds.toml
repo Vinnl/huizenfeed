@@ -1,6 +1,6 @@
 [default]
 timeout = 300
-filters = ["Onder bod", "verkocht", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
+filters = ["Onder bod", "verkocht", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN", "Maarssen"]
 onFail = "stale"
 waitUntil = "load"
 
@@ -42,6 +42,7 @@ entrySelector = ".card-house"
 titleSelector = "h3"
 linkSelector = "a"
 waitUntil = "networkidle"
+matchAllOf = ["Utrecht"]
 
 # [punt]
 # title = "Punt Makelaars"
