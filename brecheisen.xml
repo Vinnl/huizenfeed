@@ -2,60 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.brecheisen.nl/woningen/aanbod/zoeken/Utrecht+/beschikbaar/koop/0-650000/3-kamers</id>
     <title>Brecheisen makelaars</title>
-    <updated>2025-05-14T05:50:44.088Z</updated>
+    <updated>2025-05-14T07:34:09.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.brecheisen.nl/app/themes/supress/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Huizerweg 49 B]]></title>
-        <id>https://www.brecheisen.nl/woningen/aanbod/huizerweg-49b-bussum-2/</id>
-        <link href="https://www.brecheisen.nl/woningen/aanbod/huizerweg-49b-bussum-2/"/>
-        <updated>2025-05-03T19:55:56.381Z</updated>
-        <content type="html"><![CDATA[<picture>
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108267/UT108267-174414-Huizerweg-49B-Bussum-220849723-750x490-c-default.webp">
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108267/UT108267-174414-Huizerweg-49B-Bussum-220849723-750x490-c-default.jpg">
-
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108267/UT108267-174414-Huizerweg-49B-Bussum-220849723-510x340-c-default.webp">
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108267/UT108267-174414-Huizerweg-49B-Bussum-220849723-510x340-c-default.jpg">
-        <img loading="lazy" src="/app/uploads/sure/media/UT108267/UT108267-174414-Huizerweg-49B-Bussum-220849723.jpg" data-src="/app/uploads/sure/media/UT108267/UT108267-174414-Huizerweg-49B-Bussum-220849723.jpg" alt="" data-ll-status="loaded" class="loaded">
-    </picture>
-
-    <span class="card-house__labels">
-        
-                
-                    <div class="card-house__label">Beschikbaar</div>
-           </span>
-
-    <div class="card-house__content">
-        <div class="card-house__content__info">
-                            <h3 class="h4">Huizerweg 49 B</h3>
-            
-            
-            <div class="card-house__content__info__inner">
-                <h4 class="h5 city">Bussum</h4>
-                <h4 class="h5">
-                                            € 499.000,-  k.k.
-                                    </h4>
-            </div>
-        </div>
-
-        <div class="card-house__content__specs">
-                            <div class="spec">
-                    <i class="icon-vierkante-meter"></i>
-                    <span>121 m<sup>2</sup></span>
-                </div>
-            
-            
-                            <div class="spec">
-                    <i class="icon-rooms"></i>
-                    <span>4 kamer(s)</span>
-                </div>
-                    </div>
-    </div>
-
-    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/huizerweg-49b-bussum-2/"></a>
-
-    <a href="https://www.brecheisen.nl/woningen/aanbod/huizerweg-49b-bussum-2/" class="btn btn--small"></a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Kievitstraat 7]]></title>
         <id>https://www.brecheisen.nl/woningen/aanbod/kievitstraat-7-utrecht/</id>
@@ -212,61 +161,6 @@
     <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/cab-rondom-297-utrecht/"></a>
 
     <a href="https://www.brecheisen.nl/woningen/aanbod/cab-rondom-297-utrecht/" class="btn btn--small"></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citroenkruid 32]]></title>
-        <id>https://www.brecheisen.nl/woningen/aanbod/citroenkruid-32-de-meern/</id>
-        <link href="https://www.brecheisen.nl/woningen/aanbod/citroenkruid-32-de-meern/"/>
-        <updated>2025-05-03T19:55:56.399Z</updated>
-        <content type="html"><![CDATA[<picture>
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/DN15391/DN15391-178691-Citroenkruid-32-De-meern-209478495-750x490-c-default.webp">
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/DN15391/DN15391-178691-Citroenkruid-32-De-meern-209478495-750x490-c-default.jpg">
-
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/DN15391/DN15391-178691-Citroenkruid-32-De-meern-209478495-510x340-c-default.webp">
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/DN15391/DN15391-178691-Citroenkruid-32-De-meern-209478495-510x340-c-default.jpg">
-        <img loading="lazy" src="/app/uploads/sure/media/DN15391/DN15391-178691-Citroenkruid-32-De-meern-209478495.jpg" data-src="/app/uploads/sure/media/DN15391/DN15391-178691-Citroenkruid-32-De-meern-209478495.jpg" alt="" data-ll-status="loaded" class="loaded">
-    </picture>
-
-    <span class="card-house__labels">
-        
-                
-                    <div class="card-house__label">Beschikbaar</div>
-           </span>
-
-    <div class="card-house__content">
-        <div class="card-house__content__info">
-                            <h3 class="h4">Citroenkruid 32 </h3>
-            
-            
-            <div class="card-house__content__info__inner">
-                <h4 class="h5 city">De Meern</h4>
-                <h4 class="h5">
-                                            € 590.000,-  k.k.
-                                    </h4>
-            </div>
-        </div>
-
-        <div class="card-house__content__specs">
-                            <div class="spec">
-                    <i class="icon-vierkante-meter"></i>
-                    <span>127 m<sup>2</sup></span>
-                </div>
-            
-                            <div class="spec">
-                    <i class="icon-perceel"></i>
-                    <span>169 m<sup>2</sup></span>
-                </div>
-            
-                            <div class="spec">
-                    <i class="icon-rooms"></i>
-                    <span>4 kamer(s)</span>
-                </div>
-                    </div>
-    </div>
-
-    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/citroenkruid-32-de-meern/"></a>
-
-    <a href="https://www.brecheisen.nl/woningen/aanbod/citroenkruid-32-de-meern/" class="btn btn--small"></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CAB-rondom 319]]></title>
@@ -479,60 +373,5 @@
     <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/keucheniusstraat-13-utrecht/"></a>
 
     <a href="https://www.brecheisen.nl/woningen/aanbod/keucheniusstraat-13-utrecht/" class="btn btn--small"></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zogweteringlaan 15]]></title>
-        <id>https://www.brecheisen.nl/woningen/aanbod/zogweteringlaan-15-maarssen/</id>
-        <link href="https://www.brecheisen.nl/woningen/aanbod/zogweteringlaan-15-maarssen/"/>
-        <updated>2025-05-13T17:43:03.189Z</updated>
-        <content type="html"><![CDATA[<picture>
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/DN15466/DN15466-179429-Zogweteringlaan-15-Maarssen-226214546-750x490-c-default.webp">
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/DN15466/DN15466-179429-Zogweteringlaan-15-Maarssen-226214546-750x490-c-default.jpg">
-
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/DN15466/DN15466-179429-Zogweteringlaan-15-Maarssen-226214546-510x340-c-default.webp">
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/DN15466/DN15466-179429-Zogweteringlaan-15-Maarssen-226214546-510x340-c-default.jpg">
-        <img loading="lazy" src="/app/uploads/sure/media/DN15466/DN15466-179429-Zogweteringlaan-15-Maarssen-226214546.jpg" data-src="/app/uploads/sure/media/DN15466/DN15466-179429-Zogweteringlaan-15-Maarssen-226214546.jpg" alt="" data-ll-status="loaded" class="loaded">
-    </picture>
-
-    <span class="card-house__labels">
-        
-                
-                    <div class="card-house__label">Beschikbaar</div>
-           </span>
-
-    <div class="card-house__content">
-        <div class="card-house__content__info">
-                            <h3 class="h4">Zogweteringlaan 15 </h3>
-            
-            
-            <div class="card-house__content__info__inner">
-                <h4 class="h5 city">Maarssen</h4>
-                <h4 class="h5">
-                                            € 475.000,-  k.k.
-                                    </h4>
-            </div>
-        </div>
-
-        <div class="card-house__content__specs">
-                            <div class="spec">
-                    <i class="icon-vierkante-meter"></i>
-                    <span>80 m<sup>2</sup></span>
-                </div>
-            
-                            <div class="spec">
-                    <i class="icon-perceel"></i>
-                    <span>120 m<sup>2</sup></span>
-                </div>
-            
-                            <div class="spec">
-                    <i class="icon-rooms"></i>
-                    <span>3 kamer(s)</span>
-                </div>
-                    </div>
-    </div>
-
-    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/zogweteringlaan-15-maarssen/"></a>
-
-    <a href="https://www.brecheisen.nl/woningen/aanbod/zogweteringlaan-15-maarssen/" class="btn btn--small"></a>]]></content>
     </entry>
 </feed>

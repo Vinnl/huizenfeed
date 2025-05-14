@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.markrenkemamakelaardij.nl/wonen/zoeken/Utrecht/0-650000/</id>
     <title>Mark Renkema Makelaardij</title>
-    <updated>2025-05-14T05:50:44.072Z</updated>
+    <updated>2025-05-14T07:34:09.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.markrenkemamakelaardij.nl/app/uploads/2022/07/cropped-favicon-1-80x80.png</icon>
     <entry>
@@ -15,7 +15,7 @@
             <div class="card-product__label">Beschikbaar</div>
     
     <picture>
-        <img loading="lazy" data-src="/app/uploads/sure/media/DG100345/DG100345-9412-Douwes-Dekkerstraat-62-Utrecht-228205792-730x473-c-default.jpg" alt="" src="/app/uploads/sure/media/DG100345/DG100345-9412-Douwes-Dekkerstraat-62-Utrecht-228205792-730x473-c-default.jpg" data-ll-status="loaded" class="loaded">
+        <img loading="lazy" data-src="/app/uploads/sure/media/DG100345/DG100345-9412-Douwes-Dekkerstraat-62-Utrecht-228205792-730x473-c-default.jpg" alt="" src="/app/uploads/sure/media/DG100345/DG100345-9412-Douwes-Dekkerstraat-62-Utrecht-228205792-730x473-c-default.jpg" data-ll-status="native">
     </picture>
 
     <div class="card-product__content">
