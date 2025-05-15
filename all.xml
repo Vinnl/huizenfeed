@@ -2,169 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-15T05:46:47.866Z</updated>
+    <updated>2025-05-15T17:50:05.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Berkelstraat 69 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095"/>
-        <updated>2025-05-15T05:41:40.355Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/68230ebf285b923a5f48d095/rw-api-sha/MjI4ODUwNzA4LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E3MjNmM2RjOWJkNDNkMmJhZWJmOGFhODE1NTI1ZDkzN2Y1OTI3N2RhMDIwMTExNDg4ZDA2OTRiNzExYTFkYTFh/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-				<span class="card-object-status new">Nieuw!</span>
-			
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095" class="card-object-address">Berkelstraat 69</a><br>
-				<span class="card-object-price"><b>3522 EL Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 575,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">92</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">3</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verlengde Hoogravenseweg 77 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290"/>
-        <updated>2025-05-15T05:41:40.368Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/681df2f4285b923a5fed7290/rw-api-sha/MjI4MzQ4NTIwLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EyZjJmNGYwNmFiZmY1YTBmYmM2OWY1MmRmZTM5MTZhZGVkMjM0ZmI5ZmEyM2MxN2RlNmU2MzFjZjMzOWQ2YmY2/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-				<span class="card-object-status new">Nieuw!</span>
-			
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290" class="card-object-address">Verlengde Hoogravenseweg 77</a><br>
-				<span class="card-object-price"><b>3525 BB Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 575,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">98</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amerhof 110 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0"/>
-        <updated>2025-05-15T05:41:40.373Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/681ca16d285b923a5f116df0/rw-api-sha/MjI3MTk1NzA2LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FjNzdhM2QxNGViYzhlOGYwNGUwZTVhMmU5MDgwNTEyMWYyN2FkOGM0Njc4MDk1ODY4MzRmZDRiMGJlYjU4YjM5/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-				<span class="card-object-status new">Nieuw!</span>
-			
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0" class="card-object-address">Amerhof 110</a><br>
-				<span class="card-object-price"><b>3522 TR Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 650,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Eindwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">108</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acaciastraat 1 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1"/>
-        <updated>2025-05-15T05:41:40.376Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/681a1a85285b923a5f6abcd1/rw-api-sha/MjI2MjYwNzUwLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E3MjZjM2U1MjQyY2FiZTZiMjNhNWYwODY3MmU4YTBjNjljNjcxYjk4OWRmZjgyNmUwZDcxODg1ZTc3ZDZjNmMx/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1" class="card-object-address">Acaciastraat 1</a><br>
-				<span class="card-object-price"><b>3551 BD Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 565,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">135</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">3</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homeruslaan 30 BS (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d"/>
-        <updated>2025-05-15T05:41:40.385Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/68010e0229ede7d94440a78d/rw-api-sha/MjIyMzg5MjI5LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FiOTZlMWNjMmEyOTdmOTJjMzBjMmFiMzQ5NDNlYTJjYjY3MzM0MjI2MTQ1Yzk0MTYyYWY5NzljYTQ1MWY4NDQ4/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d" class="card-object-address">Homeruslaan 30 BS</a><br>
-				<span class="card-object-price"><b>3581 MH Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 497,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Maisonnette</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">95</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">2</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Kievitstraat 7 (Brecheisen makelaars)]]></title>
         <id>https://www.brecheisen.nl/woningen/aanbod/kievitstraat-7-utrecht/</id>
@@ -858,13 +697,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-15T05:42:32.594Z</updated>
+        <updated>2025-05-15T17:45:08.830Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>352 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>344 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -1296,61 +1135,6 @@
 			</li>
 		</ul>
   </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Egelantierstraat 84 (365makelaardij)]]></title>
-        <id>https://365makelaardij.nl/wonen/object/egelantierstraat-84-utrecht/</id>
-        <link href="https://365makelaardij.nl/wonen/object/egelantierstraat-84-utrecht/"/>
-        <updated>2025-05-02T17:45:35.653Z</updated>
-        <content type="html"><![CDATA[<a href="https://365makelaardij.nl/wonen/object/egelantierstraat-84-utrecht/" class="card-property" title="Egelantierstraat 84 ">
-    <div class="card-property__image">
-
-                
-<picture>
-                                                    
-                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg" type="image/jpeg" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg">
-            
-                                                            
-                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg" type="image/jpeg" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg">
-            
-                                                            
-                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg" type="image/jpeg" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg">
-            
-                                                <img fetchpriority="high" data-src="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318-150x150.webp" alt="UT101761-21767-Egelantierstraat-84,-Utrecht-227656318" class=" ls-is-cached lazyloaded" loading="lazy" src="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318-150x150.webp">
-                                        </picture>
-    </div>
-
-            <div class="card-property__label">
-            <span>Beschikbaar</span>
-        </div>
-    
-    <div class="card-property__content">
-        <div class="row align-items-end">
-            <div class="col-md-6">
-                <h4>Egelantierstraat 84 </h4>
-                                    <ul class="card-property__list">
-                                                    <li class="card-property__list-item">
-                                            € 500.000 k.k.
-                                </li>
-                                                                            <li class="card-property__list-item">
-                                Utrecht
-                            </li>
-                                            </ul>
-                            </div>
-
-                            <div class="col-md-6 mt-15 mt-md-0 d-flex justify-content-md-end">
-                    <ul class="card-property__list justify-content-md-end">
-                                                    <li class="card-property__list-item">
-                                <i class="icon-surface"></i>67m²
-                            </li>
-                                                                            <li class="card-property__list-item">
-                                <i class="icon-door"></i>5
-                            </li>
-                                            </ul>
-                </div>
-                    </div>
-    </div>
-</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zwanenvechtlaan 14 (Waltmann Makelaars)]]></title>
@@ -1818,7 +1602,7 @@
         <updated>2025-05-07T17:43:24.352Z</updated>
         <content type="html"><![CDATA[<div class="object__image" data-href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9">
                     <div class="swiper object-swiper swiper--lazy entered swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden" id="swiperLazy3" data-ll-status="entered">
-                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-0f817a89fa7cf3dc" aria-live="polite">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-ffcb106d8e2a057d5" aria-live="polite">
                                 <a class="swiper-slide swiper-slide-active" href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9" style="width: 339px;" role="group" aria-label="1 / 4">
                                     <img width="350" alt="Te koop: Grasstraat 1, 3572TV Utrecht" class="lazy entered loaded" data-srcset="
                                           
@@ -1858,8 +1642,8 @@
                                 <div class="swiper-lazy-preloader"></div>
                             </a>
                         </div>
-                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-0f817a89fa7cf3dc" aria-disabled="false"></div>
-                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-0f817a89fa7cf3dc" aria-disabled="true"></div>
+                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-ffcb106d8e2a057d5" aria-disabled="false"></div>
+                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-ffcb106d8e2a057d5" aria-disabled="true"></div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
 
 
@@ -2135,14 +1919,6 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
 		</div>
 		<a href="https://domvast.nl/woning/utrecht-julianaweg-425/" class="overlay" rel="bookmark"></a>
 	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engelsmanplaat 48 (Paul Dijkstra makelaars)]]></title>
-        <id>https://www.leefengeniet.nl/woning/engelsmanplaat-48/</id>
-        <link href="https://www.leefengeniet.nl/woning/engelsmanplaat-48/"/>
-        <updated>2025-05-14T17:43:35.343Z</updated>
-        <content type="html"><![CDATA[<div class="item">
-<a href="https://www.leefengeniet.nl/woning/engelsmanplaat-48/" class="thumbnail"><div class="item-status">Beschikbaar</div>            <img data-lazyloaded="1" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjY4MyIgdmlld0JveD0iMCAwIDEwMjQgNjgzIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==" width="1024" height="683" data-src="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" data-srcset="https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526-1024x683.jpg 1024w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526-300x200.jpg 300w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526-768x512.jpg 768w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526-1536x1024.jpg 1536w, https://www.leefengeniet.nl/wp-content/uploads/realworks/wonen/8.766.401/226282526.jpg 2048w" data-sizes="(max-width: 1024px) 100vw, 1024px">		</a><div class="item-content"><header><h2>Engelsmanplaat 48</h2></header><div class="entry-content hidden-sm"><div class="item-address">3524 AZ Utrecht</div><div class="item-price"><b>€ 530.000,- k.k.</b></div><div class="item-info"><span><i class="fas fa-ruler"></i> 120 m<sup>2</sup></span> <span><i class="fas fa-bed"></i> 3 slaapkamers</span> <span><i class="fas fa-home"></i> Woonhuis</span></div></div></div><a href="https://www.leefengeniet.nl/woning/engelsmanplaat-48/" class="overlay" rel="bookmark"></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Voorstraat 27 BS Utrecht (Covers wonen)]]></title>

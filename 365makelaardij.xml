@@ -2,62 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://365makelaardij.nl/wonen/zoeken/heel-nederland/koop/utrecht/3-slaapkamers/beschikbaar/</id>
     <title>365makelaardij</title>
-    <updated>2025-05-15T05:46:47.826Z</updated>
+    <updated>2025-05-15T17:50:05.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://365makelaardij.nl/app/uploads/2024/05/cropped-favicon-150x150.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Egelantierstraat 84]]></title>
-        <id>https://365makelaardij.nl/wonen/object/egelantierstraat-84-utrecht/</id>
-        <link href="https://365makelaardij.nl/wonen/object/egelantierstraat-84-utrecht/"/>
-        <updated>2025-05-02T17:45:35.653Z</updated>
-        <content type="html"><![CDATA[<a href="https://365makelaardij.nl/wonen/object/egelantierstraat-84-utrecht/" class="card-property" title="Egelantierstraat 84 ">
-    <div class="card-property__image">
-
-                
-<picture>
-                                                    
-                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg" type="image/jpeg" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg">
-            
-                                                            
-                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg" type="image/jpeg" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg">
-            
-                                                            
-                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg" type="image/jpeg" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318.jpg">
-            
-                                                <img fetchpriority="high" data-src="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318-150x150.webp" alt="UT101761-21767-Egelantierstraat-84,-Utrecht-227656318" class=" ls-is-cached lazyloaded" loading="lazy" src="https://365makelaardij.nl/app/uploads/sure/media/UT101761/UT101761-21767-Egelantierstraat-84-Utrecht-227656318-150x150.webp">
-                                        </picture>
-    </div>
-
-            <div class="card-property__label">
-            <span>Beschikbaar</span>
-        </div>
-    
-    <div class="card-property__content">
-        <div class="row align-items-end">
-            <div class="col-md-6">
-                <h4>Egelantierstraat 84 </h4>
-                                    <ul class="card-property__list">
-                                                    <li class="card-property__list-item">
-                                            € 500.000 k.k.
-                                </li>
-                                                                            <li class="card-property__list-item">
-                                Utrecht
-                            </li>
-                                            </ul>
-                            </div>
-
-                            <div class="col-md-6 mt-15 mt-md-0 d-flex justify-content-md-end">
-                    <ul class="card-property__list justify-content-md-end">
-                                                    <li class="card-property__list-item">
-                                <i class="icon-surface"></i>67m²
-                            </li>
-                                                                            <li class="card-property__list-item">
-                                <i class="icon-door"></i>5
-                            </li>
-                                            </ul>
-                </div>
-                    </div>
-    </div>
-</a>]]></content>
-    </entry>
 </feed>
