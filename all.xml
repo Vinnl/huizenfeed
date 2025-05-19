@@ -2,545 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-19T05:51:26.649Z</updated>
+    <updated>2025-05-19T17:53:57.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Struyckenlaan 7 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/struyckenlaan-7/682757aa285b923a5f0f5dc2</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/struyckenlaan-7/682757aa285b923a5f0f5dc2"/>
-        <updated>2025-05-19T05:41:33.138Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/struyckenlaan-7/682757aa285b923a5f0f5dc2" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/682757aa285b923a5f0f5dc2/rw-api-sha/MjI3NTYyMjE0LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EwY2EzN2NmMjBjNzZjOGUxYWFkMWM1MTZkMWQ0ZGYxYzgzYTVjZDRlMGEzZjU5MTQ0N2ZjYzIyMDFkZjJlMTgz/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-				<span class="card-object-status new">Nieuw!</span>
-			
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/struyckenlaan-7/682757aa285b923a5f0f5dc2" class="card-object-address">Struyckenlaan 7</a><br>
-				<span class="card-object-price"><b>3527 KJ Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 365,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Portiekflat</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">68</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">3</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burt Bacharachstraat 119 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/burt-bacharachstraat-119/6825dbfc285b923a5f14a70e</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/burt-bacharachstraat-119/6825dbfc285b923a5f14a70e"/>
-        <updated>2025-05-19T05:41:33.143Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/burt-bacharachstraat-119/6825dbfc285b923a5f14a70e" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/6825dbfc285b923a5f14a70e/rw-api-sha/MjI4OTk3MTQyLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0ExMTgxMzY1YzM0Y2U1OGE0MmUxN2UzNDUyNjRhMTA2YzlkNTRmZmI5MTI3NDE5Y2Q5NzdmMzQ1OWI1NjhjMDY4/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-				<span class="card-object-status new">Nieuw!</span>
-			
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/burt-bacharachstraat-119/6825dbfc285b923a5f14a70e" class="card-object-address">Burt Bacharachstraat 119</a><br>
-				<span class="card-object-price"><b>3543 DD Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 685,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">130</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">5</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Berkelstraat 69 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095"/>
-        <updated>2025-05-19T05:41:33.145Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/68230ebf285b923a5f48d095/rw-api-sha/MjI4ODUwNzA4LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E3MjNmM2RjOWJkNDNkMmJhZWJmOGFhODE1NTI1ZDkzN2Y1OTI3N2RhMDIwMTExNDg4ZDA2OTRiNzExYTFkYTFh/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-				<span class="card-object-status new">Nieuw!</span>
-			
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095" class="card-object-address">Berkelstraat 69</a><br>
-				<span class="card-object-price"><b>3522 EL Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 575,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">92</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">3</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verlengde Hoogravenseweg 77 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290"/>
-        <updated>2025-05-19T05:41:33.147Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/681df2f4285b923a5fed7290/rw-api-sha/MjI4MzQ4NTIwLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EyZjJmNGYwNmFiZmY1YTBmYmM2OWY1MmRmZTM5MTZhZGVkMjM0ZmI5ZmEyM2MxN2RlNmU2MzFjZjMzOWQ2YmY2/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290" class="card-object-address">Verlengde Hoogravenseweg 77</a><br>
-				<span class="card-object-price"><b>3525 BB Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 575,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">98</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amerhof 110 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0"/>
-        <updated>2025-05-19T05:41:33.150Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/681ca16d285b923a5f116df0/rw-api-sha/MjI3MTk1NzA2LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FjNzdhM2QxNGViYzhlOGYwNGUwZTVhMmU5MDgwNTEyMWYyN2FkOGM0Njc4MDk1ODY4MzRmZDRiMGJlYjU4YjM5/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0" class="card-object-address">Amerhof 110</a><br>
-				<span class="card-object-price"><b>3522 TR Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 650,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Eindwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">108</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">4</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acaciastraat 1 (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1"/>
-        <updated>2025-05-19T05:41:33.151Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/681a1a85285b923a5f6abcd1/rw-api-sha/MjI2MjYwNzUwLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E3MjZjM2U1MjQyY2FiZTZiMjNhNWYwODY3MmU4YTBjNjljNjcxYjk4OWRmZjgyNmUwZDcxODg1ZTc3ZDZjNmMx/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1" class="card-object-address">Acaciastraat 1</a><br>
-				<span class="card-object-price"><b>3551 BD Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 565,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Tussenwoning</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">135</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">3</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homeruslaan 30 BS (Peek & Pompe makelaars)]]></title>
-        <id>https://www.peekenpompe.nl/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d</id>
-        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d"/>
-        <updated>2025-05-19T05:41:33.154Z</updated>
-        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
-				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/68010e0229ede7d94440a78d/rw-api-sha/MjIyMzg5MjI5LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FiOTZlMWNjMmEyOTdmOTJjMzBjMmFiMzQ5NDNlYTJjYjY3MzM0MjI2MTQ1Yzk0MTYyYWY5NzljYTQ1MWY4NDQ4/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
-            
-			</a>
-			<div class="card-object-details">
-				<a href="/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d" class="card-object-address">Homeruslaan 30 BS</a><br>
-				<span class="card-object-price"><b>3581 MH Utrecht</b></span><br>
-				<span class="card-object-price">
-					
-					€ 497,000 k.k.
-				</span>
-				<ul class="card-object-info">
-					
-					<li><img src="/upload/house-type.svg">Maisonnette</li>
-					
-
-					
-					<li><img src="/upload/real-estate-house-measurements.svg">95</li>
-					
-
-					
-					<li><img src="/upload/hotel-bed-1.svg">2</li>
-					
-				</ul>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kievitstraat 7 (Brecheisen makelaars)]]></title>
-        <id>https://www.brecheisen.nl/woningen/aanbod/kievitstraat-7-utrecht/</id>
-        <link href="https://www.brecheisen.nl/woningen/aanbod/kievitstraat-7-utrecht/"/>
-        <updated>2025-05-03T19:55:56.382Z</updated>
-        <content type="html"><![CDATA[<picture>
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108199/UT108199-175895-Kievitstraat-7-Utrecht-215565661-750x490-c-default.webp">
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108199/UT108199-175895-Kievitstraat-7-Utrecht-215565661-750x490-c-default.jpg">
-
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108199/UT108199-175895-Kievitstraat-7-Utrecht-215565661-510x340-c-default.webp">
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108199/UT108199-175895-Kievitstraat-7-Utrecht-215565661-510x340-c-default.jpg">
-        <img loading="lazy" src="/app/uploads/sure/media/UT108199/UT108199-175895-Kievitstraat-7-Utrecht-215565661.jpg" data-src="/app/uploads/sure/media/UT108199/UT108199-175895-Kievitstraat-7-Utrecht-215565661.jpg" alt="" data-ll-status="loaded" class="loaded">
-    </picture>
-
-    <span class="card-house__labels">
-        
-                
-                    <div class="card-house__label">Beschikbaar</div>
-           </span>
-
-    <div class="card-house__content">
-        <div class="card-house__content__info">
-                            <h3 class="h4">Kievitstraat 7 </h3>
-            
-            
-            <div class="card-house__content__info__inner">
-                <h4 class="h5 city">Utrecht</h4>
-                <h4 class="h5">
-                                            € 535.000,-  k.k.
-                                    </h4>
-            </div>
-        </div>
-
-        <div class="card-house__content__specs">
-                            <div class="spec">
-                    <i class="icon-vierkante-meter"></i>
-                    <span>113 m<sup>2</sup></span>
-                </div>
-            
-            
-                            <div class="spec">
-                    <i class="icon-rooms"></i>
-                    <span>7 kamer(s)</span>
-                </div>
-                    </div>
-    </div>
-
-    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/kievitstraat-7-utrecht/"></a>
-
-    <a href="https://www.brecheisen.nl/woningen/aanbod/kievitstraat-7-utrecht/" class="btn btn--small"></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAB-rondom 297 (Brecheisen makelaars)]]></title>
-        <id>https://www.brecheisen.nl/woningen/aanbod/cab-rondom-297-utrecht/</id>
-        <link href="https://www.brecheisen.nl/woningen/aanbod/cab-rondom-297-utrecht/"/>
-        <updated>2025-05-03T19:55:56.395Z</updated>
-        <content type="html"><![CDATA[<picture>
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108647/UT108647-178515-CAB-rondom-297-Utrecht-225739518-750x490-c-default.webp">
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108647/UT108647-178515-CAB-rondom-297-Utrecht-225739518-750x490-c-default.jpg">
-
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108647/UT108647-178515-CAB-rondom-297-Utrecht-225739518-510x340-c-default.webp">
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108647/UT108647-178515-CAB-rondom-297-Utrecht-225739518-510x340-c-default.jpg">
-        <img loading="lazy" src="/app/uploads/sure/media/UT108647/UT108647-178515-CAB-rondom-297-Utrecht-225739518.jpg" data-src="/app/uploads/sure/media/UT108647/UT108647-178515-CAB-rondom-297-Utrecht-225739518.jpg" alt="" data-ll-status="loaded" class="loaded">
-    </picture>
-
-    <span class="card-house__labels">
-        
-                
-                    <div class="card-house__label">Beschikbaar</div>
-           </span>
-
-    <div class="card-house__content">
-        <div class="card-house__content__info">
-                            <h3 class="h4">CAB-rondom 297 </h3>
-            
-            
-            <div class="card-house__content__info__inner">
-                <h4 class="h5 city">Utrecht</h4>
-                <h4 class="h5">
-                                            € 630.000,- v.o.n.
-                                    </h4>
-            </div>
-        </div>
-
-        <div class="card-house__content__specs">
-                            <div class="spec">
-                    <i class="icon-vierkante-meter"></i>
-                    <span>96 m<sup>2</sup></span>
-                </div>
-            
-            
-                            <div class="spec">
-                    <i class="icon-rooms"></i>
-                    <span>3 kamer(s)</span>
-                </div>
-                    </div>
-    </div>
-
-    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/cab-rondom-297-utrecht/"></a>
-
-    <a href="https://www.brecheisen.nl/woningen/aanbod/cab-rondom-297-utrecht/" class="btn btn--small"></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAB-rondom 319 (Brecheisen makelaars)]]></title>
-        <id>https://www.brecheisen.nl/woningen/aanbod/cab-rondom-319-utrecht/</id>
-        <link href="https://www.brecheisen.nl/woningen/aanbod/cab-rondom-319-utrecht/"/>
-        <updated>2025-05-03T19:55:56.401Z</updated>
-        <content type="html"><![CDATA[<picture>
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108654/UT108654-178844-CAB-rondom-319-Utrecht-226196734-750x490-c-default.webp">
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108654/UT108654-178844-CAB-rondom-319-Utrecht-226196734-750x490-c-default.jpg">
-
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108654/UT108654-178844-CAB-rondom-319-Utrecht-226196734-510x340-c-default.webp">
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108654/UT108654-178844-CAB-rondom-319-Utrecht-226196734-510x340-c-default.jpg">
-        <img loading="lazy" src="/app/uploads/sure/media/UT108654/UT108654-178844-CAB-rondom-319-Utrecht-226196734.jpg" data-src="/app/uploads/sure/media/UT108654/UT108654-178844-CAB-rondom-319-Utrecht-226196734.jpg" alt="" data-ll-status="loaded" class="loaded">
-    </picture>
-
-    <span class="card-house__labels">
-        
-                
-                    <div class="card-house__label">Beschikbaar</div>
-           </span>
-
-    <div class="card-house__content">
-        <div class="card-house__content__info">
-                            <h3 class="h4">CAB-rondom 319 </h3>
-            
-            
-            <div class="card-house__content__info__inner">
-                <h4 class="h5 city">Utrecht</h4>
-                <h4 class="h5">
-                                            € 640.000,- v.o.n.
-                                    </h4>
-            </div>
-        </div>
-
-        <div class="card-house__content__specs">
-                            <div class="spec">
-                    <i class="icon-vierkante-meter"></i>
-                    <span>96 m<sup>2</sup></span>
-                </div>
-            
-            
-                            <div class="spec">
-                    <i class="icon-rooms"></i>
-                    <span>3 kamer(s)</span>
-                </div>
-                    </div>
-    </div>
-
-    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/cab-rondom-319-utrecht/"></a>
-
-    <a href="https://www.brecheisen.nl/woningen/aanbod/cab-rondom-319-utrecht/" class="btn btn--small"></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jadelaan 1 (Brecheisen makelaars)]]></title>
-        <id>https://www.brecheisen.nl/woningen/aanbod/jadelaan-1-utrecht/</id>
-        <link href="https://www.brecheisen.nl/woningen/aanbod/jadelaan-1-utrecht/"/>
-        <updated>2025-05-06T14:48:42.335Z</updated>
-        <content type="html"><![CDATA[<picture>
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/DN15285/DN15285-178857-Jadelaan-1-Utrecht-225799696-750x490-c-default.webp">
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/DN15285/DN15285-178857-Jadelaan-1-Utrecht-225799696-750x490-c-default.jpg">
-
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/DN15285/DN15285-178857-Jadelaan-1-Utrecht-225799696-510x340-c-default.webp">
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/DN15285/DN15285-178857-Jadelaan-1-Utrecht-225799696-510x340-c-default.jpg">
-        <img loading="lazy" src="/app/uploads/sure/media/DN15285/DN15285-178857-Jadelaan-1-Utrecht-225799696.jpg" data-src="/app/uploads/sure/media/DN15285/DN15285-178857-Jadelaan-1-Utrecht-225799696.jpg" alt="" data-ll-status="loaded" class="loaded">
-    </picture>
-
-    <span class="card-house__labels">
-        
-                
-                    <div class="card-house__label">Beschikbaar</div>
-           </span>
-
-    <div class="card-house__content">
-        <div class="card-house__content__info">
-                            <h3 class="h4">Jadelaan 1 </h3>
-            
-            
-            <div class="card-house__content__info__inner">
-                <h4 class="h5 city">Utrecht</h4>
-                <h4 class="h5">
-                                            € 390.000,-  k.k.
-                                    </h4>
-            </div>
-        </div>
-
-        <div class="card-house__content__specs">
-                            <div class="spec">
-                    <i class="icon-vierkante-meter"></i>
-                    <span>66 m<sup>2</sup></span>
-                </div>
-            
-            
-                            <div class="spec">
-                    <i class="icon-rooms"></i>
-                    <span>5 kamer(s)</span>
-                </div>
-                    </div>
-    </div>
-
-    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/jadelaan-1-utrecht/"></a>
-
-    <a href="https://www.brecheisen.nl/woningen/aanbod/jadelaan-1-utrecht/" class="btn btn--small"></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keucheniusstraat 13 (Brecheisen makelaars)]]></title>
-        <id>https://www.brecheisen.nl/woningen/aanbod/keucheniusstraat-13-utrecht/</id>
-        <link href="https://www.brecheisen.nl/woningen/aanbod/keucheniusstraat-13-utrecht/"/>
-        <updated>2025-05-13T10:13:41.953Z</updated>
-        <content type="html"><![CDATA[<picture>
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222-750x490-c-default.webp">
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222-750x490-c-default.jpg">
-
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222-510x340-c-default.webp">
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222-510x340-c-default.jpg">
-        <img loading="lazy" src="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222.jpg" data-src="/app/uploads/sure/media/UT108236/UT108236-179062-Keucheniusstraat-13-Utrecht-226653222.jpg" alt="" data-ll-status="loaded" class="loaded">
-    </picture>
-
-    <span class="card-house__labels">
-        
-                
-                    <div class="card-house__label">Beschikbaar</div>
-           </span>
-
-    <div class="card-house__content">
-        <div class="card-house__content__info">
-                            <h3 class="h4">Keucheniusstraat 13 </h3>
-            
-            
-            <div class="card-house__content__info__inner">
-                <h4 class="h5 city">Utrecht</h4>
-                <h4 class="h5">
-                                            € 525.000,-  k.k.
-                                    </h4>
-            </div>
-        </div>
-
-        <div class="card-house__content__specs">
-                            <div class="spec">
-                    <i class="icon-vierkante-meter"></i>
-                    <span>86 m<sup>2</sup></span>
-                </div>
-            
-                            <div class="spec">
-                    <i class="icon-perceel"></i>
-                    <span>89 m<sup>2</sup></span>
-                </div>
-            
-                            <div class="spec">
-                    <i class="icon-rooms"></i>
-                    <span>4 kamer(s)</span>
-                </div>
-                    </div>
-    </div>
-
-    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/keucheniusstraat-13-utrecht/"></a>
-
-    <a href="https://www.brecheisen.nl/woningen/aanbod/keucheniusstraat-13-utrecht/" class="btn btn--small"></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Van Diemenstraat 34 (Brecheisen makelaars)]]></title>
-        <id>https://www.brecheisen.nl/woningen/aanbod/van-diemenstraat-34-utrecht-2/</id>
-        <link href="https://www.brecheisen.nl/woningen/aanbod/van-diemenstraat-34-utrecht-2/"/>
-        <updated>2025-05-16T17:39:00.931Z</updated>
-        <content type="html"><![CDATA[<picture>
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108706/UT108706-180065-Van-Diemenstraat-34-Utrecht-227565734-750x490-c-default.webp">
-        <source media="(min-width:1260px)" srcset="/app/uploads/sure/media/UT108706/UT108706-180065-Van-Diemenstraat-34-Utrecht-227565734-750x490-c-default.jpg">
-
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108706/UT108706-180065-Van-Diemenstraat-34-Utrecht-227565734-510x340-c-default.webp">
-        <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT108706/UT108706-180065-Van-Diemenstraat-34-Utrecht-227565734-510x340-c-default.jpg">
-        <img loading="lazy" src="/app/uploads/sure/media/UT108706/UT108706-180065-Van-Diemenstraat-34-Utrecht-227565734.jpg" data-src="/app/uploads/sure/media/UT108706/UT108706-180065-Van-Diemenstraat-34-Utrecht-227565734.jpg" alt="" data-ll-status="loaded" class="loaded">
-    </picture>
-
-    <span class="card-house__labels">
-        
-                
-                    <div class="card-house__label">Beschikbaar</div>
-           </span>
-
-    <div class="card-house__content">
-        <div class="card-house__content__info">
-                            <h3 class="h4">Van Diemenstraat 34 </h3>
-            
-            
-            <div class="card-house__content__info__inner">
-                <h4 class="h5 city">Utrecht</h4>
-                <h4 class="h5">
-                                            € 650.000,-  k.k.
-                                    </h4>
-            </div>
-        </div>
-
-        <div class="card-house__content__specs">
-                            <div class="spec">
-                    <i class="icon-vierkante-meter"></i>
-                    <span>101 m<sup>2</sup></span>
-                </div>
-            
-                            <div class="spec">
-                    <i class="icon-perceel"></i>
-                    <span>67 m<sup>2</sup></span>
-                </div>
-            
-                            <div class="spec">
-                    <i class="icon-rooms"></i>
-                    <span>4 kamer(s)</span>
-                </div>
-                    </div>
-    </div>
-
-    <a class="full-link" href="https://www.brecheisen.nl/woningen/aanbod/van-diemenstraat-34-utrecht-2/"></a>
-
-    <a href="https://www.brecheisen.nl/woningen/aanbod/van-diemenstraat-34-utrecht-2/" class="btn btn--small"></a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Wageningseberg 426
 							Utrecht
@@ -693,7 +156,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/25d6fa21-4416-4de5-89ae-23eb79870747&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -865,13 +328,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-19T05:47:25.530Z</updated>
+        <updated>2025-05-19T17:45:20.623Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>346 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>340 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -1824,7 +1287,7 @@
         <updated>2025-05-07T17:43:24.352Z</updated>
         <content type="html"><![CDATA[<div class="object__image" data-href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9">
                     <div class="swiper object-swiper swiper--lazy entered swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden" id="swiperLazy3" data-ll-status="entered">
-                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-3b2c903b5458f276" aria-live="polite">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-6d9afc2b3b4f7e57" aria-live="polite">
                                 <a class="swiper-slide swiper-slide-active" href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9" style="width: 339px;" role="group" aria-label="1 / 4">
                                     <img width="350" alt="Te koop: Grasstraat 1, 3572TV Utrecht" class="lazy entered loaded" data-srcset="
                                           
@@ -1864,8 +1327,8 @@
                                 <div class="swiper-lazy-preloader"></div>
                             </a>
                         </div>
-                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-3b2c903b5458f276" aria-disabled="false"></div>
-                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-3b2c903b5458f276" aria-disabled="true"></div>
+                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-6d9afc2b3b4f7e57" aria-disabled="false"></div>
+                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-6d9afc2b3b4f7e57" aria-disabled="true"></div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
 
 
@@ -2114,6 +1577,61 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
 	</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Laan van Soestbergen 9 BS Utrecht (Covers wonen)]]></title>
+        <id>https://coverswonen.nl/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235</id>
+        <link href="https://coverswonen.nl/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235"/>
+        <updated>2025-05-19T17:53:47.521Z</updated>
+        <content type="html"><![CDATA[<div class="thumbs-item thumbs-item-vertical">
+												<div class="img-wr wow fadeInUp animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+													<div class="slider-simple slick-initialized slick-slider"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
+																												<div aria-live="polite" class="slick-list draggable" style="height: 306px;"><div class="slick-track" style="opacity: 1; width: 2754px; left: -459px;" role="listbox"><div class="slide-item-same-height slick-slide slick-cloned compat-object-fit" data-slick-index="-1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2235-230112424.jpg&quot;);" tabindex="-1">
+															<a href="/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235" tabindex="-1">
+																<img src="/imgs/2235-230112424.jpg" alt="" class="same-height-image">
+																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
+															</a>
+														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2235-230112404.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide00">
+															<a href="/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235" tabindex="0">
+																<img src="/imgs/2235-230112404.jpg" alt="" class="same-height-image">
+																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
+															</a>
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2235-230112412.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide01">
+															<a href="/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235" tabindex="-1">
+																<img src="/imgs/2235-230112412.jpg" alt="" class="same-height-image">
+																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
+															</a>
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2235-230112418.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide02">
+															<a href="/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235" tabindex="-1">
+																<img src="/imgs/2235-230112418.jpg" alt="" class="same-height-image">
+																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
+															</a>
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2235-230112424.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide03">
+															<a href="/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235" tabindex="-1">
+																<img src="/imgs/2235-230112424.jpg" alt="" class="same-height-image">
+																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
+															</a>
+														</div><div class="slide-item-same-height slick-slide slick-cloned compat-object-fit" data-slick-index="4" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2235-230112404.jpg&quot;);" tabindex="-1">
+															<a href="/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235" tabindex="-1">
+																<img src="/imgs/2235-230112404.jpg" alt="" class="same-height-image">
+																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
+															</a>
+														</div></div></div>
+																												
+																												
+																												
+																											<button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</button></div>
+												</div>
+												<div class="text-wr wow fadeInUp animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+													<div class="parallax-wr">
+														<div class="parallax-item" style="">
+															<h6 class="bordered-bottom">Te koop</h6>
+															<h3><a href="/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235">Laan van Soestbergen 9 BS Utrecht</a></h3>
+															
+															<p>€ 550.000 k.k.</p><p>Woonoppervlakte: 87 m2</p><p><span class="room-service-item"><i class="fa fa-bed"></i><span>2</span></span><span class="room-service-item"><i class="fa fa-shower"></i><span>1</span></span></p>														</div>
+													</div>
+												</div>
+											</div><!-- END of .thumbs-item -->]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Voorstraat 27 BS Utrecht (Covers wonen)]]></title>
         <id>https://coverswonen.nl/aanbod/koop/voorstraat-27-bs-utrecht~2193</id>
         <link href="https://coverswonen.nl/aanbod/koop/voorstraat-27-bs-utrecht~2193"/>
@@ -2126,22 +1644,22 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
 																<img src="/imgs/2193-219291219.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2193-219291215.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide30">
+														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2193-219291215.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide40">
 															<a href="/aanbod/koop/voorstraat-27-bs-utrecht~2193" tabindex="0">
 																<img src="/imgs/2193-219291215.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2193-219291217.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide31">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2193-219291217.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide41">
 															<a href="/aanbod/koop/voorstraat-27-bs-utrecht~2193" tabindex="-1">
 																<img src="/imgs/2193-219291217.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2193-219291269.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide32">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2193-219291269.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide42">
 															<a href="/aanbod/koop/voorstraat-27-bs-utrecht~2193" tabindex="-1">
 																<img src="/imgs/2193-219291269.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2193-219291219.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide33">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2193-219291219.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide43">
 															<a href="/aanbod/koop/voorstraat-27-bs-utrecht~2193" tabindex="-1">
 																<img src="/imgs/2193-219291219.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
@@ -2181,22 +1699,22 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
 																<img src="/imgs/2152-227431370.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2152-227431338.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide50">
+														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2152-227431338.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide60">
 															<a href="/aanbod/koop/domstraat-7-f-utrecht~2152" tabindex="0">
 																<img src="/imgs/2152-227431338.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2152-227431384.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide51">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2152-227431384.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide61">
 															<a href="/aanbod/koop/domstraat-7-f-utrecht~2152" tabindex="-1">
 																<img src="/imgs/2152-227431384.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2152-227431346.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide52">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2152-227431346.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide62">
 															<a href="/aanbod/koop/domstraat-7-f-utrecht~2152" tabindex="-1">
 																<img src="/imgs/2152-227431346.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2152-227431370.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide53">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2152-227431370.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide63">
 															<a href="/aanbod/koop/domstraat-7-f-utrecht~2152" tabindex="-1">
 																<img src="/imgs/2152-227431370.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
@@ -2222,32 +1740,6 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
 													</div>
 												</div>
 											</div><!-- END of .thumbs-item -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boerhaavelaan 82 (Dina verkoopt)]]></title>
-        <id>https://www.dinaverkoopt.nl/woning-aanbod/boerhaavelaan-82/</id>
-        <link href="https://www.dinaverkoopt.nl/woning-aanbod/boerhaavelaan-82/"/>
-        <updated>2025-05-12T13:14:48.500Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.dinaverkoopt.nl/woning-aanbod/boerhaavelaan-82/" class="grid-house-item ">
-	<div class="grid-house-item__image">
-					<img width="300" height="200" src="https://www.dinaverkoopt.nl/wp-content/uploads/2025/04/18614-226418292-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://www.dinaverkoopt.nl/wp-content/uploads/2025/04/18614-226418292-300x200.jpg 300w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/04/18614-226418292-1024x683.jpg 1024w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/04/18614-226418292-768x512.jpg 768w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/04/18614-226418292-1536x1024.jpg 1536w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/04/18614-226418292-317x211.jpg 317w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/04/18614-226418292.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" title="">		
-        <div class="grid-house-item__status status--beschikbaar">Beschikbaar</div>
-	</div>
-
-	<div class="grid-house-item__content">
-        <div class="grid-house-item__primary-info">
-            <div class="grid-house-item__city">Utrecht</div>
-            <h4 class="grid-house-item__title">Boerhaavelaan 82</h4>
-            <div class="grid-house-item__price">€ 495.000 k.k.</div>
-        </div>
-        <div class="grid-house-item__secondary-info">
-            <div class="grid-house-item__size">77 m<sup>2</sup></div>
-            <div class="grid-house-item__bedrooms">3 slaapkamers</div>
-
-        </div>
-	</div>
-
-</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Seringstraat 26 (Dina verkoopt)]]></title>
