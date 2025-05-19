@@ -447,3 +447,10 @@ entrySelector = "#overzicht-grid .grid-houses__col"
 titleSelector = "h4"
 linkSelector = "a"
 filters = ["1 slaapkamers", "2 slaapkamers", "Onder bod", "verkocht", "Verkocht", "VERKOCHT", "dreef", "EINDHOVEN"]
+
+[remax]
+title = "REMAX"
+url = "https://www.remax.nl/koop?plaats=Utrecht&prijs_max=600000&order=asc&kamers=3"
+entrySelector = ".property"
+titleSelector = ".title"
+linkSelector = "*"
