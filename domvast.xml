@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://domvast.nl/woningen/#q1YqyElMLClWslIqLSlKTc4oUdJRKi5JLCkFCkUrJaUWJ2dkZiclJhYpxeoo5RelpBYlVQIVQ5RYJRYnK9UCAA</id>
     <title>Domvast</title>
-    <updated>2025-05-20T05:48:27.082Z</updated>
+    <updated>2025-05-20T17:44:35.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://domvast.nl/wp-content/uploads/2023/09/cropped-favicon-32x32.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[<div class="item">
 		<p class="status-indicator"><span class="Beschikbaar">Beschikbaar</span></p>
 		<a href="https://domvast.nl/woning/utrecht-h-wijnmalenstraat-50/" class="thumbnail">
-           <img width="300" height="200" src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.008.632/225442296-300x200.jpg" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.008.632/225442296-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy loaded" alt="" decoding="async" data-was-processed="true">		</a>
+           <img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.008.632/225442296-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy" alt="" decoding="async">		</a>
 		<div class="item-content">
 			<header>
 				<h2>UTRECHT</h2>
@@ -25,28 +25,6 @@
 				<dl><dt>Koopprijs</dt><dd>€ 549.500,- k.k.</dd><dt>Perceel</dt><dd>76 m<sup>2</sup></dd><dt>Woonopp.</dt><dd>100 m<sup>2</sup></dd><dt>Aantal slaapkamers</dt><dd>6</dd></dl>			</div>
 		</div>
 		<a href="https://domvast.nl/woning/utrecht-h-wijnmalenstraat-50/" class="overlay" rel="bookmark"></a>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julianaweg 425]]></title>
-        <id>https://domvast.nl/woning/utrecht-julianaweg-425/</id>
-        <link href="https://domvast.nl/woning/utrecht-julianaweg-425/"/>
-        <updated>2025-05-03T19:59:09.151Z</updated>
-        <content type="html"><![CDATA[<div class="item">
-		<p class="status-indicator"><span class="Beschikbaar">Beschikbaar</span></p>
-		<a href="https://domvast.nl/woning/utrecht-julianaweg-425/" class="thumbnail">
-           <img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/8.981.825/224356811-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy" alt="" decoding="async">		</a>
-		<div class="item-content">
-			<header>
-				<h2>UTRECHT</h2>
-				<h2>Julianaweg 425</h2>
-			</header>
-			<div class="entry-content">
-							
-
-				<dl><dt>Koopprijs</dt><dd>€ 594.500,- k.k.</dd><dt>Perceel</dt><dd>98 m<sup>2</sup></dd><dt>Woonopp.</dt><dd>152 m<sup>2</sup></dd><dt>Aantal slaapkamers</dt><dd>6</dd></dl>			</div>
-		</div>
-		<a href="https://domvast.nl/woning/utrecht-julianaweg-425/" class="overlay" rel="bookmark"></a>
 	</div>]]></content>
     </entry>
 </feed>
