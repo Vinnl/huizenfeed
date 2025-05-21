@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-20T17:44:35.596Z</updated>
+    <updated>2025-05-21T05:51:31.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Jansveld 47 BS 
@@ -258,13 +258,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-20T17:40:52.063Z</updated>
+        <updated>2025-05-21T05:47:37.802Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>330 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>331 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -835,52 +835,6 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1e Daalsedijk 157 (Waltmann Makelaars)]]></title>
-        <id>https://www.waltmann.nl/wonen/object/1e-daalsedijk-157-utrecht/</id>
-        <link href="https://www.waltmann.nl/wonen/object/1e-daalsedijk-157-utrecht/"/>
-        <updated>2025-05-08T12:46:49.193Z</updated>
-        <content type="html"><![CDATA[<div class="card-house__image">
-        <picture>
-                            <img src="/app/uploads/sure/media/UT105426/UT105426-75136-1e-Daalsedijk-157-Utrecht-227878626.jpg" alt="">
-                    </picture>
-
-                    <div class="card-house__tag">Te Koop</div>
-            </div>
-
-    <div class="card-house__content">
-                    <div class="card-house__subtitle">Utrecht</div>
-        
-                    <h4>1e Daalsedijk 157 </h4>
-        
-        <p>
-                                                Vraagprijs:  € 520.000,-  Kosten koper
-                                    </p>
-
-                    <p class="card-house__subtitle mt-5">&nbsp;</p>
-        
-        <div class="card-house__bottom">
-            <ul class="list-unstyled d-flex">
-                                    <li>
-                        <i class="icon-expand"></i>
-                        <span>88 m<sup>2</sup></span>
-                    </li>
-                
-                                    <li>
-                        <i class="icon-bedroom"></i>
-                        <span>3</span>
-                    </li>
-                                            <li><i class="icon-energylabel"></i>ENERGIELABEL C</li>
-                                                </ul>
-
-            <span class="btn btn--text btn--il">
-                <i class="icon-chevron-right"></i>
-                                    Bekijk deze woning
-                
-            </span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fruinplantsoen 21 (Waltmann Makelaars)]]></title>
         <id>https://www.waltmann.nl/wonen/object/fruinplantsoen-21-utrecht/</id>
         <link href="https://www.waltmann.nl/wonen/object/fruinplantsoen-21-utrecht/"/>
@@ -971,8 +925,7 @@
                         <a class="sys-property-link" href="/woningaanbod/koop/utrecht/cremerstraat/374?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10" title="Te koop: Cremerstraat 374, 3532BR Utrecht">
                             <div class="image-container sys-oneimg-nocycle" style="overflow: hidden; position: relative;">
                                     <img alt="Cremerstraat 374, 3532BR Utrecht" width="250" class="img-responsive object_image" src="https://haywebattachments.blob.core.windows.net/public/3052/3620139/110411590/$m/01. cremerstraat 374_12.jpg" title="Te koop: Cremerstraat 374, 3532BR Utrecht" style="position: absolute; width: auto; height: 271px; max-width: none; max-height: none; left: 0px; top: -7px;">
-                                                                        <span class="openhouse">Open huis:<span>dinsdag 20 mei 2025 16:00 - 18:30</span></span>
-
+                                
                             </div>
                         </a>
 
@@ -1208,7 +1161,7 @@
         <updated>2025-05-07T17:43:24.352Z</updated>
         <content type="html"><![CDATA[<div class="object__image" data-href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9">
                     <div class="swiper object-swiper swiper--lazy entered swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden" id="swiperLazy3" data-ll-status="entered">
-                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-517a8e2bf6f7f462" aria-live="polite">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-5f9def519fbc31091" aria-live="polite">
                                 <a class="swiper-slide swiper-slide-active" href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9" style="width: 339px;" role="group" aria-label="1 / 4">
                                     <img width="350" alt="Te koop: Grasstraat 1, 3572TV Utrecht" class="lazy entered loaded" data-srcset="
                                           
@@ -1248,8 +1201,8 @@
                                 <div class="swiper-lazy-preloader"></div>
                             </a>
                         </div>
-                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-517a8e2bf6f7f462" aria-disabled="false"></div>
-                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-517a8e2bf6f7f462" aria-disabled="true"></div>
+                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-5f9def519fbc31091" aria-disabled="false"></div>
+                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-5f9def519fbc31091" aria-disabled="true"></div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
 
 
@@ -1569,7 +1522,7 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
 															<h6 class="bordered-bottom">Te koop</h6>
 															<h3><a href="/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235">Laan van Soestbergen 9 BS Utrecht</a></h3>
 															
-															<p>€ 550.000 k.k.</p><p>Woonoppervlakte: 87 m2</p><p><span class="room-service-item"><i class="fa fa-bed"></i><span>2</span></span><span class="room-service-item"><i class="fa fa-shower"></i><span>1</span></span></p>														</div>
+															<p>€ 550.000 k.k.</p><p>Woonoppervlakte: 87 m2</p><p><span class="room-service-item"><i class="fa fa-bed"></i><span>2</span></span><span class="room-service-item"><i class="fa fa-shower"></i><span>1</span></span></p><p class="thumbs-item-description">Twee luxe, energiezuinige appartementen onder één dak in de Watervogelenbuurt – per direct beschikbaar!</p>														</div>
 													</div>
 												</div>
 											</div><!-- END of .thumbs-item -->]]></content>
@@ -1691,7 +1644,7 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
         <updated>2025-05-12T13:14:48.510Z</updated>
         <content type="html"><![CDATA[<a href="https://www.dinaverkoopt.nl/woning-aanbod/seringstraat-26/" class="grid-house-item ">
 	<div class="grid-house-item__image">
-					<img width="300" height="200" src="https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-300x200.jpg 300w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-1024x683.jpg 1024w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-768x512.jpg 768w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-1536x1025.jpg 1536w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-317x211.jpg 317w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308.jpg 2048w" sizes="(max-width: 300px) 100vw, 300px" title="">		
+					<img width="300" height="200" src="https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-300x200.jpg 300w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-1024x683.jpg 1024w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-768x512.jpg 768w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-1536x1025.jpg 1536w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308-317x211.jpg 317w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/05/22485-229233308.jpg 2048w" sizes="auto, (max-width: 300px) 100vw, 300px" title="">		
         <div class="grid-house-item__status status--beschikbaar">Beschikbaar</div>
 	</div>
 

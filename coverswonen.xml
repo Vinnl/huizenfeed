@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coverswonen.nl/aanbod/koop</id>
     <title>Covers wonen</title>
-    <updated>2025-05-20T17:44:35.653Z</updated>
+    <updated>2025-05-21T05:51:31.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://coverswonen.nl/favicon-32x32.png</icon>
     <entry>
@@ -55,7 +55,7 @@
 															<h6 class="bordered-bottom">Te koop</h6>
 															<h3><a href="/aanbod/koop/laan-van-soestbergen-9-bs-utrecht~2235">Laan van Soestbergen 9 BS Utrecht</a></h3>
 															
-															<p>€ 550.000 k.k.</p><p>Woonoppervlakte: 87 m2</p><p><span class="room-service-item"><i class="fa fa-bed"></i><span>2</span></span><span class="room-service-item"><i class="fa fa-shower"></i><span>1</span></span></p>														</div>
+															<p>€ 550.000 k.k.</p><p>Woonoppervlakte: 87 m2</p><p><span class="room-service-item"><i class="fa fa-bed"></i><span>2</span></span><span class="room-service-item"><i class="fa fa-shower"></i><span>1</span></span></p><p class="thumbs-item-description">Twee luxe, energiezuinige appartementen onder één dak in de Watervogelenbuurt – per direct beschikbaar!</p>														</div>
 													</div>
 												</div>
 											</div><!-- END of .thumbs-item -->]]></content>
