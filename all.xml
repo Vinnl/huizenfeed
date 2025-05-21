@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-21T05:51:31.193Z</updated>
+    <updated>2025-05-21T17:49:12.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Jansveld 47 BS 
@@ -258,13 +258,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-21T05:47:37.802Z</updated>
+        <updated>2025-05-21T17:45:22.637Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>331 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>335 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -362,54 +362,6 @@
 					</div>
 
 					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/henriette-roland-holststraat-108/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 625.000,- k.k.</span></a>
-				</div>
-			</div>
-		</div>
-	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waalstraat 166B (Lauteslager Makelaar)]]></title>
-        <id>https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/</id>
-        <link href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/"/>
-        <updated>2025-03-28T17:44:59.072Z</updated>
-        <content type="html"><![CDATA[<div class="album-wrapper">
-		<div class="row">
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/">
-					<div class="main-photo">
-						<div class="offer-status-flag ">
-							Beschikbaar						</div>
-
-						<div class="main-photo-slider">
-							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/6.724.529/216042121.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
-						</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="col-md-3">			
-				<div class="thumbnails 6.724.529">
-					<div class="photo-album">
-														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/6.724.529/216042121-1024x683.jpg">
-															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/6.724.529/215805935-1024x683.jpg">
-												</div>
-				</div>
-			</div>
-			
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/"></a>
-				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/">
-					<div class="item-data" data-no-translation="">
-						<h1>Waalstraat 166B</h1>
-						<h2>3522 SW - UTRECHT</h2>
-					</div>
-
-					<div class="specs">
-						<ul>
-							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>132 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (4 slaapkamers)</li>						</ul>
-					</div>
-
-					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 599.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
@@ -1161,7 +1113,7 @@
         <updated>2025-05-07T17:43:24.352Z</updated>
         <content type="html"><![CDATA[<div class="object__image" data-href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9">
                     <div class="swiper object-swiper swiper--lazy entered swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden" id="swiperLazy3" data-ll-status="entered">
-                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-5f9def519fbc31091" aria-live="polite">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-b62de3222635107e7" aria-live="polite">
                                 <a class="swiper-slide swiper-slide-active" href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9" style="width: 339px;" role="group" aria-label="1 / 4">
                                     <img width="350" alt="Te koop: Grasstraat 1, 3572TV Utrecht" class="lazy entered loaded" data-srcset="
                                           
@@ -1201,8 +1153,8 @@
                                 <div class="swiper-lazy-preloader"></div>
                             </a>
                         </div>
-                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-5f9def519fbc31091" aria-disabled="false"></div>
-                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-5f9def519fbc31091" aria-disabled="true"></div>
+                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-b62de3222635107e7" aria-disabled="false"></div>
+                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-b62de3222635107e7" aria-disabled="true"></div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
 
 
@@ -1458,7 +1410,7 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
         <content type="html"><![CDATA[<div class="item">
 		<p class="status-indicator"><span class="Beschikbaar">Beschikbaar</span></p>
 		<a href="https://domvast.nl/woning/utrecht-h-wijnmalenstraat-50/" class="thumbnail">
-           <img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.008.632/225442296-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy" alt="" decoding="async">		</a>
+           <img width="300" height="200" src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.008.632/225442296-300x200.jpg" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.008.632/225442296-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy loaded" alt="" decoding="async" data-was-processed="true">		</a>
 		<div class="item-content">
 			<header>
 				<h2>UTRECHT</h2>
@@ -1789,9 +1741,7 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
                 <img src="https://cloud01.topsite.nl/remax.nl/property/1689/228083882-75041_600x400_fit.jpg.webp" alt="Merwedestraat 12">
             </div>
         </div>
-                   <figcaption class="open-huis">
-                Kom &amp; Kijk dag</figcaption>
-            </figure>
+           </figure>
     <div class="text d-flex flex-column flex-grow-1">
         <div class="flex-grow-1">
                             <span class="office">REMAX De Woonspecialist</span>
