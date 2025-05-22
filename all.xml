@@ -2,8 +2,262 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-21T17:49:12.790Z</updated>
+    <updated>2025-05-22T05:52:04.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Hannolaan 1 (Peek & Pompe makelaars)]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/hannolaan-1/682af7adc3ac8a0321d0e7bd</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/hannolaan-1/682af7adc3ac8a0321d0e7bd"/>
+        <updated>2025-05-22T05:41:58.172Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/hannolaan-1/682af7adc3ac8a0321d0e7bd" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/682af7adc3ac8a0321d0e7bd/rw-api-sha/MTk0MDU5NDQzLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E4MGQ5YzIzOTU5YjE3OWQ5MTI2Y2M5YzU5OTNhYWQzMGNiY2Y0Y2E2ZDU2MDU5MGNiMDZiODVlZjMwYmZlYWFk/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+				<span class="card-object-status new">Nieuw!</span>
+			
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/hannolaan-1/682af7adc3ac8a0321d0e7bd" class="card-object-address">Hannolaan 1</a><br>
+				<span class="card-object-price"><b>3526 RR Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 639,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Hoekwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">112</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">4</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Struyckenlaan 7 (Peek & Pompe makelaars)]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/struyckenlaan-7/682757aa285b923a5f0f5dc2</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/struyckenlaan-7/682757aa285b923a5f0f5dc2"/>
+        <updated>2025-05-22T05:41:58.172Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/struyckenlaan-7/682757aa285b923a5f0f5dc2" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/682757aa285b923a5f0f5dc2/rw-api-sha/MjI3NTYyMjE0LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EwY2EzN2NmMjBjNzZjOGUxYWFkMWM1MTZkMWQ0ZGYxYzgzYTVjZDRlMGEzZjU5MTQ0N2ZjYzIyMDFkZjJlMTgz/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+				<span class="card-object-status new">Nieuw!</span>
+			
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/struyckenlaan-7/682757aa285b923a5f0f5dc2" class="card-object-address">Struyckenlaan 7</a><br>
+				<span class="card-object-price"><b>3527 KJ Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 365,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Portiekflat</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">68</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">3</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burt Bacharachstraat 119 (Peek & Pompe makelaars)]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/burt-bacharachstraat-119/6825dbfc285b923a5f14a70e</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/burt-bacharachstraat-119/6825dbfc285b923a5f14a70e"/>
+        <updated>2025-05-22T05:41:58.173Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/burt-bacharachstraat-119/6825dbfc285b923a5f14a70e" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/6825dbfc285b923a5f14a70e/rw-api-sha/MjI4OTk3MTQyLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0ExMTgxMzY1YzM0Y2U1OGE0MmUxN2UzNDUyNjRhMTA2YzlkNTRmZmI5MTI3NDE5Y2Q5NzdmMzQ1OWI1NjhjMDY4/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+				<span class="card-object-status new">Nieuw!</span>
+			
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/burt-bacharachstraat-119/6825dbfc285b923a5f14a70e" class="card-object-address">Burt Bacharachstraat 119</a><br>
+				<span class="card-object-price"><b>3543 DD Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 685,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Tussenwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">130</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">5</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berkelstraat 69 (Peek & Pompe makelaars)]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095"/>
+        <updated>2025-05-22T05:41:58.175Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/68230ebf285b923a5f48d095/rw-api-sha/MjI4ODUwNzA4LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E3MjNmM2RjOWJkNDNkMmJhZWJmOGFhODE1NTI1ZDkzN2Y1OTI3N2RhMDIwMTExNDg4ZDA2OTRiNzExYTFkYTFh/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/berkelstraat-69/68230ebf285b923a5f48d095" class="card-object-address">Berkelstraat 69</a><br>
+				<span class="card-object-price"><b>3522 EL Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 575,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Tussenwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">92</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">3</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Verlengde Hoogravenseweg 77 (Peek & Pompe makelaars)]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290"/>
+        <updated>2025-05-22T05:41:58.177Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/681df2f4285b923a5fed7290/rw-api-sha/MjI4MzQ4NTIwLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0EyZjJmNGYwNmFiZmY1YTBmYmM2OWY1MmRmZTM5MTZhZGVkMjM0ZmI5ZmEyM2MxN2RlNmU2MzFjZjMzOWQ2YmY2/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/verlengde-hoogravenseweg-77/681df2f4285b923a5fed7290" class="card-object-address">Verlengde Hoogravenseweg 77</a><br>
+				<span class="card-object-price"><b>3525 BB Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 575,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Tussenwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">98</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">4</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amerhof 110 (Peek & Pompe makelaars)]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0"/>
+        <updated>2025-05-22T05:41:58.179Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/681ca16d285b923a5f116df0/rw-api-sha/MjI3MTk1NzA2LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FjNzdhM2QxNGViYzhlOGYwNGUwZTVhMmU5MDgwNTEyMWYyN2FkOGM0Njc4MDk1ODY4MzRmZDRiMGJlYjU4YjM5/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/amerhof-110/681ca16d285b923a5f116df0" class="card-object-address">Amerhof 110</a><br>
+				<span class="card-object-price"><b>3522 TR Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 650,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Eindwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">108</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">4</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acaciastraat 1 (Peek & Pompe makelaars)]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1"/>
+        <updated>2025-05-22T05:41:58.180Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/681a1a85285b923a5f6abcd1/rw-api-sha/MjI2MjYwNzUwLmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0E3MjZjM2U1MjQyY2FiZTZiMjNhNWYwODY3MmU4YTBjNjljNjcxYjk4OWRmZjgyNmUwZDcxODg1ZTc3ZDZjNmMx/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/acaciastraat-1/681a1a85285b923a5f6abcd1" class="card-object-address">Acaciastraat 1</a><br>
+				<span class="card-object-price"><b>3551 BD Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 565,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Tussenwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">135</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">3</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homeruslaan 30 BS (Peek & Pompe makelaars)]]></title>
+        <id>https://www.peekenpompe.nl/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d</id>
+        <link href="https://www.peekenpompe.nl/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d"/>
+        <updated>2025-05-22T05:41:58.183Z</updated>
+        <content type="html"><![CDATA[<a href="/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d" class="card-object-photo responsive-image" data-ratio="3x2" style="height: 265px;">
+				<img src="https://media01.ogonline.nl/import/5b30e16e6d9d5e03a1bea7bf/objectconsumer/68010e0229ede7d94440a78d/rw-api-sha/MjIyMzg5MjI5LmpwZz9wb3J0YWxpZD04MzQ3JmNoZWNrPWFwaV9zaGEyNTYlM0FiOTZlMWNjMmEyOTdmOTJjMzBjMmFiMzQ5NDNlYTJjYjY3MzM0MjI2MTQ1Yzk0MTYyYWY5NzljYTQ1MWY4NDQ4/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6NjQwLCJoZWlnaHQiOjM2MCwiZml0IjoiaW5zaWRlIiwicG9zaXRpb24iOiJjZW50ZXIiLCJncmF2aXR5IjoiIiwic3RyYXRlZ3kiOiIiLCJrZXJuZWwiOiIifV0=.jpg" style="left: 198px;">
+            
+			</a>
+			<div class="card-object-details">
+				<a href="/nl/woning/utrecht/homeruslaan-30-bs/68010e0229ede7d94440a78d" class="card-object-address">Homeruslaan 30 BS</a><br>
+				<span class="card-object-price"><b>3581 MH Utrecht</b></span><br>
+				<span class="card-object-price">
+					
+					€ 497,000 k.k.
+				</span>
+				<ul class="card-object-info">
+					
+					<li><img src="/upload/house-type.svg">Bovenwoning</li>
+					
+
+					
+					<li><img src="/upload/real-estate-house-measurements.svg">95</li>
+					
+
+					
+					<li><img src="/upload/hotel-bed-1.svg">2</li>
+					
+				</ul>
+			</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jansveld 47 BS 
 
@@ -258,13 +512,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-21T17:45:22.637Z</updated>
+        <updated>2025-05-22T05:47:47.633Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>335 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>336 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -1113,7 +1367,7 @@
         <updated>2025-05-07T17:43:24.352Z</updated>
         <content type="html"><![CDATA[<div class="object__image" data-href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9">
                     <div class="swiper object-swiper swiper--lazy entered swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden" id="swiperLazy3" data-ll-status="entered">
-                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-b62de3222635107e7" aria-live="polite">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-fe4213c6825107f06" aria-live="polite">
                                 <a class="swiper-slide swiper-slide-active" href="/woningaanbod/koop/utrecht/grasstraat/1?orderby=10&amp;orderdescending=true&amp;take=9" style="width: 339px;" role="group" aria-label="1 / 4">
                                     <img width="350" alt="Te koop: Grasstraat 1, 3572TV Utrecht" class="lazy entered loaded" data-srcset="
                                           
@@ -1153,8 +1407,8 @@
                                 <div class="swiper-lazy-preloader"></div>
                             </a>
                         </div>
-                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-b62de3222635107e7" aria-disabled="false"></div>
-                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-b62de3222635107e7" aria-disabled="true"></div>
+                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-fe4213c6825107f06" aria-disabled="false"></div>
+                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-fe4213c6825107f06" aria-disabled="true"></div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
 
 
