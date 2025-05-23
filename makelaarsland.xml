@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-05-23T05:46:30.059Z</updated>
+    <updated>2025-05-23T17:43:40.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -85,7 +85,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/80fbf568-4f5d-4ae5-8547-54aea120efd9" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/80fbf568-4f5d-4ae5-8547-54aea120efd9&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/80fbf568-4f5d-4ae5-8547-54aea120efd9" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
 
       
         
@@ -121,68 +121,6 @@
           </div>
           <div class="m-search-result__details">
             <h3 class="m-search-result__price"><span>€</span> 700.000</h3>
-
-            <div class="m-search-result__status-wrap">
-              
-                          </div>
-
-          </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predikherenstraat 27
-            Utrecht
-            4 kamers
-          
-          
-            € 550.000]]></title>
-        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-predikherenstraat-27/</id>
-        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-predikherenstraat-27/"/>
-        <updated>2025-02-17T10:24:22.202Z</updated>
-        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
-  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
-  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-predikherenstraat-27/">
-    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/9c3b4a4a-3939-402c-8e31-dff1d09ace9b" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/730327c5-19a5-4c4e-90cc-839329626adc" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/518e6ebb-313f-4692-bf0a-8ba2cac49f36" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/88663a4c-3dd4-4a54-9b75-8ed38c46e899" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/a2dbc6ae-25e8-498f-86ab-4a3bf1519514" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
-
-      
-    </div>
-  </a>
-  <button class="m-search-result__button" data-next-slide="next"></button>
-</figure>
-
-        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-predikherenstraat-27/" class="m-search-result__content-wrap">
-          <div class="m-search-result__content">
-            <h3 class="m-search-result__adress">Predikherenstraat 27</h3>
-            <h3 class="m-search-result__city">Utrecht</h3>
-            <h4 class="m-search-result__amount-of-rooms">4 kamers</h4>
-          </div>
-          <div class="m-search-result__details">
-            <h3 class="m-search-result__price"><span>€</span> 550.000</h3>
 
             <div class="m-search-result__status-wrap">
               
@@ -254,16 +192,16 @@
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-05-23T05:42:58.441Z</updated>
+        <updated>2025-05-23T17:40:18.380Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>338 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>341 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
