@@ -454,3 +454,10 @@ url = "https://www.remax.nl/koop?plaats=Utrecht&prijs_max=600000&order=asc&kamer
 entrySelector = ".property"
 titleSelector = ".title"
 linkSelector = "*"
+
+[damenhooft]
+title = "Dam en Hooft makelaars"
+url = "https://damenhooftmakelaars.nl/woningaanbod/koop/utrecht?availability=1&locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&orderby=10&orderdescending=true&pricerange.maxprice=650000"
+entrySelector = "objectcontainer"
+titleSelector = "h3 .street"
+linkSelector = "a"
