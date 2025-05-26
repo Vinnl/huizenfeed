@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-05-26T05:47:44.360Z</updated>
+    <updated>2025-05-26T17:48:33.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -45,9 +45,7 @@
                 <img src="https://cloud01.topsite.nl/remax.nl/property/1835/228910060-81521_600x400_fit.jpg.webp" alt="F. Koolhovenstraat 101">
             </div>
         </div>
-                   <figcaption class="open-huis">
-                Kom &amp; Kijk dag</figcaption>
-            </figure>
+           </figure>
     <div class="text d-flex flex-column flex-grow-1">
         <div class="flex-grow-1">
                             <span class="office">REMAX De Woonspecialist</span>
