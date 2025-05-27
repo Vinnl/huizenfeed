@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-05-27T05:47:32.195Z</updated>
+    <updated>2025-05-27T17:45:14.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -147,64 +147,6 @@
                             <div class="d-flex info-specs">
                     <span><i class="icon-area"></i>64 m²</span>
                     <span><i class="icon-bed"></i>3</span>
-                </div>
-                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Westraklaan 13]]></title>
-        <id>https://www.remax.nl/woningen/westraklaan-13-utrecht-1780</id>
-        <link href="https://www.remax.nl/woningen/westraklaan-13-utrecht-1780"/>
-        <updated>2025-05-19T20:31:56.206Z</updated>
-        <content type="html"><![CDATA[<figure>
-        <div class="images">
-            <div class="first-image">
-                <img src="https://cloud01.topsite.nl/remax.nl/property/1780/228423894-78946_600x400_fit.jpg.webp" alt="Westraklaan 13">
-            </div>
-        </div>
-           </figure>
-    <div class="text d-flex flex-column flex-grow-1">
-        <div class="flex-grow-1">
-                            <span class="office">REMAX De Woonspecialist</span>
-                        <span class="title">Westraklaan 13</span>
-            <div class="d-flex gap-2 flex-wrap city-price">
-                <span class="price">UTRECHT<br>€ 449.000,- k.k.</span>
-            </div>
-        </div>
-        <div class="info d-flex justify-content-between">
-                            <div class="d-flex info-specs">
-                    <span><i class="icon-area"></i>99 m²</span>
-                    <span><i class="icon-bed"></i>4</span>
-                </div>
-                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melissekade 182]]></title>
-        <id>https://www.remax.nl/woningen/melissekade-182-utrecht-1781</id>
-        <link href="https://www.remax.nl/woningen/melissekade-182-utrecht-1781"/>
-        <updated>2025-05-19T20:31:56.207Z</updated>
-        <content type="html"><![CDATA[<figure>
-        <div class="images">
-            <div class="first-image">
-                <img src="https://cloud01.topsite.nl/remax.nl/property/1781/228486724-78989_600x400_fit.jpg.webp" alt="Melissekade 182">
-            </div>
-        </div>
-           </figure>
-    <div class="text d-flex flex-column flex-grow-1">
-        <div class="flex-grow-1">
-                            <span class="office">REMAX De Woonspecialist</span>
-                        <span class="title">Melissekade 182</span>
-            <div class="d-flex gap-2 flex-wrap city-price">
-                <span class="price">UTRECHT<br>€ 475.000,- k.k.</span>
-            </div>
-        </div>
-        <div class="info d-flex justify-content-between">
-                            <div class="d-flex info-specs">
-                    <span><i class="icon-area"></i>83 m²</span>
-                    <span><i class="icon-bed"></i>4</span>
                 </div>
                         <span class="lees-meer"><i class="icon-arrow-right"></i></span>
         </div>

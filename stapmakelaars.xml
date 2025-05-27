@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw</id>
     <title>Stap makelaars</title>
-    <updated>2025-05-27T05:47:32.202Z</updated>
+    <updated>2025-05-27T17:45:14.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stapmakelaars.nl/wp-content/uploads/2023/09/cropped-Favicon-32x32.png</icon>
     <entry>
@@ -11,376 +11,44 @@
         <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"/>
         <updated>2025-05-22T17:47:21.014Z</updated>
         <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
-<span class="u-vh">Bekijk detail pagina van Jan Haringstraat 36</span>
-</a>
-<div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
+        <span class="u-vh">Bekijk detail pagina van Jan Haringstraat 36</span>
+    </a>
 
+    <div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
+                                
+                                
+                                
+                                
+                                
+            <div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/4.399.302/230375034-720x480.jpg" alt="Afbeelding voor Jan Haringstraat 36">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/4.399.302/230219764-720x480.jpg" alt="Afbeelding voor Jan Haringstraat 36">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/4.399.302/230219784-720x480.jpg" alt="Afbeelding voor Jan Haringstraat 36">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/4.399.302/230219796-720x480.jpg" alt="Afbeelding voor Jan Haringstraat 36">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/4.399.302/230165482-720x480.jpg" alt="Afbeelding voor Jan Haringstraat 36">
+            </div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
 
+    <div class="card__header u-flex u-justify-between p10x">
+        <div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
+            <h3 class="m0 t-median bd:t-tiny sd:t-puny">
+                Jan Haringstraat 36                <span>3554 XX, Utrecht</span>
+            </h3>
+        </div>
 
+        <div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
+            € 465.000,- k.k.        </div>
+    </div>
 
-
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/4.399.302/230375034-720x480.jpg" alt="Afbeelding voor Jan Haringstraat 36">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/4.399.302/230219764-720x480.jpg" alt="Afbeelding voor Jan Haringstraat 36">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/4.399.302/230219784-720x480.jpg" alt="Afbeelding voor Jan Haringstraat 36">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/4.399.302/230219796-720x480.jpg" alt="Afbeelding voor Jan Haringstraat 36">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jan-haringstraat-36/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/4.399.302/230165482-720x480.jpg" alt="Afbeelding voor Jan Haringstraat 36">
-</div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
-<div class="card__header u-flex u-justify-between p10x">
-<div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
-<h3 class="m0 t-median bd:t-tiny sd:t-puny">
-Jan Haringstraat 36                <span>3554 XX, Utrecht</span>
-</h3>
-</div>
-<div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
-€ 465.000,- k.k.        </div>
-</div>
-<div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
-<div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>102 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-expand"></i><span>105 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>3</span></div>    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Croesestraat 12                3522 AE, Utrecht]]></title>
-        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/croesestraat-12/</id>
-        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/croesestraat-12/"/>
-        <updated>2025-05-26T17:46:41.663Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/croesestraat-12/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
-<span class="u-vh">Bekijk detail pagina van Croesestraat 12</span>
-</a>
-<div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
-
-
-
-
-
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/croesestraat-12/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.500.301/228009090-720x480.jpg" alt="Afbeelding voor Croesestraat 12">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/croesestraat-12/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.500.301/228012076-720x480.jpg" alt="Afbeelding voor Croesestraat 12">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/croesestraat-12/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.500.301/228012086-720x480.jpg" alt="Afbeelding voor Croesestraat 12">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/croesestraat-12/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.500.301/228012098-720x480.jpg" alt="Afbeelding voor Croesestraat 12">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/croesestraat-12/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.500.301/228012110-720x480.jpg" alt="Afbeelding voor Croesestraat 12">
-</div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
-<div class="card__header u-flex u-justify-between p10x">
-<div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
-<h3 class="m0 t-median bd:t-tiny sd:t-puny">
-Croesestraat 12                <span>3522 AE, Utrecht</span>
-</h3>
-</div>
-<div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
-€ 759.000,- k.k.        </div>
-</div>
-<div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
-<div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>117 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-expand"></i><span>86 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>3</span></div>    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Javastraat 10                3531 PP, Utrecht]]></title>
-        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/javastraat-10/</id>
-        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/javastraat-10/"/>
-        <updated>2025-05-26T17:46:41.665Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/javastraat-10/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
-<span class="u-vh">Bekijk detail pagina van Javastraat 10</span>
-</a>
-<div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
-
-
-
-
-
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/javastraat-10/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.019.528/228129586-720x480.jpg" alt="Afbeelding voor Javastraat 10">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/javastraat-10/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.019.528/228131730-720x480.jpg" alt="Afbeelding voor Javastraat 10">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/javastraat-10/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.019.528/228131742-720x480.jpg" alt="Afbeelding voor Javastraat 10">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/javastraat-10/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.019.528/228131752-720x480.jpg" alt="Afbeelding voor Javastraat 10">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/javastraat-10/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.019.528/228129798-720x480.jpg" alt="Afbeelding voor Javastraat 10">
-</div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
-<div class="card__header u-flex u-justify-between p10x">
-<div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
-<h3 class="m0 t-median bd:t-tiny sd:t-puny">
-Javastraat 10                <span>3531 PP, Utrecht</span>
-</h3>
-</div>
-<div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
-€ 325.000,- k.k.        </div>
-</div>
-<div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
-<div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>45 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>1</span></div>    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gazellestraat 156                3523 SZ, Utrecht]]></title>
-        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/gazellestraat-156/</id>
-        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/gazellestraat-156/"/>
-        <updated>2025-05-26T17:46:41.666Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/gazellestraat-156/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
-<span class="u-vh">Bekijk detail pagina van Gazellestraat 156</span>
-</a>
-<div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
-
-
-
-
-
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/gazellestraat-156/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.914.401/225901550-720x480.jpg" alt="Afbeelding voor Gazellestraat 156">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/gazellestraat-156/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.914.401/225904262-720x480.jpg" alt="Afbeelding voor Gazellestraat 156">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/gazellestraat-156/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.914.401/225904264-720x480.jpg" alt="Afbeelding voor Gazellestraat 156">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/gazellestraat-156/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.914.401/225904268-720x480.jpg" alt="Afbeelding voor Gazellestraat 156">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/gazellestraat-156/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.914.401/225901556-720x480.jpg" alt="Afbeelding voor Gazellestraat 156">
-</div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
-<div class="card__header u-flex u-justify-between p10x">
-<div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
-<h3 class="m0 t-median bd:t-tiny sd:t-puny">
-Gazellestraat 156                <span>3523 SZ, Utrecht</span>
-</h3>
-</div>
-<div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
-€ 400.000,- k.k.        </div>
-</div>
-<div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
-<div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>80 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>2</span></div>    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zevenwouden 20                3524 CT, Utrecht]]></title>
-        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/zevenwouden-20/</id>
-        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/zevenwouden-20/"/>
-        <updated>2025-05-26T17:46:41.668Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/zevenwouden-20/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
-<span class="u-vh">Bekijk detail pagina van Zevenwouden 20</span>
-</a>
-<div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
-
-
-
-
-
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/zevenwouden-20/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.723.601/223425395-720x480.jpg" alt="Afbeelding voor Zevenwouden 20">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/zevenwouden-20/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.723.601/223425403-720x480.jpg" alt="Afbeelding voor Zevenwouden 20">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/zevenwouden-20/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.723.601/223425409-720x480.jpg" alt="Afbeelding voor Zevenwouden 20">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/zevenwouden-20/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.723.601/223425415-720x480.jpg" alt="Afbeelding voor Zevenwouden 20">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/zevenwouden-20/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.723.601/223425421-720x480.jpg" alt="Afbeelding voor Zevenwouden 20">
-</div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
-<div class="card__header u-flex u-justify-between p10x">
-<div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
-<h3 class="m0 t-median bd:t-tiny sd:t-puny">
-Zevenwouden 20                <span>3524 CT, Utrecht</span>
-</h3>
-</div>
-<div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
-€ 375.000,- k.k.        </div>
-</div>
-<div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
-<div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>95 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>2</span></div>    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nicolaas Ruychaverstraat 62                3554 XT, Utrecht]]></title>
-        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/nicolaas-ruychaverstraat-62/</id>
-        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/nicolaas-ruychaverstraat-62/"/>
-        <updated>2025-05-26T17:46:41.669Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/nicolaas-ruychaverstraat-62/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
-<span class="u-vh">Bekijk detail pagina van Nicolaas Ruychaverstraat 62</span>
-</a>
-<div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
-
-
-
-
-
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/nicolaas-ruychaverstraat-62/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.578.825/223361831-720x480.jpg" alt="Afbeelding voor Nicolaas Ruychaverstraat 62">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/nicolaas-ruychaverstraat-62/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.578.825/223361835-720x480.jpg" alt="Afbeelding voor Nicolaas Ruychaverstraat 62">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/nicolaas-ruychaverstraat-62/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.578.825/223361837-720x480.jpg" alt="Afbeelding voor Nicolaas Ruychaverstraat 62">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/nicolaas-ruychaverstraat-62/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.578.825/223361839-720x480.jpg" alt="Afbeelding voor Nicolaas Ruychaverstraat 62">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/nicolaas-ruychaverstraat-62/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.578.825/223361841-720x480.jpg" alt="Afbeelding voor Nicolaas Ruychaverstraat 62">
-</div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
-<div class="card__header u-flex u-justify-between p10x">
-<div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
-<h3 class="m0 t-median bd:t-tiny sd:t-puny">
-Nicolaas Ruychaverstraat 62                <span>3554 XT, Utrecht</span>
-</h3>
-</div>
-<div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
-€ 439.000,- k.k.        </div>
-</div>
-<div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
-<div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>88 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-expand"></i><span>120 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>3</span></div>    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texel 7                3524 AR, Utrecht]]></title>
-        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/texel-7/</id>
-        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/texel-7/"/>
-        <updated>2025-05-26T17:46:41.671Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/texel-7/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
-<span class="u-vh">Bekijk detail pagina van Texel 7</span>
-</a>
-<div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
-
-
-
-
-
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/texel-7/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.826.813/221397715-720x480.jpg" alt="Afbeelding voor Texel 7">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/texel-7/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.826.813/221397881-720x480.jpg" alt="Afbeelding voor Texel 7">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/texel-7/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.826.813/221397851-720x480.jpg" alt="Afbeelding voor Texel 7">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/texel-7/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.826.813/221397895-720x480.jpg" alt="Afbeelding voor Texel 7">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/texel-7/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.826.813/221397901-720x480.jpg" alt="Afbeelding voor Texel 7">
-</div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
-<div class="card__header u-flex u-justify-between p10x">
-<div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
-<h3 class="m0 t-median bd:t-tiny sd:t-puny">
-Texel 7                <span>3524 AR, Utrecht</span>
-</h3>
-</div>
-<div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
-€ 400.000,- k.k.        </div>
-</div>
-<div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
-<div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>107 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>4</span></div>    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ravellaan 234                3533 JP, Utrecht]]></title>
-        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/ravellaan-234/</id>
-        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/ravellaan-234/"/>
-        <updated>2025-05-26T17:46:41.674Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/ravellaan-234/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
-<span class="u-vh">Bekijk detail pagina van Ravellaan 234</span>
-</a>
-<div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
-
-
-
-
-
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/ravellaan-234/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.744.007/221371857-720x480.jpg" alt="Afbeelding voor Ravellaan 234">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/ravellaan-234/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.744.007/221371865-720x480.jpg" alt="Afbeelding voor Ravellaan 234">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/ravellaan-234/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.744.007/221371875-720x480.jpg" alt="Afbeelding voor Ravellaan 234">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/ravellaan-234/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.744.007/221371887-720x480.jpg" alt="Afbeelding voor Ravellaan 234">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/ravellaan-234/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.744.007/221371899-720x480.jpg" alt="Afbeelding voor Ravellaan 234">
-</div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
-<div class="card__header u-flex u-justify-between p10x">
-<div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
-<h3 class="m0 t-median bd:t-tiny sd:t-puny">
-Ravellaan 234                <span>3533 JP, Utrecht</span>
-</h3>
-</div>
-<div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
-€ 425.000,- k.k.        </div>
-</div>
-<div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
-<div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>101 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>2</span></div>    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Van Spanjelaan 63                3526 XL, Utrecht]]></title>
-        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/van-spanjelaan-63/</id>
-        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/van-spanjelaan-63/"/>
-        <updated>2025-05-26T17:46:41.677Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/van-spanjelaan-63/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
-<span class="u-vh">Bekijk detail pagina van Van Spanjelaan 63</span>
-</a>
-<div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
-
-
-
-
-
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/van-spanjelaan-63/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.354.593/216698887-720x480.jpg" alt="Afbeelding voor Van Spanjelaan 63">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/van-spanjelaan-63/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.354.593/216698925-720x480.jpg" alt="Afbeelding voor Van Spanjelaan 63">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/van-spanjelaan-63/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.354.593/216698933-720x480.jpg" alt="Afbeelding voor Van Spanjelaan 63">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/van-spanjelaan-63/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.354.593/216698939-720x480.jpg" alt="Afbeelding voor Van Spanjelaan 63">
-</div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
-<a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/van-spanjelaan-63/"></a>
-<img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.354.593/216698945-720x480.jpg" alt="Afbeelding voor Van Spanjelaan 63">
-</div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
-<div class="card__header u-flex u-justify-between p10x">
-<div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
-<h3 class="m0 t-median bd:t-tiny sd:t-puny">
-Van Spanjelaan 63                <span>3526 XL, Utrecht</span>
-</h3>
-</div>
-<div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
-€ 465.000,- k.k.        </div>
-</div>
-<div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
-<div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>81 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>2</span></div>    </div>]]></content>
+    <div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
+        <div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>102 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-expand"></i><span>105 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>3</span></div>    </div>]]></content>
     </entry>
 </feed>
