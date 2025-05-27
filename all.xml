@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-26T17:48:33.327Z</updated>
+    <updated>2025-05-27T05:47:32.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Balkstraat  8 
+
+                                Utrecht                            
+       
+                            €595000,00 kk
+
+                            Ruime eengezinswoning (Ingrid van Eck Makelardij)]]></title>
+        <id>https://www.ingridvaneck.nl/aanbod/balkstraat-8-utrecht/</id>
+        <link href="https://www.ingridvaneck.nl/aanbod/balkstraat-8-utrecht/"/>
+        <updated>2025-05-27T05:43:26.403Z</updated>
+        <content type="html"><![CDATA[<a class="card card--house" href="https://www.ingridvaneck.nl/aanbod/balkstraat-8-utrecht/">
+                        <div class="card__hover-overlay"></div>
+                        <div class="card__image" style="background-image: url(https://www.ingridvaneck.nl/wp-content/uploads/2025/05/Foto-4-2-scaled.jpg);">
+                                                            <div class="card__image__label">NIEUW!</div>
+                                                    </div>
+                        <div class="card__body">
+                            <address class="card--house__address">
+                                Balkstraat  8 <br>
+
+                                Utrecht                            </address>
+       
+                            <div class="card--house__price">€595000,00 kk</div>
+
+                            <div class="card--house__type">Ruime eengezinswoning</div>
+                        </div>
+                    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jansveld 47 BS 
 
@@ -222,13 +250,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-26T17:44:49.916Z</updated>
+        <updated>2025-05-27T05:43:56.441Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>344 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>346 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -1465,6 +1493,50 @@ Van Spanjelaan 63                <span>3526 XL, Utrecht</span>
                     </tbody></table>
                     
                 </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mauritsstraat 72 B
+                        3583 HT UTRECHT (Burgersdijk makelaars)]]></title>
+        <id>https://burgersdijk.com/koopwoningen/mauritsstraat-72-utrecht-7986485</id>
+        <link href="https://burgersdijk.com/koopwoningen/mauritsstraat-72-utrecht-7986485"/>
+        <updated>2025-05-27T05:46:35.399Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-mauritsstraat-72-utrecht-230218578.d71f091ffd61d4cf24fcf25664bfc023.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-mauritsstraat-72-utrecht-230218578.d71f091ffd61d4cf24fcf25664bfc023.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-mauritsstraat-72-utrecht-230218578.b9b845d4792d2cea31f82a348ee35efd.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-mauritsstraat-72-utrecht-230218578.b9b845d4792d2cea31f82a348ee35efd.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Mauritsstraat 72 B</span><br>
+                        <span class="postal-code">3583 HT</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 425.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 58 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0889486</span>
+                            <span class="longitude">5.1434031</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vechtplantsoen 22 1
