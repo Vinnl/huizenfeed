@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-29T05:48:07.643Z</updated>
+    <updated>2025-05-29T17:44:55.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Balkstraat  8 
@@ -278,13 +278,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-05-29T05:44:19.219Z</updated>
+        <updated>2025-05-29T17:41:05.655Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>351 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>349 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -340,54 +340,6 @@
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lange Nieuwstraat 51BS (Lauteslager Makelaar)]]></title>
-        <id>https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/</id>
-        <link href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/"/>
-        <updated>2025-05-23T17:40:28.564Z</updated>
-        <content type="html"><![CDATA[<div class="album-wrapper">
-		<div class="row">
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/">
-					<div class="main-photo">
-						<div class="offer-status-flag ">
-							Beschikbaar						</div>
-
-						<div class="main-photo-slider">
-							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.794.895/230971886.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
-						</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="col-md-3">			
-				<div class="thumbnails 8.794.895">
-					<div class="photo-album">
-														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.794.895/230971886-1024x683.jpg">
-															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.794.895/230972700-1024x683.jpg">
-												</div>
-				</div>
-			</div>
-			
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/"></a>
-				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/">
-					<div class="item-data" data-no-translation="">
-						<h1>Lange Nieuwstraat 51BS</h1>
-						<h2>3512 PD - UTRECHT</h2>
-					</div>
-
-					<div class="specs">
-						<ul>
-							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>113 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (3 slaapkamers)</li>						</ul>
-					</div>
-
-					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 695.000,- k.k.</span></a>
-				</div>
-			</div>
-		</div>
-	</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gansstraat 59 (Lauteslager Makelaar)]]></title>
         <id>https://www.lauteslager.nl/nl/woning/utrecht/gansstraat-59/</id>
         <link href="https://www.lauteslager.nl/nl/woning/utrecht/gansstraat-59/"/>
@@ -430,6 +382,54 @@
 					</div>
 
 					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/gansstraat-59/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 695.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lange Nieuwstraat 51BS (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/"/>
+        <updated>2025-05-23T17:40:28.564Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.794.895/230971886.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 8.794.895">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.794.895/230971886-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.794.895/230972700-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/">
+					<div class="item-data" data-no-translation="">
+						<h1>Lange Nieuwstraat 51BS</h1>
+						<h2>3512 PD - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>113 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (3 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 695.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
@@ -1468,7 +1468,7 @@
         <link href="https://www.van-doorn.nl/woning/utrecht-montfoortlaan-2c/"/>
         <updated>2025-05-28T17:45:11.633Z</updated>
         <content type="html"><![CDATA[<a class="bg-[#f8f8f8] relative  h-full flex justify-center items-center h-full md:h-[400px] order-1 " href="https://www.van-doorn.nl/woning/utrecht-montfoortlaan-2c/">
-			<img width="2048" height="1366" src="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528.jpg" class="object-cover object-center w-full h-full md:h-[400px] wp-post-image" alt="" decoding="async" srcset="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528.jpg 2048w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-300x200.jpg 300w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-1024x683.jpg 1024w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-768x512.jpg 768w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-1536x1025.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px">		</a>
+			<img width="2048" height="1366" src="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528.jpg" class="object-cover object-center w-full h-full md:h-[400px] wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528.jpg 2048w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-300x200.jpg 300w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-1024x683.jpg 1024w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-768x512.jpg 768w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-1536x1025.jpg 1536w" sizes="auto, (max-width: 2048px) 100vw, 2048px">		</a>
     <div class="grid grid-cols-1 h-full bg-gray-dark p-30 order-2 ">
             <div class="flex flex-col justify-center flex-1 order-2 mb-0">
                     <header>
@@ -1706,9 +1706,7 @@
                 <img src="https://cloud01.topsite.nl/remax.nl/property/1926/230725722-85667_600x400_fit.jpg.webp" alt="Vleutenseweg 336">
             </div>
         </div>
-                   <figcaption class="nieuw">
-                Nieuw</figcaption>
-            </figure>
+           </figure>
     <div class="text d-flex flex-column flex-grow-1">
         <div class="flex-grow-1">
                             <span class="office">REMAX De Woonspecialist</span>
