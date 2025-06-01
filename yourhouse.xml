@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-house.nl/woningaanbod/koop/utrecht?availability=1&amp;iscustom=true&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000</id>
     <title>Your House</title>
-    <updated>2025-05-31T17:58:03.008Z</updated>
+    <updated>2025-06-01T05:53:11.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hayweb.blob.core.windows.net/public/wbyysd/2-beta/favicon-32x32.png</icon>
     <entry>
@@ -66,14 +66,14 @@
                                         <span class="object_media_number"><i class="fa fa-map-marker"></i> 6</span>
                                     </a>
 
-                                    <a class="object-favorite " id="object-favorite-3647897" data-property-id="3647897" data-property-address="Te koop: Spijkerstraat 22, 3513SL Utrecht" data-toggle="tooltip" data-placement="top" title="Als favoriet opslaan" href="#">
+                                    <a class="object-favorite " id="object-favorite-3647897" data-property-id="3647897" data-property-address="Te koop: Spijkerstraat 22, 3513SL Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Als favoriet opslaan">
                                         <span class="fav-icon">
                                             <i class="icon-object-favorite"></i>
                                         </span>
                                     </a>
 
 
-                                    <a class="object-follow " id="object-follow-3647897" data-property-id="3647897" data-property-address="Te koop: Spijkerstraat 22, 3513SL Utrecht" data-toggle="tooltip" data-placement="top" title="Object volgen" href="#">
+                                    <a class="object-follow " id="object-follow-3647897" data-property-id="3647897" data-property-address="Te koop: Spijkerstraat 22, 3513SL Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Object volgen">
                                         <span class="fol-icon">
                                             <i class="icon-object-follow"></i>
                                         </span>
