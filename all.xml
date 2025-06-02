@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-01T17:48:23.528Z</updated>
+    <updated>2025-06-02T05:52:50.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Balkstraat  8 
@@ -278,13 +278,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-06-01T17:44:20.291Z</updated>
+        <updated>2025-06-02T05:49:12.027Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>351 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>350 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -882,87 +882,6 @@
 
 
                                     <a class="object-follow " id="object-follow-3661444" data-property-id="3661444" data-property-address="Te koop: Pijlstraat 14, 3552XP Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Object volgen">
-                                        <span class="fol-icon">
-                                            <i class="icon-object-follow"></i>
-                                        </span>
-                                    </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </article>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Te koop: Spijkerstraat 22, 3513SL Utrecht (Your House)]]></title>
-        <id>https://your-house.nl/woningaanbod/koop/utrecht/spijkerstraat/22?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12</id>
-        <link href="https://your-house.nl/woningaanbod/koop/utrecht/spijkerstraat/22?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12"/>
-        <updated>2025-05-16T05:44:40.914Z</updated>
-        <content type="html"><![CDATA[<article class="object clearfix   ">
-            <div class="row">
-                <div class="col-xs-12 col-md-12 col-sm-12 sys-image-container object_photo_container">
-                    <div class="object_photo">
-                        <a class="sys-property-link" href="/woningaanbod/koop/utrecht/spijkerstraat/22?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12" title="Te koop: Spijkerstraat 22, 3513SL Utrecht">
-                            <div class="image-container sys-oneimg-nocycle" style="overflow: hidden; position: relative;">
-                                    <img alt="Spijkerstraat 22, 3513SL Utrecht" width="250" class="img-responsive object_image" src="https://haywebattachments.blob.core.windows.net/public/2357/3647897/111425981/$m/dsc01496.jpg" title="Te koop: Spijkerstraat 22, 3513SL Utrecht" style="position: absolute; width: auto; height: 223px; max-width: none; max-height: none; left: 0px; top: -8px;">
-                                
-                            </div>
-                        </a>
-                                <span class="object_status new_forsale">Nieuw in verkoop</span>
-
-                    </div>
-
-                </div>
-                <div class="col-xs-12 col-md-12 col-sm-12 object_content_container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="object_address">
-                                <a style="text-decoration: none;" class="sys-property-link object_header" href="/woningaanbod/koop/utrecht/spijkerstraat/22?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12">
-                                    <h2>Te koop: Spijkerstraat 22, 3513SL Utrecht</h2>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="object_data">
-                                <table cellspacing="0" cellpadding="1">
-                                        <tbody><tr>
-                                            <th class="object_price">Vraagprijs</th>
-                                            <td>
-                                                <span class="obj_price">€ 375.000,- k.k.</span>
-                                            </td>
-                                        </tr>
-                                            <tr>
-                                                <th class="object_price">Kamers</th>
-                                                <td>3 kamers</td>
-                                            </tr>
-
-                                </tbody></table>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="object_options">
-
-                                <a class="sys-property-link object_fotos" href="/woningaanbod/koop/utrecht/spijkerstraat/22?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12">
-                                        <i class="fa fa-picture-o"></i>
-30                                </a>
-
-                                    <a class="sys-property-link object_media object_plan" href="/woningaanbod/koop/utrecht/spijkerstraat/22?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12">
-                                        <span class="object_media_number"><i class="fa fa-map-marker"></i> 6</span>
-                                    </a>
-
-                                    <a class="object-favorite " id="object-favorite-3647897" data-property-id="3647897" data-property-address="Te koop: Spijkerstraat 22, 3513SL Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Als favoriet opslaan">
-                                        <span class="fav-icon">
-                                            <i class="icon-object-favorite"></i>
-                                        </span>
-                                    </a>
-
-
-                                    <a class="object-follow " id="object-follow-3647897" data-property-id="3647897" data-property-address="Te koop: Spijkerstraat 22, 3513SL Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Object volgen">
                                         <span class="fol-icon">
                                             <i class="icon-object-follow"></i>
                                         </span>
