@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-02T05:52:50.842Z</updated>
+    <updated>2025-06-02T17:46:01.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Balkstraat  8 
@@ -278,13 +278,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-06-02T05:49:12.027Z</updated>
+        <updated>2025-06-02T17:41:47.580Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>350 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>360 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -484,6 +484,56 @@
 	</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Burt Bacharachstraat 121 (Beumer Utrecht)]]></title>
+        <id>https://www.beumer.nl/wonen/object/burt-bacharachstraat-121-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/burt-bacharachstraat-121-utrecht/"/>
+        <updated>2025-06-02T17:42:26.823Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/burt-bacharachstraat-121-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24139/MN24139-214711-Burt-Bacharachstraat-121-Utrecht-230934530-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24139/MN24139-214711-Burt-Bacharachstraat-121-Utrecht-230934530-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24139/MN24139-214711-Burt-Bacharachstraat-121-Utrecht-230934530-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24139/MN24139-214711-Burt-Bacharachstraat-121-Utrecht-230934530-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24139/MN24139-214711-Burt-Bacharachstraat-121-Utrecht-230934530-150x150.jpg" alt="                        Burt Bacharachstraat 121
+                    " src="/app/uploads/sure/media/MN24139/MN24139-214711-Burt-Bacharachstraat-121-Utrecht-230934530-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Burt Bacharachstraat 121
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 700.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>130 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        6 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        A++
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Klifrakplantsoen 117 (Beumer Utrecht)]]></title>
         <id>https://www.beumer.nl/wonen/object/klifrakplantsoen-117-utrecht/</id>
         <link href="https://www.beumer.nl/wonen/object/klifrakplantsoen-117-utrecht/"/>
@@ -634,56 +684,6 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Operettelaan 361 (Beumer Utrecht)]]></title>
-        <id>https://www.beumer.nl/wonen/object/operettelaan-361-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/operettelaan-361-utrecht/"/>
-        <updated>2025-05-16T17:40:10.430Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/operettelaan-361-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24286/MN24286-211951-Operettelaan-361-Utrecht-229055304-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24286/MN24286-211951-Operettelaan-361-Utrecht-229055304-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24286/MN24286-211951-Operettelaan-361-Utrecht-229055304-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24286/MN24286-211951-Operettelaan-361-Utrecht-229055304-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24286/MN24286-211951-Operettelaan-361-Utrecht-229055304-150x150.jpg" alt="                        Operettelaan 361
-                    " src="/app/uploads/sure/media/MN24286/MN24286-211951-Operettelaan-361-Utrecht-229055304-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Operettelaan 361
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 639.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>142 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        6 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sweder van Zuylenweg 15 (Beumer Utrecht)]]></title>
         <id>https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/</id>
         <link href="https://www.beumer.nl/wonen/object/sweder-van-zuylenweg-15-utrecht/"/>
@@ -693,10 +693,10 @@
         <div class="card-house__thumb">
 
                                                 <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-221236259-600x476-c-default.webp" srcset="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-221236259-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-221236259-400x317-c-default.webp" srcset="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-221236259-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-221236259-150x150.jpg" alt="                        Sweder van Zuylenweg 15
-                    " src="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-221236259-150x150.jpg" data-ll-status="loaded" class="loaded">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-232175858-600x476-c-default.webp" srcset="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-232175858-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-232175858-400x317-c-default.webp" srcset="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-232175858-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-232175858-150x150.jpg" alt="                        Sweder van Zuylenweg 15
+                    " src="/app/uploads/sure/media/MA12860/MA12860-203213-Sweder-van-Zuylenweg-15-Utrecht-232175858-150x150.jpg" data-ll-status="loaded" class="loaded">
                     </picture>
                             
                         <div class="card-house__label__holder">
@@ -732,6 +732,45 @@
         </div>
     </div>
 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agnes van Leeuwenberchstraat 20BS (Wij Makelaardij)]]></title>
+        <id>https://www.wijmakelaardij.nl/woning/utrecht-agnes-van-leeuwenberchstraat-20bs/</id>
+        <link href="https://www.wijmakelaardij.nl/woning/utrecht-agnes-van-leeuwenberchstraat-20bs/"/>
+        <updated>2025-06-02T17:43:02.092Z</updated>
+        <content type="html"><![CDATA[<div class="woning_img">
+        <img class="list-image" src="https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/9.097.802/231689824-768x512.jpg" alt="">
+    </div>
+    <div class="content" style="background-image:url(https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/9.097.802/231689824-768x512.jpg);">
+        <div class="status ">
+                            Beschikbaar                    </div>
+        <div class="title clearfix">
+            <div class="left grid">
+                <h2>Utrecht</h2>
+                <p>Agnes van Leeuwenberchstraat 20BS</p>
+            </div>
+            <div class="left list">
+                <h2>Agnes van Leeuwenberchstraat 20BS, Utrecht</h2>
+                <p>Bovenwoning € 579.000,- k.k.</p>
+            </div>
+            <div class="right grid">
+                <span>Bovenwoning</span>
+                <p>€ 579.000,- k.k.</p>
+            </div>
+            <div class="bottom clearfix">
+                <p>
+                    <i class="fa fa-home"></i>
+                    93 m<sup>2</sup>                </p>
+                <p>
+                    <i class="fa fa-bed"></i>
+                    3                </p>
+                <p>
+                    <i class="fa fa-bath"></i>
+                    1                </p>
+            </div>
+        </div>
+    </div>
+    <a class="overlay" href="https://www.wijmakelaardij.nl/woning/utrecht-agnes-van-leeuwenberchstraat-20bs/"></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1e Daalsedijk 157 (Waltmann Makelaars)]]></title>
@@ -952,8 +991,6 @@
         <content type="html"><![CDATA[<a href="/nl/woningaanbod/woning/utrecht/bolksbeekstraat-43-bs/68347b9fc3ac8a032114aeae" class="card-object-photo responsive-image" data-ratio="35x41" style="padding-bottom: 117.14%;">
                     <img src="https://media01.ogonline.nl/import/61ade7c1cb038f02f118f76c/objectconsumer/68347b9fc3ac8a032114aeae/rw-api-sha/MjMxMTYxMDc4LmpwZz9wb3J0YWxpZD00OTkyJmNoZWNrPWFwaV9zaGEyNTYlM0FlMTMxOTBjYjQ3OWEwNTRlOTQ3NjczOWI2YTExNzEzNGRlNDMxNjRjYTQ1MTllMmUxNDIwNWMwZTk4Yzg0ZmFj/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo3MjAsImZpdCI6Imluc2lkZSIsInBvc2l0aW9uIjoiY2VudGVyIiwiZ3Jhdml0eSI6IiIsInN0cmF0ZWd5IjoiIiwia2VybmVsIjoiIn1d.jpg" alt="Bolksbeekstraat 43 BS, Utrecht" loading="lazy">
                     <img src="https://media01.ogonline.nl/import/61ade7c1cb038f02f118f76c/objectconsumer/68347b9fc3ac8a032114aeae/rw-api-sha/MjMxMTYxMDc4LmpwZz9wb3J0YWxpZD00OTkyJmNoZWNrPWFwaV9zaGEyNTYlM0FlMTMxOTBjYjQ3OWEwNTRlOTQ3NjczOWI2YTExNzEzNGRlNDMxNjRjYTQ1MTllMmUxNDIwNWMwZTk4Yzg0ZmFj/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo3MjAsImZpdCI6Imluc2lkZSIsInBvc2l0aW9uIjoiY2VudGVyIiwiZ3Jhdml0eSI6IiIsInN0cmF0ZWd5IjoiIiwia2VybmVsIjoiIn1d.jpg" alt="Bolksbeekstraat 43 BS, Utrecht" loading="lazy">
-                    
-                    <span class="card-object-status new">Nieuw</span>
                     
                 </a>
                 <div class="card-object-details">
