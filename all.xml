@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-02T17:46:01.982Z</updated>
+    <updated>2025-06-03T06:03:07.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Balkstraat  8 
@@ -278,7 +278,7 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-06-02T17:41:47.580Z</updated>
+        <updated>2025-06-03T05:53:58.160Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
@@ -1364,7 +1364,7 @@
         <content type="html"><![CDATA[<div class="item">
 		<p class="status-indicator"><span class="Beschikbaar">Beschikbaar</span></p>
 		<a href="https://domvast.nl/woning/utrecht-h-wijnmalenstraat-50/" class="thumbnail">
-           <img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.008.632/225442296-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy" alt="" decoding="async">		</a>
+           <img width="300" height="200" src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.008.632/225442296-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy">		</a>
 		<div class="item-content">
 			<header>
 				<h2>UTRECHT</h2>
@@ -1395,14 +1395,14 @@
                         </a>
 
                                                     <div class="flex items-center mb-10 font-normal tracking-wider text-16">
-							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white fas fa-home text-12" aria-hidden="true"></i></span>
+							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white fas fa-home text-12"></i></span>
 							<dl>Woonhuis</dl>                            </div>
                                                              
                             <div class="flex items-center mb-10 font-normal tracking-wider text-16">
-							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white text-12 fas fa-expand" aria-hidden="true"></i></span>
+							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white text-12 fas fa-expand"></i></span>
 							<dl>131 m<sup>2</sup></dl>                            </div>
                                                                             <div class="flex items-center font-normal tracking-wider text-16">
-							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white text-12 fas fa-gavel" aria-hidden="true"></i></span>
+							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white text-12 fas fa-gavel"></i></span>
 							<dl>Beschikbaar</dl>                            </div>
                         						
                                                     <div class="mt-20 font-normal text-18">
