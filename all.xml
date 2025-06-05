@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-04T17:46:38.126Z</updated>
+    <updated>2025-06-05T05:57:51.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Balkstraat  8 
@@ -278,7 +278,7 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-06-04T17:42:34.235Z</updated>
+        <updated>2025-06-05T05:53:41.813Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
@@ -1208,7 +1208,7 @@
         <updated>2025-06-03T17:50:00.006Z</updated>
         <content type="html"><![CDATA[<div class="object__image" data-href="/woningaanbod/koop/utrecht/zeeltstraat/32?orderby=10&amp;orderdescending=true&amp;take=9">
                     <div class="swiper object-swiper swiper--lazy swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden entered" id="swiperLazy0" data-ll-status="entered">
-                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-1c85be29926ab7df" aria-live="polite">
+                        <div class="swiper-wrapper" style="transform: translate3d(0px, 0px, 0px);" id="swiper-wrapper-e9cdf8db8952e86c" aria-live="polite">
                                 <a class="swiper-slide swiper-slide-active" href="/woningaanbod/koop/utrecht/zeeltstraat/32?orderby=10&amp;orderdescending=true&amp;take=9" style="width: 339px;" role="group" aria-label="1 / 4">
                                     <img width="350" alt="Te koop: Zeeltstraat 32, 3525TG Utrecht" class="lazy entered loaded" data-srcset="
                                           
@@ -1248,8 +1248,8 @@
                                 <div class="swiper-lazy-preloader"></div>
                             </a>
                         </div>
-                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-1c85be29926ab7df" aria-disabled="false"></div>
-                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-1c85be29926ab7df" aria-disabled="true"></div>
+                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-e9cdf8db8952e86c" aria-disabled="false"></div>
+                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-e9cdf8db8952e86c" aria-disabled="true"></div>
                     <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span><span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
 
 
@@ -1849,9 +1849,9 @@ woonhuis, eengezinswoning, hoekwoning                        </span>
         <id>https://www.van-doorn.nl/woning/utrecht-montfoortlaan-2c/</id>
         <link href="https://www.van-doorn.nl/woning/utrecht-montfoortlaan-2c/"/>
         <updated>2025-05-28T17:45:11.633Z</updated>
-        <content type="html"><![CDATA[<a class="bg-[#f8f8f8] relative  h-full flex justify-center items-center h-full md:h-[400px] order-1 md:order-2 " href="https://www.van-doorn.nl/woning/utrecht-montfoortlaan-2c/">
+        <content type="html"><![CDATA[<a class="bg-[#f8f8f8] relative  h-full flex justify-center items-center h-full md:h-[400px] order-1 " href="https://www.van-doorn.nl/woning/utrecht-montfoortlaan-2c/">
 			<img width="2048" height="1366" src="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528.jpg" class="object-cover object-center w-full h-full md:h-[400px] wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528.jpg 2048w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-300x200.jpg 300w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-1024x683.jpg 1024w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-768x512.jpg 768w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.015.202/230825528-1536x1025.jpg 1536w" sizes="auto, (max-width: 2048px) 100vw, 2048px">		</a>
-    <div class="grid grid-cols-1 h-full bg-gray-dark p-30 order-2 md:order-1 ">
+    <div class="grid grid-cols-1 h-full bg-gray-dark p-30 order-2 ">
             <div class="flex flex-col justify-center flex-1 order-2 mb-0">
                     <header>
 					<a href="https://www.van-doorn.nl/woning/utrecht-montfoortlaan-2c/" rel="bookmark">
