@@ -2,7 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.deruitermakelaarshuis.nl/aanbod/?_status=te-koop&amp;_locaties=utrecht&amp;_koopprijs=%2C700000&amp;_oppervlakte=100-200</id>
     <title>De Ruiter Makelaarshuis</title>
-    <updated>2025-06-06T05:54:12.723Z</updated>
+    <updated>2025-06-06T17:46:14.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.deruitermakelaarshuis.nl/wp-content/uploads/2022/01/favicon-50x50.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Houtensepad 17]]></title>
+        <id>https://www.deruitermakelaarshuis.nl/aanbod/tussenwoning-houtensepad-17-utrecht/</id>
+        <link href="https://www.deruitermakelaarshuis.nl/aanbod/tussenwoning-houtensepad-17-utrecht/"/>
+        <updated>2025-06-06T17:43:19.003Z</updated>
+        <content type="html"><![CDATA[<span class="label ">Te koop</span>
+  
+<div class="overlay rounded overflow-hidden">
+	<img class="img-fluid" src="https://www.deruitermakelaarshuis.nl/wp-content/uploads/2025/06/232841330-720x415.jpg" alt="">
+</div>
+
+  <div class="p-30 py-lg-35 px-lg-45">
+    <span class="subtitle">Utrecht</span>
+    <h5 class="mb-0">Houtensepad 17</h5>
+
+          <span class="price">Vraagprijs € 700.000,- k.k.</span>
+    
+    <ul class="shortSpecs mt-15 mt-sm-30 mb-0 pt-sm-15">
+	
+			<li>
+					<i class="fal fa-home"></i>
+			<div>
+				<span>104 m<sup>2</sup></span>
+			</div>
+			</li>
+		<li>
+					<i class="fal fa-ruler-combined"></i>
+			<div>
+				<span>112 m<sup>2</sup></span>
+			</div>
+			</li>
+					<li>
+					<i class="fal fa-bed"></i>
+			<div>
+									<span>3 kamers</span>
+							</div>
+			</li>
+		</ul>
+  </div>]]></content>
+    </entry>
 </feed>
