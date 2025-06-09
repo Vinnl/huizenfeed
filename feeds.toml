@@ -124,13 +124,12 @@ waitUntil = "networkidle"
 # linkSelector = "a"
 # waitUntil = "domcontentloaded"
 
-# [dekeizer]
-# title = "De Keizer makelaarsgroep"
-# url = "https://www.dekeizer.nl/woningaanbod/koop/utrecht/type-appartement,woonhuis?iscustom=true&isnewstate=false&locationofinterest=Utrecht&minrooms=3&orderby=9&pricerange.maxprice=400000"
-# entrySelector = ".objectcontainer"
-# titleSelector = ".object_data"
-# linkSelector = "a.sys-property-link"
-# waitUntil = "domcontentloaded"
+[dekeizer]
+title = "De Keizer makelaarsgroep"
+url = "https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw"
+entrySelector = ".housetype"
+titleSelector = "h2"
+linkSelector = "a"
 
 [lef]
 title = "LEF Makelaars"
