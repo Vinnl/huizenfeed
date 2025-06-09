@@ -465,9 +465,18 @@ entrySelector = ".objectcontainer"
 titleSelector = "h3 .street"
 linkSelector = "a"
 
+# Same as Parkland
 [quist]
 title = "Quist makelaardij"
 url = "https://www.quistmakelaardij.nl/aanbod/?_zoeken=utrecht&_prijs_tot=1-600000&_kamers=3-100"
+entrySelector = ".object-status-beschikbaar"
+titleSelector = ".object-address-line:first-child"
+linkSelector = "a"
+
+# Same as Quist
+[parkland]
+title = "Parkland makelaardij"
+url = "https://www.parkland.nl/aanbod/?_zoeken=utrecht&_prijs_tot=1-600000&_kamers=3-100"
 entrySelector = ".object-status-beschikbaar"
 titleSelector = ".object-address-line:first-child"
 linkSelector = "a"
