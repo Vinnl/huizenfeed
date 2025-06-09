@@ -69,13 +69,14 @@ waitUntil = "load"
 # filters = ["sold"]
 # waitUntil = "domcontentloaded"
 
-# [gustocasa]
-# title = "Gusto Casa"
-# url = "https://www.gustocasa.nl/woningen/?status=beschikbaar&type=&prijsvan=&prijstot=450000&orderby=status%3Aasc"
-# entrySelector = ".woning"
-# titleSelector = ".item-content-inner"
-# linkSelector = "a.thumbnail"
-# waitUntil = "domcontentloaded"
+[gustocasa]
+title = "Gusto Casa"
+url = "https://www.gustocasa.nl/woningen/"
+entrySelector = ".woning"
+titleSelector = ".item-content-inner"
+linkSelector = "a.thumbnail"
+waitUntil = "domcontentloaded"
+matchAllOf = ["€ 5", "UTRECHT", "Beschikbaar"]
 
 [walton]
 title = "Walton Makelaars"
