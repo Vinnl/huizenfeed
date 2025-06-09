@@ -147,13 +147,14 @@ titleSelector = ".m-search-result__content-wrap"
 linkSelector = ".m-search-result__content-wrap"
 waitUntil = "domcontentloaded"
 
-# [coversjonker]
-# title = "Covers & Jonker Makelaars"
-# url = "https://coversjonker.nl/aanbod/koop?price_buy=0_500"
-# entrySelector = ".thumbs-item"
-# titleSelector = "h3"
-# linkSelector = ".slick-slide a"
-# filters = ["Onder bod", "Verkocht", "VERKOCHT", "Amsterdam", "Nieuwegein", "Zeist", "De Bilt", "Bilthoven", "Bosch en Duin"]
+[coversjonker]
+title = "Covers & Jonker Makelaars"
+url = "https://coverswonen.nl/aanbod/koop"
+entrySelector = ".thumbs-item"
+titleSelector = "h3"
+linkSelector = ".slick-slide a"
+filters = ["Onder bod", "Verkocht", "VERKOCHT", "Amsterdam", "Nieuwegein", "Zeist", "De Bilt", "Bilthoven", "Bosch en Duin"]
+matchAllOf = ["€ 5", "Utrecht", "Te koop"]
 
 [lauteslager]
 title = "Lauteslager Makelaar"
