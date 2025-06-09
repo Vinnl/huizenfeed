@@ -1,8 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://overduyn.nl/koopaanbod/?_prijs_tot=1-650000&amp;_plaatsen=utrecht&amp;_slaapkamers=3-100</id>
-    <title>overduyn makelaars</title>
-    <updated>2025-06-09T17:43:18.241Z</updated>
+    <id>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht?availability=1&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000</id>
+    <title>van den Hoorn Makelaardij</title>
+    <updated>2025-06-09T20:57:16.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://overduyn.nl/wp-content/uploads/2025/02/favicon-150x150.png</icon>
+    <icon>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Te koop: Pijlstraat 14, 3552XP Utrecht]]></title>
+        <id>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht/pijlstraat/14?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10</id>
+        <link href="https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht/pijlstraat/14?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10"/>
+        <updated>2025-06-09T20:50:28.590Z</updated>
+        <content type="html"><![CDATA[<article class="object clearfix   ">
+            <div class="row">
+                <div class="col-xs-12 col-md-12 col-sm-12 sys-image-container object_photo_container">
+                    <div class="object_photo">
+                        <a class="sys-property-link" href="/woningaanbod/koop/utrecht/pijlstraat/14?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10" title="Te koop: Pijlstraat 14, 3552XP Utrecht">
+                            <div class="image-container sys-oneimg-nocycle" style="overflow: hidden; position: relative;">
+                                    <img alt="Pijlstraat 14, 3552XP Utrecht" width="250" class="img-responsive object_image" src="https://haywebattachments.blob.core.windows.net/public/3052/3661444/111925042/$m/01. pijlstraat 14_03.jpg" title="Te koop: Pijlstraat 14, 3552XP Utrecht" style="position: absolute; width: auto; height: 271px; max-width: none; max-height: none; left: 0px; top: -7px;">
+                                
+                            </div>
+                        </a>
+                                <span class="object_status new_forsale">Nieuw in verkoop</span>
+
+                    </div>
+
+                </div>
+                <div class="col-xs-12 col-md-12 col-sm-12 object_content_container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="object_address">
+                                <a style="text-decoration: none;" class="sys-property-link object_header" href="/woningaanbod/koop/utrecht/pijlstraat/14?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
+                                    <h2>Te koop: Pijlstraat 14, 3552XP Utrecht</h2>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="object_data">
+                                <table cellspacing="0" cellpadding="1">
+                                        <tbody><tr>
+                                            <th class="object_price">Vraagprijs</th>
+                                            <td>
+                                                <span class="obj_price">€ 500.000,- k.k.</span>
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <th class="object_price">Kamers</th>
+                                                <td>4 kamers</td>
+                                            </tr>
+
+                                </tbody></table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="object_options">
+
+                                <a class="sys-property-link object_fotos" href="/woningaanbod/koop/utrecht/pijlstraat/14?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
+                                        <i class="fa fa-picture-o"></i>
+37                                </a>
+
+                                    <a class="sys-property-link object_media object_video" href="/woningaanbod/koop/utrecht/pijlstraat/14?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
+                                        <span class="object_media_number"><i class="fa fa-film"></i> 1</span>
+                                    </a>
+
+                                    <a class="object-favorite " id="object-favorite-3661444" data-property-id="3661444" data-property-address="Te koop: Pijlstraat 14, 3552XP Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Als favoriet opslaan">
+                                        <span class="fav-icon">
+                                            <i class="icon-object-favorite"></i>
+                                        </span>
+                                    </a>
+
+
+                                    <a class="object-follow " id="object-follow-3661444" data-property-id="3661444" data-property-address="Te koop: Pijlstraat 14, 3552XP Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Object volgen">
+                                        <span class="fol-icon">
+                                            <i class="icon-object-follow"></i>
+                                        </span>
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </article>]]></content>
+    </entry>
 </feed>

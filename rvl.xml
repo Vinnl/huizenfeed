@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.rvlmakelaars.nl/koopwoningen-utrecht?a=Utrecht&amp;e=700000</id>
+    <title>Rosenberg Van Leusden makelaars</title>
+    <updated>2025-06-09T20:57:16.459Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.rvlmakelaars.nl/themes/rvl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Volkerakstraat 19 BSA                                    
+                                        Utrecht]]></title>
+        <id>https://www.rvlmakelaars.nl/volkerakstraat-19-bsa-utrecht</id>
+        <link href="https://www.rvlmakelaars.nl/volkerakstraat-19-bsa-utrecht"/>
+        <updated>2025-06-09T20:41:50.983Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.rvlmakelaars.nl/volkerakstraat-19-bsa-utrecht" class="home">
+                        <div class="left  change1 ">
+                            <img class="u-photo" src="https://www.rvlmakelaars.nl/cache/images/231328342_250x250_adaptiveResize.jpg" alt="Volkerakstraat 19 BSA">
+                        </div>
+                        <div class="right  change2 ">
+                            <span class="old p-name">
+                                Volkerakstraat 19 BSA                                    <small>
+                                        Utrecht                                    </small>
+                            </span>
+                            <cite>
+                                €500.000,- k.k.                            </cite>
+                            <span class="bg"></span>
+                            <span class="p-name u-url">BEKIJK WONING</span>
+                        </div>
+                    </a>]]></content>
+    </entry>
+</feed>

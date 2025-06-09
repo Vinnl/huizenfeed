@@ -1,8 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.ludenhoff.nl/wonen/zoeken/heel-nederland/utrecht/4-kamers/beschikbaar/</id>
-    <title>Ludenhoff Groep</title>
-    <updated>2025-06-09T17:43:18.207Z</updated>
+    <id>https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/</id>
+    <title>Waltmann Makelaars</title>
+    <updated>2025-06-09T20:57:16.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.ludenhoff.nl/app/themes/supress/favicon-32x32.png</icon>
+    <icon>https://www.waltmann.nl/app/themes/supress/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Opaalweg 141]]></title>
+        <id>https://www.waltmann.nl/wonen/object/opaalweg-141-utrecht/</id>
+        <link href="https://www.waltmann.nl/wonen/object/opaalweg-141-utrecht/"/>
+        <updated>2025-06-09T20:49:44.425Z</updated>
+        <content type="html"><![CDATA[<div class="card-house__image">
+        <picture>
+                            <img src="/app/uploads/sure/media/UT105388/UT105388-75554-Opaalweg-141-Utrecht-232156796.jpg" alt="">
+                    </picture>
+
+                    <div class="card-house__tag">Te Koop</div>
+            </div>
+
+    <div class="card-house__content">
+                    <div class="card-house__subtitle">Utrecht</div>
+        
+                    <h4>Opaalweg 141 </h4>
+        
+        <p>
+                                                Vraagprijs:  € 370.000,-  Kosten koper
+                                    </p>
+
+                    <p class="card-house__subtitle mt-5">&nbsp;</p>
+        
+        <div class="card-house__bottom">
+            <ul class="list-unstyled d-flex">
+                                    <li>
+                        <i class="icon-expand"></i>
+                        <span>63 m<sup>2</sup></span>
+                    </li>
+                
+                                    <li>
+                        <i class="icon-bedroom"></i>
+                        <span>3</span>
+                    </li>
+                                            <li><i class="icon-energylabel"></i>ENERGIELABEL E</li>
+                                                </ul>
+
+            <span class="btn btn--text btn--il">
+                <i class="icon-chevron-right"></i>
+                                    Bekijk deze woning
+                
+            </span>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pablo Picassostraat 563]]></title>
+        <id>https://www.waltmann.nl/wonen/object/pablo-picassostraat-563-utrecht/</id>
+        <link href="https://www.waltmann.nl/wonen/object/pablo-picassostraat-563-utrecht/"/>
+        <updated>2025-06-09T20:49:44.427Z</updated>
+        <content type="html"><![CDATA[<div class="card-house__image">
+        <picture>
+                            <img src="/app/uploads/sure/media/UT105392/UT105392-75576-Pablo-Picassostraat-563-Utrecht-231338492.jpg" alt="">
+                    </picture>
+
+                    <div class="card-house__tag">Te Koop</div>
+            </div>
+
+    <div class="card-house__content">
+                    <div class="card-house__subtitle">Utrecht</div>
+        
+                    <h4>Pablo Picassostraat 563 </h4>
+        
+        <p>
+                                                Vraagprijs:  € 595.000,-  Kosten koper
+                                    </p>
+
+                    <p class="card-house__subtitle mt-5">&nbsp;</p>
+        
+        <div class="card-house__bottom">
+            <ul class="list-unstyled d-flex">
+                                    <li>
+                        <i class="icon-expand"></i>
+                        <span>101 m<sup>2</sup></span>
+                    </li>
+                
+                                    <li>
+                        <i class="icon-bedroom"></i>
+                        <span>3</span>
+                    </li>
+                                            <li><i class="icon-energylabel"></i>ENERGIELABEL A+</li>
+                                                </ul>
+
+            <span class="btn btn--text btn--il">
+                <i class="icon-chevron-right"></i>
+                                    Bekijk deze woning
+                
+            </span>
+        </div>
+    </div>]]></content>
+    </entry>
 </feed>

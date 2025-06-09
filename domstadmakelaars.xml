@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://domstadmakelaars.nl/woningen/?adres=&amp;type%5B%5D=koop&amp;type%5B%5D=&amp;prijs%5Bmin%5D=&amp;prijs%5Bmax%5D=699000&amp;plaats%5B%5D=utrecht&amp;plaats%5B%5D=&amp;woningtype%5B%5D=</id>
-    <title>Domstad Makelaars</title>
-    <updated>2025-06-09T17:43:18.229Z</updated>
+    <id>https://veldhuizenkoot.nl/woningaanbod/</id>
+    <title>Veldhuizenkoot Makelaars</title>
+    <updated>2025-06-09T20:57:16.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://domstadmakelaars.nl/woningen/favicon.ico</icon>
+    <icon>https://veldhuizenkoot.nl/woningaanbod/favicon.ico</icon>
 </feed>
