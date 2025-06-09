@@ -45,12 +45,13 @@ linkSelector = "a"
 waitUntil = "networkidle"
 matchAllOf = ["Utrecht"]
 
-# [punt]
-# title = "Punt Makelaars"
-# url = "https://puntmakelaars.nl/alle-woningen/?search=Utrecht&filter-price-max=700000&filter-livingArea=100&filter-rooms=3&filter-status=BESCHIKBAAR&filter-number-rooms-order=0"
-# entrySelector = "ul.housing-offer__list li"
-# titleSelector = "h2"
-# linkSelector = "a"
+[punt]
+title = "Punt Makelaars"
+url = "https://puntmakelaars.nl/alle-woningen/"
+entrySelector = "ul.housing-offer__list li"
+titleSelector = "h2"
+linkSelector = "a"
+matchAllOf = ["€5", "UTRECHT", "BESCHIKBAAR"]
 
 [ingridvaneck]
 title = "Ingrid van Eck Makelardij"
