@@ -12,13 +12,14 @@ titleSelector = ".card-object-address"
 linkSelector = ".card-object-address"
 waitUntil = "domcontentloaded"
 
-# [moib]
-# title = "MOIB makelaars"
-# url = "https://moib.nl/aanbod/"
-# entrySelector = ".horizon"
-# titleSelector = "h3"
-# linkSelector = "a.overlay-link"
-# waitUntil = "domcontentloaded"
+[moib]
+title = "MOIB makelaars"
+url = "https://moib.nl/aanbod/"
+entrySelector = ".horizon"
+titleSelector = "h3"
+linkSelector = "a.overlay-link"
+waitUntil = "domcontentloaded"
+matchAllOf = ["€ 5", "TE KOOP!"]
 
 [rvl]
 title = "Rosenberg Van Leusden makelaars"
