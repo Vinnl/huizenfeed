@@ -62,14 +62,14 @@ linkSelector = "a"
 matchAllOf = ["Utrecht", "€5"]
 waitUntil = "load"
 
-# [kraaijkamp]
-# title = "Kraaijkamp Makelaars"
-# url = "https://kraaijkampmakelaars.nl/nl/koop/woning-aanbod/"
-# entrySelector = "article.object"
-# titleSelector = ".details"
-# linkSelector = "a.link_invis"
-# filters = ["sold"]
-# waitUntil = "domcontentloaded"
+[kraaijkamp]
+title = "Kraaijkamp Makelaars"
+url = "https://kraaijkampmakelaars.nl/nl/koop/woning-aanbod/"
+entrySelector = ".woning"
+titleSelector = "h3"
+linkSelector = "a"
+filters = ["sold"]
+matchAllOf = ["€ 5", "UTRECHT", "Nieuw"]
 
 [gustocasa]
 title = "Gusto Casa"
