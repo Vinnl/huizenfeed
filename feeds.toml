@@ -284,14 +284,13 @@ titleSelector = "h2"
 linkSelector = "a.thumbnail"
 matchAllOf = ["Utrecht", "4 kamers"]
 
-# [veldhuizenkoot]
-# title = "Veldhuizenkoot Makelaars"
-# url = "https://veldhuizenkoot.nl/woningen/?type=koop&plaats=utrecht&radius=&adres="
-# entrySelector = ".houseblock"
-# titleSelector = ".adres"
-# linkSelector = "a.check"
-# matchAllOf = ["€ 5"]
-# waitUntil = "domcontentloaded"
+[veldhuizenkoot]
+title = "Veldhuizenkoot Makelaars"
+url = "https://veldhuizenkoot.nl/woningaanbod/"
+entrySelector = ".home-item"
+titleSelector = "h6"
+linkSelector = "a"
+matchAllOf = ["€ 5"]
 
 [jipmakelaars]
 title = "JIP Makelaars"
