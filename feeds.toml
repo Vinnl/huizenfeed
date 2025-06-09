@@ -163,14 +163,15 @@ titleSelector = ".item-data h1"
 linkSelector = "a.primary-btn"
 waitUntil = "networkidle"
 
-# [vanscherpenzeel]
-# title = "Van Scherpenzeel Makelaars"
-# url = "https://vanscherpenzeel.nl/woningen/makelaar/935799"
-# entrySelector = "#entity-items .woning"
-# titleSelector = "h2 a:last-child"
-# linkSelector = "h2 a.overlay"
-# matchAllOf = ["Utrecht", "Beschikbaar", "€ 3"]
-# waitUntil = "networkidle"
+[vanscherpenzeel]
+title = "Van Scherpenzeel Makelaars"
+url = "https://vanscherpenzeel.nl/aanbod/?city=Utrecht&minprice=&maxprice=600000"
+entrySelector = ".actiefitem"
+titleSelector = "h5"
+linkSelector = "a"
+matchOneOf = ["3 slaapkamers", "4 slaapkamers"]
+matchAllOf = ["Beschikbaar"]
+waitUntil = "networkidle"
 
 [gevaert]
 title = "Gevaert-makelaar"
