@@ -478,3 +478,11 @@ entrySelector = ".available"
 titleSelector = "h3"
 linkSelector = "*"
 matchAllOf = ["€ 5", "Utrecht"]
+
+[aldem]
+title = "Aldem makelaardij"
+url = "https://aldem.nl/woningsaanbod"
+entrySelector = "ltn__product-item"
+titleSelector = ".product-title"
+linkSelector = "a"
+matchAllOf = ["€ 5", "Utrecht", "beschikbaar"]
