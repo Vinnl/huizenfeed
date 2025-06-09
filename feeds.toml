@@ -116,13 +116,14 @@ waitUntil = "networkidle"
 #linkSelector = "a"
 #filters = ["Onder bod", "Verkocht", "V.O.V.", "Wil jij liever persoonlijk advies?"]
 
-# [wd]
-# title = "WD Makelaars"
-# url = "https://wdmakelaars.nl/woningen/"
-# entrySelector = ".card"
-# titleSelector = ".card-body"
-# linkSelector = "a"
-# waitUntil = "domcontentloaded"
+[wd]
+title = "WD Makelaars"
+url = "https://wdmakelaars.nl/woningen/"
+entrySelector = ".card"
+titleSelector = ".card-body"
+linkSelector = "a"
+waitUntil = "domcontentloaded"
+matchAllOf = ["€ 5", "Utrecht", "Beschikbaar"]
 
 [dekeizer]
 title = "De Keizer makelaarsgroep"
