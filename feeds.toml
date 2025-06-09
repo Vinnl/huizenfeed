@@ -20,12 +20,13 @@ waitUntil = "domcontentloaded"
 # linkSelector = "a.overlay-link"
 # waitUntil = "domcontentloaded"
 
-# [rvl]
-# title = "Rosenberg Van Leusden makelaars"
-# url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?a=Utrecht&e=700000"
-# entrySelector = ".h-card"
-# titleSelector = ".p-name"
-# linkSelector = "a.home"
+[rvl]
+title = "Rosenberg Van Leusden makelaars"
+url = "https://www.rvlmakelaars.nl/koopwoningen-utrecht?a=Utrecht&e=700000"
+entrySelector = ".h-card"
+titleSelector = ".p-name"
+linkSelector = "a.home"
+matchAllOf = ["€5", "Utrecht"]
 
 [molenbeek]
 title = "Molenbeek makelaars"
