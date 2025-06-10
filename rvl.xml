@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rvlmakelaars.nl/koopwoningen-utrecht?a=Utrecht&amp;e=700000</id>
     <title>Rosenberg Van Leusden makelaars</title>
-    <updated>2025-06-10T05:53:21.705Z</updated>
+    <updated>2025-06-10T12:58:37.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.rvlmakelaars.nl/themes/rvl/favicon.ico</icon>
     <entry>
@@ -18,6 +18,52 @@
                         <div class="right  change2 ">
                             <span class="old p-name">
                                 Volkerakstraat 19 BSA                                    <small>
+                                        Utrecht                                    </small>
+                            </span>
+                            <cite>
+                                €500.000,- k.k.                            </cite>
+                            <span class="bg"></span>
+                            <span class="p-name u-url">BEKIJK WONING</span>
+                        </div>
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De Vooysplantsoen 14                                     
+                                        Utrecht]]></title>
+        <id>https://www.rvlmakelaars.nl/de-vooysplantsoen-14-utrecht</id>
+        <link href="https://www.rvlmakelaars.nl/de-vooysplantsoen-14-utrecht"/>
+        <updated>2025-06-10T12:42:53.953Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.rvlmakelaars.nl/de-vooysplantsoen-14-utrecht" class="home">
+
+                        <div class="left ">
+                            <img class="u-photo" src="https://www.rvlmakelaars.nl/cache/images/233004986_250x250_adaptiveResize.jpg" alt="De Vooysplantsoen 14 ">
+                        </div>
+                        <div class="right">
+                            <span class="old p-name">
+                                De Vooysplantsoen 14                                     <small>
+                                        Utrecht                                    </small>
+                            </span>
+                            <cite>
+                                €500.000,- k.k.                            </cite>
+                            <span class="bg"></span>
+                            <span class="p-name u-url">BEKIJK WONING</span>
+                        </div>
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bernadottelaan 204                                     
+                                        Utrecht]]></title>
+        <id>https://www.rvlmakelaars.nl/bernadottelaan-204-utrecht</id>
+        <link href="https://www.rvlmakelaars.nl/bernadottelaan-204-utrecht"/>
+        <updated>2025-06-10T12:42:53.955Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.rvlmakelaars.nl/bernadottelaan-204-utrecht" class="home">
+
+                        <div class="left ">
+                            <img class="u-photo" src="https://www.rvlmakelaars.nl/cache/images/232999970_250x250_adaptiveResize.jpg" alt="Bernadottelaan 204 ">
+                        </div>
+                        <div class="right">
+                            <span class="old p-name">
+                                Bernadottelaan 204                                     <small>
                                         Utrecht                                    </small>
                             </span>
                             <cite>

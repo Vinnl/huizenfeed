@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-06-10T05:53:21.695Z</updated>
+    <updated>2025-06-10T12:58:37.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Krophollerstraat 10]]></title>
+        <id>https://www.beumer.nl/wonen/object/krophollerstraat-10-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/krophollerstraat-10-utrecht/"/>
+        <updated>2025-06-10T12:55:10.198Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/krophollerstraat-10-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN23384/MN23384-216354-Krophollerstraat-10-Utrecht-232148826-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN23384/MN23384-216354-Krophollerstraat-10-Utrecht-232148826-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN23384/MN23384-216354-Krophollerstraat-10-Utrecht-232148826-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN23384/MN23384-216354-Krophollerstraat-10-Utrecht-232148826-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/MN23384/MN23384-216354-Krophollerstraat-10-Utrecht-232148826-150x150.jpg" alt="                        Krophollerstraat 10
+                    " src="/app/uploads/sure/media/MN23384/MN23384-216354-Krophollerstraat-10-Utrecht-232148826-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Krophollerstraat 10
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 525.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>117 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        4 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        A+
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hannolaan 27]]></title>
         <id>https://www.beumer.nl/wonen/object/hannolaan-27-utrecht/</id>
@@ -106,106 +156,6 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Klifrakplantsoen 117]]></title>
-        <id>https://www.beumer.nl/wonen/object/klifrakplantsoen-117-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/klifrakplantsoen-117-utrecht/"/>
-        <updated>2025-06-10T05:50:02.340Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/klifrakplantsoen-117-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24152/MN24152-214192-Klifrakplantsoen-117-Utrecht-230723490-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24152/MN24152-214192-Klifrakplantsoen-117-Utrecht-230723490-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24152/MN24152-214192-Klifrakplantsoen-117-Utrecht-230723490-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24152/MN24152-214192-Klifrakplantsoen-117-Utrecht-230723490-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24152/MN24152-214192-Klifrakplantsoen-117-Utrecht-230723490-150x150.jpg" alt="                        Klifrakplantsoen 117
-                    " src="/app/uploads/sure/media/MN24152/MN24152-214192-Klifrakplantsoen-117-Utrecht-230723490-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Klifrakplantsoen 117
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 550.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>118 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        4 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A+
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paul Kleestraat 45]]></title>
-        <id>https://www.beumer.nl/wonen/object/paul-kleestraat-45-utrecht-2/</id>
-        <link href="https://www.beumer.nl/wonen/object/paul-kleestraat-45-utrecht-2/"/>
-        <updated>2025-06-10T05:50:02.347Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/paul-kleestraat-45-utrecht-2/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24277/MN24277-213518-Paul-Kleestraat-45-Utrecht-230165994-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24277/MN24277-213518-Paul-Kleestraat-45-Utrecht-230165994-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24277/MN24277-213518-Paul-Kleestraat-45-Utrecht-230165994-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24277/MN24277-213518-Paul-Kleestraat-45-Utrecht-230165994-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24277/MN24277-213518-Paul-Kleestraat-45-Utrecht-230165994-150x150.jpg" alt="                        Paul Kleestraat 45
-                    " src="/app/uploads/sure/media/MN24277/MN24277-213518-Paul-Kleestraat-45-Utrecht-230165994-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Paul Kleestraat 45
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 600.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>132 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        5 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Azielaan 266]]></title>
         <id>https://www.beumer.nl/wonen/object/azielaan-266-utrecht/</id>
         <link href="https://www.beumer.nl/wonen/object/azielaan-266-utrecht/"/>
@@ -218,7 +168,7 @@
                         <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT102936/UT102936-214243-Azielaan-266-Utrecht-224416809-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT102936/UT102936-214243-Azielaan-266-Utrecht-224416809-600x476-c-default.webp">
                         <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT102936/UT102936-214243-Azielaan-266-Utrecht-224416809-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT102936/UT102936-214243-Azielaan-266-Utrecht-224416809-400x317-c-default.webp">
                         <img loading="lazy" data-src="/app/uploads/sure/media/UT102936/UT102936-214243-Azielaan-266-Utrecht-224416809-150x150.jpg" alt="                        Azielaan 266
-                    " src="/app/uploads/sure/media/UT102936/UT102936-214243-Azielaan-266-Utrecht-224416809-150x150.jpg" data-ll-status="native">
+                    " src="/app/uploads/sure/media/UT102936/UT102936-214243-Azielaan-266-Utrecht-224416809-150x150.jpg" data-ll-status="loaded" class="loaded">
                     </picture>
                             
                         <div class="card-house__label__holder">
