@@ -464,7 +464,7 @@ linkSelector = "*"
 
 [damenhooft]
 title = "Dam en Hooft makelaars"
-url = "https://damenhooftmakelaars.nl/woningaanbod/koop/utrecht?availability=1&locationofinterest=Utrecht&minrooms=3&moveunavailablelistingstothebottom=true&orderby=10&orderdescending=true&pricerange.maxprice=650000"
+url = "https://damenhooftmakelaars.nl/woningaanbod/koop/utrecht?availability=1&locationofinterest=Utrecht&minrooms=4&moveunavailablelistingstothebottom=true&orderby=10&orderdescending=true&pricerange.maxprice=600000"
 entrySelector = ".objectcontainer"
 titleSelector = "h3 .street"
 linkSelector = "a"
