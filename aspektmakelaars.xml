@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://domstadmakelaars.nl/woningen/?adres=&amp;type%5B%5D=koop&amp;type%5B%5D=&amp;prijs%5Bmin%5D=&amp;prijs%5Bmax%5D=699000&amp;plaats%5B%5D=utrecht&amp;plaats%5B%5D=&amp;woningtype%5B%5D=</id>
-    <title>Domstad Makelaars</title>
-    <updated>2025-06-09T20:57:16.408Z</updated>
+    <id>https://www.aspektmakelaars.nl/wonen/zoeken/heel-nederland/koop/0-400000/utrecht/4-kamers/3-slaapkamers/beschikbaar/</id>
+    <title>Aspekt Makelaars</title>
+    <updated>2025-06-10T05:53:21.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://domstadmakelaars.nl/woningen/favicon.ico</icon>
+    <icon>https://www.aspektmakelaars.nl/app/themes/supress/favicon-32x32.png</icon>
 </feed>
