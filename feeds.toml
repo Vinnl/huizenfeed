@@ -60,7 +60,7 @@ matchAllOf = ["Utrecht"]
 title = "Punt Makelaars"
 url = "https://puntmakelaars.nl/alle-woningen/"
 entrySelector = "ul.housing-offer__list li"
-titleSelector = "h2"
+titleSelector = "h3"
 linkSelector = "a"
 matchAllOf = ["€5", "UTRECHT", "BESCHIKBAAR"]
 
