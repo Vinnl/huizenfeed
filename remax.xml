@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-06-16T06:01:02.394Z</updated>
+    <updated>2025-06-16T17:53:13.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -134,9 +134,7 @@
                 <img src="https://cloud01.topsite.nl/remax.nl/property/2041/232270744-91037_600x400_fit.jpg.webp" alt="Attleeplantsoen 62">
             </div>
         </div>
-                   <figcaption class="open-huis">
-                Kom &amp; Kijk dag</figcaption>
-            </figure>
+           </figure>
     <div class="text d-flex flex-column flex-grow-1">
         <div class="flex-grow-1">
                             <span class="office">REMAX De Woonspecialist</span>

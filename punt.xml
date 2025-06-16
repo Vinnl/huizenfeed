@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://puntmakelaars.nl/alle-woningen/</id>
     <title>Punt Makelaars</title>
-    <updated>2025-06-16T06:01:02.256Z</updated>
+    <updated>2025-06-16T17:53:13.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://puntmakelaars.nl/app/uploads/2023/08/favicon_puntmakelaars.png</icon>
     <entry>
@@ -11,7 +11,7 @@
         <link href="https://puntmakelaars.nl/woning/utrecht-antonius-matthaeuslaan-102/"/>
         <updated>2025-06-09T20:42:15.819Z</updated>
         <content type="html"><![CDATA[<div class="housing-offer__image-wrapper">
-                        <img src="https://puntmakelaars.nl/app/uploads/realworks/wonen/8.857.859/231807136.jpg" alt="Antonius Matthaeuslaan 102" class="housing-offer__image">
+                        <img decoding="async" src="https://puntmakelaars.nl/app/uploads/realworks/wonen/8.857.859/231807136.jpg" alt="Antonius Matthaeuslaan 102" class="housing-offer__image">
 
                                             </div>
 
@@ -87,7 +87,7 @@
         <link href="https://puntmakelaars.nl/woning/utrecht-adriaan-van-zwietenstraat-30/"/>
         <updated>2025-06-09T20:42:15.820Z</updated>
         <content type="html"><![CDATA[<div class="housing-offer__image-wrapper">
-                        <img src="https://puntmakelaars.nl/app/uploads/realworks/wonen/9.153.834/232169040.jpg" alt="Adriaan van Zwietenstraat 30" class="housing-offer__image">
+                        <img decoding="async" src="https://puntmakelaars.nl/app/uploads/realworks/wonen/9.153.834/232169040.jpg" alt="Adriaan van Zwietenstraat 30" class="housing-offer__image">
 
                                             </div>
 
@@ -184,7 +184,7 @@
         <link href="https://puntmakelaars.nl/woning/utrecht-romestraat-42/"/>
         <updated>2025-06-09T20:42:15.821Z</updated>
         <content type="html"><![CDATA[<div class="housing-offer__image-wrapper">
-                        <img src="https://puntmakelaars.nl/app/uploads/realworks/wonen/7.289.351/199490283.jpg" alt="Romestraat 42" class="housing-offer__image">
+                        <img decoding="async" src="https://puntmakelaars.nl/app/uploads/realworks/wonen/7.289.351/199490283.jpg" alt="Romestraat 42" class="housing-offer__image">
 
                                             </div>
 
@@ -260,7 +260,7 @@
         <link href="https://puntmakelaars.nl/woning/utrecht-rumkelaan-2/"/>
         <updated>2025-06-09T20:42:15.830Z</updated>
         <content type="html"><![CDATA[<div class="housing-offer__image-wrapper">
-                        <img src="https://puntmakelaars.nl/app/uploads/realworks/wonen/8.961.471/229220878.jpg" alt="Rumkelaan 2" class="housing-offer__image">
+                        <img decoding="async" src="https://puntmakelaars.nl/app/uploads/realworks/wonen/8.961.471/229220878.jpg" alt="Rumkelaan 2" class="housing-offer__image">
 
                                             </div>
 
@@ -357,7 +357,7 @@
         <link href="https://puntmakelaars.nl/woning/utrecht-koekoekstraat-12/"/>
         <updated>2025-06-09T20:42:15.870Z</updated>
         <content type="html"><![CDATA[<div class="housing-offer__image-wrapper">
-                        <img src="https://puntmakelaars.nl/app/uploads/realworks/wonen/9.136.922/231336112.jpg" alt="Koekoekstraat 12" class="housing-offer__image">
+                        <img decoding="async" src="https://puntmakelaars.nl/app/uploads/realworks/wonen/9.136.922/231336112.jpg" alt="Koekoekstraat 12" class="housing-offer__image">
 
                                             </div>
 
@@ -454,7 +454,7 @@
         <link href="https://puntmakelaars.nl/woning/utrecht-koppestokstraat-83/"/>
         <updated>2025-06-09T20:42:16.005Z</updated>
         <content type="html"><![CDATA[<div class="housing-offer__image-wrapper">
-                        <img src="https://puntmakelaars.nl/app/uploads/realworks/wonen/8.514.675/221788859.jpg" alt="Koppestokstraat 83" class="housing-offer__image">
+                        <img decoding="async" src="https://puntmakelaars.nl/app/uploads/realworks/wonen/8.514.675/221788859.jpg" alt="Koppestokstraat 83" class="housing-offer__image">
 
                                             </div>
 
