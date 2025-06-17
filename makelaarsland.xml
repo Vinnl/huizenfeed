@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-06-17T05:55:49.338Z</updated>
+    <updated>2025-06-17T17:53:23.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -26,27 +26,27 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/b8560804-700c-4f8f-95d2-108da3eb7534" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/b8560804-700c-4f8f-95d2-108da3eb7534&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/4537b34a-f23d-489e-b5ee-64f8930c9454" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/ba3ffb65-7ace-4dbc-a0de-9c7edd2c7a79" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
+        <div data-image-src="https://media.nvm.nl/512x/8677e925-ceae-4163-9049-c3248eb1a98e" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
 
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/3d2ec3dc-b52a-492f-8377-78f6d293953b" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
+        <div data-image-src="https://media.nvm.nl/512x/dcc73e0d-ee4f-49a0-a5a0-25a78a4bc3a9" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
 
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/b45aafad-55eb-416a-a626-b5cc27fbd59f" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
+        <div data-image-src="https://media.nvm.nl/512x/44c72093-d1a2-4194-96e0-3a3372db237e" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
 
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/b69fa15e-5243-49fa-be06-9bf1d3f787af" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
+        <div data-image-src="https://media.nvm.nl/512x/5e042a5b-7441-4848-aa63-a3bc92632a6d" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
 
       
     </div>
@@ -137,13 +137,13 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-06-17T05:45:20.125Z</updated>
+        <updated>2025-06-17T17:44:15.401Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>385 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>388 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 

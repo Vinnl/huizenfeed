@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quistmakelaardij.nl/aanbod/?_zoeken=utrecht&amp;_prijs_tot=1-600000&amp;_kamers=3-100</id>
     <title>Quist makelaardij</title>
-    <updated>2025-06-17T05:55:49.419Z</updated>
+    <updated>2025-06-17T17:53:23.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quistmakelaardij.nl/aanbod/favicon.ico</icon>
     <entry>
@@ -288,322 +288,6 @@
 											</div>
 																																																					<div class="object-view mb-3">
 																																						<a href="https://www.quistmakelaardij.nl/woningen/pedro-luis-brionstraat-18-utrecht-43918b4d91f18373641bdbfa7d1a46bbabfef/" class="position-relative p-3 text-decoration-none d-table" title="Pedro Luis Brionstraat 18 3573 BL Utrecht">
-																										Bekijk object													</a>
-												</div>
-																															</div>
-									</div>
-								</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moreelsepark
-				
-						
-												
-								
-																			
-										38]]></title>
-        <id>https://www.quistmakelaardij.nl/woningen/moreelsepark-38-utrecht-439183f09c7e9b79441389290a3f32823b8ad/</id>
-        <link href="https://www.quistmakelaardij.nl/woningen/moreelsepark-38-utrecht-439183f09c7e9b79441389290a3f32823b8ad/"/>
-        <updated>2025-06-12T17:53:31.225Z</updated>
-        <content type="html"><![CDATA[<div class="row">
-																	<div class="col-12">
-																											
-										
-										<div class="object-image position-relative mb-3">
-																					
-																							<a href="https://www.quistmakelaardij.nl/woningen/moreelsepark-38-utrecht-439183f09c7e9b79441389290a3f32823b8ad/" class="position-relative text-decoration-none d-block">
-																																	<div class="object-image-img">
-													
-			
-			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/233759394.jpg?portalid=4286&amp;check=api_sha256%3a44e3dc6083752d68dd9d45974316368d5c51877672bf5210e79d597c73896bf2&amp;=20250612173419&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/233759394.jpg?portalid=4286&amp;check=api_sha256%3a44e3dc6083752d68dd9d45974316368d5c51877672bf5210e79d597c73896bf2&amp;=20250612173419&amp;width=1080&amp;height=720" data-ll-status="native">
-
-																												<div class="object-status object-status-new position-absolute py-2 px-3">
-											TOPlocatie					</div>
-																</div>
-																																											</a>
-										
-																				</div>
-
-																												</div>
-																	<div class="col-12">
-																		<div class="object-info">
-									
-														
-					
-			<div class="object-address notranslate mb-3">
-
-					
-							
-						
-				<div class="object-address-line">
-			
-						
-				
-					
-										
-							<span class="object-street">Moreelsepark</span>
-				
-						
-												
-								
-																			
-										<span class="object-housenumber">38</span>
-							
-									
-									
-													
-							
-					
-							
-						
-				</div>
-			
-						
-						
-				
-									
-						<div class="object-address-line">
-				
-									
-										
-							<span class="object-zipcode">3511 EP</span>
-				
-										
-										
-							<span class="object-place">Utrecht</span>
-				
-										
-										
-										
-										
-										
-									
-									
-						</div>
-				
-					
-							
-						
-							
-		
-			</div>
-
-				
-		
-																		<div class="object-price mb-3 object-price-status-beschikbaar">
-		
-									<div class="object-price-sale">
-			
-			
-				
-			
-			
-				
-					<span class="object-price-value">
-
-						
-							€ 480.000
-						
-						
-					</span>
-
-				
-				
-					<span class="object-price-type">
-
-						
-							k.k.
-						
-					</span>
-
-				
-			
-							</div>
-			
-		
-		
-			
-			
-			
-				
-					<span class="object-price-value">
-
-						
-						
-					</span>
-
-				
-				
-					<span class="object-price-type">
-
-						
-					</span>
-
-				
-			
-			
-		
-			</div>
-	
-		
-																																								<div class="object-features mb-3">
-											
-																								
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-					
-				<div class="object-feature object-feature-woonoppervlakte ">
-				
-					<div class="row">
-				
-						<div class="col-5">
-				
-							<div class="object-feature-title text-truncate">
-				
-							Woonopp.				
-							</div>
-				
-						</div>
-				
-						<div class="col-7">
-				
-							<div class="object-feature-info text-truncate">
-				
-								67 m²				
-							</div>
-				
-						</div>
-				
-					</div>
-				
-				</div>
-				
-				
-	
-	
-	
-					
-				<div class="object-feature object-feature-totalekadestraleoppervlakte ">
-				
-					<div class="row">
-				
-						<div class="col-5">
-				
-							<div class="object-feature-title text-truncate">
-				
-							Perceelopp.				
-							</div>
-				
-						</div>
-				
-						<div class="col-7">
-				
-							<div class="object-feature-info text-truncate">
-				
-								13.623 m²				
-							</div>
-				
-						</div>
-				
-					</div>
-				
-				</div>
-				
-				
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-					
-				<div class="object-feature object-feature-aantalkamers ">
-				
-					<div class="row">
-				
-						<div class="col-5">
-				
-							<div class="object-feature-title text-truncate">
-				
-							Aantal kamers				
-							</div>
-				
-						</div>
-				
-						<div class="col-7">
-				
-							<div class="object-feature-info text-truncate">
-				
-								3 kamers 				
-							</div>
-				
-						</div>
-				
-					</div>
-				
-				</div>
-				
-				
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-			
-			
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-											</div>
-																																																					<div class="object-view mb-3">
-																																						<a href="https://www.quistmakelaardij.nl/woningen/moreelsepark-38-utrecht-439183f09c7e9b79441389290a3f32823b8ad/" class="position-relative p-3 text-decoration-none d-table" title="Moreelsepark 38 3511 EP Utrecht">
 																										Bekijk object													</a>
 												</div>
 																															</div>
@@ -938,6 +622,322 @@
 											</div>
 																																																					<div class="object-view mb-3">
 																																						<a href="https://www.quistmakelaardij.nl/woningen/krugerstraat-33-bs-utrecht-439180b3de7bd41c7405ebb21f12f4bd3b401/" class="position-relative p-3 text-decoration-none d-table" title="Krugerstraat 33 BS 3531 AN Utrecht">
+																										Bekijk object													</a>
+												</div>
+																															</div>
+									</div>
+								</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moreelsepark
+				
+						
+												
+								
+																			
+										38]]></title>
+        <id>https://www.quistmakelaardij.nl/woningen/moreelsepark-38-utrecht-439183f09c7e9b79441389290a3f32823b8ad/</id>
+        <link href="https://www.quistmakelaardij.nl/woningen/moreelsepark-38-utrecht-439183f09c7e9b79441389290a3f32823b8ad/"/>
+        <updated>2025-06-12T17:53:31.225Z</updated>
+        <content type="html"><![CDATA[<div class="row">
+																	<div class="col-12">
+																											
+										
+										<div class="object-image position-relative mb-3">
+																					
+																							<a href="https://www.quistmakelaardij.nl/woningen/moreelsepark-38-utrecht-439183f09c7e9b79441389290a3f32823b8ad/" class="position-relative text-decoration-none d-block">
+																																	<div class="object-image-img">
+													
+			
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/233759394.jpg?portalid=4286&amp;check=api_sha256%3a44e3dc6083752d68dd9d45974316368d5c51877672bf5210e79d597c73896bf2&amp;=20250612173419&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/233759394.jpg?portalid=4286&amp;check=api_sha256%3a44e3dc6083752d68dd9d45974316368d5c51877672bf5210e79d597c73896bf2&amp;=20250612173419&amp;width=1080&amp;height=720" data-ll-status="native">
+
+																												<div class="object-status object-status-new position-absolute py-2 px-3">
+											TOPlocatie					</div>
+																</div>
+																																											</a>
+										
+																				</div>
+
+																												</div>
+																	<div class="col-12">
+																		<div class="object-info">
+									
+														
+					
+			<div class="object-address notranslate mb-3">
+
+					
+							
+						
+				<div class="object-address-line">
+			
+						
+				
+					
+										
+							<span class="object-street">Moreelsepark</span>
+				
+						
+												
+								
+																			
+										<span class="object-housenumber">38</span>
+							
+									
+									
+													
+							
+					
+							
+						
+				</div>
+			
+						
+						
+				
+									
+						<div class="object-address-line">
+				
+									
+										
+							<span class="object-zipcode">3511 EP</span>
+				
+										
+										
+							<span class="object-place">Utrecht</span>
+				
+										
+										
+										
+										
+										
+									
+									
+						</div>
+				
+					
+							
+						
+							
+		
+			</div>
+
+				
+		
+																		<div class="object-price mb-3 object-price-status-beschikbaar">
+		
+									<div class="object-price-sale">
+			
+			
+				
+			
+			
+				
+					<span class="object-price-value">
+
+						
+							€ 480.000
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+							k.k.
+						
+					</span>
+
+				
+			
+							</div>
+			
+		
+		
+			
+			
+			
+				
+					<span class="object-price-value">
+
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+					</span>
+
+				
+			
+			
+		
+			</div>
+	
+		
+																																								<div class="object-features mb-3">
+											
+																								
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-woonoppervlakte ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Woonopp.				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								67 m²				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+					
+				<div class="object-feature object-feature-totalekadestraleoppervlakte ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Perceelopp.				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								13.623 m²				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-aantalkamers ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Aantal kamers				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								3 kamers 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+			
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+											</div>
+																																																					<div class="object-view mb-3">
+																																						<a href="https://www.quistmakelaardij.nl/woningen/moreelsepark-38-utrecht-439183f09c7e9b79441389290a3f32823b8ad/" class="position-relative p-3 text-decoration-none d-table" title="Moreelsepark 38 3511 EP Utrecht">
 																										Bekijk object													</a>
 												</div>
 																															</div>
