@@ -2,63 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ingridvaneck.nl/te-koop/</id>
     <title>Ingrid van Eck Makelardij</title>
-    <updated>2025-06-18T06:00:49.366Z</updated>
+    <updated>2025-06-18T17:58:32.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ingridvaneck.nl/wp-content/uploads/2023/05/cropped-favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Jansveld 47 BS 
-
-                                Utrecht                            
-       
-                            €595.000,00 kk
-
-                            Sfeervolle bovenwoning met 2 dakterrassen]]></title>
-        <id>https://www.ingridvaneck.nl/aanbod/jansveld-47-bs-utrecht/</id>
-        <link href="https://www.ingridvaneck.nl/aanbod/jansveld-47-bs-utrecht/"/>
-        <updated>2025-05-20T05:42:49.341Z</updated>
-        <content type="html"><![CDATA[<a class="card card--house" href="https://www.ingridvaneck.nl/aanbod/jansveld-47-bs-utrecht/">
-                        <div class="card__hover-overlay"></div>
-                        <div class="card__image" style="background-image: url(https://www.ingridvaneck.nl/wp-content/uploads/2025/05/Foto-1-scaled.jpg);">
-                                                            <div class="card__image__label">NIEUW!</div>
-                                                    </div>
-                        <div class="card__body">
-                            <address class="card--house__address">
-                                Jansveld 47 BS <br>
-
-                                Utrecht                            </address>
-       
-                            <div class="card--house__price">€595.000,00 kk</div>
-
-                            <div class="card--house__type">Sfeervolle bovenwoning met 2 dakterrassen</div>
-                        </div>
-                    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balkstraat  8 
-
-                                Utrecht                            
-       
-                            €595000,00 kk
-
-                            Ruime eengezinswoning]]></title>
-        <id>https://www.ingridvaneck.nl/aanbod/balkstraat-8-utrecht/</id>
-        <link href="https://www.ingridvaneck.nl/aanbod/balkstraat-8-utrecht/"/>
-        <updated>2025-06-17T17:43:12.092Z</updated>
-        <content type="html"><![CDATA[<a class="card card--house" href="https://www.ingridvaneck.nl/aanbod/balkstraat-8-utrecht/">
-                        <div class="card__hover-overlay"></div>
-                        <div class="card__image" style="background-image: url(https://www.ingridvaneck.nl/wp-content/uploads/2025/05/Foto-4-2-scaled.jpg);">
-                                                            <div class="card__image__label">Onder Bod!</div>
-                                                    </div>
-                        <div class="card__body">
-                            <address class="card--house__address">
-                                Balkstraat  8 <br>
-
-                                Utrecht                            </address>
-       
-                            <div class="card--house__price">€595000,00 kk</div>
-
-                            <div class="card--house__type">Ruime eengezinswoning</div>
-                        </div>
-                    </a>]]></content>
-    </entry>
 </feed>
