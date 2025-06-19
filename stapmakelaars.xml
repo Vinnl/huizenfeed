@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw</id>
     <title>Stap makelaars</title>
-    <updated>2025-06-19T05:54:13.772Z</updated>
+    <updated>2025-06-19T17:53:58.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stapmakelaars.nl/wp-content/uploads/2023/09/cropped-Favicon-32x32.png</icon>
     <entry>
@@ -183,7 +183,7 @@
         </div>
 
         <div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
-            € 375.000,- k.k.        </div>
+            € 350.000,- k.k.        </div>
     </div>
 
     <div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
