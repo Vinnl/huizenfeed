@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-06-20T05:58:45.453Z</updated>
+    <updated>2025-06-20T17:53:34.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
     <entry>
@@ -219,94 +219,6 @@
                         <span class="geo">
                             <span class="latitude">52.0984883</span>
                             <span class="longitude">5.1420624</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloemstraat 85 
-                        3581 WD UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/bloemstraat-85-utrecht-9129782</id>
-        <link href="https://burgersdijk.com/koopwoningen/bloemstraat-85-utrecht-9129782"/>
-        <updated>2025-06-10T17:51:03.713Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-bloemstraat-85-utrecht-233342212.a1ea47ddf56d8370085073140091b1bf.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-bloemstraat-85-utrecht-233342212.a1ea47ddf56d8370085073140091b1bf.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-bloemstraat-85-utrecht-233342212.4b384355ec3e35ba7fac2772b9551ffe.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-bloemstraat-85-utrecht-233342212.4b384355ec3e35ba7fac2772b9551ffe.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Bloemstraat 85 </span><br>
-                        <span class="postal-code">3581 WD</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 485.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 66 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0880519</span>
-                            <span class="longitude">5.1363648</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doelenstraat 1 
-                        3512 XJ UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/doelenstraat-1-utrecht-8779825</id>
-        <link href="https://burgersdijk.com/koopwoningen/doelenstraat-1-utrecht-8779825"/>
-        <updated>2025-06-10T12:57:13.280Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/002-hoofdfoto-doelenstraat-1-utrecht-232814672.49e1ae06c9487c68fa68021287d0d42e.jpg" data-src="/assets/components/phpthumbof/cache/002-hoofdfoto-doelenstraat-1-utrecht-232814672.49e1ae06c9487c68fa68021287d0d42e.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/002-hoofdfoto-doelenstraat-1-utrecht-232814672.9e0abc9fe77d315108ff74b58ec055da.jpg" data-src="/assets/components/phpthumbof/cache/002-hoofdfoto-doelenstraat-1-utrecht-232814672.9e0abc9fe77d315108ff74b58ec055da.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Doelenstraat 1 </span><br>
-                        <span class="postal-code">3512 XJ</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 490.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 78 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0822697</span>
-                            <span class="longitude">5.1237988</span>
                         </span>
                     </span>
                 </span>
