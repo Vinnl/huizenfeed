@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-06-23T05:59:12.610Z</updated>
+    <updated>2025-06-23T17:58:29.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
     <entry>
@@ -131,94 +131,6 @@
                         <span class="geo">
                             <span class="latitude">52.1186263</span>
                             <span class="longitude">5.0767064</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notebomenhof 28 
-                        3582 CZ UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/notebomenhof-28-utrecht-8977265</id>
-        <link href="https://burgersdijk.com/koopwoningen/notebomenhof-28-utrecht-8977265"/>
-        <updated>2025-06-11T17:55:22.486Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-notebomenhof-28-utrecht-231595344.e0151603112ef2614315d1ee499edd1f.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-notebomenhof-28-utrecht-231595344.e0151603112ef2614315d1ee499edd1f.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-notebomenhof-28-utrecht-231595344.39a691fa1150a7c80fd7dbcaea8517e1.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-notebomenhof-28-utrecht-231595344.39a691fa1150a7c80fd7dbcaea8517e1.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Notebomenhof 28 </span><br>
-                        <span class="postal-code">3582 CZ</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 450.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 71 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0833184</span>
-                            <span class="longitude">5.1344545</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karel Doormanlaan 223 
-                        3572 NZ UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/karel-doormanlaan-223-utrecht-9101424</id>
-        <link href="https://burgersdijk.com/koopwoningen/karel-doormanlaan-223-utrecht-9101424"/>
-        <updated>2025-06-10T12:57:13.278Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-karel-doormanlaan-223-utrecht-232205250.31346b8246d9f2428278f6447c6127b8.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-karel-doormanlaan-223-utrecht-232205250.31346b8246d9f2428278f6447c6127b8.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-karel-doormanlaan-223-utrecht-232205250.ff7e8650286170ba983094217a2e424d.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-karel-doormanlaan-223-utrecht-232205250.ff7e8650286170ba983094217a2e424d.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Karel Doormanlaan 223 </span><br>
-                        <span class="postal-code">3572 NZ</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 450.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 75 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0984883</span>
-                            <span class="longitude">5.1420624</span>
                         </span>
                     </span>
                 </span>
