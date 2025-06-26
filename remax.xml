@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-06-26T06:04:13.654Z</updated>
+    <updated>2025-06-26T17:52:05.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -149,6 +149,37 @@
                             <div class="d-flex info-specs">
                     <span><i class="icon-area"></i>79 m²</span>
                     <span><i class="icon-bed"></i>4</span>
+                </div>
+                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Melissekade 103]]></title>
+        <id>https://www.remax.nl/woningen/melissekade-103-utrecht-2226</id>
+        <link href="https://www.remax.nl/woningen/melissekade-103-utrecht-2226"/>
+        <updated>2025-06-26T17:51:38.348Z</updated>
+        <content type="html"><![CDATA[<figure>
+        <div class="images">
+            <div class="first-image">
+                <img src="https://cloud01.topsite.nl/remax.nl/property/2226/235403004-100209_600x400_fit.jpg.webp" alt="Melissekade 103">
+            </div>
+        </div>
+                   <figcaption class="open-huis">
+                Kom &amp; Kijk dag</figcaption>
+            </figure>
+    <div class="text d-flex flex-column flex-grow-1">
+        <div class="flex-grow-1">
+                            <span class="office">REMAX De Woonspecialist</span>
+                        <span class="title">Melissekade 103</span>
+            <div class="d-flex gap-2 flex-wrap city-price">
+                <span class="price">UTRECHT<br>€ 475.000,- k.k.</span>
+            </div>
+        </div>
+        <div class="info d-flex justify-content-between">
+                            <div class="d-flex info-specs">
+                    <span><i class="icon-area"></i>95 m²</span>
+                    <span><i class="icon-bed"></i>5</span>
                 </div>
                         <span class="lees-meer"><i class="icon-arrow-right"></i></span>
         </div>
