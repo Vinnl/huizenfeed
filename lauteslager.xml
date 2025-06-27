@@ -2,57 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lauteslager.nl/nl/aanbod?type=koop&amp;plaats=utrecht&amp;s=&amp;prijs_test%5Bmin%5D=&amp;prijs_test%5Bmax%5D=700000&amp;aantalKamers%5B%5D=4&amp;aantalKamers%5B%5D=5&amp;aantalKamers%5B%5D=6&amp;aantalKamers%5B%5D=&amp;woonoppervlakte%5B%5D=70msup2sup&amp;woonoppervlakte%5B%5D=72msup2sup&amp;woonoppervlakte%5B%5D=73msup2sup&amp;woonoppervlakte%5B%5D=</id>
     <title>Lauteslager Makelaar</title>
-    <updated>2025-06-27T06:00:48.273Z</updated>
+    <updated>2025-06-27T18:02:01.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.lauteslager.nl/nl/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Beekoeverhof 3]]></title>
-        <id>https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/</id>
-        <link href="https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/"/>
-        <updated>2025-06-24T17:44:30.444Z</updated>
-        <content type="html"><![CDATA[<div class="album-wrapper">
-		<div class="row">
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/">
-					<div class="main-photo">
-						<div class="offer-status-flag ">
-							Beschikbaar						</div>
-
-						<div class="main-photo-slider">
-							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/9.074.978/235048254.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
-						</div>
-					</div>
-				</a>
-			</div>
-
-			<div class="col-md-3">			
-				<div class="thumbnails 9.074.978">
-					<div class="photo-album">
-														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/9.074.978/235048254-1024x683.jpg">
-															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/9.074.978/235048390-1024x683.jpg">
-												</div>
-				</div>
-			</div>
-			
-			<div class="col-lg-9 col-md-12">
-				<a href="https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/"></a>
-				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/">
-					<div class="item-data" data-no-translation="">
-						<h1>Beekoeverhof 3</h1>
-						<h2>3555 XX - UTRECHT</h2>
-					</div>
-
-					<div class="specs">
-						<ul>
-							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>138 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (4 slaapkamers)</li>						</ul>
-					</div>
-
-					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 699.000,- k.k.</span></a>
-				</div>
-			</div>
-		</div>
-	</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Van Spanjelaan 42]]></title>
         <id>https://www.lauteslager.nl/nl/woning/utrecht/van-spanjelaan-42/</id>
@@ -96,6 +48,54 @@
 					</div>
 
 					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/van-spanjelaan-42/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 699.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beekoeverhof 3]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/"/>
+        <updated>2025-06-24T17:44:30.444Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/9.074.978/235048254.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 9.074.978">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/9.074.978/235048254-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/9.074.978/235048390-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/">
+					<div class="item-data" data-no-translation="">
+						<h1>Beekoeverhof 3</h1>
+						<h2>3555 XX - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>138 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (4 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/beekoeverhof-3/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 699.000,- k.k.</span></a>
 				</div>
 			</div>
 		</div>
