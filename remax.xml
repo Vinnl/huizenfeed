@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-06-29T06:00:31.416Z</updated>
+    <updated>2025-06-29T17:57:41.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -74,9 +74,7 @@
                 <img src="https://cloud01.topsite.nl/remax.nl/property/2166/234142336-96915_600x400_fit.jpg.webp" alt="Royaards van den Hamkade 11 2">
             </div>
         </div>
-                   <figcaption class="open-huis">
-                Kom &amp; Kijk dag</figcaption>
-            </figure>
+           </figure>
     <div class="text d-flex flex-column flex-grow-1">
         <div class="flex-grow-1">
                             <span class="office">REMAX De Woonspecialist</span>
