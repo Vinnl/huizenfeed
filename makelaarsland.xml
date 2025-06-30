@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-06-30T06:00:51.574Z</updated>
+    <updated>2025-06-30T17:52:20.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -23,7 +23,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/94204f85-0fa0-407d-861a-7d001f32e9ca" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/94204f85-0fa0-407d-861a-7d001f32e9ca" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/94204f85-0fa0-407d-861a-7d001f32e9ca&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -85,7 +85,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/d92b628c-82e6-4d6a-b60e-13f6c518cd8e" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/d92b628c-82e6-4d6a-b60e-13f6c518cd8e" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/d92b628c-82e6-4d6a-b60e-13f6c518cd8e&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -195,13 +195,13 @@
         <title type="html"><![CDATA[3]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-06-30T05:51:07.558Z</updated>
+        <updated>2025-06-30T17:48:16.630Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>386 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>385 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 

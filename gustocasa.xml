@@ -2,37 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gustocasa.nl/woningen/</id>
     <title>Gusto Casa</title>
-    <updated>2025-06-30T06:00:51.561Z</updated>
+    <updated>2025-06-30T17:52:20.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/2019/10/cropped-cropped-Logo_Zwart_Groot-32x32.jpg?media=1745999582</icon>
-    <entry>
-        <title type="html"><![CDATA[Egelantierstraat 22
-				3551 GC UTRECHT
-				€ 575.000,- k.k.Beschikbaar]]></title>
-        <id>https://www.gustocasa.nl/woning/utrecht-egelantierstraat-22/</id>
-        <link href="https://www.gustocasa.nl/woning/utrecht-egelantierstraat-22/"/>
-        <updated>2025-06-19T17:43:31.649Z</updated>
-        <content type="html"><![CDATA[<div class="item">
-		<a href="https://www.gustocasa.nl/woning/utrecht-egelantierstraat-22/" class="thumbnail">
-            <!--Nieuw-->
-            <img width="2048" height="1366" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202048%201366'%3E%3C/svg%3E" class="attachment-full size-full wp-post-image" alt="234704306" decoding="async" data-lazy-srcset="https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306.jpg?media=1745999582 2048w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306-376x251.jpg?media=1745999582 376w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306-1024x683.jpg?media=1745999582 1024w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306-768x512.jpg?media=1745999582 768w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306-1536x1025.jpg?media=1745999582 1536w" data-lazy-sizes="(max-width: 2048px) 100vw, 2048px" title="Woningen" data-lazy-src="https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306.jpg?media=1745999582"><noscript><img width="2048" height="1366" src="https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306.jpg?media=1745999582" class="attachment-full size-full wp-post-image" alt="234704306" decoding="async" srcset="https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306.jpg?media=1745999582 2048w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306-376x251.jpg?media=1745999582 376w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306-1024x683.jpg?media=1745999582 1024w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306-768x512.jpg?media=1745999582 768w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.136.686/234704306-1536x1025.jpg?media=1745999582 1536w" sizes="(max-width: 2048px) 100vw, 2048px" title="Woningen"></noscript>		</a>
-
-		<div class="item-content">
-			<div class="item-content-inner">
-				<h3>Egelantierstraat 22</h3>
-				<p class="item-address">3551 GC UTRECHT</p>
-				<div class="item-info"><div class="item-price">€ 575.000,- k.k.</div><div class="item-status Beschikbaar">Beschikbaar</div></div>
-			</div>
-			<!--<header>
-				<h2>Utrecht – Egelantierstraat 22</h2>
-			</header>-->
-
-			<!--<div class="entry-content hidden-sm">
-				
-				<dl><dt>Koopprijs</dt><dd>&euro; 575.000,- k.k.</dd><dt>Status</dt><dd>Beschikbaar</dd><dt>Perceel</dt><dd>82 m<sup>2</sup></dd><dt>Woonopp.</dt><dd>99 m<sup>2</sup></dd></dl>			</div>-->
-		</div>
-
-		<a href="https://www.gustocasa.nl/woning/utrecht-egelantierstraat-22/" class="overlay" rel="bookmark"></a>
-	</div>]]></content>
-    </entry>
 </feed>

@@ -2,9 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-06-30T06:00:51.544Z</updated>
+    <updated>2025-06-30T17:52:21.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Doelenstraat 1 
+                        3512 XJ UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/doelenstraat-1-utrecht-9224892</id>
+        <link href="https://burgersdijk.com/koopwoningen/doelenstraat-1-utrecht-9224892"/>
+        <updated>2025-06-30T17:51:06.038Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-doelenstraat-1-utrecht-235370428.2aa5e1d007f6e2103e0f95a8839e3acb.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-doelenstraat-1-utrecht-235370428.2aa5e1d007f6e2103e0f95a8839e3acb.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-doelenstraat-1-utrecht-235370428.270097f8f94d552063b188e052ab4ed6.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-doelenstraat-1-utrecht-235370428.270097f8f94d552063b188e052ab4ed6.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Doelenstraat 1 </span><br>
+                        <span class="postal-code">3512 XJ</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 445.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 78 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0822697</span>
+                            <span class="longitude">5.1237988</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Molukkenstraat 35 
+                        3531 WB UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/molukkenstraat-35-utrecht-9235378</id>
+        <link href="https://burgersdijk.com/koopwoningen/molukkenstraat-35-utrecht-9235378"/>
+        <updated>2025-06-30T17:51:06.039Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-molukkenstraat-35-utrecht-235793962.bbd652ceffdfda4b9cd6e965c7b94cea.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-molukkenstraat-35-utrecht-235793962.bbd652ceffdfda4b9cd6e965c7b94cea.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-molukkenstraat-35-utrecht-235793962.cbe1465ec8185c100814f2a0a72ae55e.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-molukkenstraat-35-utrecht-235793962.cbe1465ec8185c100814f2a0a72ae55e.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Molukkenstraat 35 </span><br>
+                        <span class="postal-code">3531 WB</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 475.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 82 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0927327</span>
+                            <span class="longitude">5.0922804</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arthur Sullivanhof 20 
                         3543 JK UTRECHT]]></title>
@@ -131,50 +219,6 @@
                         <span class="geo">
                             <span class="latitude">52.0946449</span>
                             <span class="longitude">5.1256271</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Burgemeester Norbruislaan 278 
-                        3555 EM UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/burgemeester-norbruislaan-278-utrecht-9170464</id>
-        <link href="https://burgersdijk.com/koopwoningen/burgemeester-norbruislaan-278-utrecht-9170464"/>
-        <updated>2025-06-18T17:57:13.003Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-burgemeester-norbruislaan-278-utrecht-233942550.bce1a82499ad161613beae0d7ed3f1c4.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-burgemeester-norbruislaan-278-utrecht-233942550.bce1a82499ad161613beae0d7ed3f1c4.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-burgemeester-norbruislaan-278-utrecht-233942550.f495ed966cc38631dbd081b0364d4c2e.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-burgemeester-norbruislaan-278-utrecht-233942550.f495ed966cc38631dbd081b0364d4c2e.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Burgemeester Norbruislaan 278 </span><br>
-                        <span class="postal-code">3555 EM</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 325.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 64 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.1186263</span>
-                            <span class="longitude">5.0767064</span>
                         </span>
                     </span>
                 </span>
