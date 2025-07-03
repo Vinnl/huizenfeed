@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-07-02T17:47:24.831Z</updated>
+    <updated>2025-07-03T05:57:59.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -178,35 +178,6 @@
                             <div class="d-flex info-specs">
                     <span><i class="icon-area"></i>95 m²</span>
                     <span><i class="icon-bed"></i>5</span>
-                </div>
-                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merwedekade 158]]></title>
-        <id>https://www.remax.nl/woningen/merwedekade-158-utrecht-2028</id>
-        <link href="https://www.remax.nl/woningen/merwedekade-158-utrecht-2028"/>
-        <updated>2025-06-23T17:58:01.440Z</updated>
-        <content type="html"><![CDATA[<figure>
-        <div class="images">
-            <div class="first-image">
-                <img src="https://cloud01.topsite.nl/remax.nl/property/2028/236504580-102538_600x400_fit.jpg.webp" alt="Merwedekade 158">
-            </div>
-        </div>
-           </figure>
-    <div class="text d-flex flex-column flex-grow-1">
-        <div class="flex-grow-1">
-                            <span class="office">REMAX De Woonspecialist</span>
-                        <span class="title">Merwedekade 158</span>
-            <div class="d-flex gap-2 flex-wrap city-price">
-                <span class="price">UTRECHT<br>€ 375.000,- k.k.</span>
-            </div>
-        </div>
-        <div class="info d-flex justify-content-between">
-                            <div class="d-flex info-specs">
-                    <span><i class="icon-area"></i>56 m²</span>
-                    <span><i class="icon-bed"></i>3</span>
                 </div>
                         <span class="lees-meer"><i class="icon-arrow-right"></i></span>
         </div>
