@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rvlmakelaars.nl/koopwoningen-utrecht?a=Utrecht&amp;e=700000</id>
     <title>Rosenberg Van Leusden makelaars</title>
-    <updated>2025-07-03T05:57:59.349Z</updated>
+    <updated>2025-07-03T17:48:30.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.rvlmakelaars.nl/themes/rvl/favicon.ico</icon>
     <entry>
@@ -19,6 +19,28 @@
                         <div class="right">
                             <span class="old p-name">
                                 De Vooysplantsoen 14                                     <small>
+                                        Utrecht                                    </small>
+                            </span>
+                            <cite>
+                                €500.000,- k.k.                            </cite>
+                            <span class="bg"></span>
+                            <span class="p-name u-url">BEKIJK WONING</span>
+                        </div>
+                    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monnetlaan 4                                     
+                                        Utrecht]]></title>
+        <id>https://www.rvlmakelaars.nl/monnetlaan-4-utrecht</id>
+        <link href="https://www.rvlmakelaars.nl/monnetlaan-4-utrecht"/>
+        <updated>2025-07-03T17:42:51.575Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.rvlmakelaars.nl/monnetlaan-4-utrecht" class="home">
+                        <div class="left  change1 ">
+                            <img class="u-photo" src="https://www.rvlmakelaars.nl/cache/images/236702964_250x250_adaptiveResize.jpg" alt="Monnetlaan 4 ">
+                        </div>
+                        <div class="right  change2 ">
+                            <span class="old p-name">
+                                Monnetlaan 4                                     <small>
                                         Utrecht                                    </small>
                             </span>
                             <cite>
