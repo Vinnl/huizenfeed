@@ -111,7 +111,7 @@ waitUntil = "domcontentloaded"
 
 [blauweeik]
 title = "Blauwe Eik makelaardij"
-url = "https://www.blauweeik.nl/wonen/zoeken/Utrecht/5km/0-700000/100-oppervlakte/koop/"
+url = "https://www.blauweeik.nl/wonen/zoeken/Utrecht/5km/0-600000/90-oppervlakte/koop/"
 entrySelector = ".offer__result li"
 titleSelector = "h4"
 linkSelector = "figure a"
