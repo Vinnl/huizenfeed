@@ -2,9 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/</id>
     <title>Waltmann Makelaars</title>
-    <updated>2025-07-07T07:58:27.114Z</updated>
+    <updated>2025-07-07T17:56:18.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.waltmann.nl/app/themes/supress/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Herautsingel 12]]></title>
+        <id>https://www.waltmann.nl/wonen/object/herautsingel-12-utrecht/</id>
+        <link href="https://www.waltmann.nl/wonen/object/herautsingel-12-utrecht/"/>
+        <updated>2025-07-07T17:51:57.277Z</updated>
+        <content type="html"><![CDATA[<div class="card-house__image">
+        <picture>
+                            <img src="/app/uploads/sure/media/UT105451/UT105451-76229-Herautsingel-12-Utrecht-236726970.jpg" alt="">
+                    </picture>
+
+                    <div class="card-house__tag">Te Koop</div>
+            </div>
+
+    <div class="card-house__content">
+                    <div class="card-house__subtitle">Utrecht</div>
+        
+                    <h4>Herautsingel 12 </h4>
+        
+        <p>
+                                                Vraagprijs:  € 325.000,-  Kosten koper
+                                    </p>
+
+                    <p class="card-house__subtitle mt-5">&nbsp;</p>
+        
+        <div class="card-house__bottom">
+            <ul class="list-unstyled d-flex">
+                                    <li>
+                        <i class="icon-expand"></i>
+                        <span>65 m<sup>2</sup></span>
+                    </li>
+                
+                                    <li>
+                        <i class="icon-bedroom"></i>
+                        <span>1</span>
+                    </li>
+                                            <li><i class="icon-energylabel"></i>ENERGIELABEL C</li>
+                                                </ul>
+
+            <span class="btn btn--text btn--il">
+                <i class="icon-chevron-right"></i>
+                                    Bekijk deze woning
+                
+            </span>
+        </div>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adriaen van Ostadelaan 157 4]]></title>
         <id>https://www.waltmann.nl/wonen/object/adriaen-van-ostadelaan-157-4-utrecht/</id>
@@ -133,52 +179,6 @@
                         <span>3</span>
                     </li>
                                             <li><i class="icon-energylabel"></i>ENERGIELABEL F</li>
-                                                </ul>
-
-            <span class="btn btn--text btn--il">
-                <i class="icon-chevron-right"></i>
-                                    Bekijk deze woning
-                
-            </span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Albert van Dalsumlaan 597]]></title>
-        <id>https://www.waltmann.nl/wonen/object/albert-van-dalsumlaan-597-utrecht/</id>
-        <link href="https://www.waltmann.nl/wonen/object/albert-van-dalsumlaan-597-utrecht/"/>
-        <updated>2025-06-23T17:55:57.201Z</updated>
-        <content type="html"><![CDATA[<div class="card-house__image">
-        <picture>
-                            <img src="/app/uploads/sure/media/UT105455/UT105455-75945-Albert-van-Dalsumlaan-597-Utrecht-235218272.jpg" alt="">
-                    </picture>
-
-                    <div class="card-house__tag">Te Koop</div>
-            </div>
-
-    <div class="card-house__content">
-                    <div class="card-house__subtitle">Utrecht</div>
-        
-                    <h4>Albert van Dalsumlaan 597 </h4>
-        
-        <p>
-                                                Vraagprijs:  € 385.000,-  Kosten koper
-                                    </p>
-
-                    <p class="card-house__subtitle mt-5">&nbsp;</p>
-        
-        <div class="card-house__bottom">
-            <ul class="list-unstyled d-flex">
-                                    <li>
-                        <i class="icon-expand"></i>
-                        <span>75 m<sup>2</sup></span>
-                    </li>
-                
-                                    <li>
-                        <i class="icon-bedroom"></i>
-                        <span>2</span>
-                    </li>
-                                            <li><i class="icon-energylabel"></i>ENERGIELABEL A</li>
                                                 </ul>
 
             <span class="btn btn--text btn--il">
