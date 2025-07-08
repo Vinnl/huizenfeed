@@ -2,7 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.ludenhoff.nl/wonen/zoeken/heel-nederland/utrecht/4-kamers/beschikbaar/</id>
     <title>Ludenhoff Groep</title>
-    <updated>2025-07-08T05:59:16.479Z</updated>
+    <updated>2025-07-08T17:58:43.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.ludenhoff.nl/app/themes/supress/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Breedstraat 29]]></title>
+        <id>https://www.ludenhoff.nl/wonen/object/breedstraat-29-utrecht/</id>
+        <link href="https://www.ludenhoff.nl/wonen/object/breedstraat-29-utrecht/"/>
+        <updated>2025-07-08T17:55:49.934Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.ludenhoff.nl/wonen/object/breedstraat-29-utrecht/" class="card-product__link"></a>
+        
+        <div class="card-product__image">
+            <picture>
+                <source media="(min-width:560px)" srcset="/app/uploads/sure/media/UT101856/UT101856-325724-Breedstraat-29-Utrecht-237283402-730x486-c-default.webp">
+                <source media="(min-width:560px)" srcset="/app/uploads/sure/media/UT101856/UT101856-325724-Breedstraat-29-Utrecht-237283402-730x486-c-default.jpg">
+                <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT101856/UT101856-325724-Breedstraat-29-Utrecht-237283402-560x448-c-default.webp">
+                <source media="(min-width:100px)" srcset="/app/uploads/sure/media/UT101856/UT101856-325724-Breedstraat-29-Utrecht-237283402-560x448-c-default.jpg">
+                <img loading="lazy" data-src="/app/uploads/sure/media/UT101856/UT101856-325724-Breedstraat-29-Utrecht-237283402-730x486-c-default.jpg" alt="" src="/app/uploads/sure/media/UT101856/UT101856-325724-Breedstraat-29-Utrecht-237283402-730x486-c-default.jpg" data-ll-status="loaded" class="loaded">
+            </picture>
+        </div>
+
+                    <span class="card-product__label">Beschikbaar</span>
+        
+                    <div class="card-product__heart btn btn--io btn--white heart-favorite" data-id="325724">
+                <i class="icon-heart"></i>
+            </div>
+        
+        <div class="card-product__content">
+            <div class="card-product__name">Utrecht</div>
+
+            <h5>Breedstraat 29 </h5>
+
+            <div class="card-product__price">
+                                                            € 695.000
+                        ,- k.k.
+                                                </div>
+        </div>]]></content>
+    </entry>
 </feed>
