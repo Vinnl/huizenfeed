@@ -2,9 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/</id>
     <title>Waltmann Makelaars</title>
-    <updated>2025-07-10T17:54:05.729Z</updated>
+    <updated>2025-07-11T17:53:47.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.waltmann.nl/app/themes/supress/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Oldambt 39]]></title>
+        <id>https://www.waltmann.nl/wonen/object/oldambt-39-utrecht/</id>
+        <link href="https://www.waltmann.nl/wonen/object/oldambt-39-utrecht/"/>
+        <updated>2025-07-11T17:50:36.581Z</updated>
+        <content type="html"><![CDATA[<div class="card-house__image">
+        <picture>
+                            <img src="/app/uploads/sure/media/UT105438/UT105438-76501-Oldambt-39-Utrecht-232465572.jpg" alt="">
+                    </picture>
+
+                    <div class="card-house__tag">Te Koop</div>
+            </div>
+
+    <div class="card-house__content">
+                    <div class="card-house__subtitle">Utrecht</div>
+        
+                    <h4>Oldambt 39 </h4>
+        
+        <p>
+                                                Vraagprijs:  € 385.000,-  Kosten koper
+                                    </p>
+
+                    <p class="card-house__subtitle mt-5">&nbsp;</p>
+        
+        <div class="card-house__bottom">
+            <ul class="list-unstyled d-flex">
+                                    <li>
+                        <i class="icon-expand"></i>
+                        <span>92 m<sup>2</sup></span>
+                    </li>
+                
+                                    <li>
+                        <i class="icon-bedroom"></i>
+                        <span>2</span>
+                    </li>
+                                            <li><i class="icon-energylabel"></i>ENERGIELABEL D</li>
+                                                </ul>
+
+            <span class="btn btn--text btn--il">
+                <i class="icon-chevron-right"></i>
+                                    Bekijk deze woning
+                
+            </span>
+        </div>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amsterdamsestraatweg 219 BSA]]></title>
         <id>https://www.waltmann.nl/wonen/object/amsterdamsestraatweg-219bsa-utrecht/</id>
@@ -179,52 +225,6 @@
                         <span>3</span>
                     </li>
                                             <li><i class="icon-energylabel"></i>ENERGIELABEL F</li>
-                                                </ul>
-
-            <span class="btn btn--text btn--il">
-                <i class="icon-chevron-right"></i>
-                                    Bekijk deze woning
-                
-            </span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pablo Picassostraat 563]]></title>
-        <id>https://www.waltmann.nl/wonen/object/pablo-picassostraat-563-utrecht/</id>
-        <link href="https://www.waltmann.nl/wonen/object/pablo-picassostraat-563-utrecht/"/>
-        <updated>2025-06-30T17:49:50.595Z</updated>
-        <content type="html"><![CDATA[<div class="card-house__image">
-        <picture>
-                            <img src="/app/uploads/sure/media/UT105465/UT105465-76076-Pablo-Picassostraat-563-Utrecht-236277348.jpg" alt="">
-                    </picture>
-
-                    <div class="card-house__tag">Te Koop</div>
-            </div>
-
-    <div class="card-house__content">
-                    <div class="card-house__subtitle">Utrecht</div>
-        
-                    <h4>Pablo Picassostraat 563 </h4>
-        
-        <p>
-                                                Vraagprijs:  € 569.000,-  Kosten koper
-                                    </p>
-
-                    <p class="card-house__subtitle mt-5">&nbsp;</p>
-        
-        <div class="card-house__bottom">
-            <ul class="list-unstyled d-flex">
-                                    <li>
-                        <i class="icon-expand"></i>
-                        <span>101 m<sup>2</sup></span>
-                    </li>
-                
-                                    <li>
-                        <i class="icon-bedroom"></i>
-                        <span>3</span>
-                    </li>
-                                            <li><i class="icon-energylabel"></i>ENERGIELABEL A+</li>
                                                 </ul>
 
             <span class="btn btn--text btn--il">

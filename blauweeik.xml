@@ -2,37 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.blauweeik.nl/wonen/zoeken/Utrecht/5km/0-600000/90-oppervlakte/koop/</id>
     <title>Blauwe Eik makelaardij</title>
-    <updated>2025-07-10T17:54:05.717Z</updated>
+    <updated>2025-07-11T17:53:47.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.blauweeik.nl/wp-content/uploads/cropped-blauwe-eik-1-78x78.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Croesestraat 75 Bs                                
-                                    3522 AC Utrecht]]></title>
-        <id>https://www.blauweeik.nl/wonen/object/croesestraat-75bs-utrecht/</id>
-        <link href="https://www.blauweeik.nl/wonen/object/croesestraat-75bs-utrecht/"/>
-        <updated>2025-07-07T17:44:52.579Z</updated>
-        <content type="html"><![CDATA[<section>
-    <figure>
-                <a href="/wonen/object/croesestraat-75bs-utrecht/">
-                                    
-                                    <picture>
-                                                    <source data-srcset="/wp-content/uploads/sure/media/BL104072/BL104072-1826529-Croesestraat-75BS-Utrecht-235473086.jpg.webp" media="(min-width: 100px)" type="image/webp" srcset="/wp-content/uploads/sure/media/BL104072/BL104072-1826529-Croesestraat-75BS-Utrecht-235473086.jpg.webp">
-                                                <source data-srcset="/wp-content/uploads/sure/media/BL104072/BL104072-1826529-Croesestraat-75BS-Utrecht-235473086.jpg" media="(min-width: 100px)" type="image/jpg" srcset="/wp-content/uploads/sure/media/BL104072/BL104072-1826529-Croesestraat-75BS-Utrecht-235473086.jpg">
-                        <img loading="lazy" class=" ls-is-cached lazyloaded" data-src="/wp-content/uploads/sure/media/BL104072/BL104072-1826529-Croesestraat-75BS-Utrecht-235473086-150x150.jpg" alt="3522 ac" src="/wp-content/uploads/sure/media/BL104072/BL104072-1826529-Croesestraat-75BS-Utrecht-235473086-150x150.jpg">
-                    </picture>
-                
-            <span>Nieuw</span>                    </a>
-        </figure>
-    <article class="">
-        <h4><a href="/wonen/object/croesestraat-75bs-utrecht/">                                Croesestraat 75 Bs                <!--				-->                <br>
-                                    <span>3522 AC Utrecht</span>
-                                            </a>
-                </h4>
-                                            <p>€ 579.000,- Kosten koper</p>
-                            <a href="/wonen/object/croesestraat-75bs-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
-                    </article>
-</section>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Van Meursstraat 42                                 
                                     3532 CK Utrecht]]></title>

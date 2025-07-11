@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-07-10T17:54:05.680Z</updated>
+    <updated>2025-07-11T17:53:47.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -58,35 +58,6 @@
                             <div class="d-flex info-specs">
                     <span><i class="icon-area"></i>69 m²</span>
                     <span><i class="icon-bed"></i>4</span>
-                </div>
-                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sumatrastraat 27BS]]></title>
-        <id>https://www.remax.nl/woningen/sumatrastraat-27bs-utrecht-2199</id>
-        <link href="https://www.remax.nl/woningen/sumatrastraat-27bs-utrecht-2199"/>
-        <updated>2025-06-23T17:58:01.437Z</updated>
-        <content type="html"><![CDATA[<figure>
-        <div class="images">
-            <div class="first-image">
-                <img src="https://cloud01.topsite.nl/remax.nl/property/2199/235169556-98393_600x400_fit.jpg.webp" alt="Sumatrastraat 27BS">
-            </div>
-        </div>
-           </figure>
-    <div class="text d-flex flex-column flex-grow-1">
-        <div class="flex-grow-1">
-                            <span class="office">REMAX De Woonspecialist</span>
-                        <span class="title">Sumatrastraat 27BS</span>
-            <div class="d-flex gap-2 flex-wrap city-price">
-                <span class="price">UTRECHT<br>€ 575.000,- k.k.</span>
-            </div>
-        </div>
-        <div class="info d-flex justify-content-between">
-                            <div class="d-flex info-specs">
-                    <span><i class="icon-area"></i>95 m²</span>
-                    <span><i class="icon-bed"></i>6</span>
                 </div>
                         <span class="lees-meer"><i class="icon-arrow-right"></i></span>
         </div>
