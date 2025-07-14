@@ -2,7 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw</id>
     <title>Stap makelaars</title>
-    <updated>2025-07-14T05:54:05.449Z</updated>
+    <updated>2025-07-14T17:57:49.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>data:,</icon>
+    <icon>https://www.stapmakelaars.nl/wp-content/uploads/2023/09/cropped-Favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[F.C. Dondersstraat 4B                3572 JG, Utrecht]]></title>
+        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/</id>
+        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"/>
+        <updated>2025-07-14T17:55:14.778Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
+        <span class="u-vh">Bekijk detail pagina van F.C. Dondersstraat 4B</span>
+    </a>
+
+    <div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
+                                
+                                
+                                
+                                
+                                
+            <div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236625436-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236626906-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236701622-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236627012-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236625440-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
+            </div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
+
+    <div class="card__header u-flex u-justify-between p10x">
+        <div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
+            <h3 class="m0 t-median bd:t-tiny sd:t-puny">
+                F.C. Dondersstraat 4B                <span>3572 JG, Utrecht</span>
+            </h3>
+        </div>
+
+        <div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
+            € 528.000,- k.k.        </div>
+    </div>
+
+    <div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
+        <div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>80 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>2</span></div>    </div>]]></content>
+    </entry>
 </feed>

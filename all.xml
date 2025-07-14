@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-14T05:54:05.460Z</updated>
+    <updated>2025-07-14T17:57:48.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[TE KOOP! Bemuurde Weerd W.Z. 2 (MOIB makelaars)]]></title>
@@ -57,44 +57,16 @@
                     </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Van Meursstraat 42                                 
-                                    3532 CK Utrecht (Blauwe Eik makelaardij)]]></title>
-        <id>https://www.blauweeik.nl/wonen/object/van-meursstraat-42-utrecht/</id>
-        <link href="https://www.blauweeik.nl/wonen/object/van-meursstraat-42-utrecht/"/>
-        <updated>2025-07-07T17:44:52.580Z</updated>
-        <content type="html"><![CDATA[<section>
-    <figure>
-                <a href="/wonen/object/van-meursstraat-42-utrecht/">
-                                    
-                                    <picture>
-                                                    <source data-srcset="/wp-content/uploads/sure/media/BL104084/BL104084-1826650-Van-Meursstraat-42-Utrecht-236279856.jpg.webp" media="(min-width: 100px)" type="image/webp" srcset="/wp-content/uploads/sure/media/BL104084/BL104084-1826650-Van-Meursstraat-42-Utrecht-236279856.jpg.webp">
-                                                <source data-srcset="/wp-content/uploads/sure/media/BL104084/BL104084-1826650-Van-Meursstraat-42-Utrecht-236279856.jpg" media="(min-width: 100px)" type="image/jpg" srcset="/wp-content/uploads/sure/media/BL104084/BL104084-1826650-Van-Meursstraat-42-Utrecht-236279856.jpg">
-                        <img loading="lazy" class=" ls-is-cached lazyloaded" data-src="/wp-content/uploads/sure/media/BL104084/BL104084-1826650-Van-Meursstraat-42-Utrecht-236279856-150x150.jpg" alt="3532 ck" src="/wp-content/uploads/sure/media/BL104084/BL104084-1826650-Van-Meursstraat-42-Utrecht-236279856-150x150.jpg">
-                    </picture>
-                
-            <span>Nieuw</span>                    </a>
-        </figure>
-    <article class="">
-        <h4><a href="/wonen/object/van-meursstraat-42-utrecht/">                                Van Meursstraat 42                 <!--				-->                <br>
-                                    <span>3532 CK Utrecht</span>
-                                            </a>
-                </h4>
-                                            <p>€ 519.000,- Kosten koper</p>
-                            <a href="/wonen/object/van-meursstraat-42-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
-                    </article>
-</section>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vlaserf 24 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-07-14T05:49:57.087Z</updated>
+        <updated>2025-07-14T17:46:15.418Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-ce1c3f50c81b594b" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-a5d81010f5a1067c33" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 39">
                             <img loading="lazy" alt="Vlaserf 24 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.227.958/237491048-1024x683.jpg" class="swiper-lazy">
                             
@@ -252,10 +224,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-ce1c3f50c81b594b" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-a5d81010f5a1067c33" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 </div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-ce1c3f50c81b594b" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-a5d81010f5a1067c33" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 </div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -275,13 +247,13 @@
         <title type="html"><![CDATA[Wilde rucolavliet 13 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-07-14T05:49:57.088Z</updated>
+        <updated>2025-07-14T17:46:15.420Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal swiper-backface-hidden">
-                <div class="swiper-wrapper" id="swiper-wrapper-7fafc1ca9d986dfb" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-68f208410bafdb8e9" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 7">
                             <img loading="lazy" alt="Wilde rucolavliet 13 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.279.978/237623504-1024x768.jpg" class="swiper-lazy">
                             
@@ -311,10 +283,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-7fafc1ca9d986dfb" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-68f208410bafdb8e9" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 </div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-7fafc1ca9d986dfb" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-68f208410bafdb8e9" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 </div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -334,13 +306,13 @@
         <title type="html"><![CDATA[Larixstraat 12 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-07-14T05:49:57.089Z</updated>
+        <updated>2025-07-14T17:46:15.422Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-89c6313e59585ce6" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-165888e92ba9027a" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 26">
                             <img loading="lazy" alt="Larixstraat 12 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809632-1024x683.jpg" class="swiper-lazy">
                             
@@ -446,10 +418,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-89c6313e59585ce6" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-165888e92ba9027a" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 </div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-89c6313e59585ce6" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-165888e92ba9027a" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 </div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -469,13 +441,13 @@
         <title type="html"><![CDATA[Dorpsstraat 55 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-07-14T05:49:57.092Z</updated>
+        <updated>2025-07-14T17:46:15.429Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-79b5a612e1ef52d3" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-2e3d0cc4460bbde3" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 31">
                             <img loading="lazy" alt="Dorpsstraat 55 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.137.592/235571238-1024x683.jpg" class="swiper-lazy">
                             
@@ -601,10 +573,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-79b5a612e1ef52d3" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-2e3d0cc4460bbde3" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 </div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-79b5a612e1ef52d3" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-2e3d0cc4460bbde3" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 </div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -624,13 +596,13 @@
         <title type="html"><![CDATA[Horigenland 22 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-07-14T05:49:57.093Z</updated>
+        <updated>2025-07-14T17:46:15.430Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-a6ac353d243f97107" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-ce5e5985a4d32c2f" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 26">
                             <img loading="lazy" alt="Horigenland 22 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.216.324/237529720-1024x683.jpg" class="swiper-lazy">
                             
@@ -736,10 +708,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-a6ac353d243f97107" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-ce5e5985a4d32c2f" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 </div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-a6ac353d243f97107" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-ce5e5985a4d32c2f" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 </div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -759,13 +731,13 @@
         <title type="html"><![CDATA[Safariweg 245 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-07-14T05:49:57.097Z</updated>
+        <updated>2025-07-14T17:46:15.435Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-62460faa9d1005341" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-fa881efdb41d47ea" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 29">
                             <img loading="lazy" alt="Safariweg 245 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/8.187.173/237530292-1024x683.jpg" class="swiper-lazy">
                             
@@ -883,10 +855,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-62460faa9d1005341" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-fa881efdb41d47ea" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 </div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-62460faa9d1005341" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-fa881efdb41d47ea" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 </div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -906,13 +878,13 @@
         <title type="html"><![CDATA[Kaapse Bossen 24 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-07-14T05:49:57.097Z</updated>
+        <updated>2025-07-14T17:46:15.438Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-64b4285e67217aa0" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-4c93dc32ed9e109be" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 40">
                             <img loading="lazy" alt="Kaapse Bossen 24 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.207.234/237613778-1024x683.jpg" class="swiper-lazy">
                             
@@ -1074,10 +1046,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-64b4285e67217aa0" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-4c93dc32ed9e109be" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 </div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-64b4285e67217aa0" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-4c93dc32ed9e109be" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 </div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -1099,7 +1071,7 @@
 						
 
 						
-						€ 500.000 / K.K. (LEF Makelaars)]]></title>
+													€ 500.000 / K.K. (LEF Makelaars)]]></title>
         <id>https://www.lefmakelaars.nl/aanbod/hasebroekstraat-37-bsa-utrecht/</id>
         <link href="https://www.lefmakelaars.nl/aanbod/hasebroekstraat-37-bsa-utrecht/"/>
         <updated>2025-07-14T05:50:03.306Z</updated>
@@ -1114,15 +1086,51 @@
                 
 				<div class="row">
 					<div class="col-md-12 align-self-end notranslate">
-						
+
 						<div class="aanbod-header">
 							<h2 class="text-truncate notranslate">Hasebroekstraat 37-BSA</h2>
 							<p class="notranslate">Utrecht</p>
 						</div>
 
 						
-						<div class="aanbod-prijs notranslate">€ 500.000 / K.K.</div>
+													<div class="aanbod-prijs notranslate">€ 500.000 / K.K.</div>
+						
+					</div>
+				</div>
+			</a>
 
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marnixlaan 286
+							Utrecht
+						
+
+						
+													€ 500.000 / K.K. (LEF Makelaars)]]></title>
+        <id>https://www.lefmakelaars.nl/aanbod/marnixlaan-286-utrecht/</id>
+        <link href="https://www.lefmakelaars.nl/aanbod/marnixlaan-286-utrecht/"/>
+        <updated>2025-07-14T17:46:22.468Z</updated>
+        <content type="html"><![CDATA[<div class="block-spacer">
+
+			
+			<a href="https://www.lefmakelaars.nl/aanbod/marnixlaan-286-utrecht/" class="block-inner aanbod-item" style="background-image: url('https://www.lefmakelaars.nl/wp-content/uploads/2025/07/237028456-768x512.jpg');">
+				<div class="gradient bottom"></div>
+				<div class="hover"></div>
+
+				<div class="statuslabel ">Te koop</div>
+                
+				<div class="row">
+					<div class="col-md-12 align-self-end notranslate">
+
+						<div class="aanbod-header">
+							<h2 class="text-truncate notranslate">Marnixlaan 286</h2>
+							<p class="notranslate">Utrecht</p>
+						</div>
+
+						
+													<div class="aanbod-prijs notranslate">€ 500.000 / K.K.</div>
+						
 					</div>
 				</div>
 			</a>
@@ -1135,7 +1143,7 @@
 						
 
 						
-						€ 570.000 / K.K. (LEF Makelaars)]]></title>
+													€ 570.000 / K.K. (LEF Makelaars)]]></title>
         <id>https://www.lefmakelaars.nl/aanbod/amsterdamsestraatweg-443-a-bs-utrecht/</id>
         <link href="https://www.lefmakelaars.nl/aanbod/amsterdamsestraatweg-443-a-bs-utrecht/"/>
         <updated>2025-07-08T05:47:15.862Z</updated>
@@ -1150,15 +1158,15 @@
                 
 				<div class="row">
 					<div class="col-md-12 align-self-end notranslate">
-						
+
 						<div class="aanbod-header">
 							<h2 class="text-truncate notranslate">Amsterdamsestraatweg 443-A BS</h2>
 							<p class="notranslate">Utrecht</p>
 						</div>
 
 						
-						<div class="aanbod-prijs notranslate">€ 570.000 / K.K.</div>
-
+													<div class="aanbod-prijs notranslate">€ 570.000 / K.K.</div>
+						
 					</div>
 				</div>
 			</a>
@@ -1183,7 +1191,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/94204f85-0fa0-407d-861a-7d001f32e9ca" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/94204f85-0fa0-407d-861a-7d001f32e9ca&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/94204f85-0fa0-407d-861a-7d001f32e9ca" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -1245,7 +1253,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/d92b628c-82e6-4d6a-b60e-13f6c518cd8e" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/d92b628c-82e6-4d6a-b60e-13f6c518cd8e&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/d92b628c-82e6-4d6a-b60e-13f6c518cd8e" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -1293,13 +1301,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-07-14T05:50:07.134Z</updated>
+        <updated>2025-07-14T17:46:27.413Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>353 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>348 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -1358,6 +1366,246 @@
 															<p>€ 550.000 k.k.</p><p>Woonoppervlakte: 87 m2</p><p><span class="room-service-item"><i class="fa fa-bed"></i><span>2</span></span><span class="room-service-item"><i class="fa fa-shower"></i><span>1</span></span></p><p class="thumbs-item-description">Twee luxe, energiezuinige appartementen onder één dak in de Watervogelenbuurt – per direct beschikbaar!</p>														</div>
 													</div>
 												</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Spanjelaan 42 (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/van-spanjelaan-42/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/van-spanjelaan-42/"/>
+        <updated>2025-07-14T17:46:44.783Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/van-spanjelaan-42/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.601.759/227903522.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 8.601.759">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.601.759/227903522-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.601.759/227903434-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/van-spanjelaan-42/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/van-spanjelaan-42/">
+					<div class="item-data" data-no-translation="">
+						<h1>Van Spanjelaan 42</h1>
+						<h2>3526 XM - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>150 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>6 (5 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/van-spanjelaan-42/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 699.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lange Nieuwstraat 51BS (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/"/>
+        <updated>2025-07-14T17:46:44.785Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.794.895/230971886.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 8.794.895">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.794.895/230971886-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.794.895/230972700-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/">
+					<div class="item-data" data-no-translation="">
+						<h1>Lange Nieuwstraat 51BS</h1>
+						<h2>3512 PD - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>113 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (3 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/lange-nieuwstraat-51bs/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 695.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oudegracht 288 (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/oudegracht-288/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/oudegracht-288/"/>
+        <updated>2025-07-14T17:46:44.787Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/oudegracht-288/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.280.989/237152640.png" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 8.280.989">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.280.989/237152640-1024x683.png">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.280.989/236409904-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/oudegracht-288/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/oudegracht-288/">
+					<div class="item-data" data-no-translation="">
+						<h1>Oudegracht 288</h1>
+						<h2>3511 NW - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>139 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>4 (3 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/oudegracht-288/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 675.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waalstraat 166B (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/"/>
+        <updated>2025-07-14T17:46:44.789Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/6.724.529/233030294.png" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 6.724.529">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/6.724.529/233030294-1024x724.png">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/6.724.529/215805935-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/">
+					<div class="item-data" data-no-translation="">
+						<h1>Waalstraat 166B</h1>
+						<h2>3522 SW - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>132 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>5 (4 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/waalstraat-166b/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 595.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Vollenhovenlaan 164 (Lauteslager Makelaar)]]></title>
+        <id>https://www.lauteslager.nl/nl/woning/utrecht/van-vollenhovenlaan-164/</id>
+        <link href="https://www.lauteslager.nl/nl/woning/utrecht/van-vollenhovenlaan-164/"/>
+        <updated>2025-07-14T17:46:44.791Z</updated>
+        <content type="html"><![CDATA[<div class="album-wrapper">
+		<div class="row">
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/van-vollenhovenlaan-164/">
+					<div class="main-photo">
+						<div class="offer-status-flag ">
+							Beschikbaar						</div>
+
+						<div class="main-photo-slider">
+							<img loading="lazy" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.288.645/234844438.jpg" alt="" title="" class="img-responsive" width="539" height="360" style="min-height:370px !important; max-height: 360px; object-fit: cover;">
+						</div>
+					</div>
+				</a>
+			</div>
+
+			<div class="col-md-3">			
+				<div class="thumbnails 8.288.645">
+					<div class="photo-album">
+														<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.288.645/234844438-1024x683.jpg">
+															<img class="photo-album-item" src="https://www.lauteslager.nl/wp-content/uploads/realworks/wonen/8.288.645/234844474-1024x683.jpg">
+												</div>
+				</div>
+			</div>
+			
+			<div class="col-lg-9 col-md-12">
+				<a href="https://www.lauteslager.nl/nl/woning/utrecht/van-vollenhovenlaan-164/"></a>
+				<div class="item-information"><a href="https://www.lauteslager.nl/nl/woning/utrecht/van-vollenhovenlaan-164/">
+					<div class="item-data" data-no-translation="">
+						<h1>Van Vollenhovenlaan 164</h1>
+						<h2>3527 JW - UTRECHT</h2>
+					</div>
+
+					<div class="specs">
+						<ul>
+							<li><i class="fa fa-arrows-alt" aria-hidden="true"></i> <span>104 m<sup>2</sup></span></li>							<li><i class="fa fa-clone" aria-hidden="true"></i>4 (3 slaapkamers)</li>						</ul>
+					</div>
+
+					</a><a href="https://www.lauteslager.nl/nl/woning/utrecht/van-vollenhovenlaan-164/" class="primary-btn">vraagprijs <span style="white-space: nowrap; font-weight: bold;">€ 419.000,- k.k.</span></a>
+				</div>
+			</div>
+		</div>
+	</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Meredith Willsonstraat 63 (Beumer Utrecht)]]></title>
@@ -1944,85 +2192,50 @@
     <a href="https://thijssenmakelaars.nl/woning/vossegatselaan-39/" class="absolute w-full h-full top-0 left-0"></a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Te koop: Paardensprongstraat 16, 3554EK Utrecht (van den Hoorn Makelaardij)]]></title>
-        <id>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht/paardensprongstraat/16?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10</id>
-        <link href="https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht/paardensprongstraat/16?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10"/>
-        <updated>2025-07-03T17:46:31.380Z</updated>
-        <content type="html"><![CDATA[<article class="object clearfix   ">
-            <div class="row">
-                <div class="col-xs-12 col-md-12 col-sm-12 sys-image-container object_photo_container">
-                    <div class="object_photo">
-                        <a class="sys-property-link" href="/woningaanbod/koop/utrecht/paardensprongstraat/16?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10" title="Te koop: Paardensprongstraat 16, 3554EK Utrecht">
-                            <div class="image-container sys-oneimg-nocycle" style="overflow: hidden; position: relative;">
-                                    <img alt="Paardensprongstraat 16, 3554EK Utrecht" width="250" class="img-responsive object_image" src="https://haywebattachments.blob.core.windows.net/public/3052/3710007/113714651/$m/01. paardensprongstraat 16, utrecht-1.jpg" title="Te koop: Paardensprongstraat 16, 3554EK Utrecht" style="position: absolute; width: auto; height: 271px; max-width: none; max-height: none; left: 0px; top: -7px;">
+        <title type="html"><![CDATA[F.C. Dondersstraat 4B                3572 JG, Utrecht (Stap makelaars)]]></title>
+        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/</id>
+        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"/>
+        <updated>2025-07-14T17:55:14.778Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
+        <span class="u-vh">Bekijk detail pagina van F.C. Dondersstraat 4B</span>
+    </a>
+
+    <div class="card__figure u-br-20 u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: false}" tabindex="0">
                                 
-                            </div>
-                        </a>
-                                <span class="object_status new_forsale">Nieuw in verkoop</span>
+                                
+                                
+                                
+                                
+            <div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236625436-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236626906-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236701622-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236627012-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
+            </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
+                <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
+                <img class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236625440-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
+            </div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button></div>
 
-                    </div>
+    <div class="card__header u-flex u-justify-between p10x">
+        <div class="card__adress bd:t-tiny sd:t-puny lh-20 t-median">
+            <h3 class="m0 t-median bd:t-tiny sd:t-puny">
+                F.C. Dondersstraat 4B                <span>3572 JG, Utrecht</span>
+            </h3>
+        </div>
 
-                </div>
-                <div class="col-xs-12 col-md-12 col-sm-12 object_content_container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="object_address">
-                                <a style="text-decoration: none;" class="sys-property-link object_header" href="/woningaanbod/koop/utrecht/paardensprongstraat/16?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
-                                    <h2>Te koop: Paardensprongstraat 16, 3554EK Utrecht</h2>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="object_data">
-                                <table cellspacing="0" cellpadding="1">
-                                        <tbody><tr>
-                                            <th class="object_price">Vraagprijs</th>
-                                            <td>
-                                                <span class="obj_price">€ 575.000,- k.k.</span>
-                                            </td>
-                                        </tr>
-                                            <tr>
-                                                <th class="object_price">Kamers</th>
-                                                <td>5 kamers</td>
-                                            </tr>
+        <div class="card__price t-bold bd:t-tiny sd:t-puny t-alignright">
+            € 528.000,- k.k.        </div>
+    </div>
 
-                                </tbody></table>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="object_options">
-
-                                <a class="sys-property-link object_fotos" href="/woningaanbod/koop/utrecht/paardensprongstraat/16?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
-                                        <i class="fa fa-picture-o"></i>
-50                                </a>
-
-                                    <a class="sys-property-link object_media object_video" href="/woningaanbod/koop/utrecht/paardensprongstraat/16?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
-                                        <span class="object_media_number"><i class="fa fa-film"></i> 1</span>
-                                    </a>
-
-                                    <a class="object-favorite " id="object-favorite-3710007" data-property-id="3710007" data-property-address="Te koop: Paardensprongstraat 16, 3554EK Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Als favoriet opslaan">
-                                        <span class="fav-icon">
-                                            <i class="icon-object-favorite"></i>
-                                        </span>
-                                    </a>
-
-
-                                    <a class="object-follow " id="object-follow-3710007" data-property-id="3710007" data-property-address="Te koop: Paardensprongstraat 16, 3554EK Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Object volgen">
-                                        <span class="fol-icon">
-                                            <i class="icon-object-follow"></i>
-                                        </span>
-                                    </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </article>]]></content>
+    <div class="card__listing u-flex u-justify-between mautot u-wraps u-gap-10 p10x p20b">
+        <div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-home"></i><span>80 m<sup>2</sup></span></div><div class="card__listing-item u-flex u-align-center u-gap-10"><i class="fas fa-bed"></i><span>2</span></div>    </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Te koop: Amsterdamsestraatweg 214BS, 3551CN Utrecht (van den Hoorn Makelaardij)]]></title>
@@ -2307,50 +2520,6 @@
                         <span class="geo">
                             <span class="latitude">52.1007542</span>
                             <span class="longitude">5.1368732</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doelenstraat 1 
-                        3512 XJ UTRECHT (Burgersdijk makelaars)]]></title>
-        <id>https://burgersdijk.com/koopwoningen/doelenstraat-1-utrecht-9224892</id>
-        <link href="https://burgersdijk.com/koopwoningen/doelenstraat-1-utrecht-9224892"/>
-        <updated>2025-06-30T17:51:06.038Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-doelenstraat-1-utrecht-235370428.2aa5e1d007f6e2103e0f95a8839e3acb.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-doelenstraat-1-utrecht-235370428.2aa5e1d007f6e2103e0f95a8839e3acb.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-doelenstraat-1-utrecht-235370428.270097f8f94d552063b188e052ab4ed6.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-doelenstraat-1-utrecht-235370428.270097f8f94d552063b188e052ab4ed6.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Doelenstraat 1 </span><br>
-                        <span class="postal-code">3512 XJ</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 445.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 78 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0822697</span>
-                            <span class="longitude">5.1237988</span>
                         </span>
                     </span>
                 </span>

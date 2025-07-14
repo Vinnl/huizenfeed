@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wdmakelaars.nl/woningen/</id>
     <title>WD Makelaars</title>
-    <updated>2025-07-14T05:54:05.413Z</updated>
+    <updated>2025-07-14T17:57:48.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>data:,</icon>
+    <icon>https://wdmakelaars.nl/app/uploads/2021/01/cropped-wd_icon-32x32.png</icon>
 </feed>
