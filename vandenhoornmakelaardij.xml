@@ -2,9 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht?availability=1&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000</id>
     <title>van den Hoorn Makelaardij</title>
-    <updated>2025-07-15T06:01:07.472Z</updated>
+    <updated>2025-07-15T18:04:31.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht]]></title>
+        <id>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10</id>
+        <link href="https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10"/>
+        <updated>2025-07-07T07:56:16.358Z</updated>
+        <content type="html"><![CDATA[<article class="object clearfix   ">
+            <div class="row">
+                <div class="col-xs-12 col-md-12 col-sm-12 sys-image-container object_photo_container">
+                    <div class="object_photo">
+                        <a class="sys-property-link" href="/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10" title="Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht">
+                            <div class="image-container sys-oneimg-nocycle" style="overflow: hidden; position: relative;">
+                                    <img alt="Nicolaas Sopingiusstraat 20, 3553TM Utrecht" width="250" class="img-responsive object_image" src="https://haywebattachments.blob.core.windows.net/public/3052/3714952/113897916/$m/01. nicolaas sopingiusstraat 20_07.jpg" title="Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht" style="position: absolute; width: auto; height: 271px; max-width: none; max-height: none; left: 0px; top: -7px;">
+                                
+                            </div>
+                        </a>
+                                <span class="object_status new_forsale">Nieuw in verkoop</span>
+
+                    </div>
+
+                </div>
+                <div class="col-xs-12 col-md-12 col-sm-12 object_content_container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="object_address">
+                                <a style="text-decoration: none;" class="sys-property-link object_header" href="/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
+                                    <h2>Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht</h2>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="object_data">
+                                <table cellspacing="0" cellpadding="1">
+                                        <tbody><tr>
+                                            <th class="object_price">Vraagprijs</th>
+                                            <td>
+                                                <span class="obj_price">€ 500.000,- k.k.</span>
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <th class="object_price">Kamers</th>
+                                                <td>4 kamers</td>
+                                            </tr>
+
+                                </tbody></table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="object_options">
+
+                                <a class="sys-property-link object_fotos" href="/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
+                                        <i class="fa fa-picture-o"></i>
+48                                </a>
+
+                                    <a class="sys-property-link object_media object_video" href="/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
+                                        <span class="object_media_number"><i class="fa fa-film"></i> 1</span>
+                                    </a>
+
+                                    <a class="object-favorite " id="object-favorite-3714952" data-property-id="3714952" data-property-address="Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Als favoriet opslaan">
+                                        <span class="fav-icon">
+                                            <i class="icon-object-favorite"></i>
+                                        </span>
+                                    </a>
+
+
+                                    <a class="object-follow " id="object-follow-3714952" data-property-id="3714952" data-property-address="Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Object volgen">
+                                        <span class="fol-icon">
+                                            <i class="icon-object-follow"></i>
+                                        </span>
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </article>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Te koop: Amsterdamsestraatweg 214BS, 3551CN Utrecht]]></title>
         <id>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht/amsterdamsestraatweg/214-bs?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10</id>
@@ -75,87 +156,6 @@
 
 
                                     <a class="object-follow " id="object-follow-3716231" data-property-id="3716231" data-property-address="Te koop: Amsterdamsestraatweg 214BS, 3551CN Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Object volgen">
-                                        <span class="fol-icon">
-                                            <i class="icon-object-follow"></i>
-                                        </span>
-                                    </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </article>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht]]></title>
-        <id>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10</id>
-        <link href="https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10"/>
-        <updated>2025-07-07T07:56:16.358Z</updated>
-        <content type="html"><![CDATA[<article class="object clearfix   ">
-            <div class="row">
-                <div class="col-xs-12 col-md-12 col-sm-12 sys-image-container object_photo_container">
-                    <div class="object_photo">
-                        <a class="sys-property-link" href="/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10" title="Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht">
-                            <div class="image-container sys-oneimg-nocycle" style="overflow: hidden; position: relative;">
-                                    <img alt="Nicolaas Sopingiusstraat 20, 3553TM Utrecht" width="250" class="img-responsive object_image" src="https://haywebattachments.blob.core.windows.net/public/3052/3714952/113897916/$m/01. nicolaas sopingiusstraat 20_07.jpg" title="Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht" style="position: absolute; width: auto; height: 271px; max-width: none; max-height: none; left: 0px; top: -7px;">
-                                
-                            </div>
-                        </a>
-                                <span class="object_status new_forsale">Nieuw in verkoop</span>
-
-                    </div>
-
-                </div>
-                <div class="col-xs-12 col-md-12 col-sm-12 object_content_container">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="object_address">
-                                <a style="text-decoration: none;" class="sys-property-link object_header" href="/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
-                                    <h2>Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht</h2>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="object_data">
-                                <table cellspacing="0" cellpadding="1">
-                                        <tbody><tr>
-                                            <th class="object_price">Vraagprijs</th>
-                                            <td>
-                                                <span class="obj_price">€ 500.000,- k.k.</span>
-                                            </td>
-                                        </tr>
-                                            <tr>
-                                                <th class="object_price">Kamers</th>
-                                                <td>4 kamers</td>
-                                            </tr>
-
-                                </tbody></table>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="object_options">
-
-                                <a class="sys-property-link object_fotos" href="/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
-                                        <i class="fa fa-picture-o"></i>
-48                                </a>
-
-                                    <a class="sys-property-link object_media object_video" href="/woningaanbod/koop/utrecht/nicolaas-sopingiusstraat/20?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
-                                        <span class="object_media_number"><i class="fa fa-film"></i> 1</span>
-                                    </a>
-
-                                    <a class="object-favorite " id="object-favorite-3714952" data-property-id="3714952" data-property-address="Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Als favoriet opslaan">
-                                        <span class="fav-icon">
-                                            <i class="icon-object-favorite"></i>
-                                        </span>
-                                    </a>
-
-
-                                    <a class="object-follow " id="object-follow-3714952" data-property-id="3714952" data-property-address="Te koop: Nicolaas Sopingiusstraat 20, 3553TM Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Object volgen">
                                         <span class="fol-icon">
                                             <i class="icon-object-follow"></i>
                                         </span>
