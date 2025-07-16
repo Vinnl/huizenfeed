@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-07-15T18:04:31.053Z</updated>
+    <updated>2025-07-16T05:54:42.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Queridostraat 25 BSA
+                        3532 EB UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/queridostraat-25-utrecht-9160980</id>
+        <link href="https://burgersdijk.com/koopwoningen/queridostraat-25-utrecht-9160980"/>
+        <updated>2025-07-16T05:53:14.726Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-queridostraat-25-utrecht-237541334.fd67226cfef44a3b91c2eca1f1c6de04.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-queridostraat-25-utrecht-237541334.fd67226cfef44a3b91c2eca1f1c6de04.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-queridostraat-25-utrecht-237541334.60351eeebafbe0b87fdd50bf429ac785.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-queridostraat-25-utrecht-237541334.60351eeebafbe0b87fdd50bf429ac785.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Queridostraat 25 BSA</span><br>
+                        <span class="postal-code">3532 EB</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 399.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 76 m<sup>2</sup><br>
+                        Aantal kamers 5
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0957211</span>
+                            <span class="longitude">5.0918753</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Admiraal van Gentstraat 20 
                         3572 XL UTRECHT]]></title>
