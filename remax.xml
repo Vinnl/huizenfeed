@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-07-17T05:59:26.858Z</updated>
+    <updated>2025-07-17T17:56:22.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -29,6 +29,37 @@
                             <div class="d-flex info-specs">
                     <span><i class="icon-area"></i>99 m²</span>
                     <span><i class="icon-bed"></i>5</span>
+                </div>
+                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galapagos 14]]></title>
+        <id>https://www.remax.nl/woningen/galapagos-14-utrecht-2379</id>
+        <link href="https://www.remax.nl/woningen/galapagos-14-utrecht-2379"/>
+        <updated>2025-07-17T17:55:51.272Z</updated>
+        <content type="html"><![CDATA[<figure>
+        <div class="images">
+            <div class="first-image">
+                <img src="https://cloud01.topsite.nl/remax.nl/property/2379/237416460-107464_600x400_fit.jpg.webp" alt="Galapagos 14">
+            </div>
+        </div>
+                   <figcaption class="open-huis">
+                Kom &amp; Kijk dag</figcaption>
+            </figure>
+    <div class="text d-flex flex-column flex-grow-1">
+        <div class="flex-grow-1">
+                            <span class="office">REMAX De Woonspecialist</span>
+                        <span class="title">Galapagos 14</span>
+            <div class="d-flex gap-2 flex-wrap city-price">
+                <span class="price">UTRECHT<br>€ 450.000,- k.k.</span>
+            </div>
+        </div>
+        <div class="info d-flex justify-content-between">
+                            <div class="d-flex info-specs">
+                    <span><i class="icon-area"></i>95 m²</span>
+                    <span><i class="icon-bed"></i>4</span>
                 </div>
                         <span class="lees-meer"><i class="icon-arrow-right"></i></span>
         </div>
