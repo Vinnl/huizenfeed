@@ -2,61 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aldem.nl/woningsaanbod</id>
     <title>Aldem makelaardij</title>
-    <updated>2025-07-16T18:01:48.733Z</updated>
+    <updated>2025-07-17T05:59:26.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://aldem.nl/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[H.J. Schimmelstraat 14]]></title>
-        <id>https://aldem.nl/woningsaanbod/hj-schimmelstraat-14-utrecht</id>
-        <link href="https://aldem.nl/woningsaanbod/hj-schimmelstraat-14-utrecht"/>
-        <updated>2025-07-15T06:00:55.130Z</updated>
-        <content type="html"><![CDATA[<div class="product-img go-top">
-            <a href="https://aldem.nl/woningsaanbod/hj-schimmelstraat-14-utrecht">
-                <div class="photo set-bg" data-setbg="https://aldem.nl/assets/img/objects/hj-schimmelstraat-14-utrecht-307756.jpg" style="background-image: url(&quot;https://aldem.nl/assets/img/objects/hj-schimmelstraat-14-utrecht-307756.jpg&quot;);">
-                </div>
-            </a>
-            <div class="product-badge">
-                <ul>
-                                            <li class="sale-badge bg-green">
-                                        beschikbaar
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <div class="product-info">
-            <h2 class="product-title go-top">
-                                    <a href="https://aldem.nl/woningsaanbod/hj-schimmelstraat-14-utrecht">H.J. Schimmelstraat 14</a>
-                            </h2>
-            <div class="product-img-location">
-                <ul>
-                    <li class="go-top">
-                                                    <a href="https://aldem.nl/woningsaanbod/hj-schimmelstraat-14-utrecht"><i class="flaticon-pin"></i>
-                                H.J. Schimmelstraat 14,
-                                3532
-                                TC
-                                Utrecht</a>
-                                            </li>
-                </ul>
-            </div>
-            <ul class="ltn__list-item-2--- ltn__list-item-2-before--- ltn__plot-brief">
-                <li><span>5 </span>
-                    Kamers
-                </li>
-                <li><span>4 </span>
-                    Slaapkamers
-                </li>
-                <li><span>107 </span>
-                    m<sup>2</sup>
-                </li>
-            </ul>
-        </div>
-        <div class="product-info-bottom">
-            <div class="product-price">
-                <span>
-                                            € 589.000,-
-                        <label>kosten koper</label>
-                                    </span>
-            </div>
-        </div>]]></content>
-    </entry>
 </feed>
