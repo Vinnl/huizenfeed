@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-07-18T06:10:36.635Z</updated>
+    <updated>2025-07-18T17:55:39.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Predikherenstraat 18 
+                        3512 TN UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/predikherenstraat-18-utrecht-9239466</id>
+        <link href="https://burgersdijk.com/koopwoningen/predikherenstraat-18-utrecht-9239466"/>
+        <updated>2025-07-18T17:54:20.217Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-predikherenstraat-18-utrecht-238543276.da6f021c1a186f668f1bed660b4d6524.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-predikherenstraat-18-utrecht-238543276.da6f021c1a186f668f1bed660b4d6524.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-predikherenstraat-18-utrecht-238543276.d274c560ae9f5a32cf6dee687aed0064.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-predikherenstraat-18-utrecht-238543276.d274c560ae9f5a32cf6dee687aed0064.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Predikherenstraat 18 </span><br>
+                        <span class="postal-code">3512 TN</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 595.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 108 m<sup>2</sup><br>
+                        Aantal kamers 5
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0944491</span>
+                            <span class="longitude">5.1184778</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Queridostraat 25 BSA
                         3532 EB UTRECHT]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/</id>
     <title>Waltmann Makelaars</title>
-    <updated>2025-07-18T06:10:36.559Z</updated>
+    <updated>2025-07-18T17:55:39.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.waltmann.nl/app/themes/supress/favicon-32x32.png</icon>
     <entry>
@@ -87,98 +87,6 @@
                         <span>3</span>
                     </li>
                                             <li><i class="icon-energylabel"></i>ENERGIELABEL G</li>
-                                                </ul>
-
-            <span class="btn btn--text btn--il">
-                <i class="icon-chevron-right"></i>
-                                    Bekijk deze woning
-                
-            </span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fahrenheitlaan 6 2]]></title>
-        <id>https://www.waltmann.nl/wonen/object/fahrenheitlaan-6-2-utrecht/</id>
-        <link href="https://www.waltmann.nl/wonen/object/fahrenheitlaan-6-2-utrecht/"/>
-        <updated>2025-07-08T17:55:55.171Z</updated>
-        <content type="html"><![CDATA[<div class="card-house__image">
-        <picture>
-                            <img src="/app/uploads/sure/media/UT105463/UT105463-76363-Fahrenheitlaan-6-2-Utrecht-236821858.jpg" alt="">
-                    </picture>
-
-                    <div class="card-house__tag">Te Koop</div>
-            </div>
-
-    <div class="card-house__content">
-                    <div class="card-house__subtitle">Utrecht</div>
-        
-                    <h4>Fahrenheitlaan 6 2</h4>
-        
-        <p>
-                                                Vraagprijs:  € 335.000,-  Kosten koper
-                                    </p>
-
-                    <p class="card-house__subtitle mt-5">&nbsp;</p>
-        
-        <div class="card-house__bottom">
-            <ul class="list-unstyled d-flex">
-                                    <li>
-                        <i class="icon-expand"></i>
-                        <span>77 m<sup>2</sup></span>
-                    </li>
-                
-                                    <li>
-                        <i class="icon-bedroom"></i>
-                        <span>3</span>
-                    </li>
-                                            <li><i class="icon-energylabel"></i>ENERGIELABEL B</li>
-                                                </ul>
-
-            <span class="btn btn--text btn--il">
-                <i class="icon-chevron-right"></i>
-                                    Bekijk deze woning
-                
-            </span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Herautsingel 12]]></title>
-        <id>https://www.waltmann.nl/wonen/object/herautsingel-12-utrecht/</id>
-        <link href="https://www.waltmann.nl/wonen/object/herautsingel-12-utrecht/"/>
-        <updated>2025-07-07T17:51:57.277Z</updated>
-        <content type="html"><![CDATA[<div class="card-house__image">
-        <picture>
-                            <img src="/app/uploads/sure/media/UT105451/UT105451-76229-Herautsingel-12-Utrecht-236726970.jpg" alt="">
-                    </picture>
-
-                    <div class="card-house__tag">Te Koop</div>
-            </div>
-
-    <div class="card-house__content">
-                    <div class="card-house__subtitle">Utrecht</div>
-        
-                    <h4>Herautsingel 12 </h4>
-        
-        <p>
-                                                Vraagprijs:  € 325.000,-  Kosten koper
-                                    </p>
-
-                    <p class="card-house__subtitle mt-5">&nbsp;</p>
-        
-        <div class="card-house__bottom">
-            <ul class="list-unstyled d-flex">
-                                    <li>
-                        <i class="icon-expand"></i>
-                        <span>65 m<sup>2</sup></span>
-                    </li>
-                
-                                    <li>
-                        <i class="icon-bedroom"></i>
-                        <span>1</span>
-                    </li>
-                                            <li><i class="icon-energylabel"></i>ENERGIELABEL C</li>
                                                 </ul>
 
             <span class="btn btn--text btn--il">
