@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-07-21T06:01:01.246Z</updated>
+    <updated>2025-07-21T18:01:26.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -29,35 +29,6 @@
                             <div class="d-flex info-specs">
                     <span><i class="icon-area"></i>99 m²</span>
                     <span><i class="icon-bed"></i>5</span>
-                </div>
-                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prins Bernhardlaan 3]]></title>
-        <id>https://www.remax.nl/woningen/prins-bernhardlaan-3-utrecht-2284</id>
-        <link href="https://www.remax.nl/woningen/prins-bernhardlaan-3-utrecht-2284"/>
-        <updated>2025-07-04T17:49:57.610Z</updated>
-        <content type="html"><![CDATA[<figure>
-        <div class="images">
-            <div class="first-image">
-                <img src="https://cloud01.topsite.nl/remax.nl/property/2284/219451783-103081_600x400_fit.jpg.webp" alt="Prins Bernhardlaan 3">
-            </div>
-        </div>
-           </figure>
-    <div class="text d-flex flex-column flex-grow-1">
-        <div class="flex-grow-1">
-                            <span class="office">REMAX De Woonspecialist</span>
-                        <span class="title">Prins Bernhardlaan 3</span>
-            <div class="d-flex gap-2 flex-wrap city-price">
-                <span class="price">UTRECHT<br>€ 445.000,- k.k.</span>
-            </div>
-        </div>
-        <div class="info d-flex justify-content-between">
-                            <div class="d-flex info-specs">
-                    <span><i class="icon-area"></i>68 m²</span>
-                    <span><i class="icon-bed"></i>3</span>
                 </div>
                         <span class="lees-meer"><i class="icon-arrow-right"></i></span>
         </div>
