@@ -2,55 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/</id>
     <title>Waltmann Makelaars</title>
-    <updated>2025-07-22T05:59:25.779Z</updated>
+    <updated>2025-07-22T18:03:04.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.waltmann.nl/app/themes/supress/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Amsterdamsestraatweg 219 BSA]]></title>
-        <id>https://www.waltmann.nl/wonen/object/amsterdamsestraatweg-219bsa-utrecht/</id>
-        <link href="https://www.waltmann.nl/wonen/object/amsterdamsestraatweg-219bsa-utrecht/"/>
-        <updated>2025-07-10T15:38:23.146Z</updated>
-        <content type="html"><![CDATA[<div class="card-house__image">
-        <picture>
-                            <img src="/app/uploads/sure/media/UT105464/UT105464-76470-Amsterdamsestraatweg-219BSA-Utrecht-236935476.jpg" alt="">
-                    </picture>
-
-                    <div class="card-house__tag">Te Koop</div>
-            </div>
-
-    <div class="card-house__content">
-                    <div class="card-house__subtitle">Utrecht</div>
-        
-                    <h4>Amsterdamsestraatweg 219 BSA</h4>
-        
-        <p>
-                                                Vraagprijs:  € 365.000,-  Kosten koper
-                                    </p>
-
-                    <p class="card-house__subtitle mt-5">&nbsp;</p>
-        
-        <div class="card-house__bottom">
-            <ul class="list-unstyled d-flex">
-                                    <li>
-                        <i class="icon-expand"></i>
-                        <span>109 m<sup>2</sup></span>
-                    </li>
-                
-                                    <li>
-                        <i class="icon-bedroom"></i>
-                        <span>3</span>
-                    </li>
-                                            <li><i class="icon-energylabel"></i>ENERGIELABEL G</li>
-                                                </ul>
-
-            <span class="btn btn--text btn--il">
-                <i class="icon-chevron-right"></i>
-                                    Bekijk deze woning
-                
-            </span>
-        </div>
-    </div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Heijermansstraat 22 BS]]></title>
         <id>https://www.waltmann.nl/wonen/object/heijermansstraat-22bs-utrecht/</id>
