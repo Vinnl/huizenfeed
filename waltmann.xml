@@ -2,53 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/</id>
     <title>Waltmann Makelaars</title>
-    <updated>2025-07-24T06:06:00.821Z</updated>
+    <updated>2025-07-24T18:00:47.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.waltmann.nl/app/themes/supress/favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Heijermansstraat 22 BS]]></title>
-        <id>https://www.waltmann.nl/wonen/object/heijermansstraat-22bs-utrecht/</id>
-        <link href="https://www.waltmann.nl/wonen/object/heijermansstraat-22bs-utrecht/"/>
-        <updated>2025-06-27T17:56:17.161Z</updated>
-        <content type="html"><![CDATA[<div class="card-house__image">
-        <picture>
-                            <img src="/app/uploads/sure/media/UT105413/UT105413-76032-Heijermansstraat-22BS-Utrecht-236017366.jpg" alt="">
-                    </picture>
-
-                    <div class="card-house__tag">Te Koop</div>
-            </div>
-
-    <div class="card-house__content">
-                    <div class="card-house__subtitle">Utrecht</div>
-        
-                    <h4>Heijermansstraat 22 BS</h4>
-        
-        <p>
-                                                Vraagprijs:  € 465.000,-  Kosten koper
-                                    </p>
-
-                    <p class="card-house__subtitle mt-5">&nbsp;</p>
-        
-        <div class="card-house__bottom">
-            <ul class="list-unstyled d-flex">
-                                    <li>
-                        <i class="icon-expand"></i>
-                        <span>75 m<sup>2</sup></span>
-                    </li>
-                
-                                    <li>
-                        <i class="icon-bedroom"></i>
-                        <span>3</span>
-                    </li>
-                                            <li><i class="icon-energylabel"></i>ENERGIELABEL F</li>
-                                                </ul>
-
-            <span class="btn btn--text btn--il">
-                <i class="icon-chevron-right"></i>
-                                    Bekijk deze woning
-                
-            </span>
-        </div>
-    </div>]]></content>
-    </entry>
 </feed>
