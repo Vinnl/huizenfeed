@@ -2,7 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gevaertmakelaars.nl/koop?city%5B%5D=UTRECHT&amp;sale_price_from=&amp;sale_price_until=700000&amp;surface_lot_from=&amp;surface_living_from=100</id>
     <title>Gevaert-makelaar</title>
-    <updated>2025-07-24T18:00:47.428Z</updated>
+    <updated>2025-07-25T06:11:40.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gevaertmakelaars.nl/gevaert/img/favicon/favicon-32x32.png?1604907972</icon>
+    <entry>
+        <title type="html"><![CDATA[Hijmans van den Berghlaan 224]]></title>
+        <id>https://www.gevaertmakelaars.nl/koop/NN107111/hijmans-van-den-berghlaan-224-3571-ph-utrecht</id>
+        <link href="https://www.gevaertmakelaars.nl/koop/NN107111/hijmans-van-den-berghlaan-224-3571-ph-utrecht"/>
+        <updated>2025-07-25T06:05:40.391Z</updated>
+        <content type="html"><![CDATA[<a href="/koop/NN107111/hijmans-van-den-berghlaan-224-3571-ph-utrecht" class="objectblock">
+            <span class="objectblock__image">
+
+                <span class="objectblock__image-label _beschikbaar">
+                    BESCHIKBAAR                </span>
+                
+                <img src="https://images.realworks.nl/servlets/images/media.objectmedia/238374784.jpg?portalid=2740&amp;check=api_sha256%3Ab7efde8ba3110c2571648f7b42e640c118485758ec73dc6338cd13d16cfa027b" alt="" class="lazy" data-src="https://images.realworks.nl/servlets/images/media.objectmedia/238374784.jpg?portalid=2740&amp;check=api_sha256%3Ab7efde8ba3110c2571648f7b42e640c118485758ec73dc6338cd13d16cfa027b&amp;resize=4">            </span>
+
+            <span class="objectblock__body">
+                <span class="objectblock__body-address">Hijmans van den Berghlaan 224</span>
+                <br>
+                <span class="objectblock__body-city">3571 PH Utrecht</span>
+                <br>
+                <span class="objectblock__body-price">€&nbsp;400.000 K.K.</span>
+            </span>
+            <br>
+            <span class="button button--text button--text-primary">Meer informatie</span>
+        </a>]]></content>
+    </entry>
 </feed>
