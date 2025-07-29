@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht?availability=1&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000</id>
     <title>van den Hoorn Makelaardij</title>
-    <updated>2025-07-28T17:56:32.842Z</updated>
+    <updated>2025-07-29T18:03:48.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/favicon.ico</icon>
     <entry>
@@ -63,8 +63,8 @@
                                         <i class="fa fa-picture-o"></i>
 37                                </a>
 
-                                    <a class="sys-property-link object_media object_plan" href="/woningaanbod/koop/utrecht/burgemeester-van-tuyllkade/132?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
-                                        <span class="object_media_number"><i class="fa fa-map-marker"></i> 4</span>
+                                    <a class="sys-property-link object_media object_video" href="/woningaanbod/koop/utrecht/burgemeester-van-tuyllkade/132?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10">
+                                        <span class="object_media_number"><i class="fa fa-film"></i> 1</span>
                                     </a>
 
                                     <a class="object-favorite " id="object-favorite-3740944" data-property-id="3740944" data-property-address="Te koop: Burgemeester van Tuyllkade 132, 3553AP Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Als favoriet opslaan">
@@ -102,7 +102,6 @@
                                 
                             </div>
                         </a>
-                                <span class="object_status new_forsale">Nieuw in verkoop</span>
 
                     </div>
 
