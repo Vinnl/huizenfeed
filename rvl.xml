@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rvlmakelaars.nl/koopwoningen-utrecht?a=Utrecht&amp;e=700000</id>
     <title>Rosenberg Van Leusden makelaars</title>
-    <updated>2025-07-30T05:58:18.096Z</updated>
+    <updated>2025-07-30T18:01:45.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.rvlmakelaars.nl/themes/rvl/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Van Lieflandlaan 83                                     
+                                        Utrecht]]></title>
+        <id>https://www.rvlmakelaars.nl/van-lieflandlaan-83-utrecht</id>
+        <link href="https://www.rvlmakelaars.nl/van-lieflandlaan-83-utrecht"/>
+        <updated>2025-07-30T17:46:13.808Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.rvlmakelaars.nl/van-lieflandlaan-83-utrecht" class="home">
+
+                        <div class="left ">
+                            <img class="u-photo" src="https://www.rvlmakelaars.nl/cache/images/239436236_250x250_adaptiveResize.jpg" alt="Van Lieflandlaan 83 ">
+                        </div>
+                        <div class="right">
+                            <span class="old p-name">
+                                Van Lieflandlaan 83                                     <small>
+                                        Utrecht                                    </small>
+                            </span>
+                            <cite>
+                                €550.000,- k.k.                            </cite>
+                            <span class="bg"></span>
+                            <span class="p-name u-url">BEKIJK WONING</span>
+                        </div>
+                    </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De Vooysplantsoen 14                                     
                                         Utrecht]]></title>
