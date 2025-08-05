@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/utrecht?availability=1&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000</id>
     <title>van den Hoorn Makelaardij</title>
-    <updated>2025-08-04T17:57:46.596Z</updated>
+    <updated>2025-08-05T06:02:47.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.vandenhoornmakelaardij.nl/woningaanbod/koop/favicon.ico</icon>
     <entry>
@@ -17,8 +17,7 @@
                         <a class="sys-property-link" href="/woningaanbod/koop/utrecht/burgemeester-van-tuyllkade/132?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;pricerange.maxprice=650000&amp;take=10" title="Te koop: Burgemeester van Tuyllkade 132, 3553AP Utrecht">
                             <div class="image-container sys-oneimg-nocycle" style="overflow: hidden; position: relative;">
                                     <img alt="Burgemeester van Tuyllkade 132, 3553AP Utrecht" width="250" class="img-responsive object_image" src="https://haywebattachments.blob.core.windows.net/public/3052/3740944/114854888/$m/03. burgemeester van tuyllkade 132, utrecht-18.jpg" title="Te koop: Burgemeester van Tuyllkade 132, 3553AP Utrecht" style="position: absolute; width: auto; height: 271px; max-width: none; max-height: none; left: 0px; top: -7px;">
-                                                                        <span class="openhouse">Open huis:<span>maandag 4 augustus 2025 16:00 - 18:30</span></span>
-
+                                
                             </div>
                         </a>
                                 <span class="object_status new_forsale">Nieuw in verkoop</span>
