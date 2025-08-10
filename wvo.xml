@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wvo.nl/nl/woningaanbod/koop#{%22view%22:%22grid%22,%22sort%22:%22addedDesc%22,%22searchTerms%22:[%22address%22,%22zipcode%22,%22city%22,%22state%22],%22address%22:%22%22,%22title%22:%22%22,%22salesRentals%22:%22sales%22,%22salesPriceMin%22:0,%22salesPriceMax%22:9999999999,%22devSalesPriceMin%22:0,%22devSalesPriceMax%22:9999999999,%22rentalsPriceMin%22:0,%22rentalsPriceMax%22:9999999999,%22devRentalsPriceMin%22:0,%22devRentalsPriceMax%22:9999999999,%22surfaceMin%22:0,%22surfaceMax%22:9999999999,%22unitsMin%22:0,%22unitsMax%22:9999999999,%22devSurfaceMin%22:0,%22devSurfaceMax%22:9999999999,%22plotSurfaceMin%22:0,%22plotSurfaceMax%22:9999999999,%22roomsMin%22:0,%22roomsMax%22:9999999999,%22bedroomsMin%22:0,%22bedroomsMax%22:9999999999,%22bathroomsMin%22:0,%22bathroomsMax%22:9999999999,%22city%22:[%22Utrecht%22],%22district%22:[],%22mainType%22:[],%22buildType%22:[],%22tag%22:[],%22country%22:[],%22state%22:[],%22listingsType%22:[],%22ignoreType%22:[],%22categories%22:[],%22status%22:%22available%22,%22statusStrict%22:true,%22includeIsBought%22:false,%22user%22:%22%22,%22branch%22:%22%22,%22apartmentType%22:%22%22,%22houseType%22:%22%22,%22archiveTime%22:15778463,%22page%22:1,%22grouped%22:true,%22bothPriceMin%22:%220%22,%22bothPriceMax%22:%229999999999%22}</id>
     <title>WVO makelaarsgroep</title>
-    <updated>2025-08-10T05:57:39.544Z</updated>
+    <updated>2025-08-10T17:51:50.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wvo.nl/favicon-32x32.png</icon>
 </feed>
