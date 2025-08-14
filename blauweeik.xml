@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.blauweeik.nl/wonen/zoeken/Utrecht/5km/0-600000/90-oppervlakte/koop/</id>
     <title>Blauwe Eik makelaardij</title>
-    <updated>2025-08-14T05:55:13.514Z</updated>
+    <updated>2025-08-14T17:48:47.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.blauweeik.nl/wp-content/uploads/cropped-blauwe-eik-1-78x78.png</icon>
     <entry>
@@ -29,6 +29,33 @@
                 </h4>
                                             <p>€ 550.000,- Kosten koper</p>
                             <a href="/wonen/object/croesestraat-75bs-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
+                    </article>
+</section>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M. de Klerkstraat 2                                 
+                                    3555 CN Utrecht]]></title>
+        <id>https://www.blauweeik.nl/wonen/object/m-de-klerkstraat-2-utrecht/</id>
+        <link href="https://www.blauweeik.nl/wonen/object/m-de-klerkstraat-2-utrecht/"/>
+        <updated>2025-08-14T17:43:23.755Z</updated>
+        <content type="html"><![CDATA[<section>
+    <figure>
+                <a href="/wonen/object/m-de-klerkstraat-2-utrecht/">
+                                    
+                                    <picture>
+                                                <source data-srcset="/wp-content/uploads/sure/media/BL104118/BL104118-1827712-M.-de-Klerkstraat-2-Utrecht-240944366.jpg" media="(min-width: 100px)" type="image/jpg" srcset="/wp-content/uploads/sure/media/BL104118/BL104118-1827712-M.-de-Klerkstraat-2-Utrecht-240944366.jpg">
+                        <img loading="lazy" class=" ls-is-cached lazyloaded" data-src="/wp-content/uploads/sure/media/BL104118/BL104118-1827712-M.-de-Klerkstraat-2-Utrecht-240944366-150x150.jpg" alt="3555 cn" src="/wp-content/uploads/sure/media/BL104118/BL104118-1827712-M.-de-Klerkstraat-2-Utrecht-240944366-150x150.jpg">
+                    </picture>
+                
+            <span>Nieuw</span>                    </a>
+        </figure>
+    <article class="">
+        <h4><a href="/wonen/object/m-de-klerkstraat-2-utrecht/">                                M. de Klerkstraat 2                 <!--				-->                <br>
+                                    <span>3555 CN Utrecht</span>
+                                            </a>
+                </h4>
+                                            <p>€ 527.500,- Kosten koper</p>
+                            <a href="/wonen/object/m-de-klerkstraat-2-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
                     </article>
 </section>]]></content>
     </entry>
