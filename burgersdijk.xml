@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-08-13T17:50:44.396Z</updated>
+    <updated>2025-08-14T05:55:13.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Draaiweg 23 
+                        3515 EJ UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/draaiweg-23-utrecht-9293620</id>
+        <link href="https://burgersdijk.com/koopwoningen/draaiweg-23-utrecht-9293620"/>
+        <updated>2025-08-14T05:53:50.359Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-draaiweg-23-utrecht-240825068.b8219a67b9f1c0acc521a7ebb72c4d40.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-draaiweg-23-utrecht-240825068.b8219a67b9f1c0acc521a7ebb72c4d40.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-draaiweg-23-utrecht-240825068.0fd9caa52537c91eac7687804b36ab44.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-draaiweg-23-utrecht-240825068.0fd9caa52537c91eac7687804b36ab44.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Draaiweg 23 </span><br>
+                        <span class="postal-code">3515 EJ</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 450.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 80 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.1007985</span>
+                            <span class="longitude">5.1131503</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oudenoord 389 
                         3513 EP UTRECHT]]></title>
