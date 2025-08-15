@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://domvast.nl/woningen/#q1YqyElMLClWslIqLSlKTc4oUdJRKi5JLCkFCkUrJaUWJ2dkZiclJhYpxeoo5RelpBYlVQIVQ5RYJRYnK9UCAA</id>
     <title>Domvast</title>
-    <updated>2025-08-14T17:48:47.924Z</updated>
+    <updated>2025-08-15T05:49:52.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://domvast.nl/wp-content/uploads/2023/09/cropped-favicon-32x32.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[<div class="item">
 		<p class="status-indicator"><span class="Beschikbaar">Beschikbaar</span></p>
 		<a href="https://domvast.nl/woning/utrecht-amsterdamsestraatweg-568/" class="thumbnail">
-           <img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.182.614/233514912-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy" alt="" decoding="async">		</a>
+           <img width="300" height="200" src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.182.614/233514912-300x200.jpg" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.182.614/233514912-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy entered loaded" alt="" decoding="async" data-ll-status="loaded">		</a>
 		<div class="item-content">
 			<header>
 				<h2>UTRECHT</h2>
