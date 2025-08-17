@@ -514,3 +514,11 @@ url = "https://www.funda.nl/zoeken/koop?selected_area=[%22heel-europa%22,%22nl%2
 entrySelector = "#PageListings #FilterPanel+div .border-b .flex:has(.relative)"
 titleSelector = "a > div:first-child"
 linkSelector = "a"
+
+[aarendonk]
+title = "Aarendonk Makelaardij"
+url = "https://aarendonk.nl/object/"
+entrySelector = ".huis-container"
+titleSelector = ".huis-content-container .ct-div-block"
+linkSelector = "*"
+matchAllOf = ["€ 5", "Utrecht", "Te koop"]
