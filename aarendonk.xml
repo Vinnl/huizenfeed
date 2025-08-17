@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.mozaiekmakelaardij.nl/woningaanbod</id>
-    <title>Mozaiek Makelaardij</title>
+    <id>https://aarendonk.nl/object/</id>
+    <title>Aarendonk Makelaardij</title>
     <updated>2025-08-17T15:49:57.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://hayweb.blob.core.windows.net/public/696dku/2-beta/favicon-96x96.png</icon>
+    <icon>https://aarendonk.nl/wp-content/uploads/2023/08/cropped-Favicon-1-32x32.png</icon>
 </feed>
