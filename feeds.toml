@@ -522,3 +522,11 @@ entrySelector = ".huis-container"
 titleSelector = ".huis-content-container .ct-div-block"
 linkSelector = "*"
 matchAllOf = ["€ 5", "Utrecht", "Te koop"]
+
+[nogb]
+title = "De Nederlandse Onroerend Goed Beurs"
+url = "https://nogb.nl/aanbod/"
+entrySelector = ".realworks_property_status-te-koop.realworks_property_place-utrecht"
+titleSelector = ".elementor-heading-title"
+linkSelector = "a.elementor-button-link"
+matchAllOf = ["€ 5", "Utrecht", "Te koop"]
