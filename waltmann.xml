@@ -2,7 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/</id>
     <title>Waltmann Makelaars</title>
-    <updated>2025-08-20T05:47:12.005Z</updated>
+    <updated>2025-08-20T13:31:43.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.waltmann.nl/app/themes/supress/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Sumatrastraat 36]]></title>
+        <id>https://www.waltmann.nl/wonen/object/sumatrastraat-36-utrecht/</id>
+        <link href="https://www.waltmann.nl/wonen/object/sumatrastraat-36-utrecht/"/>
+        <updated>2025-08-20T13:28:05.897Z</updated>
+        <content type="html"><![CDATA[<div class="card-house__image">
+        <picture>
+                            <img src="/app/uploads/sure/media/UT105337/UT105337-76865-Sumatrastraat-36-Utrecht-241549718-scaled.jpg" alt="">
+                    </picture>
+
+                    <div class="card-house__tag">Te Koop</div>
+            </div>
+
+    <div class="card-house__content">
+                    <div class="card-house__subtitle">Utrecht</div>
+        
+                    <h4>Sumatrastraat 36 </h4>
+        
+        <p>
+                                                Vraagprijs:  € 565.000,-  Kosten koper
+                                    </p>
+
+                    <p class="card-house__subtitle mt-5">&nbsp;</p>
+        
+        <div class="card-house__bottom">
+            <ul class="list-unstyled d-flex">
+                                    <li>
+                        <i class="icon-expand"></i>
+                        <span>92 m<sup>2</sup></span>
+                    </li>
+                
+                                    <li>
+                        <i class="icon-bedroom"></i>
+                        <span>3</span>
+                    </li>
+                                            <li><i class="icon-energylabel"></i>ENERGIELABEL D</li>
+                                                </ul>
+
+            <span class="btn btn--text btn--il">
+                <i class="icon-chevron-right"></i>
+                                    Bekijk deze woning
+                
+            </span>
+        </div>
+    </div>]]></content>
+    </entry>
 </feed>
