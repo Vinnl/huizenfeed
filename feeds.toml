@@ -530,3 +530,11 @@ entrySelector = ".realworks_property_status-te-koop.realworks_property_place-utr
 titleSelector = ".elementor-heading-title"
 linkSelector = "a.elementor-button-link"
 matchAllOf = ["€ 5", "Utrecht", "Te koop"]
+
+[corryvanrheenen]
+title = "Corry van Rheenen makelaardij"
+url = "https://www.corryvanrheenen.nl/woningaanbod/koop/utrecht/type-woonhuis?locationofinterest=Kesteren&minrooms=4&pricerange.maxprice=600000"
+entrySelector = ".object"
+titleSelector = "span.title"
+linkSelector = "a.object_data_container"
+matchAllOf = ["€ 5", "Utrecht", "Nieuw in verkoop"]
