@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw</id>
     <title>Stap makelaars</title>
-    <updated>2025-08-30T17:43:31.200Z</updated>
+    <updated>2025-08-31T17:47:59.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stapmakelaars.nl/wp-content/uploads/2023/09/cropped-Favicon-32x32.png</icon>
     <entry>
@@ -271,7 +271,7 @@ Julianaweg 285                <span>3523 XB, Utrecht</span>
 
 
 
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
 <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/hoogravenseweg-76/"></a>
 <img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.098.526/236781062-720x480.jpg" alt="Afbeelding voor Hoogravenseweg 76">
 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
@@ -313,7 +313,7 @@ Hoogravenseweg 76                <span>3523 TN, Utrecht</span>
 
 
 
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
 <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/f-c-dondersstraat-4b/"></a>
 <img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.824.681/236625436-720x480.jpg" alt="Afbeelding voor F.C. Dondersstraat 4B">
 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
@@ -355,7 +355,7 @@ F.C. Dondersstraat 4B                <span>3572 JG, Utrecht</span>
 
 
 
-<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+<div class="flickity-viewport" style="height: 257.783px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
 <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/amaliastraat-61a/"></a>
 <img width="720" height="480" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.092.460/234844908-720x480.jpg" alt="Afbeelding voor Amaliastraat 61A">
 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
