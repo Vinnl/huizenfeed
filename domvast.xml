@@ -2,31 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://domvast.nl/woningen/#q1YqyElMLClWslIqLSlKTc4oUdJRKi5JLCkFCkUrJaUWJ2dkZiclJhYpxeoo5RelpBYlVQIVQ5RYJRYnK9UCAA</id>
     <title>Domvast</title>
-    <updated>2025-09-01T05:47:07.798Z</updated>
+    <updated>2025-09-01T17:43:54.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://domvast.nl/wp-content/uploads/2023/09/cropped-favicon-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Koppestokstraat 84]]></title>
-        <id>https://domvast.nl/woning/utrecht-koppestokstraat-84/</id>
-        <link href="https://domvast.nl/woning/utrecht-koppestokstraat-84/"/>
-        <updated>2025-07-17T17:55:17.546Z</updated>
-        <content type="html"><![CDATA[<div class="item">
-		<p class="status-indicator"><span class="Beschikbaar">Beschikbaar</span></p>
-		<a href="https://domvast.nl/woning/utrecht-koppestokstraat-84/" class="thumbnail">
-           <img width="300" height="200" src="https://domvast.nl/wp-content/uploads/realworks/wonen/8.804.063/238316946-300x200.jpg" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/8.804.063/238316946-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy entered loaded" alt="" decoding="async" data-ll-status="loaded">		</a>
-		<div class="item-content">
-			<header>
-				<h2>UTRECHT</h2>
-				<h2>Koppestokstraat 84</h2>
-			</header>
-			<div class="entry-content">
-							
-
-				<dl><dt>Koopprijs</dt><dd>€ 549.500,- k.k.</dd><dt>Perceel</dt><dd>89 m<sup>2</sup></dd><dt>Woonopp.</dt><dd>88 m<sup>2</sup></dd><dt>Aantal slaapkamers</dt><dd>3</dd></dl>			</div>
-		</div>
-		<a href="https://domvast.nl/woning/utrecht-koppestokstraat-84/" class="overlay" rel="bookmark"></a>
-	</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Amsterdamsestraatweg 568]]></title>
         <id>https://domvast.nl/woning/utrecht-amsterdamsestraatweg-568/</id>
