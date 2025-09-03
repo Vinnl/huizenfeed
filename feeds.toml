@@ -395,6 +395,7 @@ entrySelector = ".card--wonen"
 titleSelector = "[itemprop=streetAddress]"
 linkSelector = "a"
 waitUntil = "networkidle"
+matchAllOf = ["€ 5", "Utrecht", "Beschikbaar"]
 
 [pauwmakelaardij]
 title = "Pauw Makelaardij"
