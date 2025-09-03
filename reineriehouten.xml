@@ -2,9 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://reineriehouten.nl/woningen/#HY3LCgIxDEX_Jesiguii_-FKZOgj0NrptCQpKMP8u-lkleRczt2huoKrcwT2BYR5Q8qY2hDcLtsKbwOltZ7G0MC5goGueeGlN5bQIip4CmFIMhnlD4Pd1ftV8LhfdeAwwOJk8GzxyCHl4mep-lltvbiKpBRu6mgUkfxPrzBYWl3Oh3UcTB9-zcFJxqi6aqO64PgD</id>
     <title>Reinerie Houten</title>
-    <updated>2025-09-03T05:45:38.945Z</updated>
+    <updated>2025-09-03T17:49:48.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://reineriehouten.nl/wp-content/uploads/sites/62/2018/09/cropped-favicon-300x300.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Fonteinwater 81]]></title>
+        <id>https://reineriehouten.nl/woningen/koop/houten/fonteinwater-81/</id>
+        <link href="https://reineriehouten.nl/woningen/koop/houten/fonteinwater-81/"/>
+        <updated>2025-09-03T17:48:00.693Z</updated>
+        <content type="html"><![CDATA[<div class="card__outer">
+                <a href="https://reineriehouten.nl/woningen/koop/houten/fonteinwater-81/" class="card__overlay" itemprop="url">
+            <span class="vh">Bekijk: koop  Houten  Fonteinwater 81</span>
+        </a>
+
+        <figure class="card__figure">
+            <span class="card__tag card__tag--beschikbaar">
+                                    Beschikbaar                            </span>
+            
+                                                                                    <img src="https://reineriehouten.nl/wp-content/themes/garantiemakelaars/assets/images/placeholders/archive-rw-size.svg" data-src="https://reineriehouten.nl/wp-content/uploads/realworks/wonen/9.302.914/242320766-465x275.jpg" width="465" height="275" class=" card__image card__image--grid lazyload" alt="Hoofdfoto van Houten Fonteinwater 81">
+            <img src="https://reineriehouten.nl/wp-content/themes/garantiemakelaars/assets/images/placeholders/archive-rw-list-size.svg" data-src="https://reineriehouten.nl/wp-content/uploads/realworks/wonen/9.302.914/242320766-530x400.jpg" width="530" height="400" class=" card__image card__image--list lazyload" alt="Hoofdfoto van Houten Fonteinwater 81">
+
+        </figure>
+
+        <div class="card__inner">
+            <div class="card__content" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+                <div class="card__heading heading" itemprop="streetAddress">
+                    <h3>Fonteinwater 81</h3>
+                </div>
+
+                                                    <div class="card__location prose clean clean color-dark-gray1">
+                        <p><span itemprop="postalCode">3991 MS</span>, <span itemprop="addressLocality">Houten</span>, <span itemprop="addressRegion">Nederland</span></p>
+                    </div>
+                
+                <div class="card__description prose clean lighter color-dark-gray4 lh-30">
+                    <p>Ben jij op zoek naar een ruime gezinswoning in woonwijk Het Water die is gelegen op een prachtige locatie met…</p>
+                </div>
+
+                                
+                <a href="#" data-object="2074116" class="card__favorite favorite" data-featherlight="#login">
+                    <span class="icon card__icon card__icon--heart favorite__icon">
+                        <svg class="icon__svg favorite__svg favorite__svg-stroke" viewBox="0 0 100 87.92 "><use xlink:href="https://reineriehouten.nl/wp-content/themes/garantiemakelaars/assets/images/icons.svg#icon--heart"></use></svg>
+                        <svg class="icon__svg favorite__svg favorite__svg-solid" viewBox="0 0 100 87.92 "><use xlink:href="https://reineriehouten.nl/wp-content/themes/garantiemakelaars/assets/images/icons.svg#icon--heart-solid"></use></svg>
+                    </span>
+                </a>
+            </div>
+
+                            <span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+                    <meta itemprop="latitude" content="52.0158507">
+                    <meta itemprop="longitude" content="5.1644809">
+                </span>
+            
+            <footer class="card__footer group">
+                <div class="card__price prose fl clean fancy">
+                    <p>€ 650.000,- k.k.</p>
+                </div>
+
+                <div class="card__type prose color-green fr median clean tiny">
+                    <a href="https://reineriehouten.nl/woningen/woonhuis/">Woonhuis</a>
+                </div>
+            </footer>
+
+            <ul class="card__details"><li class="card__detail">164 m<sup>2</sup> <span>Perceelopp.</span></li><li class="card__detail">134 m<sup>2</sup> <span>Woonopp.</span></li><li class="card__detail">4 <span>Slaapkamers</span></li></ul>        </div>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zonnehout 17]]></title>
         <id>https://reineriehouten.nl/woningen/koop/houten/zonnehout-17/</id>

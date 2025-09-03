@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-09-03T05:45:38.842Z</updated>
+    <updated>2025-09-03T17:49:48.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -85,7 +85,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/2f8c5db4-9cc1-4db1-b259-5fe1f6ae2e2c" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/2f8c5db4-9cc1-4db1-b259-5fe1f6ae2e2c&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/2f8c5db4-9cc1-4db1-b259-5fe1f6ae2e2c" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -133,13 +133,13 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-09-03T05:40:46.996Z</updated>
+        <updated>2025-09-03T17:39:39.512Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>245 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>250 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
