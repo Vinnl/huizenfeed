@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-09-07T05:51:00.156Z</updated>
+    <updated>2025-09-07T17:42:16.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -73,7 +73,10 @@
             5 kamers
           
           
-            € 575.000]]></title>
+            € 575.000
+
+            
+                              Open Huis]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/utrecht-hermannus-elconiusstraat-21/</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-hermannus-elconiusstraat-21/"/>
         <updated>2025-08-15T17:48:14.638Z</updated>
@@ -85,7 +88,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/46df14e9-2931-4a20-9962-618132c17cd5" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/46df14e9-2931-4a20-9962-618132c17cd5" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/46df14e9-2931-4a20-9962-618132c17cd5&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -123,6 +126,7 @@
             <h3 class="m-search-result__price"><span>€</span> 575.000</h3>
 
             <div class="m-search-result__status-wrap">
+                              <span class="m-search-result-status m-search-result-status--open-house">Open Huis</span>
               
                           </div>
 
@@ -195,7 +199,7 @@
         <title type="html"><![CDATA[3]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-09-07T05:45:23.863Z</updated>
+        <updated>2025-09-07T17:37:18.875Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
