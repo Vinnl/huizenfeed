@@ -2,7 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht?locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000</id>
     <title>Jan Wolters Makelaardij</title>
-    <updated>2025-09-08T05:49:01.665Z</updated>
+    <updated>2025-09-08T17:50:35.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hayweb.blob.core.windows.net/public/n5a64u/2-beta/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Van den Broekstraat 36
+                            3544MV
+                                                    Utrecht]]></title>
+        <id>https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12</id>
+        <link href="https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12"/>
+        <updated>2025-09-08T17:42:53.078Z</updated>
+        <content type="html"><![CDATA[<div class="object   ">
+            <div class="object_status_container">
+                        <span class="object_status new_forsale">
+                            Nieuw in verkoop
+                        </span>
+                                        <span class="object_energyclass object_energyclass-a">
+                            A
+                        </span>
+            </div>
+            <a class="img-container" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
+                <div class="datashort">
+                    <span class="street">Van den Broekstraat 36</span>
+                        <span class="location">Utrecht</span>
+                                                    <span class="obj_price">
+                                    € 625.000,- k.k.
+                                </span>
+                                <span class="obj_price pricesquaremeter">€ 5.434,78/m<sup>2</sup></span>
+                </div>
+
+                <div class="content">
+                    <img width="350" alt="Te koop: Van den Broekstraat 36, 3544MV Utrecht" class="img-responsive object_image_srcset img-fluid" loading="lazy" srcset="https://haywebattachments.blob.core.windows.net/public/2521/3792184/116729334/$m/239349060.jpg 600w,
+                            https://haywebattachments.blob.core.windows.net/public/2521/3792184/116729334/$s/239349060.jpg 300w" sizes="auto" src="https://haywebattachments.blob.core.windows.net/public/2521/3792184/116729334/$s/239349060.jpg">
+                </div>
+            </a>
+
+            <div class="data">
+                <div class="stats">
+                        <a class="item photos" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
+                            <i class="fal fa-image" aria-hidden="true"></i>31
+                        </a>
+                                            <a class="item videos" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
+                            <i class="fal fa-film" aria-hidden="true"></i>2
+                        </a>
+                                            <a class="item floorplans" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
+                            <i class="fal fa-map" aria-hidden="true"></i>4
+                        </a>
+                                            <a class="item extras" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
+                            <i class="fal fa-file-pdf" aria-hidden="true"></i>1
+                        </a>
+                                            <a class="item  make-favorite object-favorite " id="object-favorite-3792184" data-property-id="3792184" data-property-address="Te koop: Van den Broekstraat 36, 3544MV Utrecht" href="#" data-toggle="tooltip" data-trigger="hover" data-placement="top" title="" data-original-title="Als favoriet opslaan">
+                            <span class="favorite fav-icon">
+                                <i class="fal fa-heart" aria-hidden="true"></i>
+                            </span>
+                        </a>
+                                            <a class="item  object-follow " id="object-follow-3792184" data-property-id="3792184" data-property-address="Te koop: Van den Broekstraat 36, 3544MV Utrecht" href="#" data-toggle="tooltip" data-trigger="hover" data-placement="top" title="" data-original-title="Object volgen">
+                            <span class="follow fol-icon">
+                                <i class="fal fa-bell" aria-hidden="true"></i>
+                            </span>
+                        </a>
+                                    </div>
+                <h3 class="obj_address">
+                    <a href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
+                        <span class="street">Van den Broekstraat 36</span>
+                            <span class="zipcode">3544MV</span>
+                                                    <span class="locality">Utrecht</span>
+                    </a>
+                </h3>
+                <a class="saletitle" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
+                </a>
+                <a class="object_data_labels" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
+
+
+                        <span class="object_label object_type">
+
+                            <i class="fa fa-house-building" aria-hidden="true"></i>
+                            <span class="text">
+                                Eengezinswoning
+                            </span>
+                        </span>
+
+
+
+                        <span class="object_label object_rooms">
+                            <span class="number">5</span>
+                            <i class="fa fa-clone" aria-hidden="true"></i>
+                            <span class="text">kamers</span>
+                        </span>
+
+                        <span class="object_label object_bed_rooms">
+                            <span class="number">4</span>
+                            <i class="fa fa-bed" aria-hidden="true"></i>
+                            <span class="text">slaapkamers</span>
+                        </span>
+                    
+                        <span class="object_label object_sqfeet">
+                            <span class="number">115 m²</span>
+                            <span class="text">Woonopp.</span>
+                        </span>
+
+
+
+
+
+
+                        <span class="object_label object_plotsize">
+                            <span class="number">125 m²</span>
+                            <span class="text">Perceelopp.</span>
+                        </span>
+                                                            
+                                    </a>
+                    <a class="obj_price" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
+                                <span class="obj_price">
+                                    € 625.000,- k.k.
+                                </span>
+                                <span class="obj_price pricesquaremeter">€ 5.434,78/m<sup>2</sup></span>
+                    </a>
+            </div>
+    </div>]]></content>
+    </entry>
 </feed>

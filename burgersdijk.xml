@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-09-08T05:49:01.752Z</updated>
+    <updated>2025-09-08T17:50:35.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Boekelaan 109 
+                        3571 XB UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/boekelaan-109-utrecht-9252214</id>
+        <link href="https://burgersdijk.com/koopwoningen/boekelaan-109-utrecht-9252214"/>
+        <updated>2025-09-08T17:47:09.687Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-boekelaan-109-utrecht-242418996.17df2a046bea2ca9197c5a08b602108a.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-boekelaan-109-utrecht-242418996.17df2a046bea2ca9197c5a08b602108a.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-boekelaan-109-utrecht-242418996.3af143662b1fa6c7143696022bf3b09c.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-boekelaan-109-utrecht-242418996.3af143662b1fa6c7143696022bf3b09c.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Boekelaan 109 </span><br>
+                        <span class="postal-code">3571 XB</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 349.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 72 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.1043069</span>
+                            <span class="longitude">5.1329457</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pieter de Hooghstraat 21 
                         3583 RG UTRECHT]]></title>
@@ -43,50 +87,6 @@
                         <span class="geo">
                             <span class="latitude">52.0811607</span>
                             <span class="longitude">5.1417223</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keizerstraat 16 A
-                        3512 EB UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/keizerstraat-16-utrecht-9331486</id>
-        <link href="https://burgersdijk.com/koopwoningen/keizerstraat-16-utrecht-9331486"/>
-        <updated>2025-09-01T17:42:01.375Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-keizerstraat-16-utrecht-242434280.8246bd80f3bcc5d1df46572f37da7367.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-keizerstraat-16-utrecht-242434280.8246bd80f3bcc5d1df46572f37da7367.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-keizerstraat-16-utrecht-242434280.32a78ed3f1abf8a2f2609f9561ba4815.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-keizerstraat-16-utrecht-242434280.32a78ed3f1abf8a2f2609f9561ba4815.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Keizerstraat 16 A</span><br>
-                        <span class="postal-code">3512 EB</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 600.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 93 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0935012</span>
-                            <span class="longitude">5.1246269</span>
                         </span>
                     </span>
                 </span>
