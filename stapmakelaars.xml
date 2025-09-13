@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw</id>
     <title>Stap makelaars</title>
-    <updated>2025-09-12T17:49:25.729Z</updated>
+    <updated>2025-09-13T05:49:36.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stapmakelaars.nl/wp-content/uploads/2025/04/cropped-favicon-32x32.png</icon>
     <entry>
@@ -24,7 +24,7 @@
                                             
                                             
                                             
-                    <div class="flickity-viewport" style="height: 217.433px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+                    <div class="flickity-viewport" style="height: 217.433px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/raadwijk-3bs/" aria-label="Bekijk detail pagina van Raadwijk 3BS"></a>
                     <picture class="card__image flickity-lazyloaded">
 <source type="image/webp" data-lazy-srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676172-900x600.jpg.webp" srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676172-900x600.jpg.webp">
@@ -83,7 +83,7 @@
         <dl><dt>Soort object</dt><dd>Appartement</dd></dl>                <dl><dt>Soort appartement</dt><dd>Portiekflat</dd></dl>        <dl><dt>Bouwjaar</dt><dd>1938</dd></dl>        <dl><dt>Woonoppervlakte</dt><dd>91 m<sup>2</sup></dd></dl>        <dl><dt>Kamers</dt><dd>2</dd></dl>    </div>
 
     <div class="woningaanbodbtn ctabtn">
-        <a href="" data-rocket-lazy-bg-461cab15-bbbf-4dac-8b4e-b0c2830ad9bd="loaded">
+        <a href="" data-rocket-lazy-bg-d7144cc4-98e3-40c4-b2dc-3edb53544b81="loaded">
             Stap binnen
         </a>
     </div>]]></content>
