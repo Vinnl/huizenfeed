@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw</id>
     <title>Stap makelaars</title>
-    <updated>2025-09-15T19:32:57.048Z</updated>
+    <updated>2025-09-15T19:37:59.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stapmakelaars.nl/wp-content/uploads/2025/04/cropped-favicon-32x32.png</icon>
     <entry>
@@ -24,7 +24,7 @@
                                             
                                             
                                             
-                    <div class="flickity-viewport" style="height: 150px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+                    <div class="flickity-viewport" style="height: 217.433px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/raadwijk-3bs/" aria-label="Bekijk detail pagina van Raadwijk 3BS"></a>
                     <picture class="card__image flickity-lazyloaded">
 <source type="image/webp" data-lazy-srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676172-900x600.jpg.webp" srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676172-900x600.jpg.webp">
@@ -34,22 +34,22 @@
                 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/raadwijk-3bs/" aria-label="Bekijk detail pagina van Raadwijk 3BS"></a>
                     <picture class="card__image flickity-lazyloaded">
-<source type="image/webp" data-lazy-srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676180-900x600.jpg.webp">
-<img alt="Afbeelding voor Raadwijk 3BS" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676180-900x600.jpg" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676180-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS"/></noscript>
+<source type="image/webp" data-lazy-srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676180-900x600.jpg.webp" srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676180-900x600.jpg.webp">
+<img src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676180-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676180-900x600.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676180-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS"/></noscript>
 </picture>
 
                 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/raadwijk-3bs/" aria-label="Bekijk detail pagina van Raadwijk 3BS"></a>
                     <picture class="card__image flickity-lazyloaded">
-<source type="image/webp" data-lazy-srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676184-900x600.jpg.webp">
-<img alt="Afbeelding voor Raadwijk 3BS" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676184-900x600.jpg" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676184-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS"/></noscript>
+<source type="image/webp" data-lazy-srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676184-900x600.jpg.webp" srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676184-900x600.jpg.webp">
+<img src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676184-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676184-900x600.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676184-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS"/></noscript>
 </picture>
 
                 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/raadwijk-3bs/" aria-label="Bekijk detail pagina van Raadwijk 3BS"></a>
                     <picture class="card__image flickity-lazyloaded">
-<source type="image/webp" data-lazy-srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676188-900x600.jpg.webp">
-<img alt="Afbeelding voor Raadwijk 3BS" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676188-900x600.jpg" class="entered exited" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"><noscript><img src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676188-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS"/></noscript>
+<source type="image/webp" data-lazy-srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676188-900x600.jpg.webp" srcset="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676188-900x600.jpg.webp">
+<img src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676188-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676188-900x600.jpg" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676188-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS"/></noscript>
 </picture>
 
                 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
@@ -83,7 +83,7 @@
         <dl><dt>Soort object</dt><dd>Appartement</dd></dl>                <dl><dt>Soort appartement</dt><dd>Portiekflat</dd></dl>        <dl><dt>Bouwjaar</dt><dd>1938</dd></dl>        <dl><dt>Woonoppervlakte</dt><dd>91 m<sup>2</sup></dd></dl>        <dl><dt>Kamers</dt><dd>2</dd></dl>    </div>
 
     <div class="woningaanbodbtn ctabtn">
-        <a href="" data-rocket-lazy-bg-bbff65df-647d-446b-8032-a2da60dce826="loaded">
+        <a href="">
             Stap binnen
         </a>
     </div>]]></content>
