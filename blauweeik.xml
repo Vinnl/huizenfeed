@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.blauweeik.nl/wonen/zoeken/Utrecht/5km/0-600000/90-oppervlakte/koop/</id>
     <title>Blauwe Eik makelaardij</title>
-    <updated>2025-09-15T05:52:33.445Z</updated>
+    <updated>2025-09-15T17:52:43.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.blauweeik.nl/wp-content/uploads/cropped-blauwe-eik-1-78x78.png</icon>
     <entry>
@@ -29,33 +29,6 @@
                 </h4>
                                             <p>€ 527.500,- Kosten koper</p>
                             <a href="/wonen/object/m-de-klerkstraat-2-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
-                    </article>
-</section>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gerhardstraat 2                                 
-                                    3555 WK Utrecht]]></title>
-        <id>https://www.blauweeik.nl/wonen/object/gerhardstraat-2-utrecht/</id>
-        <link href="https://www.blauweeik.nl/wonen/object/gerhardstraat-2-utrecht/"/>
-        <updated>2025-09-02T17:44:56.527Z</updated>
-        <content type="html"><![CDATA[<section>
-    <figure>
-                <a href="/wonen/object/gerhardstraat-2-utrecht/">
-                                    
-                                    <picture>
-                                                <source data-srcset="/wp-content/uploads/sure/media/BL103892/BL103892-1828195-Gerhardstraat-2-Utrecht-243000762.jpg" media="(min-width: 100px)" type="image/jpg" srcset="/wp-content/uploads/sure/media/BL103892/BL103892-1828195-Gerhardstraat-2-Utrecht-243000762.jpg">
-                        <img loading="lazy" class=" ls-is-cached lazyloaded" data-src="/wp-content/uploads/sure/media/BL103892/BL103892-1828195-Gerhardstraat-2-Utrecht-243000762-150x150.jpg" alt="3555 wk" src="/wp-content/uploads/sure/media/BL103892/BL103892-1828195-Gerhardstraat-2-Utrecht-243000762-150x150.jpg">
-                    </picture>
-                
-            <span>Nieuw</span>                    </a>
-        </figure>
-    <article class="">
-        <h4><a href="/wonen/object/gerhardstraat-2-utrecht/">                                Gerhardstraat 2                 <!--				-->                <br>
-                                    <span>3555 WK Utrecht</span>
-                                            </a>
-                </h4>
-                                            <p>€ 589.000,- Kosten koper</p>
-                            <a href="/wonen/object/gerhardstraat-2-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
                     </article>
 </section>]]></content>
     </entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw</id>
     <title>Stap makelaars</title>
-    <updated>2025-09-15T05:52:33.541Z</updated>
+    <updated>2025-09-15T17:52:43.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stapmakelaars.nl/wp-content/uploads/2025/04/cropped-favicon-32x32.png</icon>
     <entry>
@@ -83,7 +83,7 @@
         <dl><dt>Soort object</dt><dd>Appartement</dd></dl>                <dl><dt>Soort appartement</dt><dd>Portiekflat</dd></dl>        <dl><dt>Bouwjaar</dt><dd>1938</dd></dl>        <dl><dt>Woonoppervlakte</dt><dd>91 m<sup>2</sup></dd></dl>        <dl><dt>Kamers</dt><dd>2</dd></dl>    </div>
 
     <div class="woningaanbodbtn ctabtn">
-        <a href="" data-rocket-lazy-bg-5949f214-378e-4c9d-9503-9cd798347685="loaded">
+        <a href="" data-rocket-lazy-bg-bbff65df-647d-446b-8032-a2da60dce826="loaded">
             Stap binnen
         </a>
     </div>]]></content>
