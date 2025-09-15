@@ -515,6 +515,7 @@ url = "Willems & Steinvoort Makelaars"
 entrySelector = "#entity-items article.card"
 titleSelector = ".card__title strong"
 linkSelector = "a"
+matchAllOf = ["€ 5", "Utrecht", "Te koop"]
 
 [aarendonk]
 title = "Aarendonk Makelaardij"
