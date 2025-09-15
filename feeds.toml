@@ -539,3 +539,10 @@ entrySelector = ".object"
 titleSelector = "span.title"
 linkSelector = "a.object_data_container"
 matchAllOf = ["€ 5", "Utrecht", "Nieuw in verkoop"]
+
+[funda]
+title = "Funda (laatste 3 dagen)"
+url = "https://www.funda.nl/zoeken/koop?selected_area=[%22utrecht%22]&price=%220-600000%22&publication_date=%223%22&availability=[%22available%22]&bedrooms=%223-%22&bathrooms=%221-%22&exterior_space_type=[%22garden%22]"
+entrySelector = "#PageListings #FilterPanel+div .border-b .flex:has(.relative)"
+titleSelector = "a > div:first-child"
+linkSelector = "a"
