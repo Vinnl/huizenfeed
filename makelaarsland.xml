@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-09-16T17:51:13.655Z</updated>
+    <updated>2025-09-17T05:46:25.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -23,7 +23,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/08c0a1ba-aaad-47b5-beb1-34724e6a867e" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/08c0a1ba-aaad-47b5-beb1-34724e6a867e" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/08c0a1ba-aaad-47b5-beb1-34724e6a867e&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -147,7 +147,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/3ada09fa-b6bd-4f5d-80c4-aeca039664fe" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/3ada09fa-b6bd-4f5d-80c4-aeca039664fe" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/3ada09fa-b6bd-4f5d-80c4-aeca039664fe&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -385,7 +385,7 @@
         <title type="html"><![CDATA[6]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-09-16T17:41:05.149Z</updated>
+        <updated>2025-09-17T05:42:02.082Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
