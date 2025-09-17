@@ -2,75 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-09-17T05:46:25.896Z</updated>
+    <updated>2025-09-17T17:44:36.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[Hoveniersstraat 3
-            Utrecht
-            4 kamers
-          
-          
-            € 690.000]]></title>
-        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-hoveniersstraat-3/</id>
-        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-hoveniersstraat-3/"/>
-        <updated>2025-08-22T17:41:09.452Z</updated>
-        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
-  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
-  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-hoveniersstraat-3/">
-    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/08c0a1ba-aaad-47b5-beb1-34724e6a867e" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/08c0a1ba-aaad-47b5-beb1-34724e6a867e&quot;); opacity: 1;" data-is-in-view="true"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/fd7a36a8-e206-4901-85ae-0a0b73cf4bef" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/7ae9b7fd-871b-412d-9fa4-5161d7d04cec" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/cc7c7ce5-d313-4965-be85-c1c2ce9f27a3" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/831a9c53-2acb-4b76-956e-933171890bfc" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
-
-      
-    </div>
-  </a>
-  <button class="m-search-result__button" data-next-slide="next"></button>
-</figure>
-
-        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-hoveniersstraat-3/" class="m-search-result__content-wrap">
-          <div class="m-search-result__content">
-            <h3 class="m-search-result__adress">Hoveniersstraat 3</h3>
-            <h3 class="m-search-result__city">Utrecht</h3>
-            <h4 class="m-search-result__amount-of-rooms">4 kamers</h4>
-          </div>
-          <div class="m-search-result__details">
-            <h3 class="m-search-result__price"><span>€</span> 690.000</h3>
-
-            <div class="m-search-result__status-wrap">
-              
-                          </div>
-
-          </div>
-        </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wattlaan 15 BS
             Utrecht
-            6 kamers
+            7 kamers
           
           
             € 469.000]]></title>
@@ -85,7 +23,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/361d16d0-c473-4d1d-b0b9-c30786f9dd35" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/361d16d0-c473-4d1d-b0b9-c30786f9dd35" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/361d16d0-c473-4d1d-b0b9-c30786f9dd35&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -117,7 +55,7 @@
           <div class="m-search-result__content">
             <h3 class="m-search-result__adress">Wattlaan 15 BS</h3>
             <h3 class="m-search-result__city">Utrecht</h3>
-            <h4 class="m-search-result__amount-of-rooms">6 kamers</h4>
+            <h4 class="m-search-result__amount-of-rooms">7 kamers</h4>
           </div>
           <div class="m-search-result__details">
             <h3 class="m-search-result__price"><span>€</span> 469.000</h3>
@@ -209,7 +147,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/5019586f-e74f-480f-9ddd-24b060457dcb" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
+        <div data-image-src="https://media.nvm.nl/512x/5019586f-e74f-480f-9ddd-24b060457dcb" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -382,16 +320,16 @@
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-09-17T05:42:02.082Z</updated>
+        <updated>2025-09-17T17:39:38.122Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>282 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>289 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
