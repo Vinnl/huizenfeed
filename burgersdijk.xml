@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-09-18T05:50:13.677Z</updated>
+    <updated>2025-09-18T17:55:21.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Bladstraat 15 BS
+                        3572 HT UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/bladstraat-15-utrecht-9370516</id>
+        <link href="https://burgersdijk.com/koopwoningen/bladstraat-15-utrecht-9370516"/>
+        <updated>2025-09-18T17:52:13.214Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.da664f246f18a1a43c14a8d30dce5d6a.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.da664f246f18a1a43c14a8d30dce5d6a.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.868aa363f0f3517492a43598d37cd544.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.868aa363f0f3517492a43598d37cd544.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Bladstraat 15 BS</span><br>
+                        <span class="postal-code">3572 HT</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 589.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 74 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0979227</span>
+                            <span class="longitude">5.1359489</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Croesestraat 45 
                         3522 AB UTRECHT]]></title>
