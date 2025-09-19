@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-09-18T17:55:21.765Z</updated>
+    <updated>2025-09-19T05:45:20.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -23,7 +23,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/361d16d0-c473-4d1d-b0b9-c30786f9dd35" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/361d16d0-c473-4d1d-b0b9-c30786f9dd35" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/361d16d0-c473-4d1d-b0b9-c30786f9dd35&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -85,7 +85,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/3ada09fa-b6bd-4f5d-80c4-aeca039664fe" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/3ada09fa-b6bd-4f5d-80c4-aeca039664fe" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/3ada09fa-b6bd-4f5d-80c4-aeca039664fe&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -147,7 +147,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/5019586f-e74f-480f-9ddd-24b060457dcb" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/5019586f-e74f-480f-9ddd-24b060457dcb" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/5019586f-e74f-480f-9ddd-24b060457dcb&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -323,7 +323,7 @@
         <title type="html"><![CDATA[5]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-09-18T17:42:30.699Z</updated>
+        <updated>2025-09-19T05:40:14.151Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
