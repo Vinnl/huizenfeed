@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://damenhooftmakelaars.nl/woningaanbod/koop/utrecht?availability=1&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000</id>
     <title>Dam en Hooft makelaars</title>
-    <updated>2025-09-19T05:45:20.406Z</updated>
+    <updated>2025-09-19T17:53:07.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hayweb.blob.core.windows.net/public/qhkmd3/2-beta/favicon-32x32.png</icon>
     <entry>
@@ -105,107 +105,6 @@
                                     € 375.000,- k.k.
                                 </span>
                                 <span class="obj_price pricesquaremeter">€ 5.859,38/m<sup>2</sup></span>
-                    </a>
-            </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Griftstraat 3BS]]></title>
-        <id>https://damenhooftmakelaars.nl/woningaanbod/koop/utrecht/griftstraat/3-bs?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000&amp;take=12</id>
-        <link href="https://damenhooftmakelaars.nl/woningaanbod/koop/utrecht/griftstraat/3-bs?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000&amp;take=12"/>
-        <updated>2025-07-16T18:01:16.872Z</updated>
-        <content type="html"><![CDATA[<div class="object   ">
-            <div class="object_status_container">
-                                        <span class="object_energyclass object_energyclass-c">
-                            C
-                        </span>
-            </div>
-            <a class="img-container" href="/woningaanbod/koop/utrecht/griftstraat/3-bs?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000&amp;take=12">
-                <div class="datashort">
-                    <span class="street">Griftstraat 3BS</span>
-                        <span class="location">Utrecht</span>
-                                                    <span class="obj_price">
-                                    € 595.000,- k.k.
-                                </span>
-                                <span class="obj_price pricesquaremeter">€ 6.197,92/m<sup>2</sup></span>
-                </div>
-
-                <div class="content">
-                    <img width="350" alt="Te koop: Griftstraat 3BS, 3572GM Utrecht" class="img-responsive object_image_srcset img-fluid" loading="lazy" srcset="https://haywebattachments.blob.core.windows.net/public/3244/3726219/114311939/$m/237932970.jpg 600w,
-                            https://haywebattachments.blob.core.windows.net/public/3244/3726219/114311939/$s/237932970.jpg 300w" sizes="auto" src="https://haywebattachments.blob.core.windows.net/public/3244/3726219/114311939/$s/237932970.jpg">
-                </div>
-            </a>
-
-            <div class="data">
-                <div class="stats">
-                        <a class="item photos" href="/woningaanbod/koop/utrecht/griftstraat/3-bs?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000&amp;take=12">
-                            <i class="fal fa-image" aria-hidden="true"></i>40
-                        </a>
-                                                                <a class="item floorplans" href="/woningaanbod/koop/utrecht/griftstraat/3-bs?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000&amp;take=12">
-                            <i class="fal fa-map" aria-hidden="true"></i>9
-                        </a>
-                                                                <a class="item  make-favorite object-favorite " id="object-favorite-3726219" data-property-id="3726219" data-property-address="Te koop: Griftstraat 3BS, 3572GM Utrecht" href="#" data-toggle="tooltip" data-trigger="hover" data-placement="top" title="" data-original-title="Als favoriet opslaan">
-                            <span class="favorite fav-icon">
-                                <i class="fal fa-heart" aria-hidden="true"></i>
-                            </span>
-                        </a>
-                                            <a class="item  object-follow " id="object-follow-3726219" data-property-id="3726219" data-property-address="Te koop: Griftstraat 3BS, 3572GM Utrecht" href="#" data-toggle="tooltip" data-trigger="hover" data-placement="top" title="" data-original-title="Object volgen">
-                            <span class="follow fol-icon">
-                                <i class="fal fa-bell" aria-hidden="true"></i>
-                            </span>
-                        </a>
-                                    </div>
-                <h3 class="obj_address">
-                    <a href="/woningaanbod/koop/utrecht/griftstraat/3-bs?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000&amp;take=12">
-                        <span class="street">Griftstraat 3BS</span>
-                            <span class="zipcode">3572GM</span>
-                                                    <span class="locality">Utrecht</span>
-                    </a>
-                </h3>
-                <a class="saletitle" href="/woningaanbod/koop/utrecht/griftstraat/3-bs?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000&amp;take=12">
-                </a>
-                <a class="object_data_labels" href="/woningaanbod/koop/utrecht/griftstraat/3-bs?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000&amp;take=12">
-
-
-                        <span class="object_label object_type">
-
-                            <i class="fa fa-house-building" aria-hidden="true"></i>
-                            <span class="text">
-                                Dubbelbovenhuis
-                            </span>
-                        </span>
-
-
-
-                        <span class="object_label object_rooms">
-                            <span class="number">7</span>
-                            <i class="fa fa-clone" aria-hidden="true"></i>
-                            <span class="text">kamers</span>
-                        </span>
-
-                        <span class="object_label object_bed_rooms">
-                            <span class="number">5</span>
-                            <i class="fa fa-bed" aria-hidden="true"></i>
-                            <span class="text">slaapkamers</span>
-                        </span>
-                    
-                        <span class="object_label object_sqfeet">
-                            <span class="number">96 m²</span>
-                            <span class="text">Woonopp.</span>
-                        </span>
-
-
-
-
-
-
-                                                            
-                                    </a>
-                    <a class="obj_price" href="/woningaanbod/koop/utrecht/griftstraat/3-bs?availability=1&amp;forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000&amp;take=12">
-                                <span class="obj_price">
-                                    € 595.000,- k.k.
-                                </span>
-                                <span class="obj_price pricesquaremeter">€ 6.197,92/m<sup>2</sup></span>
                     </a>
             </div>
     </div>]]></content>
