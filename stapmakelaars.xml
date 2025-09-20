@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw</id>
     <title>Stap makelaars</title>
-    <updated>2025-09-19T17:53:07.461Z</updated>
+    <updated>2025-09-20T05:54:31.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stapmakelaars.nl/wp-content/uploads/2025/04/cropped-favicon-32x32.png</icon>
     <entry>
@@ -24,7 +24,7 @@
                                             
                                             
                                             
-                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/raadwijk-3bs/" aria-label="Bekijk detail pagina van Raadwijk 3BS"></a>
                     <img width="900" height="600" class="card__image flickity-lazyloaded entered lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676172-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676172-900x600.jpg" data-ll-status="loaded"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.429.882/243676172-900x600.jpg" alt="Afbeelding voor Raadwijk 3BS"></noscript>
                 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
