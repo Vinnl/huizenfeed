@@ -2,9 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-09-23T05:52:50.850Z</updated>
+    <updated>2025-09-23T17:45:17.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Westravenstraat 7
+            Utrecht
+            4 kamers
+          
+          
+            € 579.000]]></title>
+        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-westravenstraat-7/</id>
+        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-westravenstraat-7/"/>
+        <updated>2025-09-19T17:43:31.579Z</updated>
+        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
+  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
+  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-westravenstraat-7/">
+    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/53134c1e-b656-4f14-9e89-e8a98059e931" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/dbd6123f-322b-450f-9e37-56d67b192407" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/00ce34a3-3d29-403e-a805-b98a6eb9fd0b" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/7b35bbf6-db11-43ad-8246-3b564e7f2ae9" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/04859c72-a113-45c1-97cf-cfec648127a1" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
+
+      
+    </div>
+  </a>
+  <button class="m-search-result__button" data-next-slide="next"></button>
+</figure>
+
+        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-westravenstraat-7/" class="m-search-result__content-wrap">
+          <div class="m-search-result__content">
+            <h3 class="m-search-result__adress">Westravenstraat 7</h3>
+            <h3 class="m-search-result__city">Utrecht</h3>
+            <h4 class="m-search-result__amount-of-rooms">4 kamers</h4>
+          </div>
+          <div class="m-search-result__details">
+            <h3 class="m-search-result__price"><span>€</span> 579.000</h3>
+
+            <div class="m-search-result__status-wrap">
+              
+                          </div>
+
+          </div>
+        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wattlaan 15 BS
             Utrecht
@@ -23,7 +85,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/361d16d0-c473-4d1d-b0b9-c30786f9dd35" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/361d16d0-c473-4d1d-b0b9-c30786f9dd35" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/361d16d0-c473-4d1d-b0b9-c30786f9dd35&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -85,7 +147,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/3ada09fa-b6bd-4f5d-80c4-aeca039664fe" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/3ada09fa-b6bd-4f5d-80c4-aeca039664fe&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/3ada09fa-b6bd-4f5d-80c4-aeca039664fe" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -147,7 +209,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/5019586f-e74f-480f-9ddd-24b060457dcb" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/5019586f-e74f-480f-9ddd-24b060457dcb" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
 
       
         
@@ -263,7 +325,10 @@
             4 kamers
           
           
-            € 600.000]]></title>
+            € 600.000
+
+            
+                              Open Huis]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/utrecht-amsterdamsestraatweg-535-bs/</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-amsterdamsestraatweg-535-bs/"/>
         <updated>2025-09-16T17:41:05.211Z</updated>
@@ -313,68 +378,7 @@
             <h3 class="m-search-result__price"><span>€</span> 600.000</h3>
 
             <div class="m-search-result__status-wrap">
-              
-                          </div>
-
-          </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Westravenstraat 7
-            Utrecht
-            4 kamers
-          
-          
-            € 579.000]]></title>
-        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-westravenstraat-7/</id>
-        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-westravenstraat-7/"/>
-        <updated>2025-09-19T17:43:31.579Z</updated>
-        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
-  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
-  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-westravenstraat-7/">
-    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/c12a339f-087e-4210-8662-3ed93b9fe101" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/37d0a6bb-e1f5-4eb7-b2eb-1655debaee97" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/bd569d5f-1ef5-40ac-bf73-097cac095cbd" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/5e39522b-0cee-4a57-8417-eb9fb06b64ed" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/1c10df57-bbdc-424e-9f93-27e69e981b46" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
-
-      
-    </div>
-  </a>
-  <button class="m-search-result__button" data-next-slide="next"></button>
-</figure>
-
-        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-westravenstraat-7/" class="m-search-result__content-wrap">
-          <div class="m-search-result__content">
-            <h3 class="m-search-result__adress">Westravenstraat 7</h3>
-            <h3 class="m-search-result__city">Utrecht</h3>
-            <h4 class="m-search-result__amount-of-rooms">4 kamers</h4>
-          </div>
-          <div class="m-search-result__details">
-            <h3 class="m-search-result__price"><span>€</span> 579.000</h3>
-
-            <div class="m-search-result__status-wrap">
+                              <span class="m-search-result-status m-search-result-status--open-house">Open Huis</span>
               
                           </div>
 
@@ -385,7 +389,7 @@
         <title type="html"><![CDATA[6]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-09-23T05:42:53.372Z</updated>
+        <updated>2025-09-23T17:39:52.443Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
