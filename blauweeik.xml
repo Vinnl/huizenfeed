@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.blauweeik.nl/wonen/zoeken/Utrecht/5km/0-600000/90-oppervlakte/koop/</id>
     <title>Blauwe Eik makelaardij</title>
-    <updated>2025-09-22T17:55:48.719Z</updated>
+    <updated>2025-09-23T05:52:50.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.blauweeik.nl/wp-content/uploads/cropped-blauwe-eik-1-78x78.png</icon>
     <entry>
@@ -56,6 +56,33 @@
                 </h4>
                                             <p>€ 539.000,- Kosten koper</p>
                             <a href="/wonen/object/croesestraat-75bs-utrecht-2/" class="button button--link"><span>Bekijk woning</span></a>
+                    </article>
+</section>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Makassarstraat 37                                 
+                                    3531 VK Utrecht]]></title>
+        <id>https://www.blauweeik.nl/wonen/object/makassarstraat-37-utrecht/</id>
+        <link href="https://www.blauweeik.nl/wonen/object/makassarstraat-37-utrecht/"/>
+        <updated>2025-09-23T05:42:34.052Z</updated>
+        <content type="html"><![CDATA[<section>
+    <figure>
+                <a href="/wonen/object/makassarstraat-37-utrecht/">
+                                    
+                                    <picture>
+                                                <source data-srcset="/wp-content/uploads/sure/media/BL104195/BL104195-1829093-Makassarstraat-37-Utrecht-245939716.jpg" media="(min-width: 100px)" type="image/jpg" srcset="/wp-content/uploads/sure/media/BL104195/BL104195-1829093-Makassarstraat-37-Utrecht-245939716.jpg">
+                        <img loading="lazy" class=" ls-is-cached lazyloaded" data-src="/wp-content/uploads/sure/media/BL104195/BL104195-1829093-Makassarstraat-37-Utrecht-245939716-150x150.jpg" alt="3531 vk" src="/wp-content/uploads/sure/media/BL104195/BL104195-1829093-Makassarstraat-37-Utrecht-245939716-150x150.jpg">
+                    </picture>
+                
+            <span>Nieuw</span>                    </a>
+        </figure>
+    <article class="">
+        <h4><a href="/wonen/object/makassarstraat-37-utrecht/">                                Makassarstraat 37                 <!--				-->                <br>
+                                    <span>3531 VK Utrecht</span>
+                                            </a>
+                </h4>
+                                            <p>€ 598.000,- Kosten koper</p>
+                            <a href="/wonen/object/makassarstraat-37-utrecht/" class="button button--link"><span>Bekijk woning</span></a>
                     </article>
 </section>]]></content>
     </entry>
