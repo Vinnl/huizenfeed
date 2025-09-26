@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-26T05:51:49.590Z</updated>
+    <updated>2025-09-26T17:49:35.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[TE KOOP! Bemuurde Weerd W.Z. 2 (MOIB makelaars)]]></title>
@@ -446,22 +446,240 @@
         <updated>2025-09-24T17:39:59.098Z</updated>
         <content type="html"><![CDATA[<a href="/woning/van-esveldstraat-265/" class="w-100 h-100">
 <span class="status">Beschikbaar</span><div class="img-wrapper">
-<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="card-img-top" data-src="/app/uploads/realworks/wonen/9.266.294/243270594-460x310.jpg" alt="Van Esveldstraat 265"></div><div class="card-body"><h3 class="card-title h5">Van Esveldstraat 265<br><small>3572 KM, Utrecht</small></h3><p class="card-text"></p><div class="row"><span class="col-6"><i class="fas fa-home"></i> 104 m<sup>2</sup></span><span class="col-6"><i class="fas fa-tools"></i> 2001</span><span class="col-6"><i class="fas fa-bed"></i> 2</span><span class="col-6"><i class="fas fa-bath"></i> 1</span></div><p></p></div><div class="card-footer d-flex mt-auto">
+<img class="card-img-top" src="/app/uploads/realworks/wonen/9.266.294/243270594-460x310.jpg" alt="Van Esveldstraat 265"></div><div class="card-body"><h3 class="card-title h5">Van Esveldstraat 265<br><small>3572 KM, Utrecht</small></h3><p class="card-text"></p><div class="row"><span class="col-6"><svg class="svg-inline--fa fa-home fa-w-18" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="home" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M280.37 148.26L96 300.11V464a16 16 0 0 0 16 16l112.06-.29a16 16 0 0 0 15.92-16V368a16 16 0 0 1 16-16h64a16 16 0 0 1 16 16v95.64a16 16 0 0 0 16 16.05L464 480a16 16 0 0 0 16-16V300L295.67 148.26a12.19 12.19 0 0 0-15.3 0zM571.6 251.47L488 182.56V44.05a12 12 0 0 0-12-12h-56a12 12 0 0 0-12 12v72.61L318.47 43a48 48 0 0 0-61 0L4.34 251.47a12 12 0 0 0-1.6 16.9l25.5 31A12 12 0 0 0 45.15 301l235.22-193.74a12.19 12.19 0 0 1 15.3 0L530.9 301a12 12 0 0 0 16.9-1.6l25.5-31a12 12 0 0 0-1.7-16.93z"></path></svg><!-- <i class="fas fa-home"></i> Font Awesome fontawesome.com --> 104 m<sup>2</sup></span><span class="col-6"><svg class="svg-inline--fa fa-tools fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="tools" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M501.1 395.7L384 278.6c-23.1-23.1-57.6-27.6-85.4-13.9L192 158.1V96L64 0 0 64l96 128h62.1l106.6 106.6c-13.6 27.8-9.2 62.3 13.9 85.4l117.1 117.1c14.6 14.6 38.2 14.6 52.7 0l52.7-52.7c14.5-14.6 14.5-38.2 0-52.7zM331.7 225c28.3 0 54.9 11 74.9 31l19.4 19.4c15.8-6.9 30.8-16.5 43.8-29.5 37.1-37.1 49.7-89.3 37.9-136.7-2.2-9-13.5-12.1-20.1-5.5l-74.4 74.4-67.9-11.3L334 98.9l74.4-74.4c6.6-6.6 3.4-17.9-5.7-20.2-47.4-11.7-99.6.9-136.6 37.9-28.5 28.5-41.9 66.1-41.2 103.6l82.1 82.1c8.1-1.9 16.5-2.9 24.7-2.9zm-103.9 82l-56.7-56.7L18.7 402.8c-25 25-25 65.5 0 90.5s65.5 25 90.5 0l123.6-123.6c-7.6-19.9-9.9-41.6-5-62.7zM64 472c-13.2 0-24-10.8-24-24 0-13.3 10.7-24 24-24s24 10.7 24 24c0 13.2-10.7 24-24 24z"></path></svg><!-- <i class="fas fa-tools"></i> Font Awesome fontawesome.com --> 2001</span><span class="col-6"><svg class="svg-inline--fa fa-bed fa-w-20" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bed" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" data-fa-i2svg=""><path fill="currentColor" d="M176 256c44.11 0 80-35.89 80-80s-35.89-80-80-80-80 35.89-80 80 35.89 80 80 80zm352-128H304c-8.84 0-16 7.16-16 16v144H64V80c0-8.84-7.16-16-16-16H16C7.16 64 0 71.16 0 80v352c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16v-48h512v48c0 8.84 7.16 16 16 16h32c8.84 0 16-7.16 16-16V240c0-61.86-50.14-112-112-112z"></path></svg><!-- <i class="fas fa-bed"></i> Font Awesome fontawesome.com --> 2</span><span class="col-6"><svg class="svg-inline--fa fa-bath fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="bath" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M32,384a95.4,95.4,0,0,0,32,71.09V496a16,16,0,0,0,16,16h32a16,16,0,0,0,16-16V480H384v16a16,16,0,0,0,16,16h32a16,16,0,0,0,16-16V455.09A95.4,95.4,0,0,0,480,384V336H32ZM496,256H80V69.25a21.26,21.26,0,0,1,36.28-15l19.27,19.26c-13.13,29.88-7.61,59.11,8.62,79.73l-.17.17A16,16,0,0,0,144,176l11.31,11.31a16,16,0,0,0,22.63,0L283.31,81.94a16,16,0,0,0,0-22.63L272,48a16,16,0,0,0-22.62,0l-.17.17c-20.62-16.23-49.83-21.75-79.73-8.62L150.22,20.28A69.25,69.25,0,0,0,32,69.25V256H16A16,16,0,0,0,0,272v16a16,16,0,0,0,16,16H496a16,16,0,0,0,16-16V272A16,16,0,0,0,496,256Z"></path></svg><!-- <i class="fas fa-bath"></i> Font Awesome fontawesome.com --> 1</span></div><p></p></div><div class="card-footer d-flex mt-auto">
 <span class="d-block mt-2"><strong>€ 500.000,- k.k.</strong></span>
 <span class="d-block mt-2"><dl><strong>Appartement</strong></dl></span></div>
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gerard ter Borchhage 110 (De Keizer makelaarsgroep)]]></title>
+        <title type="html"><![CDATA[Ploegveld 197 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-09-26T05:42:01.969Z</updated>
+        <updated>2025-09-26T17:39:40.532Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-3007759535baec6f" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-45367cdc82f39087" aria-live="polite">
+                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897644-1024x683.jpg" class="swiper-lazy">
+                            
+                        </div>
+                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 12" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897630-1024x683.jpg" class="swiper-lazy">
+                            
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897702-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897714-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897724-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897740-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 30" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897774-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897808-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 26" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897844-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="10 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897874-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="11 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897886-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="12 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 19" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897900-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="13 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897908-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="14 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 9" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897920-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="15 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 11" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897930-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="16 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 10" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897944-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="17 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 13" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897686-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="18 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 15" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897956-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="19 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 14" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898150-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="20 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 16" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898156-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="21 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 18" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898164-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="22 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 17" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898184-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="23 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 20" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898194-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="24 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 21" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898202-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="25 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 23" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898212-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="26 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 22" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898220-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="27 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 25" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898228-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="28 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 24" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898236-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="29 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 28" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898240-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="30 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 27" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898244-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="31 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 29" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897658-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="32 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 33" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897668-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="33 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 31" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898248-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="34 / 34">
+                            <img loading="lazy" alt="Ploegveld 197 – Foto 32" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898254-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                    </div>
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-45367cdc82f39087" aria-disabled="true">
+                    <span class="chevron secondary left"></span>
+                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-45367cdc82f39087" aria-disabled="false">
+                    <span class="chevron secondary right"></span>
+                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    </div>
+    
+    <div class="card-body">
+        <h2>Ploegveld 197</h2>
+        <h3>
+            3993 GK, 
+            HOUTEN        </h3>
+        <hr>
+        <h3>Beschikbaar</h3>
+                        <h3>€ 525.000 k.k.</h3>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zadelstede 226 (De Keizer makelaarsgroep)]]></title>
+        <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
+        <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
+        <updated>2025-09-26T17:39:40.534Z</updated>
+        <content type="html"><![CDATA[<span class="status">
+            Nieuw
+        </span>
+                <div class="slider-chevron">
+            <div class="swiper chevron swiper-initialized swiper-horizontal swiper-backface-hidden">
+                <div class="swiper-wrapper" id="swiper-wrapper-3252af9ffdac6102b" aria-live="polite">
+                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 5">
+                            <img loading="lazy" alt="Zadelstede 226 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.493.678/246621612-1024x959.jpg" class="swiper-lazy">
+                            
+                        </div>
+                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 5">
+                            <img loading="lazy" alt="Zadelstede 226 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.493.678/246623020-819x1024.jpg" class="swiper-lazy">
+                            
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 5">
+                            <img loading="lazy" alt="Zadelstede 226 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.493.678/246622618-1024x883.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 5">
+                            <img loading="lazy" alt="Zadelstede 226 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.493.678/246622630-1024x1024.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 5">
+                            <img loading="lazy" alt="Zadelstede 226 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.493.678/246988584-1024x724.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                    </div>
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-3252af9ffdac6102b" aria-disabled="true">
+                    <span class="chevron secondary left"></span>
+                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-3252af9ffdac6102b" aria-disabled="false">
+                    <span class="chevron secondary right"></span>
+                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
+            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                    </div>
+    
+    <div class="card-body">
+        <h2>Zadelstede 226</h2>
+        <h3>
+            3431 JZ, 
+            NIEUWEGEIN        </h3>
+        <hr>
+        <h3>Beschikbaar</h3>
+                        <h3>€ 449.500 v.o.n.</h3>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gerard ter Borchhage 110 (De Keizer makelaarsgroep)]]></title>
+        <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
+        <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
+        <updated>2025-09-26T17:39:40.535Z</updated>
+        <content type="html"><![CDATA[<span class="status">
+            Nieuw
+        </span>
+                <div class="slider-chevron">
+            <div class="swiper chevron swiper-initialized swiper-horizontal">
+                <div class="swiper-wrapper" id="swiper-wrapper-d10f3632764c1ffff" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 46">
                             <img loading="lazy" alt="Gerard ter Borchhage 110 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551072-1024x683.jpg" class="swiper-lazy">
                             
@@ -647,10 +865,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-3007759535baec6f" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-d10f3632764c1ffff" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-3007759535baec6f" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-d10f3632764c1ffff" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -671,13 +889,13 @@
         <title type="html"><![CDATA[Robijndrift 36 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-09-26T05:42:01.971Z</updated>
+        <updated>2025-09-26T17:39:40.536Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-4b97f910900147056" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-db3567378d3210212" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 35">
                             <img loading="lazy" alt="Robijndrift 36 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831802-1024x683.jpg" class="swiper-lazy">
                             
@@ -819,10 +1037,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-4b97f910900147056" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-db3567378d3210212" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-4b97f910900147056" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-db3567378d3210212" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -839,279 +1057,16 @@
             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Schonauwenseweg 11 (De Keizer makelaarsgroep)]]></title>
-        <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
-        <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-09-26T05:42:01.973Z</updated>
-        <content type="html"><![CDATA[<span class="status">
-            Nieuw
-        </span>
-                <div class="slider-chevron">
-            <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-1094103ba25594990" aria-live="polite">
-                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333818-1024x684.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334402-1024x683.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333822-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333826-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333828-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333834-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333840-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333844-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333848-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="10 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 11" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333852-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="11 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 9" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333856-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="12 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 10" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333860-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="13 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 12" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333866-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="14 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 13" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333870-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="15 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 15" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333872-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="16 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 16" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333876-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="17 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 17" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333880-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="18 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 14" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333886-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="19 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 19" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333888-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="20 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 18" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333898-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="21 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 22" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334170-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="22 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 20" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334198-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="23 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 21" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334224-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="24 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 23" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334234-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="25 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 24" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334244-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="26 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 26" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334252-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="27 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 28" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334264-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="28 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 25" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334276-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="29 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 27" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334284-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="30 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 29" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334292-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="31 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 31" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334302-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="32 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 30" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334310-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="33 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 32" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334320-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="34 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 34" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334326-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="35 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 33" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334332-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="36 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 37" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334340-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="37 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 35" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334344-684x1024.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="38 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 36" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334348-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="39 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 38" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334354-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="40 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 40" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334360-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="41 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 41" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334364-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="42 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 39" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334372-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="43 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 42" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334376-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="44 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 43" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334380-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="45 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 46" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334384-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="46 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 44" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334388-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="47 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 45" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334392-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="48 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 47" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246333800-1024x684.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="49 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 50" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334396-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="50 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 48" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334408-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="51 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 51" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334414-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="52 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 52" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334418-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="53 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 49" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334422-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="54 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 54" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334426-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="55 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 55" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334430-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="56 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 57" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334452-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="57 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 53" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334478-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="58 / 58">
-                            <img loading="lazy" alt="Schonauwenseweg 11 – Foto 56" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.391.264/246334504-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                    </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-1094103ba25594990" aria-disabled="true">
-                    <span class="chevron secondary left"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-1094103ba25594990" aria-disabled="false">
-                    <span class="chevron secondary right"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                    </div>
-    
-    <div class="card-body">
-        <h2>Schonauwenseweg 11</h2>
-        <h3>
-            3991 MC, 
-            HOUTEN        </h3>
-        <hr>
-        <h3>Beschikbaar</h3>
-                        <h3>€ 1.600.000 k.k.</h3>
-            </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Droomweide bouwnr. 76 ong (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-09-26T05:42:01.976Z</updated>
+        <updated>2025-09-26T17:39:40.539Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal swiper-backface-hidden">
-                <div class="swiper-wrapper" id="swiper-wrapper-9bc22710f1e5f28c9" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-fcddcb04a103105ba6" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 6">
                             <img loading="lazy" alt="Droomweide bouwnr. 76 ong – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.492.332/246568780-1024x660.jpg" class="swiper-lazy">
                             
@@ -1137,10 +1092,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-9bc22710f1e5f28c9" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-fcddcb04a103105ba6" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-9bc22710f1e5f28c9" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-fcddcb04a103105ba6" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -1160,13 +1115,13 @@
         <title type="html"><![CDATA[Hoorncamp 18 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-09-26T05:42:01.978Z</updated>
+        <updated>2025-09-26T17:39:40.541Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-136ec10f1766d7cfe" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-119af2dd98143610f" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 36">
                             <img loading="lazy" alt="Hoorncamp 18 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.413.654/246515660-1024x683.jpg" class="swiper-lazy">
                             
@@ -1312,10 +1267,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-136ec10f1766d7cfe" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-119af2dd98143610f" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-136ec10f1766d7cfe" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-119af2dd98143610f" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -1335,13 +1290,13 @@
         <title type="html"><![CDATA[Koekoekstraat 60 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-09-26T05:42:01.979Z</updated>
+        <updated>2025-09-26T17:39:40.542Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-c1371294b8bd310ba" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-597281186410b975f" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 25">
                             <img loading="lazy" alt="Koekoekstraat 60 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.409.774/245841808-1024x684.jpg" class="swiper-lazy">
                             
@@ -1443,10 +1398,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-c1371294b8bd310ba" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-597281186410b975f" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-c1371294b8bd310ba" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-597281186410b975f" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -1461,113 +1416,6 @@
         <h3>Beschikbaar</h3>
                         <h3>€ 549.000 k.k.</h3>
             </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bosboomstraat 22BS (De Keizer makelaarsgroep)]]></title>
-        <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
-        <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-09-26T05:42:01.980Z</updated>
-        <content type="html"><![CDATA[<span class="status">
-            Nieuw
-        </span>
-                <div class="slider-chevron">
-            <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-fa9caba8fc649b1a" aria-live="polite">
-                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930514-1024x682.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930504-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930528-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930548-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930556-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930534-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930542-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930582-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930588-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="10 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 9" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930562-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="11 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 10" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930568-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="12 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 11" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930574-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="13 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 12" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930576-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="14 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 13" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930522-1024x682.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="15 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 15" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930940-724x1024.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="16 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 17" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930946-724x1024.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="17 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 16" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245931136-1024x724.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="18 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 14" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245930952-724x1024.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="19 / 19">
-                            <img loading="lazy" alt="Bosboomstraat 22BS – Foto 18" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.478.934/245931158-1024x724.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                    </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-fa9caba8fc649b1a" aria-disabled="true">
-                    <span class="chevron secondary left"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-fa9caba8fc649b1a" aria-disabled="false">
-                    <span class="chevron secondary right"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                    </div>
-    
-    <div class="card-body">
-        <h2>Bosboomstraat 22BS</h2>
-        <h3>
-            3582 KH, 
-            UTRECHT        </h3>
-        <hr>
-        <h3>Beschikbaar</h3>
-                                                                <h3>€ 1.795,- p/m</h3>
-                                            </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Marnixlaan 268
@@ -1623,7 +1471,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/1661fd41-4c5c-465e-98c5-0842b07a6914" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/1661fd41-4c5c-465e-98c5-0842b07a6914&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/1661fd41-4c5c-465e-98c5-0842b07a6914" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
 
       
         
@@ -2051,13 +1899,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-09-26T05:42:12.204Z</updated>
+        <updated>2025-09-26T17:39:51.106Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>317 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>318 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -2069,29 +1917,29 @@
         <id>https://coverswonen.nl/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293</id>
         <link href="https://coverswonen.nl/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293"/>
         <updated>2025-09-21T05:51:21.735Z</updated>
-        <content type="html"><![CDATA[<div class="img-wr wow fadeInUp animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+        <content type="html"><![CDATA[<div class="img-wr wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
 													<div class="slider-simple slick-initialized slick-slider"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
 																												<div aria-live="polite" class="slick-list draggable" style="height: 306px;"><div class="slick-track" style="opacity: 1; width: 2754px; left: -459px;" role="listbox"><div class="slide-item-same-height slick-slide slick-cloned compat-object-fit" data-slick-index="-1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368756.jpg&quot;);" tabindex="-1">
 															<a href="/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293" tabindex="-1">
 																<img src="/imgs/2293-244368756.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368714.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide10">
+														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368714.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide30">
 															<a href="/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293" tabindex="0">
 																<img src="/imgs/2293-244368714.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368730.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide11">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368730.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide31">
 															<a href="/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293" tabindex="-1">
 																<img src="/imgs/2293-244368730.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368742.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide12">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368742.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide32">
 															<a href="/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293" tabindex="-1">
 																<img src="/imgs/2293-244368742.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368756.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide13">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368756.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide33">
 															<a href="/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293" tabindex="-1">
 																<img src="/imgs/2293-244368756.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
@@ -2107,7 +1955,7 @@
 																												
 																											<button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</button></div>
 												</div>
-												<div class="text-wr wow fadeInUp animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+												<div class="text-wr wow fadeInUp" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
 													<div class="parallax-wr">
 														<div class="parallax-item" style="">
 															<h6 class="bordered-bottom">Te koop</h6>
@@ -2129,22 +1977,22 @@
 																<img src="/imgs/2207-220230083.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-227487036.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide50">
+														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-227487036.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide70">
 															<a href="/aanbod/koop/gruttersdijk-17-g-utrecht~2207" tabindex="0">
 																<img src="/imgs/2207-227487036.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-246220830.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide51">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-246220830.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide71">
 															<a href="/aanbod/koop/gruttersdijk-17-g-utrecht~2207" tabindex="-1">
 																<img src="/imgs/2207-246220830.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-246220826.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide52">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-246220826.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide72">
 															<a href="/aanbod/koop/gruttersdijk-17-g-utrecht~2207" tabindex="-1">
 																<img src="/imgs/2207-246220826.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-220230083.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide53">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-220230083.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide73">
 															<a href="/aanbod/koop/gruttersdijk-17-g-utrecht~2207" tabindex="-1">
 																<img src="/imgs/2207-220230083.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
@@ -2167,59 +2015,6 @@
 															<h3><a href="/aanbod/koop/gruttersdijk-17-g-utrecht~2207">Gruttersdijk 17 G Utrecht</a></h3>
 															
 															<p>€ 595.000 k.k.</p><p>Woonoppervlakte: 74 m2</p><p><span class="room-service-item"><i class="fa fa-bed"></i><span>2</span></span><span class="room-service-item"><i class="fa fa-shower"></i><span>1</span></span></p><p class="thumbs-item-description">Prachtig penthouse met privé parkeerplaats, duurzaam en energie-neutraal 3-kamer appartement met dakterras in het hart van Utrecht!</p>														</div>
-													</div>
-												</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Van Egmondkade 96  Utrecht (Covers & Jonker Makelaars)]]></title>
-        <id>https://coverswonen.nl/aanbod/koop/van-egmondkade-96-utrecht~2121</id>
-        <link href="https://coverswonen.nl/aanbod/koop/van-egmondkade-96-utrecht~2121"/>
-        <updated>2025-09-26T05:42:16.425Z</updated>
-        <content type="html"><![CDATA[<div class="img-wr wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
-													<div class="slider-simple slick-initialized slick-slider"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
-																												<div aria-live="polite" class="slick-list draggable" style="height: 306px;"><div class="slick-track" style="opacity: 1; width: 2754px; left: -459px;" role="listbox"><div class="slide-item-same-height slick-slide slick-cloned compat-object-fit" data-slick-index="-1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550525.jpg&quot;);" tabindex="-1">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="-1">
-																<img src="/imgs/2121-202550525.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550697.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide70">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="0">
-																<img src="/imgs/2121-202550697.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550695.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide71">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="-1">
-																<img src="/imgs/2121-202550695.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550521.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide72">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="-1">
-																<img src="/imgs/2121-202550521.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550525.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide73">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="-1">
-																<img src="/imgs/2121-202550525.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div><div class="slide-item-same-height slick-slide slick-cloned compat-object-fit" data-slick-index="4" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550697.jpg&quot;);" tabindex="-1">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="-1">
-																<img src="/imgs/2121-202550697.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div></div></div>
-																												
-																												
-																												
-																											<button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</button></div>
-												</div>
-												<div class="text-wr wow fadeInUp" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
-													<div class="parallax-wr">
-														<div class="parallax-item" style="">
-															<h6 class="bordered-bottom">Te koop</h6>
-															<h3><a href="/aanbod/koop/van-egmondkade-96-utrecht~2121">Van Egmondkade 96  Utrecht</a></h3>
-															
-															<p>€ 599.000 k.k.</p><p>Woonoppervlakte: 140 m2</p><p><span class="room-service-item"><i class="fa fa-bed"></i><span>4</span></span><span class="room-service-item"><i class="fa fa-shower"></i><span>2</span></span></p><p class="thumbs-item-description">DEZE AANBIEDING BETREFT 2 ADRESSEN: SWEDER VAN ZUYLENWEG 103 &amp; VAN EGMONDKADE 96</p>														</div>
 													</div>
 												</div>]]></content>
     </entry>
@@ -2464,122 +2259,6 @@
 	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Van den Broekstraat 36
-                            3544MV
-                                                    Utrecht (Jan Wolters Makelaardij)]]></title>
-        <id>https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12</id>
-        <link href="https://www.janwoltersmakelaardij.nl/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12"/>
-        <updated>2025-09-08T17:42:53.078Z</updated>
-        <content type="html"><![CDATA[<div class="object   ">
-            <div class="object_status_container">
-                        <span class="object_status new_forsale">
-                            Nieuw in verkoop
-                        </span>
-                                        <span class="object_energyclass object_energyclass-a">
-                            A
-                        </span>
-            </div>
-            <a class="img-container" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                <div class="datashort">
-                    <span class="street">Van den Broekstraat 36</span>
-                        <span class="location">Utrecht</span>
-                                                    <span class="obj_price">
-                                    € 625.000,- k.k.
-                                </span>
-                                <span class="obj_price pricesquaremeter">€ 5.434,78/m<sup>2</sup></span>
-                </div>
-
-                <div class="content">
-                    <img width="350" alt="Te koop: Van den Broekstraat 36, 3544MV Utrecht" class="img-responsive object_image_srcset img-fluid" loading="lazy" srcset="https://haywebattachments.blob.core.windows.net/public/2521/3792184/116729334/$m/239349060.jpg 600w,
-                            https://haywebattachments.blob.core.windows.net/public/2521/3792184/116729334/$s/239349060.jpg 300w" sizes="auto" src="https://haywebattachments.blob.core.windows.net/public/2521/3792184/116729334/$s/239349060.jpg">
-                </div>
-            </a>
-
-            <div class="data">
-                <div class="stats">
-                        <a class="item photos" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                            <i class="fal fa-image" aria-hidden="true"></i>31
-                        </a>
-                                            <a class="item videos" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                            <i class="fal fa-film" aria-hidden="true"></i>2
-                        </a>
-                                            <a class="item floorplans" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                            <i class="fal fa-map" aria-hidden="true"></i>4
-                        </a>
-                                            <a class="item extras" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                            <i class="fal fa-file-pdf" aria-hidden="true"></i>1
-                        </a>
-                                            <a class="item  make-favorite object-favorite " id="object-favorite-3792184" data-property-id="3792184" data-property-address="Te koop: Van den Broekstraat 36, 3544MV Utrecht" href="#" data-toggle="tooltip" data-trigger="hover" data-placement="top" title="" data-original-title="Als favoriet opslaan">
-                            <span class="favorite fav-icon">
-                                <i class="fal fa-heart" aria-hidden="true"></i>
-                            </span>
-                        </a>
-                                            <a class="item  object-follow " id="object-follow-3792184" data-property-id="3792184" data-property-address="Te koop: Van den Broekstraat 36, 3544MV Utrecht" href="#" data-toggle="tooltip" data-trigger="hover" data-placement="top" title="" data-original-title="Object volgen">
-                            <span class="follow fol-icon">
-                                <i class="fal fa-bell" aria-hidden="true"></i>
-                            </span>
-                        </a>
-                                    </div>
-                <h3 class="obj_address">
-                    <a href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                        <span class="street">Van den Broekstraat 36</span>
-                            <span class="zipcode">3544MV</span>
-                                                    <span class="locality">Utrecht</span>
-                    </a>
-                </h3>
-                <a class="saletitle" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                </a>
-                <a class="object_data_labels" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-
-
-                        <span class="object_label object_type">
-
-                            <i class="fa fa-house-building" aria-hidden="true"></i>
-                            <span class="text">
-                                Eengezinswoning
-                            </span>
-                        </span>
-
-
-
-                        <span class="object_label object_rooms">
-                            <span class="number">5</span>
-                            <i class="fa fa-clone" aria-hidden="true"></i>
-                            <span class="text">kamers</span>
-                        </span>
-
-                        <span class="object_label object_bed_rooms">
-                            <span class="number">4</span>
-                            <i class="fa fa-bed" aria-hidden="true"></i>
-                            <span class="text">slaapkamers</span>
-                        </span>
-                    
-                        <span class="object_label object_sqfeet">
-                            <span class="number">115 m²</span>
-                            <span class="text">Woonopp.</span>
-                        </span>
-
-
-
-
-
-
-                        <span class="object_label object_plotsize">
-                            <span class="number">125 m²</span>
-                            <span class="text">Perceelopp.</span>
-                        </span>
-                                                            
-                                    </a>
-                    <a class="obj_price" href="/woningaanbod/koop/utrecht/van-den-broekstraat/36?forsaleorrent=0&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minlivablearea=100&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=3&amp;pricerange.maxprice=700000&amp;take=12">
-                                <span class="obj_price">
-                                    € 625.000,- k.k.
-                                </span>
-                                <span class="obj_price pricesquaremeter">€ 5.434,78/m<sup>2</sup></span>
-                    </a>
-            </div>
-    </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Belgradostraat 110 (Beumer Utrecht)]]></title>
         <id>https://www.beumer.nl/wonen/object/belgradostraat-110-utrecht/</id>
         <link href="https://www.beumer.nl/wonen/object/belgradostraat-110-utrecht/"/>
@@ -2768,6 +2447,61 @@
 			</li>
 		</ul>
   </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rudolf Kattnigghof 9 (365makelaardij)]]></title>
+        <id>https://365makelaardij.nl/wonen/object/rudolf-kattnigghof-9-utrecht/</id>
+        <link href="https://365makelaardij.nl/wonen/object/rudolf-kattnigghof-9-utrecht/"/>
+        <updated>2025-09-26T17:46:09.922Z</updated>
+        <content type="html"><![CDATA[<a href="https://365makelaardij.nl/wonen/object/rudolf-kattnigghof-9-utrecht/" class="card-property" title="Rudolf Kattnigghof 9 ">
+    <div class="card-property__image">
+
+                
+<picture>
+                                                    
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101986/UT101986-31592-Rudolf-Kattnigghof-9-Utrecht-246869338-scaled.jpg" type="image/jpeg" media="(min-width: 1440px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101986/UT101986-31592-Rudolf-Kattnigghof-9-Utrecht-246869338-scaled.jpg">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101986/UT101986-31592-Rudolf-Kattnigghof-9-Utrecht-246869338-scaled.jpg" type="image/jpeg" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101986/UT101986-31592-Rudolf-Kattnigghof-9-Utrecht-246869338-scaled.jpg">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101986/UT101986-31592-Rudolf-Kattnigghof-9-Utrecht-246869338-scaled.jpg" type="image/jpeg" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads/sure/media/UT101986/UT101986-31592-Rudolf-Kattnigghof-9-Utrecht-246869338-scaled.jpg">
+            
+                                                <img fetchpriority="high" data-src="https://365makelaardij.nl/app/uploads/sure/media/UT101986/UT101986-31592-Rudolf-Kattnigghof-9-Utrecht-246869338-150x150.webp" alt="UT101986-31592-Rudolf-Kattnigghof-9,-Utrecht-246869338" class=" ls-is-cached lazyloaded" loading="lazy" src="https://365makelaardij.nl/app/uploads/sure/media/UT101986/UT101986-31592-Rudolf-Kattnigghof-9-Utrecht-246869338-150x150.webp">
+                                        </picture>
+    </div>
+
+            <div class="card-property__label">
+            <span>Beschikbaar</span>
+        </div>
+    
+    <div class="card-property__content">
+        <div class="row align-items-end">
+            <div class="col-md-6">
+                <h4>Rudolf Kattnigghof 9 </h4>
+                                    <ul class="card-property__list">
+                                                    <li class="card-property__list-item">
+                                            € 965.000 k.k.
+                                </li>
+                                                                            <li class="card-property__list-item">
+                                Utrecht
+                            </li>
+                                            </ul>
+                            </div>
+
+                            <div class="col-md-6 mt-15 mt-md-0 d-flex justify-content-md-end">
+                    <ul class="card-property__list justify-content-md-end">
+                                                    <li class="card-property__list-item">
+                                <i class="icon-surface"></i>188m²
+                            </li>
+                                                                            <li class="card-property__list-item">
+                                <i class="icon-door"></i>6
+                            </li>
+                                            </ul>
+                </div>
+                    </div>
+    </div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hoogstraat 76 (Ludenhoff Groep)]]></title>
@@ -3392,7 +3126,7 @@
         <content type="html"><![CDATA[<div class="item">
 		<p class="status-indicator"><span class="Beschikbaar">Beschikbaar</span></p>
 		<a href="https://domvast.nl/woning/utrecht-koppestokstraat-84/" class="thumbnail">
-           <img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.418.026/243214066-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy" alt="" decoding="async">		</a>
+           <img width="300" height="200" src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.418.026/243214066-300x200.jpg" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.418.026/243214066-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy entered loaded" alt="" decoding="async" data-ll-status="loaded">		</a>
 		<div class="item-content">
 			<header>
 				<h2>UTRECHT</h2>
@@ -3429,34 +3163,56 @@
 	</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Liesbosweg 71BSA (Domvast)]]></title>
+        <id>https://domvast.nl/woning/utrecht-liesbosweg-71bsa/</id>
+        <link href="https://domvast.nl/woning/utrecht-liesbosweg-71bsa/"/>
+        <updated>2025-09-26T17:48:16.444Z</updated>
+        <content type="html"><![CDATA[<div class="item">
+		<p class="status-indicator"><span class="Beschikbaar">Beschikbaar</span></p>
+		<a href="https://domvast.nl/woning/utrecht-liesbosweg-71bsa/" class="thumbnail">
+           <img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy" alt="" decoding="async" data-srcset="https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-300x200.jpg 300w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-1024x683.jpg 1024w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-768x512.jpg 768w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-1536x1025.jpg 1536w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-2048x1366.jpg 2048w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-610x407.jpg 610w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-1080x720.jpg 1080w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-1280x854.jpg 1280w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-980x654.jpg 980w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.432.894/246810496-480x320.jpg 480w" data-sizes="(max-width: 300px) 100vw, 300px">		</a>
+		<div class="item-content">
+			<header>
+				<h2>UTRECHT</h2>
+				<h2>Liesbosweg 71BSA</h2>
+			</header>
+			<div class="entry-content">
+							
+
+				<dl><dt>Koopprijs</dt><dd>€ 549.500,- k.k.</dd><dt>Woonopp.</dt><dd>101 m<sup>2</sup></dd><dt>Aantal slaapkamers</dt><dd>3</dd></dl>			</div>
+		</div>
+		<a href="https://domvast.nl/woning/utrecht-liesbosweg-71bsa/" class="overlay" rel="bookmark"></a>
+	</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Antonius Matthaeuslaan 94  Utrecht (Covers wonen)]]></title>
         <id>https://coverswonen.nl/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293</id>
         <link href="https://coverswonen.nl/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293"/>
         <updated>2025-09-21T05:51:21.735Z</updated>
         <content type="html"><![CDATA[<div class="thumbs-item thumbs-item-vertical">
-												<div class="img-wr wow fadeInUp animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+												<div class="img-wr wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
 													<div class="slider-simple slick-initialized slick-slider"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
 																												<div aria-live="polite" class="slick-list draggable" style="height: 306px;"><div class="slick-track" style="opacity: 1; width: 2754px; left: -459px;" role="listbox"><div class="slide-item-same-height slick-slide slick-cloned compat-object-fit" data-slick-index="-1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368756.jpg&quot;);" tabindex="-1">
 															<a href="/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293" tabindex="-1">
 																<img src="/imgs/2293-244368756.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368714.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide10">
+														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368714.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide30">
 															<a href="/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293" tabindex="0">
 																<img src="/imgs/2293-244368714.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368730.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide11">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368730.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide31">
 															<a href="/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293" tabindex="-1">
 																<img src="/imgs/2293-244368730.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368742.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide12">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368742.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide32">
 															<a href="/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293" tabindex="-1">
 																<img src="/imgs/2293-244368742.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368756.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide13">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2293-244368756.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide33">
 															<a href="/aanbod/koop/antonius-matthaeuslaan-94-utrecht~2293" tabindex="-1">
 																<img src="/imgs/2293-244368756.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
@@ -3472,7 +3228,7 @@
 																												
 																											<button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</button></div>
 												</div>
-												<div class="text-wr wow fadeInUp animated" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+												<div class="text-wr wow fadeInUp" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
 													<div class="parallax-wr">
 														<div class="parallax-item" style="">
 															<h6 class="bordered-bottom">Te koop</h6>
@@ -3496,22 +3252,22 @@
 																<img src="/imgs/2207-220230083.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-227487036.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide50">
+														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-227487036.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide70">
 															<a href="/aanbod/koop/gruttersdijk-17-g-utrecht~2207" tabindex="0">
 																<img src="/imgs/2207-227487036.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-246220830.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide51">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-246220830.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide71">
 															<a href="/aanbod/koop/gruttersdijk-17-g-utrecht~2207" tabindex="-1">
 																<img src="/imgs/2207-246220830.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-246220826.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide52">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-246220826.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide72">
 															<a href="/aanbod/koop/gruttersdijk-17-g-utrecht~2207" tabindex="-1">
 																<img src="/imgs/2207-246220826.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
 															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-220230083.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide53">
+														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2207-220230083.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide73">
 															<a href="/aanbod/koop/gruttersdijk-17-g-utrecht~2207" tabindex="-1">
 																<img src="/imgs/2207-220230083.jpg" alt="" class="same-height-image">
 																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
@@ -3534,61 +3290,6 @@
 															<h3><a href="/aanbod/koop/gruttersdijk-17-g-utrecht~2207">Gruttersdijk 17 G Utrecht</a></h3>
 															
 															<p>€ 595.000 k.k.</p><p>Woonoppervlakte: 74 m2</p><p><span class="room-service-item"><i class="fa fa-bed"></i><span>2</span></span><span class="room-service-item"><i class="fa fa-shower"></i><span>1</span></span></p><p class="thumbs-item-description">Prachtig penthouse met privé parkeerplaats, duurzaam en energie-neutraal 3-kamer appartement met dakterras in het hart van Utrecht!</p>														</div>
-													</div>
-												</div>
-											</div><!-- END of .thumbs-item -->]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Van Egmondkade 96  Utrecht (Covers wonen)]]></title>
-        <id>https://coverswonen.nl/aanbod/koop/van-egmondkade-96-utrecht~2121</id>
-        <link href="https://coverswonen.nl/aanbod/koop/van-egmondkade-96-utrecht~2121"/>
-        <updated>2025-09-26T05:50:49.369Z</updated>
-        <content type="html"><![CDATA[<div class="thumbs-item thumbs-item-vertical">
-												<div class="img-wr wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
-													<div class="slider-simple slick-initialized slick-slider"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
-																												<div aria-live="polite" class="slick-list draggable" style="height: 306px;"><div class="slick-track" style="opacity: 1; width: 2754px; left: -459px;" role="listbox"><div class="slide-item-same-height slick-slide slick-cloned compat-object-fit" data-slick-index="-1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550525.jpg&quot;);" tabindex="-1">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="-1">
-																<img src="/imgs/2121-202550525.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div><div class="slide-item-same-height slick-slide slick-current slick-active compat-object-fit" data-slick-index="0" aria-hidden="false" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550697.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide70">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="0">
-																<img src="/imgs/2121-202550697.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="1" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550695.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide71">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="-1">
-																<img src="/imgs/2121-202550695.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="2" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550521.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide72">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="-1">
-																<img src="/imgs/2121-202550521.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div><div class="slide-item-same-height slick-slide compat-object-fit" data-slick-index="3" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550525.jpg&quot;);" tabindex="-1" role="option" aria-describedby="slick-slide73">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="-1">
-																<img src="/imgs/2121-202550525.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div><div class="slide-item-same-height slick-slide slick-cloned compat-object-fit" data-slick-index="4" aria-hidden="true" style="width: 459px; background-image: url(&quot;https://coverswonen.nl/imgs/2121-202550697.jpg&quot;);" tabindex="-1">
-															<a href="/aanbod/koop/van-egmondkade-96-utrecht~2121" tabindex="-1">
-																<img src="/imgs/2121-202550697.jpg" alt="" class="same-height-image">
-																<div class="img-overlay" style="background-color:rgba(0,0,0,.0);"></div>
-															</a>
-														</div></div></div>
-																												
-																												
-																												
-																											<button type="button" data-role="none" class="slick-next slick-arrow" aria-label="Next" role="button" style="display: block;">Next</button></div>
-												</div>
-												<div class="text-wr wow fadeInUp" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
-													<div class="parallax-wr">
-														<div class="parallax-item" style="">
-															<h6 class="bordered-bottom">Te koop</h6>
-															<h3><a href="/aanbod/koop/van-egmondkade-96-utrecht~2121">Van Egmondkade 96  Utrecht</a></h3>
-															
-															<p>€ 599.000 k.k.</p><p>Woonoppervlakte: 140 m2</p><p><span class="room-service-item"><i class="fa fa-bed"></i><span>4</span></span><span class="room-service-item"><i class="fa fa-shower"></i><span>2</span></span></p><p class="thumbs-item-description">DEZE AANBIEDING BETREFT 2 ADRESSEN: SWEDER VAN ZUYLENWEG 103 &amp; VAN EGMONDKADE 96</p>														</div>
 													</div>
 												</div>
 											</div><!-- END of .thumbs-item -->]]></content>
@@ -3665,6 +3366,32 @@
         <div class="grid-house-item__secondary-info">
             <div class="grid-house-item__size">104 m<sup>2</sup></div>
             <div class="grid-house-item__bedrooms">4 slaapkamers</div>
+
+        </div>
+	</div>
+
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jan Haringstraat 27 (Dina verkoopt)]]></title>
+        <id>https://www.dinaverkoopt.nl/woning-aanbod/jan-haringstraat-27/</id>
+        <link href="https://www.dinaverkoopt.nl/woning-aanbod/jan-haringstraat-27/"/>
+        <updated>2025-09-26T17:48:42.773Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.dinaverkoopt.nl/woning-aanbod/jan-haringstraat-27/" class="grid-house-item ">
+	<div class="grid-house-item__image">
+					<img width="300" height="200" src="https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-300x200.jpg 300w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-1024x683.jpg 1024w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-768x512.jpg 768w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-1536x1024.jpg 1536w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-2048x1365.jpg 2048w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-317x211.jpg 317w" sizes="auto, (max-width: 300px) 100vw, 300px" title="">		
+        <div class="grid-house-item__status status--beschikbaar">Beschikbaar</div>
+	</div>
+
+	<div class="grid-house-item__content">
+        <div class="grid-house-item__primary-info">
+            <div class="grid-house-item__city">Utrecht</div>
+            <h4 class="grid-house-item__title">Jan Haringstraat 27</h4>
+            <div class="grid-house-item__price">€ 550.000 k.k.</div>
+        </div>
+        <div class="grid-house-item__secondary-info">
+            <div class="grid-house-item__size">91 m<sup>2</sup></div>
+            <div class="grid-house-item__bedrooms">3 slaapkamers</div>
 
         </div>
 	</div>
@@ -4851,327 +4578,81 @@
 								</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Markstraat
-				
-						
-												
-								
-																			
-										9 (Quist makelaardij)]]></title>
-        <id>https://www.quistmakelaardij.nl/woningen/markstraat-9-utrecht-439182107fb182e1b402ba09aa14c943607b7/</id>
-        <link href="https://www.quistmakelaardij.nl/woningen/markstraat-9-utrecht-439182107fb182e1b402ba09aa14c943607b7/"/>
-        <updated>2025-09-17T17:43:56.208Z</updated>
-        <content type="html"><![CDATA[<div class="row">
-																	<div class="col-12">
-																											
-										
-										<div class="object-image position-relative mb-3">
-																					
-																							<a href="https://www.quistmakelaardij.nl/woningen/markstraat-9-utrecht-439182107fb182e1b402ba09aa14c943607b7/" class="position-relative text-decoration-none d-block">
-																																	<div class="object-image-img">
-													
-			
-			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/233485388.jpg?portalid=4286&amp;check=api_sha256%3a9476467050d7ca5d53b6a6d5dd21eef2cbce1fb191aec03210c20dfd5fba7282&amp;=20250916083200&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/233485388.jpg?portalid=4286&amp;check=api_sha256%3a9476467050d7ca5d53b6a6d5dd21eef2cbce1fb191aec03210c20dfd5fba7282&amp;=20250916083200&amp;width=1080&amp;height=720" data-ll-status="native">
-
-																												<div class="object-status object-status-new position-absolute py-2 px-3">
-											TOPlocatie					</div>
-																												</div>
-																																											</a>
-										
-																				</div>
-
-																												</div>
-																	<div class="col-12">
-																		<div class="object-info">
-									
-														
-					
-			<div class="object-address notranslate mb-3">
-
-					
-							
-						
-				<div class="object-address-line notranslate">
-			
-						
-				
-					
-										
-							<span class="object-street">Markstraat</span>
-				
-						
-												
-								
-																			
-										<span class="object-housenumber">9</span>
-							
-									
-									
-													
-							
-					
-							
-						
-				</div>
-			
-						
-						
-				
-									
-						<div class="object-address-line">
-				
-									
-										
-							<span class="object-zipcode">3582 KJ</span>
-				
-										
-										
-							<span class="object-place">Utrecht</span>
-				
-										
-										
-										
-										
-										
-									
-									
-						</div>
-				
-					
-							
-						
-							
-		
-			</div>
-
-				
-		
-																		<div class="object-price mb-3 object-price-status-beschikbaar">
-		
-									<div class="object-price-sale">
-			
-			
-				
-					<span class="object-price-kind-of">
+        <title type="html"><![CDATA[Merwedestraat 29 (WVO makelaarsgroep)]]></title>
+        <id>https://www.wvo.nl/nl/woningaanbod/woning/utrecht/merwedestraat-29/68d278de473bcffa39ca5bab</id>
+        <link href="https://www.wvo.nl/nl/woningaanbod/woning/utrecht/merwedestraat-29/68d278de473bcffa39ca5bab"/>
+        <updated>2025-09-26T17:49:04.312Z</updated>
+        <content type="html"><![CDATA[<div class="consumer-card-photo">
+						<img class="img-cover" src="https://media02.ogonline.nl/import/64f6d6cf5d24ef030a2afad7/objectconsumer/68d278de473bcffa39ca5bab/rw-api-sha/MjQ2MTE3MDQyLmpwZz9wb3J0YWxpZD03OTg5JmNoZWNrPWFwaV9zaGEyNTYlM0E4MzU0MGFhMTE1Zjg5YjUwMzNhY2NkYjJkYjZhOGI3MGIzMTkwNjg0ODg2MTMyMzZkNGMzNzUxOTMyNjJmZDFm/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo3MjAsImZpdCI6Imluc2lkZSIsInBvc2l0aW9uIjoiY2VudGVyIiwiZ3Jhdml0eSI6IiIsInN0cmF0ZWd5IjoiIiwia2VybmVsIjoiIn1d.jpg" alt="Merwedestraat 29, Utrecht">
 
 						
-							Vraagprijs
-						
-					</span>
-
-				
-			
-			
-				
-					<span class="object-price-value">
-
-						
-							€ 485.000
-						
-						
-					</span>
-
-				
-				
-					<span class="object-price-type">
-
-						
-							k.k.
-						
-					</span>
-
-				
-			
-							</div>
-			
-		
-		
-			
-			
-			
-				
-					<span class="object-price-value">
-
-						
-						
-					</span>
-
-				
-				
-					<span class="object-price-type">
-
-						
-					</span>
-
-				
-			
-			
-		
-			</div>
-	
-		
-																																								<div class="object-features mb-3">
-											
-																								
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-					
-				<div class="object-feature object-feature-woonoppervlakte ">
-				
-					<div class="row">
-				
-						<div class="col-5">
-				
-							<div class="object-feature-title text-truncate">
-				
-							Woonopp.				
-							</div>
-				
-						</div>
-				
-						<div class="col-7">
-				
-							<div class="object-feature-info text-truncate">
-				
-								67 m²				
-							</div>
-				
-						</div>
-				
 					</div>
-				
-				</div>
-				
-				
-	
-	
-	
-					
-				<div class="object-feature object-feature-totalekadestraleoppervlakte ">
-				
-					<div class="row">
-				
-						<div class="col-5">
-				
-							<div class="object-feature-title text-truncate">
-				
-							Perceelopp.				
+					<div class="consumer-card-details bg-primary">
+						
+						<p class="consumer-card-city mb-0">Utrecht</p>
+						<h3 class="consumer-card-address text-white">Merwedestraat 29</h3>
+						
+						<div class="consumer-card-icons">
+							
+							<div class="consumer-card-icon text-white">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="24" width="24"><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M18.5 19.5c0 0.2652 0.1054 0.5196 0.2929 0.7071s0.4419 0.2929 0.7071 0.2929h3c0.2652 0 0.5196 -0.1054 0.7071 -0.2929s0.2929 -0.4419 0.2929 -0.7071v-16l-5 7v9Z" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M23.5 3.5h-22c-0.26522 0 -0.51957 0.10536 -0.707107 0.29289C0.605357 3.98043 0.5 4.23478 0.5 4.5v5c0 0.26522 0.105357 0.5196 0.292893 0.7071 0.187537 0.1875 0.441887 0.2929 0.707107 0.2929h17" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M3.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M6.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M9.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M12.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M15.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M18.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M4.5 10.5v-2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M7.5 10.5v-2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M10.5 10.5v-2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M13.5 10.5v-2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5v-2" stroke-width="1"></path><path stroke="currentcolor" d="M2.75 7.25c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path><path stroke="currentcolor" d="M2.75 7.25c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path></svg>74m²
 							</div>
-				
-						</div>
-				
-						<div class="col-7">
-				
-							<div class="object-feature-info text-truncate">
-				
-								87 m²				
+							
+							
+							<div class="consumer-card-icon text-white">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="24" width="24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M18.5 0.75h-13c-0.26522 0 -0.51957 0.105357 -0.70711 0.29289C4.60536 1.23043 4.5 1.48478 4.5 1.75v21.5h15V1.75c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C19.0196 0.855357 18.7652 0.75 18.5 0.75Z" stroke-width="1"></path><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M22.5 23.25h-21" stroke-width="1"></path><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M8.25 12.375c0.20711 0 0.375 -0.1679 0.375 -0.375s-0.16789 -0.375 -0.375 -0.375" stroke-width="1"></path><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M8.25 12.375c-0.20711 0 -0.375 -0.1679 -0.375 -0.375s0.16789 -0.375 0.375 -0.375" stroke-width="1"></path></svg>3 kamers
 							</div>
-				
+							
+							
+							<div class="consumer-card-icon text-white">
+<svg aria-label="energylabel" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" version="1.1" height="24" width="24">
+	<path d="M22.088160000000002 2.539032C22.020048 2.5632960000000002 21.841848 2.65392 21.69216 2.7403920000000004C19.864752 3.79608 17.91108 4.392816 15.815328 4.535424C15.623567999999999 4.5484800000000005 15.002568 4.558896 14.435328 4.55856C13.239456 4.557888 12.663264 4.587359999999999 11.796 4.693608C9.902327999999999 4.925568 8.229000000000001 5.43756 6.806064 6.220416000000001C6.541872 6.365760000000001 5.89092 6.7975200000000005 5.720496000000001 6.940440000000001C5.652576 6.997392 5.463576 7.151208 5.300496000000001 7.282224C4.715712 7.752096000000001 4.049016 8.474496 3.6487680000000005 9.072000000000001C2.7493200000000004 10.414704 2.2800960000000003 11.949816 2.280024 13.550136000000002C2.279976 14.5362 2.445576 15.439032000000001 2.8008480000000002 16.389696C2.910216 16.682328 2.9113200000000004 16.68804 2.865024 16.725696C2.839128 16.746768000000003 2.2763999999999998 17.22624 1.6145280000000002 17.7912C0.307176 18.907128 0.312 18.902112 0.312 19.143792C0.312 19.309968 0.392088 19.455288 0.53808 19.554000000000002C0.63636 19.620456 0.674664 19.632 0.7970880000000001 19.632C0.876096 19.632 0.975312 19.615608 1.017552 19.595544C1.059792 19.575504 1.591296 19.135416 2.198664 18.617544C2.806032 18.099696 3.3197760000000005 17.662344 3.34032 17.645688C3.3726240000000005 17.61948 3.4086240000000005 17.661744 3.60588 17.957688C4.329216 19.042824 5.26224 19.910352 6.3772079999999995 20.534472C7.308479999999999 21.055775999999998 8.30868 21.37584 9.42 21.5082C9.807672 21.554376 10.793568 21.547584 11.28 21.495383999999998C13.420032 21.265752 15.251832000000002 20.570784 17.268 19.223616C20.932968 16.774704 23.11428 13.043496000000001 23.5914 8.407248000000001C23.751216 6.854256 23.70492 5.118432 23.46264 3.5800560000000003C23.418216 3.298032 23.38764 3.177504 23.331672 3.063816C23.234232 2.865888 23.067888 2.704464 22.850687999999998 2.5970880000000003C22.689648000000002 2.51748 22.652231999999998 2.508768 22.442688 2.502168C22.265448 2.496576 22.18332 2.50512 22.088160000000002 2.539032M22.130088 3.649536C20.437728 4.627872 18.518736 5.25804 16.548000000000002 5.482632000000001C16.012032 5.543736 15.305616 5.574336000000001 14.703384 5.562552C12.609576 5.521584 10.757784 5.76768 9.156 6.299832C8.077224 6.658200000000001 7.131648 7.130832 6.466704000000001 7.644C5.4858720000000005 8.400936 4.939223999999999 8.952864 4.47 9.66C3.654696 10.888632 3.2536320000000005 12.278640000000001 3.296232 13.728C3.316824 14.428656 3.395712 14.930040000000002 3.586872 15.575496000000001C3.7247999999999997 16.041192000000002 3.6792000000000002 16.0272 4.04412 15.715632C4.387296 15.422664 4.7898 15.116807999999999 5.340288 14.730696C7.59168 13.15164 10.141152 11.930496 12.773328 11.170463999999999C13.145616 11.062968 13.250904 11.041104 13.335192000000001 11.053728C13.479792 11.075424 13.643568 11.18556 13.702248 11.300568C13.813944000000001 11.51952 13.787448 11.72148 13.624872 11.8902C13.536287999999999 11.982096 13.49328 12.004104 13.272 12.07056C11.8962 12.483888 11.118744 12.762936 10.093128 13.21152C8.408856 13.948152 6.807312 14.878079999999999 5.34 15.971328C5.050416 16.187088 4.37316 16.745448 4.200264 16.910976C4.168728 16.941167999999998 4.17276 16.95996 4.234392 17.0706C4.478376 17.508623999999998 4.924848 18.080112 5.363592000000001 18.516000000000002C6.456528 19.601832 7.832784 20.275392 9.396 20.489544C9.792912000000001 20.543928 10.729392 20.542704 11.232000000000001 20.487168C13.129895999999999 20.277456 14.734128 19.674552000000002 16.556448 18.486072C18.212808 17.405856 19.634832000000003 15.963192000000001 20.607744 14.376C21.764712000000003 12.488520000000001 22.418568 10.384992 22.633128000000003 7.86C22.676784 7.346472 22.68924 6.18516 22.657536 5.5878C22.612008 4.730208 22.464216 3.503376 22.406568 3.504528C22.391952 3.504816 22.267536 3.5700719999999997 22.130088 3.649536" stroke="none" fill="currentcolor" fill-rule="evenodd"></path>
+</svg>
+<span class="energy-label" data-label="C">C</span>
+							</div>
+							
 						</div>
-				
+						
+<p class="consumer-card-price text-white">Vraagprijs € 550.000 k.k.</p>
+					</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van der Goesstraat 2 BS (WVO makelaarsgroep)]]></title>
+        <id>https://www.wvo.nl/nl/woningaanbod/woning/utrecht/van-der-goesstraat-2-bs/68b80bbd395b0a033134bbeb</id>
+        <link href="https://www.wvo.nl/nl/woningaanbod/woning/utrecht/van-der-goesstraat-2-bs/68b80bbd395b0a033134bbeb"/>
+        <updated>2025-09-26T17:49:04.316Z</updated>
+        <content type="html"><![CDATA[<div class="consumer-card-photo">
+						<img class="img-cover" src="https://media02.ogonline.nl/import/64f6d6cf5d24ef030a2afad7/objectconsumer/68b80bbd395b0a033134bbeb/rw-api-sha/MjM4NDM2MDk4LmpwZz9wb3J0YWxpZD03OTg5JmNoZWNrPWFwaV9zaGEyNTYlM0E4M2UwNDllNmRkNGQ4NzBhOGYzMWIzOGFkOGVmYWNkMGM2NmI2ZTEzZDFiYTk3MjExODYwYmFlYWI0OTdlZWU3/W3sibW9kaWZpZXIiOiJyZXNpemUiLCJ3aWR0aCI6MTI4MCwiaGVpZ2h0Ijo3MjAsImZpdCI6Imluc2lkZSIsInBvc2l0aW9uIjoiY2VudGVyIiwiZ3Jhdml0eSI6IiIsInN0cmF0ZWd5IjoiIiwia2VybmVsIjoiIn1d.jpg" alt="Van der Goesstraat 2 BS, Utrecht">
+
+						
 					</div>
-				
-				</div>
-				
-				
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-					
-				<div class="object-feature object-feature-aantalkamers ">
-				
-					<div class="row">
-				
-						<div class="col-5">
-				
-							<div class="object-feature-title text-truncate">
-				
-							Aantal kamers				
+					<div class="consumer-card-details bg-primary">
+						
+						<p class="consumer-card-city mb-0">Utrecht</p>
+						<h3 class="consumer-card-address text-white">Van der Goesstraat 2 BS</h3>
+						
+						<div class="consumer-card-icons">
+							
+							<div class="consumer-card-icon text-white">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="24" width="24"><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M18.5 19.5c0 0.2652 0.1054 0.5196 0.2929 0.7071s0.4419 0.2929 0.7071 0.2929h3c0.2652 0 0.5196 -0.1054 0.7071 -0.2929s0.2929 -0.4419 0.2929 -0.7071v-16l-5 7v9Z" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M23.5 3.5h-22c-0.26522 0 -0.51957 0.10536 -0.707107 0.29289C0.605357 3.98043 0.5 4.23478 0.5 4.5v5c0 0.26522 0.105357 0.5196 0.292893 0.7071 0.187537 0.1875 0.441887 0.2929 0.707107 0.2929h17" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M3.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M6.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M9.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M12.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M15.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M18.5 3.5v2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M4.5 10.5v-2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M7.5 10.5v-2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M10.5 10.5v-2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M13.5 10.5v-2" stroke-width="1"></path><path stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" d="M16.5 10.5v-2" stroke-width="1"></path><path stroke="currentcolor" d="M2.75 7.25c-0.13807 0 -0.25 -0.11193 -0.25 -0.25s0.11193 -0.25 0.25 -0.25" stroke-width="1"></path><path stroke="currentcolor" d="M2.75 7.25c0.13807 0 0.25 -0.11193 0.25 -0.25s-0.11193 -0.25 -0.25 -0.25" stroke-width="1"></path></svg>99m²
 							</div>
-				
-						</div>
-				
-						<div class="col-7">
-				
-							<div class="object-feature-info text-truncate">
-				
-								3 kamers 				
+							
+							
+							<div class="consumer-card-icon text-white">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="24" width="24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M18.5 0.75h-13c-0.26522 0 -0.51957 0.105357 -0.70711 0.29289C4.60536 1.23043 4.5 1.48478 4.5 1.75v21.5h15V1.75c0 -0.26522 -0.1054 -0.51957 -0.2929 -0.70711C19.0196 0.855357 18.7652 0.75 18.5 0.75Z" stroke-width="1"></path><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M22.5 23.25h-21" stroke-width="1"></path><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M8.25 12.375c0.20711 0 0.375 -0.1679 0.375 -0.375s-0.16789 -0.375 -0.375 -0.375" stroke-width="1"></path><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" d="M8.25 12.375c-0.20711 0 -0.375 -0.1679 -0.375 -0.375s0.16789 -0.375 0.375 -0.375" stroke-width="1"></path></svg>5 kamers
 							</div>
-				
+							
+							
+							<div class="consumer-card-icon text-white">
+<svg aria-label="energylabel" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" version="1.1" height="24" width="24">
+	<path d="M22.088160000000002 2.539032C22.020048 2.5632960000000002 21.841848 2.65392 21.69216 2.7403920000000004C19.864752 3.79608 17.91108 4.392816 15.815328 4.535424C15.623567999999999 4.5484800000000005 15.002568 4.558896 14.435328 4.55856C13.239456 4.557888 12.663264 4.587359999999999 11.796 4.693608C9.902327999999999 4.925568 8.229000000000001 5.43756 6.806064 6.220416000000001C6.541872 6.365760000000001 5.89092 6.7975200000000005 5.720496000000001 6.940440000000001C5.652576 6.997392 5.463576 7.151208 5.300496000000001 7.282224C4.715712 7.752096000000001 4.049016 8.474496 3.6487680000000005 9.072000000000001C2.7493200000000004 10.414704 2.2800960000000003 11.949816 2.280024 13.550136000000002C2.279976 14.5362 2.445576 15.439032000000001 2.8008480000000002 16.389696C2.910216 16.682328 2.9113200000000004 16.68804 2.865024 16.725696C2.839128 16.746768000000003 2.2763999999999998 17.22624 1.6145280000000002 17.7912C0.307176 18.907128 0.312 18.902112 0.312 19.143792C0.312 19.309968 0.392088 19.455288 0.53808 19.554000000000002C0.63636 19.620456 0.674664 19.632 0.7970880000000001 19.632C0.876096 19.632 0.975312 19.615608 1.017552 19.595544C1.059792 19.575504 1.591296 19.135416 2.198664 18.617544C2.806032 18.099696 3.3197760000000005 17.662344 3.34032 17.645688C3.3726240000000005 17.61948 3.4086240000000005 17.661744 3.60588 17.957688C4.329216 19.042824 5.26224 19.910352 6.3772079999999995 20.534472C7.308479999999999 21.055775999999998 8.30868 21.37584 9.42 21.5082C9.807672 21.554376 10.793568 21.547584 11.28 21.495383999999998C13.420032 21.265752 15.251832000000002 20.570784 17.268 19.223616C20.932968 16.774704 23.11428 13.043496000000001 23.5914 8.407248000000001C23.751216 6.854256 23.70492 5.118432 23.46264 3.5800560000000003C23.418216 3.298032 23.38764 3.177504 23.331672 3.063816C23.234232 2.865888 23.067888 2.704464 22.850687999999998 2.5970880000000003C22.689648000000002 2.51748 22.652231999999998 2.508768 22.442688 2.502168C22.265448 2.496576 22.18332 2.50512 22.088160000000002 2.539032M22.130088 3.649536C20.437728 4.627872 18.518736 5.25804 16.548000000000002 5.482632000000001C16.012032 5.543736 15.305616 5.574336000000001 14.703384 5.562552C12.609576 5.521584 10.757784 5.76768 9.156 6.299832C8.077224 6.658200000000001 7.131648 7.130832 6.466704000000001 7.644C5.4858720000000005 8.400936 4.939223999999999 8.952864 4.47 9.66C3.654696 10.888632 3.2536320000000005 12.278640000000001 3.296232 13.728C3.316824 14.428656 3.395712 14.930040000000002 3.586872 15.575496000000001C3.7247999999999997 16.041192000000002 3.6792000000000002 16.0272 4.04412 15.715632C4.387296 15.422664 4.7898 15.116807999999999 5.340288 14.730696C7.59168 13.15164 10.141152 11.930496 12.773328 11.170463999999999C13.145616 11.062968 13.250904 11.041104 13.335192000000001 11.053728C13.479792 11.075424 13.643568 11.18556 13.702248 11.300568C13.813944000000001 11.51952 13.787448 11.72148 13.624872 11.8902C13.536287999999999 11.982096 13.49328 12.004104 13.272 12.07056C11.8962 12.483888 11.118744 12.762936 10.093128 13.21152C8.408856 13.948152 6.807312 14.878079999999999 5.34 15.971328C5.050416 16.187088 4.37316 16.745448 4.200264 16.910976C4.168728 16.941167999999998 4.17276 16.95996 4.234392 17.0706C4.478376 17.508623999999998 4.924848 18.080112 5.363592000000001 18.516000000000002C6.456528 19.601832 7.832784 20.275392 9.396 20.489544C9.792912000000001 20.543928 10.729392 20.542704 11.232000000000001 20.487168C13.129895999999999 20.277456 14.734128 19.674552000000002 16.556448 18.486072C18.212808 17.405856 19.634832000000003 15.963192000000001 20.607744 14.376C21.764712000000003 12.488520000000001 22.418568 10.384992 22.633128000000003 7.86C22.676784 7.346472 22.68924 6.18516 22.657536 5.5878C22.612008 4.730208 22.464216 3.503376 22.406568 3.504528C22.391952 3.504816 22.267536 3.5700719999999997 22.130088 3.649536" stroke="none" fill="currentcolor" fill-rule="evenodd"></path>
+</svg>
+<span class="energy-label" data-label="C">C</span>
+							</div>
+							
 						</div>
-				
-					</div>
-				
-				</div>
-				
-				
-	
-	
-	
-	
-	
-		
-	
-	
-	
-	
-			
-			
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-											</div>
-																																																					<div class="object-view mb-3">
-																																						<a href="https://www.quistmakelaardij.nl/woningen/markstraat-9-utrecht-439182107fb182e1b402ba09aa14c943607b7/" class="position-relative p-3 text-decoration-none d-table" title="Markstraat 9 3582 KJ Utrecht">
-																										Bekijk object													</a>
-												</div>
-																															</div>
-									</div>
-								</div>]]></content>
+						
+<p class="consumer-card-price text-white">Vraagprijs € 595.000 k.k.</p>
+					</div>]]></content>
     </entry>
 </feed>
