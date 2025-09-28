@@ -2,637 +2,162 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw</id>
     <title>De Keizer makelaarsgroep</title>
-    <updated>2025-09-28T05:43:44.746Z</updated>
+    <updated>2025-09-28T17:47:06.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dekeizer.nl/wp-content/uploads/2022/03/favicon.png</icon>
     <entry>
-        <title type="html"><![CDATA[Klooster 13]]></title>
+        <title type="html"><![CDATA[Livingstonelaan 62]]></title>
         <id>https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw</id>
         <link href="https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw"/>
-        <updated>2025-09-28T05:38:48.092Z</updated>
-        <content type="html"><![CDATA[<span class="status">
-            Nieuw
-        </span>
-                <div class="slider-chevron">
+        <updated>2025-09-28T17:39:56.694Z</updated>
+        <content type="html"><![CDATA[<div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-28d69b5933107c377" aria-live="polite">
-                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943008-1024x683.jpg" class="swiper-lazy">
+                <div class="swiper-wrapper" id="swiper-wrapper-2ebcc6d2d91d38bc" aria-live="polite">
+                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617084-1024x682.jpg" class="swiper-lazy">
                             
                         </div>
-                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943108-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617224-1024x683.jpg" class="swiper-lazy">
                             
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943062-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617192-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 18" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943082-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617228-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943028-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617240-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943022-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 13" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617234-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943034-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617344-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943044-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617348-1024x682.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943040-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617244-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="10 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943058-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="10 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 9" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617266-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="11 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 26" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943072-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="11 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 10" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617248-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="12 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 10" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943074-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="12 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617252-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="13 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 9" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943048-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="13 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 12" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617270-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="14 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 13" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943054-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="14 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 11" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617330-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="15 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 12" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943100-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="15 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 14" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617338-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="16 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 11" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943092-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="16 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 16" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617334-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="17 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 14" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943124-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="17 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 15" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617274-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="18 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 16" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943128-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="18 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 17" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617220-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="19 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 15" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943132-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="19 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 18" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617326-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="20 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 17" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943136-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="20 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 19" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617280-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="21 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 19" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943144-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="21 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 20" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617284-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="22 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 25" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943148-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="22 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 29" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617296-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="23 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 20" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245942982-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="23 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 31" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617306-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="24 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 21" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245942960-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="24 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 21" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617312-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="25 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 22" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943116-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="25 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 24" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617314-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="26 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 23" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943150-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="26 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 32" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617320-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="27 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 27" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245943152-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="27 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 22" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617352-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="28 / 28">
-                            <img loading="lazy" alt="Klooster 13 – Foto 24" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.364.070/245942936-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="28 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 23" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617076-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="29 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 25" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617080-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="30 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 27" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617164-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="31 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 26" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617138-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="32 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 30" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617354-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="33 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 28" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617356-1024x682.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="34 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 34" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617360-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="35 / 35">
+                            <img loading="lazy" alt="Livingstonelaan 62 – Foto 33" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617362-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-28d69b5933107c377" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-2ebcc6d2d91d38bc" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-28d69b5933107c377" aria-disabled="false">
-                    <span class="chevron secondary right"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                    </div>
-    
-    <div class="card-body">
-        <h2>Klooster 13</h2>
-        <h3>
-            4132 BM, 
-            VIANEN        </h3>
-        <hr>
-        <h3>Beschikbaar</h3>
-                        <h3>€ 465.000 k.k.</h3>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lindenhoeve 265]]></title>
-        <id>https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw</id>
-        <link href="https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw"/>
-        <updated>2025-09-28T05:38:48.093Z</updated>
-        <content type="html"><![CDATA[<span class="status">
-            Nieuw
-        </span>
-                <div class="slider-chevron">
-            <div class="swiper chevron swiper-initialized swiper-horizontal swiper-backface-hidden">
-                <div class="swiper-wrapper" id="swiper-wrapper-48ae872980a13886" aria-live="polite">
-                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 9">
-                            <img loading="lazy" alt="Lindenhoeve 265 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.501.450/247004670-1024x666.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 9">
-                            <img loading="lazy" alt="Lindenhoeve 265 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.501.450/247004668-1024x666.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 9">
-                            <img loading="lazy" alt="Lindenhoeve 265 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.501.450/247004738-1024x623.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 9">
-                            <img loading="lazy" alt="Lindenhoeve 265 – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.501.450/247004744-1024x687.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 9">
-                            <img loading="lazy" alt="Lindenhoeve 265 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.501.450/247004982-1024x639.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 9">
-                            <img loading="lazy" alt="Lindenhoeve 265 – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.501.450/247004922-802x1024.png" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 9">
-                            <img loading="lazy" alt="Lindenhoeve 265 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.501.450/247004924-802x1024.png" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 9">
-                            <img loading="lazy" alt="Lindenhoeve 265 – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.501.450/247004926-802x1024.png" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 9">
-                            <img loading="lazy" alt="Lindenhoeve 265 – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.501.450/247004928-802x1024.png" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                    </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-48ae872980a13886" aria-disabled="true">
-                    <span class="chevron secondary left"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-48ae872980a13886" aria-disabled="false">
-                    <span class="chevron secondary right"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                    </div>
-    
-    <div class="card-body">
-        <h2>Lindenhoeve 265</h2>
-        <h3>
-            3438 MJ, 
-            NIEUWEGEIN        </h3>
-        <hr>
-        <h3>Beschikbaar</h3>
-                        <h3>€ 987.000 v.o.n.</h3>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ploegveld 197]]></title>
-        <id>https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw</id>
-        <link href="https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw"/>
-        <updated>2025-09-28T05:38:48.095Z</updated>
-        <content type="html"><![CDATA[<span class="status">
-            Nieuw
-        </span>
-                <div class="slider-chevron">
-            <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-f7aa4d82fad8eb6d" aria-live="polite">
-                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897644-1024x683.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 12" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897630-1024x683.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897702-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897714-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897724-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897740-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 30" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897774-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897808-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 26" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897844-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="10 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897874-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="11 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897886-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="12 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 19" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897900-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="13 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897908-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="14 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 9" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897920-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="15 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 11" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897930-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="16 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 10" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897944-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="17 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 13" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897686-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="18 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 15" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897956-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="19 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 14" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898150-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="20 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 16" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898156-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="21 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 18" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898164-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="22 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 17" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898184-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="23 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 20" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898194-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="24 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 21" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898202-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="25 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 23" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898212-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="26 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 22" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898220-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="27 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 25" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898228-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="28 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 24" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898236-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="29 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 28" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898240-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="30 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 27" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898244-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="31 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 29" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897658-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="32 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 33" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246897668-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="33 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 31" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898248-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="34 / 34">
-                            <img loading="lazy" alt="Ploegveld 197 – Foto 32" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.463.264/246898254-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                    </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-f7aa4d82fad8eb6d" aria-disabled="true">
-                    <span class="chevron secondary left"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-f7aa4d82fad8eb6d" aria-disabled="false">
-                    <span class="chevron secondary right"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                    </div>
-    
-    <div class="card-body">
-        <h2>Ploegveld 197</h2>
-        <h3>
-            3993 GK, 
-            HOUTEN        </h3>
-        <hr>
-        <h3>Beschikbaar</h3>
-                        <h3>€ 525.000 k.k.</h3>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zadelstede 226]]></title>
-        <id>https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw</id>
-        <link href="https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw"/>
-        <updated>2025-09-28T05:38:48.095Z</updated>
-        <content type="html"><![CDATA[<span class="status">
-            Nieuw
-        </span>
-                <div class="slider-chevron">
-            <div class="swiper chevron swiper-initialized swiper-horizontal swiper-backface-hidden">
-                <div class="swiper-wrapper" id="swiper-wrapper-37d3b442b49d3f4b" aria-live="polite">
-                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 5">
-                            <img loading="lazy" alt="Zadelstede 226 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.493.678/246621612-1024x959.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 5">
-                            <img loading="lazy" alt="Zadelstede 226 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.493.678/246623020-819x1024.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 5">
-                            <img loading="lazy" alt="Zadelstede 226 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.493.678/246622618-1024x883.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 5">
-                            <img loading="lazy" alt="Zadelstede 226 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.493.678/246622630-1024x1024.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 5">
-                            <img loading="lazy" alt="Zadelstede 226 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.493.678/246988584-1024x724.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                    </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-37d3b442b49d3f4b" aria-disabled="true">
-                    <span class="chevron secondary left"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-37d3b442b49d3f4b" aria-disabled="false">
-                    <span class="chevron secondary right"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-            <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                    </div>
-    
-    <div class="card-body">
-        <h2>Zadelstede 226</h2>
-        <h3>
-            3431 JZ, 
-            NIEUWEGEIN        </h3>
-        <hr>
-        <h3>Beschikbaar</h3>
-                        <h3>€ 449.500 v.o.n.</h3>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gerard ter Borchhage 110]]></title>
-        <id>https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw</id>
-        <link href="https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw"/>
-        <updated>2025-09-28T05:38:48.097Z</updated>
-        <content type="html"><![CDATA[<span class="status">
-            Nieuw
-        </span>
-                <div class="slider-chevron">
-            <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-ccd9193b06c95606" aria-live="polite">
-                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551072-1024x683.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551122-1024x683.jpg" class="swiper-lazy">
-                            
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551190-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551280-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551472-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551054-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551064-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551084-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 10" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551094-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="10 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551106-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="11 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 11" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551116-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="12 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 9" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551132-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="13 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 16" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551142-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="14 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 13" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551152-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="15 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 14" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551162-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="16 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 12" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551170-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="17 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 15" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551180-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="18 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 17" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551200-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="19 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 20" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551208-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="20 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 18" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551218-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="21 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 21" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551230-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="22 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 22" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551240-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="23 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 19" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551250-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="24 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 23" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551258-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="25 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 28" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551264-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="26 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 24" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551270-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="27 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 25" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551276-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="28 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 26" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551286-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="29 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 27" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551292-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="30 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 31" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551298-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="31 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 29" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551304-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="32 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 30" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551404-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="33 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 32" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551412-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="34 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 34" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551422-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="35 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 33" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551430-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="36 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 35" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551436-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="37 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 36" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551446-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="38 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 37" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551452-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="39 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 40" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551462-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="40 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 39" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551482-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="41 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 38" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551490-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="42 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 41" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551496-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="43 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 42" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551506-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="44 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 44" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551512-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="45 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 43" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551516-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="46 / 46">
-                            <img loading="lazy" alt="Gerard ter Borchhage 110 – Foto 45" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.439.422/245551522-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                    </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-ccd9193b06c95606" aria-disabled="true">
-                    <span class="chevron secondary left"></span>
-                <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-ccd9193b06c95606" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-2ebcc6d2d91d38bc" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -640,239 +165,275 @@
                     </div>
     
     <div class="card-body">
-        <h2>Gerard ter Borchhage 110</h2>
+        <h2>Livingstonelaan 62</h2>
         <h3>
-            3437 KM, 
-            NIEUWEGEIN        </h3>
+            3526 HN, 
+            UTRECHT        </h3>
         <hr>
         <h3>Beschikbaar</h3>
-                        <h3>€ 525.000 k.k.</h3>
+                        <h3>€ 345.000 k.k.</h3>
             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Robijndrift 36]]></title>
+        <title type="html"><![CDATA[Adriaen van Ostadelaan 161-3]]></title>
         <id>https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw</id>
         <link href="https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw"/>
-        <updated>2025-09-28T05:38:48.098Z</updated>
-        <content type="html"><![CDATA[<span class="status">
-            Nieuw
-        </span>
-                <div class="slider-chevron">
+        <updated>2025-09-28T17:39:56.695Z</updated>
+        <content type="html"><![CDATA[<div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-c085b618972a336a" aria-live="polite">
-                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831802-1024x683.jpg" class="swiper-lazy">
+                <div class="swiper-wrapper" id="swiper-wrapper-be9d6cc98651bbfd" aria-live="polite">
+                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305724-1024x683.jpg" class="swiper-lazy">
                             
                         </div>
-                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831838-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305362-1024x683.jpg" class="swiper-lazy">
                             
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831840-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305380-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831922-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305374-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831978-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305614-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831808-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305626-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831816-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305676-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831820-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305716-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831824-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305732-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="10 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 11" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831828-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="10 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 9" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305644-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="11 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 9" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831834-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="11 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 10" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305652-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="12 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 10" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831844-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="12 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 11" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305660-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="13 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 13" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831848-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="13 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 12" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305666-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="14 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 12" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831854-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="14 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 14" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305680-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="15 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 14" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831862-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="15 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 13" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305684-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="16 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 15" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831868-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="16 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 15" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305692-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="17 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 16" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831874-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="17 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 16" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305698-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="18 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 17" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831880-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="18 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 18" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305702-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="19 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 18" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831884-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="19 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 17" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305706-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="20 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 19" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831888-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="20 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 19" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305710-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="21 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 22" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831892-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="21 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 20" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305350-1024x683.png" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="22 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 21" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831896-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="22 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 22" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305320-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="23 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 20" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831900-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="23 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 21" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305294-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="24 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 32" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831904-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="24 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 23" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305216-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="25 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 23" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831908-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="26 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 26" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831912-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="27 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 25" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831918-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="28 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 24" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831928-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="29 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 27" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831940-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="30 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 29" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831954-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="31 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 30" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243831962-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="32 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 28" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243832006-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="33 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 31" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243832026-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="34 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 33" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243832058-1024x683.jpg" class="swiper-lazy">
-                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
-                        </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="35 / 35">
-                            <img loading="lazy" alt="Robijndrift 36 – Foto 34" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.132.904/243832082-1024x683.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="25 / 25">
+                            <img loading="lazy" alt="Adriaen van Ostadelaan 161-3 – Foto 24" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.341.596/243305264-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-c085b618972a336a" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-be9d6cc98651bbfd" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-c085b618972a336a" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-be9d6cc98651bbfd" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                            <span class="label open-house">Open huizen dag</span>
                     </div>
     
     <div class="card-body">
-        <h2>Robijndrift 36</h2>
+        <h2>Adriaen van Ostadelaan 161-3</h2>
         <h3>
-            3436 BR, 
-            NIEUWEGEIN        </h3>
+            3583 AG, 
+            UTRECHT        </h3>
         <hr>
         <h3>Beschikbaar</h3>
-                        <h3>€ 450.000 k.k.</h3>
+                        <h3>€ 375.000 k.k.</h3>
             </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Droomweide bouwnr. 76 ong]]></title>
+        <title type="html"><![CDATA[Larixstraat 12]]></title>
         <id>https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw</id>
         <link href="https://www.dekeizer.nl/woningen/#HY1BDoMwDAT_4jOVgkR74DcbYgkaiJFtDlXVv9fhNjta7X7JRNRppipy0kDm8MsiZ7Zl3WoGNPSp29seLr35Gp8ppS53wK0BR9jLlZfVQ1ccrH1iirCjlcDGhfXmgUSD8ydsgfNc4oh-fw"/>
-        <updated>2025-09-28T05:38:48.101Z</updated>
-        <content type="html"><![CDATA[<span class="status">
-            Nieuw
-        </span>
-                <div class="slider-chevron">
-            <div class="swiper chevron swiper-initialized swiper-horizontal swiper-backface-hidden">
-                <div class="swiper-wrapper" id="swiper-wrapper-ea426ee7dd4a8985" aria-live="polite">
-                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 6">
-                            <img loading="lazy" alt="Droomweide bouwnr. 76 ong – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.492.332/246568780-1024x660.jpg" class="swiper-lazy">
+        <updated>2025-09-28T17:39:56.696Z</updated>
+        <content type="html"><![CDATA[<div class="slider-chevron">
+            <div class="swiper chevron swiper-initialized swiper-horizontal">
+                <div class="swiper-wrapper" id="swiper-wrapper-9110134b789764e29" aria-live="polite">
+                                                                    <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809632-1024x683.jpg" class="swiper-lazy">
                             
                         </div>
-                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 6">
-                            <img loading="lazy" alt="Droomweide bouwnr. 76 ong – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.492.332/246569016-1024x576.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809708-1024x683.jpg" class="swiper-lazy">
                             
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 6">
-                            <img loading="lazy" alt="Droomweide bouwnr. 76 ong – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.492.332/246569024-1024x568.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809722-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 6">
-                            <img loading="lazy" alt="Droomweide bouwnr. 76 ong – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.492.332/246647288-814x1024.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="4 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809716-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 6">
-                            <img loading="lazy" alt="Droomweide bouwnr. 76 ong – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.492.332/246647308-814x1024.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="5 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 4" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809682-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
-                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 6">
-                            <img loading="lazy" alt="Droomweide bouwnr. 76 ong – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.492.332/246647334-814x1024.jpg" class="swiper-lazy">
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="6 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 6" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809688-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="7 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 5" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809694-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="8 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 7" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809700-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="9 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 8" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809728-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="10 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 10" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809734-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="11 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 9" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809648-682x1024.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="12 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 11" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809772-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="13 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 12" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809776-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="14 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 13" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809782-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="15 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 14" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809790-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="16 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 17" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809740-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="17 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 16" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809746-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="18 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 15" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809656-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="19 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 18" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809650-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="20 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 19" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809666-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="21 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 22" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809752-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="22 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 20" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809676-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="23 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 21" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809762-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="24 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 23" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809644-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="25 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 24" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809636-1024x683.jpg" class="swiper-lazy">
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
+                        </div>
+                                                                    <div class="swiper-slide" style="width: 380px;" role="group" aria-label="26 / 26">
+                            <img loading="lazy" alt="Larixstraat 12 – Foto 25" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.194.942/235809640-1024x683.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-ea426ee7dd4a8985" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-9110134b789764e29" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-ea426ee7dd4a8985" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-9110134b789764e29" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                            <span class="label open-house">Open huizen dag</span>
                     </div>
     
     <div class="card-body">
-        <h2>Droomweide bouwnr. 76 ong</h2>
+        <h2>Larixstraat 12</h2>
         <h3>
-            4231 EV, 
-            MEERKERK        </h3>
+            3552 BK, 
+            UTRECHT        </h3>
         <hr>
         <h3>Beschikbaar</h3>
-                        <h3>€ 925.000 v.o.n.</h3>
+                        <h3>€ 579.000 k.k.</h3>
             </div>]]></content>
     </entry>
 </feed>
