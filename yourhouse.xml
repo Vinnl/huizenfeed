@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-house.nl/woningaanbod/koop/utrecht?availability=1&amp;iscustom=true&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000</id>
     <title>Your House</title>
-    <updated>2025-10-01T05:52:03.221Z</updated>
+    <updated>2025-10-01T17:51:11.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hayweb.blob.core.windows.net/public/wbyysd/2-beta/favicon-32x32.png</icon>
     <entry>
@@ -102,7 +102,6 @@
                                 
                             </div>
                         </a>
-                                <span class="object_status new_forsale">Nieuw in verkoop</span>
 
                     </div>
 
@@ -184,7 +183,6 @@
                                 
                             </div>
                         </a>
-                                <span class="object_status new_forsale">Nieuw in verkoop</span>
 
                     </div>
 
