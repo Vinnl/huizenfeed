@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw</id>
     <title>Stap makelaars</title>
-    <updated>2025-10-03T17:48:32.329Z</updated>
+    <updated>2025-10-04T05:55:03.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stapmakelaars.nl/wp-content/uploads/2025/04/cropped-favicon-32x32.png</icon>
     <entry>
@@ -24,12 +24,12 @@
                                             
                                             
                                             
-                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/van-vollenhovenlaan-309/" aria-label="Bekijk detail pagina van Van Vollenhovenlaan 309"></a>
                     <img width="900" height="600" class="card__image flickity-lazyloaded entered lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.324.553/247367226-900x600.jpg" alt="Afbeelding voor Van Vollenhovenlaan 309" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.324.553/247367226-900x600.jpg" data-ll-status="loaded"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.324.553/247367226-900x600.jpg" alt="Afbeelding voor Van Vollenhovenlaan 309"></noscript>
                 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/van-vollenhovenlaan-309/" aria-label="Bekijk detail pagina van Van Vollenhovenlaan 309"></a>
-                    <img width="900" height="600" class="card__image flickity-lazyloaded entered lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.324.553/247664868-900x600.jpg" alt="Afbeelding voor Van Vollenhovenlaan 309" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.324.553/247664868-900x600.jpg" data-ll-status="loaded"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.324.553/247664868-900x600.jpg" alt="Afbeelding voor Van Vollenhovenlaan 309"></noscript>
+                    <img width="900" height="600" class="card__image flickity-lazyloaded" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Afbeelding voor Van Vollenhovenlaan 309" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.324.553/247664868-900x600.jpg"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.324.553/247664868-900x600.jpg" alt="Afbeelding voor Van Vollenhovenlaan 309"></noscript>
                 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/van-vollenhovenlaan-309/" aria-label="Bekijk detail pagina van Van Vollenhovenlaan 309"></a>
                     <img width="900" height="600" class="card__image flickity-lazyloaded" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Afbeelding voor Van Vollenhovenlaan 309" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.324.553/247664474-900x600.jpg"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.324.553/247664474-900x600.jpg" alt="Afbeelding voor Van Vollenhovenlaan 309"></noscript>
