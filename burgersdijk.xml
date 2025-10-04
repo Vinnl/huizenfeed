@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-10-04T05:55:03.224Z</updated>
+    <updated>2025-10-04T17:43:30.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
     <entry>
@@ -103,9 +103,9 @@
             <div class="uk-card-media-top uk-inline bg-image">
                 <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-predikherenstraat-15-utrecht-246845104.8bf64b0e07d231e8ad51e73aba4022b3.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-predikherenstraat-15-utrecht-246845104.8bf64b0e07d231e8ad51e73aba4022b3.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
                 <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-predikherenstraat-15-utrecht-246845104.35bcb82f24c0c2b21cab3bf8d60b368d.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-predikherenstraat-15-utrecht-246845104.35bcb82f24c0c2b21cab3bf8d60b368d.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                <div class="uk-overlay uk-position-bottom label openday">
-                        Deelnemer NVM Open Huizen Dag
-                    </div>
+                
+                    
+                
             </div>
             <div class="uk-card-body uk-card-small vcard">
                 <span class="adr">
