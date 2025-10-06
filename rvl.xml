@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rvlmakelaars.nl/koopwoningen-utrecht?a=Utrecht&amp;e=700000</id>
     <title>Rosenberg Van Leusden makelaars</title>
-    <updated>2025-10-06T05:47:44.589Z</updated>
+    <updated>2025-10-06T17:49:57.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.rvlmakelaars.nl/themes/rvl/favicon.ico</icon>
     <entry>
@@ -12,11 +12,10 @@
         <link href="https://www.rvlmakelaars.nl/bolksbeekstraat-69-bs-utrecht"/>
         <updated>2025-09-25T17:40:02.169Z</updated>
         <content type="html"><![CDATA[<a href="https://www.rvlmakelaars.nl/bolksbeekstraat-69-bs-utrecht" class="home">
-
-                        <div class="left ">
+                        <div class="left  change1 ">
                             <img class="u-photo" src="https://www.rvlmakelaars.nl/cache/images/244203558_250x250_adaptiveResize.jpg" alt="Bolksbeekstraat 69 BS">
                         </div>
-                        <div class="right">
+                        <div class="right  change2 ">
                             <span class="old p-name">
                                 Bolksbeekstraat 69 BS                                    <small>
                                         Utrecht                                    </small>
