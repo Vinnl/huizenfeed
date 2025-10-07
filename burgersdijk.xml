@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-10-07T05:51:58.987Z</updated>
+    <updated>2025-10-07T17:46:02.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Goedestraat 5 
+                        3572 RL UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/goedestraat-5-utrecht-9399310</id>
+        <link href="https://burgersdijk.com/koopwoningen/goedestraat-5-utrecht-9399310"/>
+        <updated>2025-10-07T17:44:03.785Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-goedestraat-5-utrecht-246571210.7953ac059b11fe6e0956ee6ee3809da8.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-goedestraat-5-utrecht-246571210.7953ac059b11fe6e0956ee6ee3809da8.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-goedestraat-5-utrecht-246571210.5cb65d579bda68805f50eb6b6177d534.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-goedestraat-5-utrecht-246571210.5cb65d579bda68805f50eb6b6177d534.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Goedestraat 5 </span><br>
+                        <span class="postal-code">3572 RL</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 395.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 62 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.095599</span>
+                            <span class="longitude">5.1303059</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Van Imhoffstraat 21 BS
                         3531 HT UTRECHT]]></title>
@@ -131,50 +175,6 @@
                         <span class="geo">
                             <span class="latitude">52.0944558</span>
                             <span class="longitude">5.1187412</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lange Nieuwstraat 105 1
-                        3512 PG UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/lange-nieuwstraat-105-utrecht-8660861</id>
-        <link href="https://burgersdijk.com/koopwoningen/lange-nieuwstraat-105-utrecht-8660861"/>
-        <updated>2025-09-25T05:49:56.491Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-lange-nieuwstraat-105-utrecht-246126506.75a33a04cde78e62783e764ccef6da62.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-lange-nieuwstraat-105-utrecht-246126506.75a33a04cde78e62783e764ccef6da62.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-lange-nieuwstraat-105-utrecht-246126506.6d3afd52f17daf21c567f3b5403590e9.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-lange-nieuwstraat-105-utrecht-246126506.6d3afd52f17daf21c567f3b5403590e9.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Lange Nieuwstraat 105 1</span><br>
-                        <span class="postal-code">3512 PG</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 400.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 58 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0856742</span>
-                            <span class="longitude">5.124449</span>
                         </span>
                     </span>
                 </span>
