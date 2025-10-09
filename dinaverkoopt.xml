@@ -2,7 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dinaverkoopt.nl/woning-aanbod/?view=list&amp;straat&amp;plaats=utrecht&amp;prijs_vanaf=0&amp;prijs_tot=600000&amp;buitenruimte%5B0%5D=achtertuin&amp;buitenruimte%5B1%5D=patio-atrium&amp;buitenruimte%5B2%5D=voortuin&amp;buitenruimte%5B3%5D=zijtuin&amp;buitenruimte%5B4%5D=zonneterras&amp;woonoppervlakte=75</id>
     <title>Dina verkoopt</title>
-    <updated>2025-10-08T17:47:27.938Z</updated>
+    <updated>2025-10-09T05:51:50.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dinaverkoopt.nl/wp-content/uploads/2018/08/cropped-DINA_LOGO-los_DEF3128-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Jan Haringstraat 27]]></title>
+        <id>https://www.dinaverkoopt.nl/woning-aanbod/jan-haringstraat-27/</id>
+        <link href="https://www.dinaverkoopt.nl/woning-aanbod/jan-haringstraat-27/"/>
+        <updated>2025-10-09T05:50:55.419Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.dinaverkoopt.nl/woning-aanbod/jan-haringstraat-27/" class="grid-house-item ">
+	<div class="grid-house-item__image">
+					<img width="300" height="200" src="https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-300x200.jpg 300w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-1024x683.jpg 1024w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-768x512.jpg 768w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-1536x1024.jpg 1536w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-2048x1365.jpg 2048w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/09/48540-245947696-317x211.jpg 317w" sizes="auto, (max-width: 300px) 100vw, 300px" title="">		
+        <div class="grid-house-item__status status--beschikbaar">Beschikbaar</div>
+	</div>
+
+	<div class="grid-house-item__content">
+        <div class="grid-house-item__primary-info">
+            <div class="grid-house-item__city">Utrecht</div>
+            <h4 class="grid-house-item__title">Jan Haringstraat 27</h4>
+            <div class="grid-house-item__price">€ 550.000 k.k.</div>
+        </div>
+        <div class="grid-house-item__secondary-info">
+            <div class="grid-house-item__size">91 m<sup>2</sup></div>
+            <div class="grid-house-item__bedrooms">3 slaapkamers</div>
+
+        </div>
+	</div>
+
+</a>]]></content>
+    </entry>
 </feed>
