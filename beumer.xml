@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-10-09T05:51:50.348Z</updated>
+    <updated>2025-10-09T18:05:46.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
     <entry>
@@ -49,56 +49,6 @@
                                                     <p>
                         <i class="icon icon-label"></i>
                         A
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aziëlaan 346]]></title>
-        <id>https://www.beumer.nl/wonen/object/azielaan-346-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/azielaan-346-utrecht/"/>
-        <updated>2025-09-23T17:40:48.677Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/azielaan-346-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103174/UT103174-233146-Azielaan-346-Utrecht-246102534-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103174/UT103174-233146-Azielaan-346-Utrecht-246102534-scaled-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103174/UT103174-233146-Azielaan-346-Utrecht-246102534-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103174/UT103174-233146-Azielaan-346-Utrecht-246102534-scaled-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/UT103174/UT103174-233146-Azielaan-346-Utrecht-246102534-150x150.jpg" alt="                        Aziëlaan 346
-                    " src="/app/uploads/sure/media/UT103174/UT103174-233146-Azielaan-346-Utrecht-246102534-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Aziëlaan 346
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 385.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>106 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        4 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        B
                     </p>
                             </div>
         </div>

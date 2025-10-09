@@ -2,9 +2,306 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quistmakelaardij.nl/aanbod/?_zoeken=utrecht&amp;_prijs_tot=1-600000&amp;_kamers=3-100</id>
     <title>Quist makelaardij</title>
-    <updated>2025-10-09T05:51:50.416Z</updated>
+    <updated>2025-10-09T18:05:46.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quistmakelaardij.nl/aanbod/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Arthur van Schendelstraat
+				
+						
+												
+								
+																			
+										751]]></title>
+        <id>https://www.quistmakelaardij.nl/woningen/arthur-van-schendelstraat-751-utrecht-43918b59d5b5633ba4ad7b547fc41ea45a435/</id>
+        <link href="https://www.quistmakelaardij.nl/woningen/arthur-van-schendelstraat-751-utrecht-43918b59d5b5633ba4ad7b547fc41ea45a435/"/>
+        <updated>2025-10-09T18:04:59.050Z</updated>
+        <content type="html"><![CDATA[<div class="row">
+																	<div class="col-12">
+																											
+										
+										<div class="object-image position-relative mb-3">
+																					
+																							<a href="https://www.quistmakelaardij.nl/woningen/arthur-van-schendelstraat-751-utrecht-43918b59d5b5633ba4ad7b547fc41ea45a435/" class="position-relative text-decoration-none d-block">
+																																	<div class="object-image-img">
+													
+			
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/248641859.jpg?portalid=4286&amp;check=api_sha256%3ad66002a05b41ea055e4acea21cf3c749cba0ef2b6f3de3dc9c8ccd06c0ec5281&amp;=20251008175854&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/248641859.jpg?portalid=4286&amp;check=api_sha256%3ad66002a05b41ea055e4acea21cf3c749cba0ef2b6f3de3dc9c8ccd06c0ec5281&amp;=20251008175854&amp;width=1080&amp;height=720" data-ll-status="native">
+
+																												<div class="object-status object-status-new position-absolute py-2 px-3">
+											TOPlocatie					</div>
+																												</div>
+																																											</a>
+										
+																				</div>
+
+																												</div>
+																	<div class="col-12">
+																		<div class="object-info">
+									
+														
+					
+			<div class="object-address notranslate mb-3">
+
+					
+							
+						
+				<div class="object-address-line notranslate">
+			
+						
+				
+					
+										
+							<span class="object-street">Arthur van Schendelstraat</span>
+				
+						
+												
+								
+																			
+										<span class="object-housenumber">751</span>
+							
+									
+									
+													
+							
+					
+							
+						
+				</div>
+			
+						
+						
+				
+									
+						<div class="object-address-line">
+				
+									
+										
+							<span class="object-zipcode">3511 MZ</span>
+				
+										
+										
+							<span class="object-place">Utrecht</span>
+				
+										
+										
+										
+										
+										
+									
+									
+						</div>
+				
+					
+							
+						
+							
+		
+			</div>
+
+				
+		
+																		<div class="object-price mb-3 object-price-status-beschikbaar">
+		
+									<div class="object-price-sale">
+			
+			
+				
+					<span class="object-price-kind-of">
+
+						
+							Vraagprijs
+						
+					</span>
+
+				
+			
+			
+				
+					<span class="object-price-value">
+
+						
+							€ 475.000
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+							k.k.
+						
+					</span>
+
+				
+			
+							</div>
+			
+		
+		
+			
+			
+			
+				
+					<span class="object-price-value">
+
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+					</span>
+
+				
+			
+			
+		
+			</div>
+	
+		
+																																								<div class="object-features mb-3">
+											
+																								
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-woonoppervlakte ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Woonopp.				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								77 m²				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-aantalkamers ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Aantal kamers				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								3 kamers 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+			
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+											</div>
+																																																					<div class="object-view mb-3">
+																																						<a href="https://www.quistmakelaardij.nl/woningen/arthur-van-schendelstraat-751-utrecht-43918b59d5b5633ba4ad7b547fc41ea45a435/" class="position-relative p-3 text-decoration-none d-table" title="Arthur van Schendelstraat 751 3511 MZ Utrecht">
+																										Bekijk object													</a>
+												</div>
+																															</div>
+									</div>
+								</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zwanenvechtlaan
 				
