@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-10-13T05:54:16.317Z</updated>
+    <updated>2025-10-13T17:56:06.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
     <entry>
@@ -138,94 +138,6 @@
         </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Van Imhoffstraat 21 BS
-                        3531 HT UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/van-imhoffstraat-21-utrecht-6710544</id>
-        <link href="https://burgersdijk.com/koopwoningen/van-imhoffstraat-21-utrecht-6710544"/>
-        <updated>2025-09-30T17:55:36.678Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-247128548.698d8b54b53c613da3c9252ecad08a81.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-247128548.698d8b54b53c613da3c9252ecad08a81.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-247128548.3208347308f496e0e5e10ea163064cdc.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-247128548.3208347308f496e0e5e10ea163064cdc.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Van Imhoffstraat 21 BS</span><br>
-                        <span class="postal-code">3531 HT</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 565.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 116 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0917984</span>
-                            <span class="longitude">5.0960805</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groen van Prinstererstraat 1 B
-                        3551 XD UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/groen-van-prinstererstraat-1-utrecht-9010794</id>
-        <link href="https://burgersdijk.com/koopwoningen/groen-van-prinstererstraat-1-utrecht-9010794"/>
-        <updated>2025-09-30T17:55:36.679Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-groen-van-prinstererstraat-1-utrecht-247129314.2872205676f59be951ec45888f5df770.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-groen-van-prinstererstraat-1-utrecht-247129314.2872205676f59be951ec45888f5df770.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-groen-van-prinstererstraat-1-utrecht-247129314.ee20e9b0a72294e7aaf230eda5ce333e.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-groen-van-prinstererstraat-1-utrecht-247129314.ee20e9b0a72294e7aaf230eda5ce333e.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Groen van Prinstererstraat 1 B</span><br>
-                        <span class="postal-code">3551 XD</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 575.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 92 m<sup>2</sup><br>
-                        Aantal kamers 4
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.1047219</span>
-                            <span class="longitude">5.0948309</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Predikherenstraat 15 BS
                         3512 TL UTRECHT]]></title>
         <id>https://burgersdijk.com/koopwoningen/predikherenstraat-15-utrecht-9498618</id>
@@ -263,94 +175,6 @@
                         <span class="geo">
                             <span class="latitude">52.0944558</span>
                             <span class="longitude">5.1187412</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bladstraat 15 BS
-                        3572 HT UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/bladstraat-15-utrecht-9370516</id>
-        <link href="https://burgersdijk.com/koopwoningen/bladstraat-15-utrecht-9370516"/>
-        <updated>2025-09-18T17:52:13.214Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.da664f246f18a1a43c14a8d30dce5d6a.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.da664f246f18a1a43c14a8d30dce5d6a.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.868aa363f0f3517492a43598d37cd544.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.868aa363f0f3517492a43598d37cd544.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Bladstraat 15 BS</span><br>
-                        <span class="postal-code">3572 HT</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 589.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 74 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0979227</span>
-                            <span class="longitude">5.1359489</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oudenoord 389 
-                        3513 EP UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/oudenoord-389-utrecht-9314126</id>
-        <link href="https://burgersdijk.com/koopwoningen/oudenoord-389-utrecht-9314126"/>
-        <updated>2025-08-01T17:50:29.226Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-239922650.d7e853e3dde3793c237b0bdb8afbe6e7.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-239922650.d7e853e3dde3793c237b0bdb8afbe6e7.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-239922650.4d98fcab180e893efaef8412bdd62195.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-239922650.4d98fcab180e893efaef8412bdd62195.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Oudenoord 389 </span><br>
-                        <span class="postal-code">3513 EP</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 535.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 92 m<sup>2</sup><br>
-                        Aantal kamers 4
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.1000482</span>
-                            <span class="longitude">5.10924</span>
                         </span>
                     </span>
                 </span>
