@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-10-15T05:53:13.137Z</updated>
+    <updated>2025-10-15T17:51:58.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Van Egmondkade 70 BS
+                        3553 JK UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/van-egmondkade-70-utrecht-9332466</id>
+        <link href="https://burgersdijk.com/koopwoningen/van-egmondkade-70-utrecht-9332466"/>
+        <updated>2025-10-15T17:50:20.993Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-egmondkade-70-utrecht-249872122.284a15646cbaf71c28e47ee38fee8fee.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-egmondkade-70-utrecht-249872122.284a15646cbaf71c28e47ee38fee8fee.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-egmondkade-70-utrecht-249872122.53e8af147c3e48556517b7ee89038eea.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-egmondkade-70-utrecht-249872122.53e8af147c3e48556517b7ee89038eea.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Van Egmondkade 70 BS</span><br>
+                        <span class="postal-code">3553 JK</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 359.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 73 m<sup>2</sup><br>
+                        Aantal kamers 5
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.1089241</span>
+                            <span class="longitude">5.0923467</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oudenoord 389 
                         3513 EP UTRECHT]]></title>
