@@ -2,7 +2,403 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-10-19T05:46:57.117Z</updated>
+    <updated>2025-10-19T17:48:28.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Van Imhoffstraat 21 BS
+                        3531 HT UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/van-imhoffstraat-21-utrecht-9557542</id>
+        <link href="https://burgersdijk.com/koopwoningen/van-imhoffstraat-21-utrecht-9557542"/>
+        <updated>2025-10-19T17:46:44.760Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-249313860.a473346b88a04524b75e5937a74c9048.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-249313860.a473346b88a04524b75e5937a74c9048.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-249313860.8b07f3277e213436ce54ee468eb39b1f.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-249313860.8b07f3277e213436ce54ee468eb39b1f.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Van Imhoffstraat 21 BS</span><br>
+                        <span class="postal-code">3531 HT</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 499.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 116 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0917984</span>
+                            <span class="longitude">5.0960805</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Van Egmondkade 70 BS
+                        3553 JK UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/van-egmondkade-70-utrecht-9332466</id>
+        <link href="https://burgersdijk.com/koopwoningen/van-egmondkade-70-utrecht-9332466"/>
+        <updated>2025-10-19T17:46:44.762Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-egmondkade-70-utrecht-249872122.284a15646cbaf71c28e47ee38fee8fee.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-egmondkade-70-utrecht-249872122.284a15646cbaf71c28e47ee38fee8fee.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-egmondkade-70-utrecht-249872122.53e8af147c3e48556517b7ee89038eea.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-egmondkade-70-utrecht-249872122.53e8af147c3e48556517b7ee89038eea.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Van Egmondkade 70 BS</span><br>
+                        <span class="postal-code">3553 JK</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 359.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 73 m<sup>2</sup><br>
+                        Aantal kamers 5
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.1089241</span>
+                            <span class="longitude">5.0923467</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oudenoord 389 
+                        3513 EP UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/oudenoord-389-utrecht-9558946</id>
+        <link href="https://burgersdijk.com/koopwoningen/oudenoord-389-utrecht-9558946"/>
+        <updated>2025-10-19T17:46:44.764Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-249370470.2fdec6979ca0720f22db6e4821180007.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-249370470.2fdec6979ca0720f22db6e4821180007.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-249370470.11eff4d91312a841217d5326080b2587.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-249370470.11eff4d91312a841217d5326080b2587.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Oudenoord 389 </span><br>
+                        <span class="postal-code">3513 EP</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 535.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 92 m<sup>2</sup><br>
+                        Aantal kamers 4
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.1000482</span>
+                            <span class="longitude">5.10924</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bladstraat 15 BS
+                        3572 HT UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/bladstraat-15-utrecht-9370516</id>
+        <link href="https://burgersdijk.com/koopwoningen/bladstraat-15-utrecht-9370516"/>
+        <updated>2025-10-19T17:46:44.765Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.da664f246f18a1a43c14a8d30dce5d6a.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.da664f246f18a1a43c14a8d30dce5d6a.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.868aa363f0f3517492a43598d37cd544.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.868aa363f0f3517492a43598d37cd544.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Bladstraat 15 BS</span><br>
+                        <span class="postal-code">3572 HT</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 589.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 74 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0979227</span>
+                            <span class="longitude">5.1359489</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zaagmolenkade 40 
+                        3515 AE UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/zaagmolenkade-40-utrecht-9380932</id>
+        <link href="https://burgersdijk.com/koopwoningen/zaagmolenkade-40-utrecht-9380932"/>
+        <updated>2025-10-19T17:46:44.769Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-zaagmolenkade-40-utrecht-248653583.dea86345f2c7f68ef7968495923963e8.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-zaagmolenkade-40-utrecht-248653583.dea86345f2c7f68ef7968495923963e8.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-zaagmolenkade-40-utrecht-248653583.e0172d2913c731a1862b7fd465c36725.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-zaagmolenkade-40-utrecht-248653583.e0172d2913c731a1862b7fd465c36725.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Zaagmolenkade 40 </span><br>
+                        <span class="postal-code">3515 AE</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 485.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 75 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.1019443</span>
+                            <span class="longitude">5.1211884</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goedestraat 5 
+                        3572 RL UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/goedestraat-5-utrecht-9399310</id>
+        <link href="https://burgersdijk.com/koopwoningen/goedestraat-5-utrecht-9399310"/>
+        <updated>2025-10-19T17:46:44.771Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-goedestraat-5-utrecht-246571210.7953ac059b11fe6e0956ee6ee3809da8.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-goedestraat-5-utrecht-246571210.7953ac059b11fe6e0956ee6ee3809da8.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-goedestraat-5-utrecht-246571210.5cb65d579bda68805f50eb6b6177d534.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-goedestraat-5-utrecht-246571210.5cb65d579bda68805f50eb6b6177d534.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Goedestraat 5 </span><br>
+                        <span class="postal-code">3572 RL</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 395.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 62 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.095599</span>
+                            <span class="longitude">5.1303059</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cornelis Mertenssstraat 35 BS
+                        3553 JN UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/cornelis-mertenssstraat-35-utrecht-9143352</id>
+        <link href="https://burgersdijk.com/koopwoningen/cornelis-mertenssstraat-35-utrecht-9143352"/>
+        <updated>2025-10-19T17:46:44.773Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-cornelis-mertenssstraat-35-utrecht-246179348.4f8ed9d811adc908114860c8173d90c0.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-cornelis-mertenssstraat-35-utrecht-246179348.4f8ed9d811adc908114860c8173d90c0.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-cornelis-mertenssstraat-35-utrecht-246179348.061d5c7239a030d2445a1e6259234507.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-cornelis-mertenssstraat-35-utrecht-246179348.061d5c7239a030d2445a1e6259234507.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Cornelis Mertenssstraat 35 BS</span><br>
+                        <span class="postal-code">3553 JN</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 550.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 113 m<sup>2</sup><br>
+                        Aantal kamers 6
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.1065169</span>
+                            <span class="longitude">5.0928074</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boterstraat 27 B
+                        3511 LZ UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/boterstraat-27-utrecht-9193192</id>
+        <link href="https://burgersdijk.com/koopwoningen/boterstraat-27-utrecht-9193192"/>
+        <updated>2025-10-19T17:46:44.776Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-boterstraat-27-utrecht-244630296.4e590077b615a062d9d07feaeaf7e7c8.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-boterstraat-27-utrecht-244630296.4e590077b615a062d9d07feaeaf7e7c8.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-boterstraat-27-utrecht-244630296.d2767fe764821bd96654e65358ee21b0.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-boterstraat-27-utrecht-244630296.d2767fe764821bd96654e65358ee21b0.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Boterstraat 27 B</span><br>
+                        <span class="postal-code">3511 LZ</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 599.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 94 m<sup>2</sup><br>
+                        Aantal kamers 4
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0898263</span>
+                            <span class="longitude">5.1192023</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lange Jufferstraat 56 
+                        3512 EE UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/lange-jufferstraat-56-utrecht-9166254</id>
+        <link href="https://burgersdijk.com/koopwoningen/lange-jufferstraat-56-utrecht-9166254"/>
+        <updated>2025-10-19T17:46:44.778Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/004-hoofdfoto-lange-jufferstraat-56-utrecht-234129324.7bc4ee8d61bfe45dc59c8650b838ad55.jpg" data-src="/assets/components/phpthumbof/cache/004-hoofdfoto-lange-jufferstraat-56-utrecht-234129324.7bc4ee8d61bfe45dc59c8650b838ad55.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/004-hoofdfoto-lange-jufferstraat-56-utrecht-234129324.4614e8422a34a2244781db6bcc618f01.jpg" data-src="/assets/components/phpthumbof/cache/004-hoofdfoto-lange-jufferstraat-56-utrecht-234129324.4614e8422a34a2244781db6bcc618f01.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Lange Jufferstraat 56 </span><br>
+                        <span class="postal-code">3512 EE</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 585.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 135 m<sup>2</sup><br>
+                        Aantal kamers 6
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0946449</span>
+                            <span class="longitude">5.1256271</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
 </feed>
