@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://domvast.nl/woningen/#q1YqyElMLClWslIqLSlKTc4oUdJRKi5JLCkFCkUrJaUWJ2dkZiclJhYpxeoo5RelpBYlVQIVQ5RYJRYnK9UCAA</id>
     <title>Domvast</title>
-    <updated>2025-10-21T05:51:57.557Z</updated>
+    <updated>2025-10-21T17:53:39.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://domvast.nl/wp-content/uploads/2023/09/cropped-favicon-32x32.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[<div class="item">
 		<p class="status-indicator"><span class="Beschikbaar">Beschikbaar</span></p>
 		<a href="https://domvast.nl/woning/utrecht-koppestokstraat-84/" class="thumbnail">
-           <img width="300" height="200" src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.418.026/243214066-300x200.jpg" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.418.026/243214066-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy entered loaded" alt="" decoding="async" data-ll-status="loaded">		</a>
+           <img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.418.026/243214066-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy" alt="" decoding="async">		</a>
 		<div class="item-content">
 			<header>
 				<h2>UTRECHT</h2>
@@ -35,7 +35,7 @@
         <content type="html"><![CDATA[<div class="item">
 		<p class="status-indicator"><span class="Beschikbaar">Beschikbaar</span></p>
 		<a href="https://domvast.nl/woning/utrecht-dieselweg-1/" class="thumbnail">
-           		</a>
+           <img width="300" height="200" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20200'%3E%3C/svg%3E" data-src="https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-300x200.jpg" class="attachment-medium size-medium wp-post-image lazy" alt="" decoding="async" data-srcset="https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-300x200.jpg 300w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-1024x683.jpg 1024w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-768x512.jpg 768w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-1536x1024.jpg 1536w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-2048x1365.jpg 2048w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-610x407.jpg 610w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-1080x720.jpg 1080w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-1280x854.jpg 1280w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-980x653.jpg 980w, https://domvast.nl/wp-content/uploads/realworks/wonen/9.440.390/250057252-480x320.jpg 480w" data-sizes="(max-width: 300px) 100vw, 300px">		</a>
 		<div class="item-content">
 			<header>
 				<h2>UTRECHT</h2>
@@ -44,7 +44,7 @@
 			<div class="entry-content">
 							
 
-				<dl><dt>Koopprijs</dt><dd>€ 599.500,- k.k.</dd><dt>Woonopp.</dt><dd>99 m<sup>2</sup></dd></dl>			</div>
+				<dl><dt>Koopprijs</dt><dd>€ 599.500,- k.k.</dd><dt>Perceel</dt><dd>171 m<sup>2</sup></dd><dt>Woonopp.</dt><dd>99 m<sup>2</sup></dd><dt>Aantal slaapkamers</dt><dd>3</dd></dl>			</div>
 		</div>
 		<a href="https://domvast.nl/woning/utrecht-dieselweg-1/" class="overlay" rel="bookmark"></a>
 	</div>]]></content>

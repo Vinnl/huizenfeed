@@ -2,9 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-10-21T05:51:57.540Z</updated>
+    <updated>2025-10-21T17:53:39.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Jan van Ransdorpstraat 10C]]></title>
+        <id>https://www.remax.nl/woningen/jan-van-ransdorpstraat-10c-utrecht-2839</id>
+        <link href="https://www.remax.nl/woningen/jan-van-ransdorpstraat-10c-utrecht-2839"/>
+        <updated>2025-10-21T17:52:51.150Z</updated>
+        <content type="html"><![CDATA[<figure>
+        <div class="images">
+            <div class="first-image">
+                <img src="https://cloud01.topsite.nl/remax.nl/property/2839/245330764-143820_600x400_fit.jpg.webp" alt="Jan van Ransdorpstraat 10C">
+            </div>
+        </div>
+           </figure>
+    <div class="text d-flex flex-column flex-grow-1">
+        <div class="flex-grow-1">
+                            <span class="office">REMAX De Woonspecialist</span>
+                        <span class="title">Jan van Ransdorpstraat 10C</span>
+            <div class="d-flex gap-2 flex-wrap city-price">
+                <span class="price">UTRECHT<br>€ 505.000,- k.k.</span>
+            </div>
+        </div>
+        <div class="info d-flex justify-content-between">
+                            <div class="d-flex info-specs">
+                    <span><i class="icon-area"></i>106 m²</span>
+                    <span><i class="icon-bed"></i>4</span>
+                </div>
+                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
+        </div>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prof. Jan Bronnerlaan 203]]></title>
         <id>https://www.remax.nl/woningen/prof-jan-bronnerlaan-203-utrecht-3008</id>
@@ -28,35 +57,6 @@
         <div class="info d-flex justify-content-between">
                             <div class="d-flex info-specs">
                     <span><i class="icon-area"></i>89 m²</span>
-                    <span><i class="icon-bed"></i>5</span>
-                </div>
-                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H.J. Schimmelstraat 14]]></title>
-        <id>https://www.remax.nl/woningen/hj-schimmelstraat-14-utrecht-3009</id>
-        <link href="https://www.remax.nl/woningen/hj-schimmelstraat-14-utrecht-3009"/>
-        <updated>2025-10-09T18:04:50.835Z</updated>
-        <content type="html"><![CDATA[<figure>
-        <div class="images">
-            <div class="first-image">
-                <img src="https://cloud01.topsite.nl/remax.nl/property/3009/248625889-138908_600x400_fit.jpg.webp" alt="H.J. Schimmelstraat 14">
-            </div>
-        </div>
-           </figure>
-    <div class="text d-flex flex-column flex-grow-1">
-        <div class="flex-grow-1">
-                            <span class="office">REMAX De Woonspecialist</span>
-                        <span class="title">H.J. Schimmelstraat 14</span>
-            <div class="d-flex gap-2 flex-wrap city-price">
-                <span class="price">UTRECHT<br>€ 535.000,- k.k.</span>
-            </div>
-        </div>
-        <div class="info d-flex justify-content-between">
-                            <div class="d-flex info-specs">
-                    <span><i class="icon-area"></i>106 m²</span>
                     <span><i class="icon-bed"></i>5</span>
                 </div>
                         <span class="lees-meer"><i class="icon-arrow-right"></i></span>
