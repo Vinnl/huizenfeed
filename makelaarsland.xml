@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-10-22T06:04:07.690Z</updated>
+    <updated>2025-10-22T17:53:03.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -23,7 +23,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/936ca000-27a7-444d-9b56-91e0edcb3cb0" class="m-search-result__image" data-index="0" style="width: 372px;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/936ca000-27a7-444d-9b56-91e0edcb3cb0" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/936ca000-27a7-444d-9b56-91e0edcb3cb0&quot;); opacity: 1;" data-is-in-view="true"></div>
 
       
         
@@ -59,68 +59,6 @@
           </div>
           <div class="m-search-result__details">
             <h3 class="m-search-result__price"><span>€</span> 600.000</h3>
-
-            <div class="m-search-result__status-wrap">
-              
-                          </div>
-
-          </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhijnvis Feithstraat 28 BS
-            Utrecht
-            6 kamers
-          
-          
-            € 525.000]]></title>
-        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-rhijnvis-feithstraat-28-bs-2/</id>
-        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-rhijnvis-feithstraat-28-bs-2/"/>
-        <updated>2025-09-05T05:40:47.040Z</updated>
-        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
-  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
-  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-rhijnvis-feithstraat-28-bs-2/">
-    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/413d01c9-4851-4027-ad86-e45ce9e59560" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/7d4df337-1571-45ab-9fb4-4affce97f534" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/af36346b-9b45-4c4b-9a14-35be4d42fb3d" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/24f05214-a653-43bf-a26b-4cb55bf473b4" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/4053e730-b27f-44de-90f0-aa754b0252f2" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
-
-      
-    </div>
-  </a>
-  <button class="m-search-result__button" data-next-slide="next"></button>
-</figure>
-
-        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-rhijnvis-feithstraat-28-bs-2/" class="m-search-result__content-wrap">
-          <div class="m-search-result__content">
-            <h3 class="m-search-result__adress">Rhijnvis Feithstraat 28 BS</h3>
-            <h3 class="m-search-result__city">Utrecht</h3>
-            <h4 class="m-search-result__amount-of-rooms">6 kamers</h4>
-          </div>
-          <div class="m-search-result__details">
-            <h3 class="m-search-result__price"><span>€</span> 525.000</h3>
 
             <div class="m-search-result__status-wrap">
               
@@ -440,10 +378,72 @@
         </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hermelijnvlinderdijk 109
+            Utrecht
+            5 kamers
+          
+          
+            € 659.000]]></title>
+        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-hermelijnvlinderdijk-109/</id>
+        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-hermelijnvlinderdijk-109/"/>
+        <updated>2025-10-22T17:43:29.057Z</updated>
+        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
+  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
+  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-hermelijnvlinderdijk-109/">
+    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/bcccd527-80e5-4f43-b66d-68713ea542d3" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/6f4f0e34-bcf0-4378-af77-112ab343fa1c" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/cbcba394-820d-427a-95e2-9e9c85b6c0e7" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/1e49b0d9-a504-4dbd-a725-9eb4d817eb88" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/08340030-231d-4f95-935b-ca6178978342" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
+
+      
+    </div>
+  </a>
+  <button class="m-search-result__button" data-next-slide="next"></button>
+</figure>
+
+        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-hermelijnvlinderdijk-109/" class="m-search-result__content-wrap">
+          <div class="m-search-result__content">
+            <h3 class="m-search-result__adress">Hermelijnvlinderdijk 109</h3>
+            <h3 class="m-search-result__city">Utrecht</h3>
+            <h4 class="m-search-result__amount-of-rooms">5 kamers</h4>
+          </div>
+          <div class="m-search-result__details">
+            <h3 class="m-search-result__price"><span>€</span> 659.000</h3>
+
+            <div class="m-search-result__status-wrap">
+              
+                          </div>
+
+          </div>
+        </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
         <link href="https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4"/>
-        <updated>2025-10-22T05:54:05.836Z</updated>
+        <updated>2025-10-22T17:43:28.895Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
