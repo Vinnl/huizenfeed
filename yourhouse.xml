@@ -2,9 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-house.nl/woningaanbod/koop/utrecht?availability=1&amp;iscustom=true&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000</id>
     <title>Your House</title>
-    <updated>2025-10-23T05:52:51.514Z</updated>
+    <updated>2025-10-23T17:56:24.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hayweb.blob.core.windows.net/public/wbyysd/2-beta/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Te koop: Rubenslaan 79-3, 3582JE Utrecht]]></title>
+        <id>https://your-house.nl/woningaanbod/koop/utrecht/rubenslaan/79-3?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12</id>
+        <link href="https://your-house.nl/woningaanbod/koop/utrecht/rubenslaan/79-3?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12"/>
+        <updated>2025-10-23T17:54:06.563Z</updated>
+        <content type="html"><![CDATA[<article class="object clearfix   ">
+            <div class="row">
+                <div class="col-xs-12 col-md-12 col-sm-12 sys-image-container object_photo_container">
+                    <div class="object_photo">
+                        <a class="sys-property-link" href="/woningaanbod/koop/utrecht/rubenslaan/79-3?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12" title="Te koop: Rubenslaan 79-3, 3582JE Utrecht">
+                            <div class="image-container sys-oneimg-nocycle" style="overflow: hidden; position: relative;">
+                                    <img alt="Rubenslaan 79-3, 3582JE Utrecht" width="250" class="img-responsive object_image" src="https://haywebattachments.blob.core.windows.net/public/3294/3848475/118800906/$m/250968096.jpg" title="Te koop: Rubenslaan 79-3, 3582JE Utrecht" style="position: absolute; width: auto; height: 223px; max-width: none; max-height: none; left: 0px; top: -8px;">
+                                
+                            </div>
+                        </a>
+                                <span class="object_status new_forsale">Nieuw in verkoop</span>
+
+                    </div>
+
+                </div>
+                <div class="col-xs-12 col-md-12 col-sm-12 object_content_container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="object_address">
+                                <a style="text-decoration: none;" class="sys-property-link object_header" href="/woningaanbod/koop/utrecht/rubenslaan/79-3?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12">
+                                    <h2>Te koop: Rubenslaan 79-3, 3582JE Utrecht</h2>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="object_data">
+                                <table cellspacing="0" cellpadding="1">
+                                        <tbody><tr>
+                                            <th class="object_price">Vraagprijs</th>
+                                            <td>
+                                                <span class="obj_price">€ 395.000,- k.k.</span>
+                                                    <span class="obj_pricepersquaremeter">€ 5.410,96/m<sup>2</sup></span>
+                                            </td>
+                                        </tr>
+                                            <tr>
+                                                <th class="object_price">Kamers</th>
+                                                <td>4 kamers</td>
+                                            </tr>
+
+                                </tbody></table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="object_options">
+
+                                <a class="sys-property-link object_fotos" href="/woningaanbod/koop/utrecht/rubenslaan/79-3?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12">
+                                        <i class="fa fa-picture-o"></i>
+34                                </a>
+
+                                    <a class="sys-property-link object_media object_plan" href="/woningaanbod/koop/utrecht/rubenslaan/79-3?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12">
+                                        <span class="object_media_number"><i class="fa fa-map-marker"></i> 6</span>
+                                    </a>
+
+                                    <a class="object-favorite " id="object-favorite-3848475" data-property-id="3848475" data-property-address="Te koop: Rubenslaan 79-3, 3582JE Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Als favoriet opslaan">
+                                        <span class="fav-icon">
+                                            <i class="icon-object-favorite"></i>
+                                        </span>
+                                    </a>
+
+
+                                    <a class="object-follow " id="object-follow-3848475" data-property-id="3848475" data-property-address="Te koop: Rubenslaan 79-3, 3582JE Utrecht" data-toggle="tooltip" data-placement="top" href="#" original-title="Object volgen">
+                                        <span class="fol-icon">
+                                            <i class="icon-object-follow"></i>
+                                        </span>
+                                    </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </article>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Te koop: Stadionlaan 59, 3583RB Utrecht]]></title>
         <id>https://your-house.nl/woningaanbod/koop/utrecht/stadionlaan/59?availability=1&amp;forsaleorrent=0&amp;iscustom=true&amp;localityid=1271&amp;locationofinterest=Utrecht&amp;minrooms=3&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=650000&amp;take=12</id>
