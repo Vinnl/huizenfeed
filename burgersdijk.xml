@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-10-27T05:55:42.815Z</updated>
+    <updated>2025-10-27T17:56:18.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
     <entry>
@@ -123,7 +123,7 @@
                         
                     
                     <p>
-                        Woonoppervlakte 116 m<sup>2</sup><br>
+                        Woonoppervlakte 99 m<sup>2</sup><br>
                         Aantal kamers 3
                     </p>
                     <span class="uk-hidden">
@@ -263,6 +263,50 @@
                         <span class="geo">
                             <span class="latitude">52.0979227</span>
                             <span class="longitude">5.1359489</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zaagmolenkade 40 
+                        3515 AE UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/zaagmolenkade-40-utrecht-9380932</id>
+        <link href="https://burgersdijk.com/koopwoningen/zaagmolenkade-40-utrecht-9380932"/>
+        <updated>2025-10-27T17:54:17.214Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-zaagmolenkade-40-utrecht-248653583.dea86345f2c7f68ef7968495923963e8.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-zaagmolenkade-40-utrecht-248653583.dea86345f2c7f68ef7968495923963e8.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-zaagmolenkade-40-utrecht-248653583.e0172d2913c731a1862b7fd465c36725.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-zaagmolenkade-40-utrecht-248653583.e0172d2913c731a1862b7fd465c36725.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Zaagmolenkade 40 </span><br>
+                        <span class="postal-code">3515 AE</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 449.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 75 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.1019443</span>
+                            <span class="longitude">5.1211884</span>
                         </span>
                     </span>
                 </span>
