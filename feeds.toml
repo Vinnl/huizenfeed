@@ -49,12 +49,10 @@ waitUntil = "domcontentloaded"
 
 [brecheisen]
 title = "Brecheisen makelaars"
-url = "https://www.brecheisen.nl/woningen/aanbod/zoeken/Utrecht+/beschikbaar/koop/0-650000/3-kamers"
-entrySelector = ".card-house"
-titleSelector = "h3"
+url = "https://www.brecheisen.nl/woningen/aanbod/?_plaatsen=utrecht&_types=benedenwoning%2Cgeschakelde-woning%2Choekwoning%2Ctussenwoning%2Ctwee-onder-een-kapwoning%2Cvrijstaande-woning&_status=beschikbaar&_prijs_tot=1-600000"
+entrySelector = ".object-status-beschikbaar"
+titleSelector = ".object-address"
 linkSelector = "a"
-waitUntil = "networkidle"
-matchAllOf = ["Utrecht"]
 
 [punt]
 title = "Punt Makelaars"
