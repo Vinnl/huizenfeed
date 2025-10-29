@@ -2,65 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-10-29T05:59:41.676Z</updated>
+    <updated>2025-10-29T17:58:41.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Jan van Ransdorpstraat 10C]]></title>
-        <id>https://www.remax.nl/woningen/jan-van-ransdorpstraat-10c-utrecht-2839</id>
-        <link href="https://www.remax.nl/woningen/jan-van-ransdorpstraat-10c-utrecht-2839"/>
-        <updated>2025-10-21T17:52:51.150Z</updated>
-        <content type="html"><![CDATA[<figure>
-        <div class="images">
-            <div class="first-image">
-                <img src="https://cloud01.topsite.nl/remax.nl/property/2839/245330764-143820_600x400_fit.jpg.webp" alt="Jan van Ransdorpstraat 10C">
-            </div>
-        </div>
-           </figure>
-    <div class="text d-flex flex-column flex-grow-1">
-        <div class="flex-grow-1">
-                            <span class="office">REMAX De Woonspecialist</span>
-                        <span class="title">Jan van Ransdorpstraat 10C</span>
-            <div class="d-flex gap-2 flex-wrap city-price">
-                <span class="price">UTRECHT<br>€ 505.000,- k.k.</span>
-            </div>
-        </div>
-        <div class="info d-flex justify-content-between">
-                            <div class="d-flex info-specs">
-                    <span><i class="icon-area"></i>106 m²</span>
-                    <span><i class="icon-bed"></i>4</span>
-                </div>
-                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attleeplantsoen 62]]></title>
-        <id>https://www.remax.nl/woningen/attleeplantsoen-62-utrecht-2041</id>
-        <link href="https://www.remax.nl/woningen/attleeplantsoen-62-utrecht-2041"/>
-        <updated>2025-08-27T18:00:27.801Z</updated>
-        <content type="html"><![CDATA[<figure>
-        <div class="images">
-            <div class="first-image">
-                <img src="https://cloud01.topsite.nl/remax.nl/property/2041/232270744-91037_600x400_fit.jpg.webp" alt="Attleeplantsoen 62">
-            </div>
-        </div>
-           </figure>
-    <div class="text d-flex flex-column flex-grow-1">
-        <div class="flex-grow-1">
-                            <span class="office">REMAX De Woonspecialist</span>
-                        <span class="title">Attleeplantsoen 62</span>
-            <div class="d-flex gap-2 flex-wrap city-price">
-                <span class="price">UTRECHT<br>€ 500.000,- k.k.</span>
-            </div>
-        </div>
-        <div class="info d-flex justify-content-between">
-                            <div class="d-flex info-specs">
-                    <span><i class="icon-area"></i>162 m²</span>
-                    <span><i class="icon-bed"></i>8</span>
-                </div>
-                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
-        </div>
-    </div>]]></content>
-    </entry>
 </feed>
