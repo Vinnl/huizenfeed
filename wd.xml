@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wdmakelaars.nl/woningen/</id>
     <title>WD Makelaars</title>
-    <updated>2025-10-31T17:52:23.872Z</updated>
+    <updated>2025-11-01T05:46:38.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://wdmakelaars.nl/app/uploads/2021/01/cropped-wd_icon-32x32.png</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2025-09-24T17:39:59.098Z</updated>
         <content type="html"><![CDATA[<a href="/woning/van-esveldstraat-265/" class="w-100 h-100">
 <span class="status">Beschikbaar</span><div class="img-wrapper">
-<img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="card-img-top" data-src="/app/uploads/realworks/wonen/9.266.294/243270594-460x310.jpg" alt="Van Esveldstraat 265"></div><div class="card-body"><h3 class="card-title h5">Van Esveldstraat 265<br><small>3572 KM, Utrecht</small></h3><p class="card-text"></p><div class="row"><span class="col-6"><i class="fas fa-home"></i> 104 m<sup>2</sup></span><span class="col-6"><i class="fas fa-tools"></i> 2001</span><span class="col-6"><i class="fas fa-bed"></i> 2</span><span class="col-6"><i class="fas fa-bath"></i> 1</span></div><p></p></div><div class="card-footer d-flex mt-auto">
+<img class="card-img-top" src="/app/uploads/realworks/wonen/9.266.294/243270594-460x310.jpg" alt="Van Esveldstraat 265"></div><div class="card-body"><h3 class="card-title h5">Van Esveldstraat 265<br><small>3572 KM, Utrecht</small></h3><p class="card-text"></p><div class="row"><span class="col-6"><i class="fas fa-home"></i> 104 m<sup>2</sup></span><span class="col-6"><i class="fas fa-tools"></i> 2001</span><span class="col-6"><i class="fas fa-bed"></i> 2</span><span class="col-6"><i class="fas fa-bath"></i> 1</span></div><p></p></div><div class="card-footer d-flex mt-auto">
 <span class="d-block mt-2"><strong>€ 500.000,- k.k.</strong></span>
 <span class="d-block mt-2"><dl><strong>Appartement</strong></dl></span></div>
 </a>]]></content>
