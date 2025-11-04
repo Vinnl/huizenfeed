@@ -239,7 +239,7 @@ linkSelector = "*"
 
 [wij]
 title = "Wij Makelaardij"
-url = "https://www.wijmakelaardij.nl/woningaanbod/"
+url = "https://www.wijmakelaardij.nl/woningaanbod/koop/#q1ZKTClKLY4vyElMLAFS-cUlyfkpqUpWSqElRanJGSVKOkrZ-fkFBUWZWcVKVtVKuYkVQEkzAxBQqoVIZpSWFilZRYPZSrG1AA"
 entrySelector = ".item-woning"
 titleSelector = ".title .left p"
 linkSelector = "a.overlay"
