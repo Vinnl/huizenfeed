@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.van-doorn.nl/woningen/#q1YqyElMLClWslIqLSlKTc4oUdJRKijKzAKKVCvlJlYAJcwNQECpthYA</id>
     <title>Van Doorn makelaardij</title>
-    <updated>2025-11-03T17:56:48.249Z</updated>
+    <updated>2025-11-04T05:53:57.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.van-doorn.nl/wp-content/uploads/2023/12/favicon.ico-1.png</icon>
     <entry>
@@ -22,14 +22,14 @@
                         </a>
 
                                                     <div class="flex items-center mb-10 font-normal tracking-wider text-16">
-							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white fas fa-home text-12" aria-hidden="true"></i></span>
+							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white fas fa-home text-12"></i></span>
 							<dl>Woonhuis</dl>                            </div>
                                                              
                             <div class="flex items-center mb-10 font-normal tracking-wider text-16">
-							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white text-12 fas fa-expand" aria-hidden="true"></i></span>
+							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white text-12 fas fa-expand"></i></span>
 							<dl>113 m<sup>2</sup></dl>                            </div>
                                                                             <div class="flex items-center font-normal tracking-wider text-16">
-							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white text-12 fas fa-gavel" aria-hidden="true"></i></span>
+							<span class="flex items-center justify-center w-20 h-20 mr-10 bg-primary"><i class="text-white text-12 fas fa-gavel"></i></span>
 							<dl>Beschikbaar</dl>                            </div>
                         						
                                                     <div class="mt-20 font-normal text-18">
