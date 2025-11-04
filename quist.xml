@@ -2,9 +2,613 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.quistmakelaardij.nl/aanbod/?_zoeken=utrecht&amp;_prijs_tot=1-600000&amp;_kamers=3-100</id>
     <title>Quist makelaardij</title>
-    <updated>2025-11-04T05:53:57.109Z</updated>
+    <updated>2025-11-04T17:57:17.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.quistmakelaardij.nl/aanbod/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Amsterdamsestraatweg
+				
+						
+												
+								
+																			
+										550]]></title>
+        <id>https://www.quistmakelaardij.nl/woningen/amsterdamsestraatweg-550-utrecht-43918dae6caa4afbe4c1fa8242ae800c3add4/</id>
+        <link href="https://www.quistmakelaardij.nl/woningen/amsterdamsestraatweg-550-utrecht-43918dae6caa4afbe4c1fa8242ae800c3add4/"/>
+        <updated>2025-11-04T17:56:38.021Z</updated>
+        <content type="html"><![CDATA[<div class="row">
+																	<div class="col-12">
+																											
+										
+										<div class="object-image position-relative mb-3">
+																					
+																							<a href="https://www.quistmakelaardij.nl/woningen/amsterdamsestraatweg-550-utrecht-43918dae6caa4afbe4c1fa8242ae800c3add4/" class="position-relative text-decoration-none d-block">
+																																	<div class="object-image-img">
+													
+			
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/251477336.jpg?portalid=4286&amp;check=api_sha256%3a1f10d99c98b15e754a4f935682078dcc0a9b03218697c6052519f848026ad958&amp;=20251103192204&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/251477336.jpg?portalid=4286&amp;check=api_sha256%3a1f10d99c98b15e754a4f935682078dcc0a9b03218697c6052519f848026ad958&amp;=20251103192204&amp;width=1080&amp;height=720" data-ll-status="native">
+
+																												<div class="object-status object-status-new position-absolute py-2 px-3">
+											TOPlocatie					</div>
+																												</div>
+																																											</a>
+										
+																				</div>
+
+																												</div>
+																	<div class="col-12">
+																		<div class="object-info">
+									
+														
+					
+			<div class="object-address notranslate mb-3">
+
+					
+							
+						
+				<div class="object-address-line notranslate">
+			
+						
+				
+					
+										
+							<span class="object-street">Amsterdamsestraatweg</span>
+				
+						
+												
+								
+																			
+										<span class="object-housenumber">550</span>
+							
+									
+									
+													
+							
+					
+							
+						
+				</div>
+			
+						
+						
+				
+									
+						<div class="object-address-line">
+				
+									
+										
+							<span class="object-zipcode">3553 EN</span>
+				
+										
+										
+							<span class="object-place">Utrecht</span>
+				
+										
+										
+										
+										
+										
+									
+									
+						</div>
+				
+					
+							
+						
+							
+		
+			</div>
+
+				
+		
+																		<div class="object-price mb-3 object-price-status-beschikbaar">
+		
+									<div class="object-price-sale">
+			
+			
+				
+					<span class="object-price-kind-of">
+
+						
+							Vraagprijs
+						
+					</span>
+
+				
+			
+			
+				
+					<span class="object-price-value">
+						
+						
+							€ 475.000
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+							k.k.
+						
+					</span>
+
+				
+			
+							</div>
+			
+		
+		
+			
+			
+			
+				
+					<span class="object-price-value">
+
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+					</span>
+
+				
+			
+			
+		
+			</div>
+	
+		
+																																								<div class="object-features mb-3">
+											
+																								
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-woonoppervlakte ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Woonopp.				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								93 m²				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-aantalkamers ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Aantal kamers				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								4 kamers 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+			
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+											</div>
+																																																					<div class="object-view mb-3">
+																																						<a href="https://www.quistmakelaardij.nl/woningen/amsterdamsestraatweg-550-utrecht-43918dae6caa4afbe4c1fa8242ae800c3add4/" class="position-relative p-3 text-decoration-none d-table" title="Amsterdamsestraatweg 550 3553 EN Utrecht">
+																										Bekijk object													</a>
+												</div>
+																															</div>
+									</div>
+								</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johan Wagenaarkade
+				
+						
+												
+								
+																			
+										69
+							
+									
+									
+																
+											2]]></title>
+        <id>https://www.quistmakelaardij.nl/woningen/johan-wagenaarkade-69-2-utrecht-439189287a71ebf78495eaa97d98a88b436f8/</id>
+        <link href="https://www.quistmakelaardij.nl/woningen/johan-wagenaarkade-69-2-utrecht-439189287a71ebf78495eaa97d98a88b436f8/"/>
+        <updated>2025-11-04T17:56:38.023Z</updated>
+        <content type="html"><![CDATA[<div class="row">
+																	<div class="col-12">
+																											
+										
+										<div class="object-image position-relative mb-3">
+																					
+																							<a href="https://www.quistmakelaardij.nl/woningen/johan-wagenaarkade-69-2-utrecht-439189287a71ebf78495eaa97d98a88b436f8/" class="position-relative text-decoration-none d-block">
+																																	<div class="object-image-img">
+													
+			
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/251019334.jpg?portalid=4286&amp;check=api_sha256%3a19cd722d750e48af0cbf3b6a14a272812f452f31e1dd29a923af89f4cefcbb59&amp;=20251023145503&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/251019334.jpg?portalid=4286&amp;check=api_sha256%3a19cd722d750e48af0cbf3b6a14a272812f452f31e1dd29a923af89f4cefcbb59&amp;=20251023145503&amp;width=1080&amp;height=720" data-ll-status="native">
+
+																												<div class="object-status object-status-new position-absolute py-2 px-3">
+											TOPlocatie					</div>
+																												</div>
+																																											</a>
+										
+																				</div>
+
+																												</div>
+																	<div class="col-12">
+																		<div class="object-info">
+									
+														
+					
+			<div class="object-address notranslate mb-3">
+
+					
+							
+						
+				<div class="object-address-line notranslate">
+			
+						
+				
+					
+										
+							<span class="object-street">Johan Wagenaarkade</span>
+				
+						
+												
+								
+																			
+										<span class="object-housenumber">69</span>
+							
+									
+									
+																
+											<span class="object-housenumber-addition">2</span>
+
+																
+									
+													
+							
+					
+							
+						
+				</div>
+			
+						
+						
+				
+									
+						<div class="object-address-line">
+				
+									
+										
+							<span class="object-zipcode">3533 TH</span>
+				
+										
+										
+							<span class="object-place">Utrecht</span>
+				
+										
+										
+										
+										
+										
+									
+									
+						</div>
+				
+					
+							
+						
+							
+		
+			</div>
+
+				
+		
+																		<div class="object-price mb-3 object-price-status-beschikbaar">
+		
+									<div class="object-price-sale">
+			
+			
+				
+					<span class="object-price-kind-of">
+
+						
+							Vraagprijs
+						
+					</span>
+
+				
+			
+			
+				
+					<span class="object-price-value">
+						
+						
+							€ 375.000
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+							k.k.
+						
+					</span>
+
+				
+			
+							</div>
+			
+		
+		
+			
+			
+			
+				
+					<span class="object-price-value">
+
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+					</span>
+
+				
+			
+			
+		
+			</div>
+	
+		
+																																								<div class="object-features mb-3">
+											
+																								
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-woonoppervlakte ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Woonopp.				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								79 m²				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-aantalkamers ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Aantal kamers				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								4 kamers 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+			
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+											</div>
+																																																					<div class="object-view mb-3">
+																																						<a href="https://www.quistmakelaardij.nl/woningen/johan-wagenaarkade-69-2-utrecht-439189287a71ebf78495eaa97d98a88b436f8/" class="position-relative p-3 text-decoration-none d-table" title="Johan Wagenaarkade 69 2 3533 TH Utrecht">
+																										Bekijk object													</a>
+												</div>
+																															</div>
+									</div>
+								</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adriaen van Ostadelaan
 				

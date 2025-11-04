@@ -2,7 +2,384 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://overduyn.nl/koopaanbod/?_prijs_tot=1-650000&amp;_plaatsen=utrecht&amp;_slaapkamers=3-100</id>
     <title>overduyn makelaars</title>
-    <updated>2025-11-04T05:53:57.010Z</updated>
+    <updated>2025-11-04T17:57:17.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://overduyn.nl/wp-content/uploads/2025/02/favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Aquamarijnlaan
+				
+						
+												
+								
+																			
+										41]]></title>
+        <id>https://overduyn.nl/woningen/aquamarijnlaan-41-utrecht-11687e73678ef438b4ba3aa0d5f49d0edda91/</id>
+        <link href="https://overduyn.nl/woningen/aquamarijnlaan-41-utrecht-11687e73678ef438b4ba3aa0d5f49d0edda91/"/>
+        <updated>2025-11-04T17:54:50.487Z</updated>
+        <content type="html"><![CDATA[<div class="object object-status-beschikbaar object-price-koop  mb-4">
+																					<div class="row">
+																	<div class="col-12">
+																											
+										
+										<div class="object-image position-relative mb-3">
+																					
+																							<a href="https://overduyn.nl/woningen/aquamarijnlaan-41-utrecht-11687e73678ef438b4ba3aa0d5f49d0edda91/" class="position-relative text-decoration-none d-block">
+																																	<div class="object-image-img">
+													
+			
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/251311458.jpg?portalid=4286&amp;check=api_sha256%3a062273cc09f243e65ccfedb3d5adab56adb3cb696a74c42045a6db9ae818a020&amp;=20251103093724&amp;width=720&amp;height=480" class="img-fluid img-cover w-100 lazy loaded" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/251311458.jpg?portalid=4286&amp;check=api_sha256%3a062273cc09f243e65ccfedb3d5adab56adb3cb696a74c42045a6db9ae818a020&amp;=20251103093724&amp;width=720&amp;height=480" data-ll-status="loaded">
+
+																																									</div>
+																																											</a>
+										
+																				</div>
+
+																												</div>
+																	<div class="col-12">
+																		<div class="object-info">
+									
+														
+					
+			<div class="object-address notranslate mb-3">
+
+					
+							
+						
+				<div class="object-address-line notranslate">
+			
+						
+				
+					
+										
+							<span class="object-street">Aquamarijnlaan</span>
+				
+						
+												
+								
+																			
+										<span class="object-housenumber">41</span>
+							
+									
+									
+													
+							
+					
+							
+						
+				</div>
+			
+						
+						
+				
+									
+						<div class="object-address-line">
+				
+									
+										
+										
+							<span class="object-place">Utrecht</span>
+				
+										
+										
+										
+										
+										
+									
+									
+						</div>
+				
+					
+							
+						
+							
+		
+			</div>
+
+				
+		
+																		<div class="object-price mb-3 object-price-status-beschikbaar">
+		
+									<div class="object-price-sale">
+			
+			
+				
+					<span class="object-price-kind-of">
+
+						
+							Vraagprijs
+						
+					</span>
+
+				
+			
+			
+				
+					<span class="object-price-value">
+						
+						
+							€ 575.000
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+							k.k.
+						
+					</span>
+
+				
+			
+							</div>
+			
+		
+		
+			
+			
+				
+			
+			
+				
+					<span class="object-price-value">
+
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+					</span>
+
+				
+			
+			
+		
+			</div>
+	
+		
+																																								<div class="object-features mb-3">
+											
+																								
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-bouwjaar ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Bouwjaar				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								1936 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-woonoppervlakte ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Woonopp.				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								105 m²				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+					
+				<div class="object-feature object-feature-totalekadestraleoppervlakte ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Perceelopp.				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								128 m²				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-aantalkamers ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Aantal kamers				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								5 kamers 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-features-energy object-features-energy-D ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Energielabel				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								D 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+					
+	
+	
+	
+	
+			
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+											</div>
+																																																					<div class="object-view mb-3">
+																																						<a href="https://overduyn.nl/woningen/aquamarijnlaan-41-utrecht-11687e73678ef438b4ba3aa0d5f49d0edda91/" class="position-relative p-3 text-decoration-none d-table" title="Aquamarijnlaan 41 Utrecht">
+																										Bekijk object													</a>
+												</div>
+																															</div>
+									</div>
+								</div>
+							</div>]]></content>
+    </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-11-04T05:53:57.064Z</updated>
+    <updated>2025-11-04T17:57:17.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -147,7 +147,7 @@
       
         
         
-        <div data-image-src="https://media.nvm.nl/512x/9b42adcf-1057-4bdf-909d-eedfa2de2f2b" class="m-search-result__image" data-index="0" style="width: 372px; background-image: url(&quot;https://media.nvm.nl/512x/9b42adcf-1057-4bdf-909d-eedfa2de2f2b&quot;); opacity: 1;" data-is-in-view="true"></div>
+        <div data-image-src="https://media.nvm.nl/512x/9b42adcf-1057-4bdf-909d-eedfa2de2f2b" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
 
       
         
@@ -180,68 +180,6 @@
             <h3 class="m-search-result__adress">Herman Modedstraat 31</h3>
             <h3 class="m-search-result__city">Utrecht</h3>
             <h4 class="m-search-result__amount-of-rooms">5 kamers</h4>
-          </div>
-          <div class="m-search-result__details">
-            <h3 class="m-search-result__price"><span>€</span> 600.000</h3>
-
-            <div class="m-search-result__status-wrap">
-              
-                          </div>
-
-          </div>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amsterdamsestraatweg 535 BS
-            Utrecht
-            4 kamers
-          
-          
-            € 600.000]]></title>
-        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-amsterdamsestraatweg-535-bs/</id>
-        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-amsterdamsestraatweg-535-bs/"/>
-        <updated>2025-09-16T17:41:05.211Z</updated>
-        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
-  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
-  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-amsterdamsestraatweg-535-bs/">
-    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/936ca000-27a7-444d-9b56-91e0edcb3cb0" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/af3de4c3-7b95-4712-a43f-7730200f2285" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/6e56b12a-36e2-482b-8871-6ff877e2f231" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/14c9ded9-f9f9-451a-a9dd-3ad74c289922" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
-
-      
-        
-        
-        <div data-image-src="https://media.nvm.nl/512x/31b670f4-786b-4c6a-af30-c696a2317c55" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
-
-      
-    </div>
-  </a>
-  <button class="m-search-result__button" data-next-slide="next"></button>
-</figure>
-
-        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-amsterdamsestraatweg-535-bs/" class="m-search-result__content-wrap">
-          <div class="m-search-result__content">
-            <h3 class="m-search-result__adress">Amsterdamsestraatweg 535 BS</h3>
-            <h3 class="m-search-result__city">Utrecht</h3>
-            <h4 class="m-search-result__amount-of-rooms">4 kamers</h4>
           </div>
           <div class="m-search-result__details">
             <h3 class="m-search-result__price"><span>€</span> 600.000</h3>
