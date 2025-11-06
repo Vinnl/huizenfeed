@@ -548,6 +548,13 @@ linkSelector = "a"
 matchAllOf = ["Beschikbaar"]
 matchOneOf = ["3 slaapkamers", "4 slaapkamers", "5 slaapkamers"]
 
+[derkmakelaardij]
+title = "Derk makelaardij"
+url = "https://derkmakelaardij.nl/woningaanbod/?_prijs_tot=1-600000&_plaatsen=utrecht&_types=geschakelde-woning%2Ctussenwoning&_kamers=4-100"
+entrySelector = ".object-status-beschikbaar"
+titleSelector = ".object-address-line:first-child"
+linkSelector = "a"
+
 [funda]
 title = "Funda (laatste 3 dagen)"
 url = "https://www.funda.nl/zoeken/koop?selected_area=[%22utrecht%22]&price=%220-600000%22&publication_date=%223%22&availability=[%22available%22]&bedrooms=%223-%22&bathrooms=%221-%22&exterior_space_type=[%22garden%22]"
