@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-11-06T05:55:14.672Z</updated>
+    <updated>2025-11-06T17:55:59.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
     <entry>
@@ -182,94 +182,6 @@
         </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Van der Mondestraat 93 BS
-                        3515 BD UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/van-der-mondestraat-93-utrecht-8675225</id>
-        <link href="https://burgersdijk.com/koopwoningen/van-der-mondestraat-93-utrecht-8675225"/>
-        <updated>2025-10-21T17:51:52.034Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/002-hoofdfoto-van-der-mondestraat-93-utrecht-240769182.69bc84b730f7f1103b2667ab8c6421ff.jpg" data-src="/assets/components/phpthumbof/cache/002-hoofdfoto-van-der-mondestraat-93-utrecht-240769182.69bc84b730f7f1103b2667ab8c6421ff.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/002-hoofdfoto-van-der-mondestraat-93-utrecht-240769182.97e8df805a787f2b55237c0585a5622d.jpg" data-src="/assets/components/phpthumbof/cache/002-hoofdfoto-van-der-mondestraat-93-utrecht-240769182.97e8df805a787f2b55237c0585a5622d.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Van der Mondestraat 93 BS</span><br>
-                        <span class="postal-code">3515 BD</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 599.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 117 m<sup>2</sup><br>
-                        Aantal kamers 5
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.1036457</span>
-                            <span class="longitude">5.1190948</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Van Imhoffstraat 21 BS
-                        3531 HT UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/van-imhoffstraat-21-utrecht-9557542</id>
-        <link href="https://burgersdijk.com/koopwoningen/van-imhoffstraat-21-utrecht-9557542"/>
-        <updated>2025-10-22T17:51:25.983Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-249313860.a473346b88a04524b75e5937a74c9048.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-249313860.a473346b88a04524b75e5937a74c9048.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-249313860.8b07f3277e213436ce54ee468eb39b1f.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-van-imhoffstraat-21-utrecht-249313860.8b07f3277e213436ce54ee468eb39b1f.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Van Imhoffstraat 21 BS</span><br>
-                        <span class="postal-code">3531 HT</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 499.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 99 m<sup>2</sup><br>
-                        Aantal kamers 3
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0917984</span>
-                            <span class="longitude">5.0960805</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oudenoord 389 
                         3513 EP UTRECHT]]></title>
         <id>https://burgersdijk.com/koopwoningen/oudenoord-389-utrecht-9558946</id>
@@ -307,6 +219,50 @@
                         <span class="geo">
                             <span class="latitude">52.1000482</span>
                             <span class="longitude">5.10924</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bladstraat 15 BS
+                        3572 HT UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/bladstraat-15-utrecht-9370516</id>
+        <link href="https://burgersdijk.com/koopwoningen/bladstraat-15-utrecht-9370516"/>
+        <updated>2025-11-06T17:53:55.881Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.da664f246f18a1a43c14a8d30dce5d6a.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.da664f246f18a1a43c14a8d30dce5d6a.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.868aa363f0f3517492a43598d37cd544.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-bladstraat-15-utrecht-245279680.868aa363f0f3517492a43598d37cd544.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Bladstraat 15 BS</span><br>
+                        <span class="postal-code">3572 HT</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 589.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 74 m<sup>2</sup><br>
+                        Aantal kamers 3
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.0979227</span>
+                            <span class="longitude">5.1359489</span>
                         </span>
                     </span>
                 </span>
