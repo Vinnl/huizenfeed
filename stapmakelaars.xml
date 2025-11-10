@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stapmakelaars.nl/woningaanbod/#HYvBDoAgDEP_ZWcOXtTEvxlkCYgKGUNNCP_usKe2r20QU8q-Vobtt2AgH4hSNFdhcl60GiRz2LVtcOKrcJmGoBsoglLH3lJxPkSLyPp5Urr0RXwfGIWUrzP0Dw</id>
     <title>Stap makelaars</title>
-    <updated>2025-11-09T17:49:25.170Z</updated>
+    <updated>2025-11-10T05:53:20.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stapmakelaars.nl/wp-content/uploads/2025/04/cropped-favicon-32x32.png</icon>
     <entry>
@@ -24,7 +24,7 @@
                                             
                                             
                                             
-                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/kromme-nieuwegracht-33b/" aria-label="Bekijk detail pagina van Kromme Nieuwegracht 33B"></a>
                     <img width="900" height="600" class="card__image flickity-lazyloaded entered lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.756.735/251505314-900x600.jpg" alt="Afbeelding voor Kromme Nieuwegracht 33B" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.756.735/251505314-900x600.jpg" data-ll-status="loaded"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/8.756.735/251505314-900x600.jpg" alt="Afbeelding voor Kromme Nieuwegracht 33B"></noscript>
                 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
@@ -87,7 +87,7 @@
                                             
                                             
                                             
-                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/" aria-label="Bekijk detail pagina van Jacob Simonsz. de Rijkstraat 38"></a>
                     <img width="900" height="600" class="card__image flickity-lazyloaded entered lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/251827940-900x600.jpg" alt="Afbeelding voor Jacob Simonsz. de Rijkstraat 38" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/251827940-900x600.jpg" data-ll-status="loaded"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/251827940-900x600.jpg" alt="Afbeelding voor Jacob Simonsz. de Rijkstraat 38"></noscript>
                 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
@@ -276,7 +276,7 @@
                                             
                                             
                                             
-                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translate3d(-500%, 0px, 0px);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
+                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
                     <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/adriaan-mulderstraat-134/" aria-label="Bekijk detail pagina van Adriaan Mulderstraat 134"></a>
                     <img width="900" height="600" class="card__image flickity-lazyloaded" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Afbeelding voor Adriaan Mulderstraat 134" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.425.996/246460514-900x600.jpg"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/9.425.996/246460514-900x600.jpg" alt="Afbeelding voor Adriaan Mulderstraat 134"></noscript>
                 </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
