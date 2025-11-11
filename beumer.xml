@@ -2,9 +2,159 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-11-11T05:53:08.244Z</updated>
+    <updated>2025-11-11T17:48:55.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Montfoortlaan 56]]></title>
+        <id>https://www.beumer.nl/wonen/object/montfoortlaan-56-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/montfoortlaan-56-utrecht/"/>
+        <updated>2025-11-11T17:44:26.145Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/montfoortlaan-56-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103254/UT103254-241405-Montfoortlaan-56-Utrecht-253380750-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103254/UT103254-241405-Montfoortlaan-56-Utrecht-253380750-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103254/UT103254-241405-Montfoortlaan-56-Utrecht-253380750-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103254/UT103254-241405-Montfoortlaan-56-Utrecht-253380750-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/UT103254/UT103254-241405-Montfoortlaan-56-Utrecht-253380750-150x150.jpg" alt="                        Montfoortlaan 56
+                    " src="/app/uploads/sure/media/UT103254/UT103254-241405-Montfoortlaan-56-Utrecht-253380750-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Montfoortlaan 56
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 589.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>118 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        4 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        A
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prof. Zonnebloemlaan 17]]></title>
+        <id>https://www.beumer.nl/wonen/object/prof-zonnebloemlaan-17-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/prof-zonnebloemlaan-17-utrecht/"/>
+        <updated>2025-11-11T17:44:26.192Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/prof-zonnebloemlaan-17-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-scaled-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-scaled-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-150x150.jpg" alt="                        Prof. Zonnebloemlaan 17
+                    " src="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Prof. Zonnebloemlaan 17
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 700.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>123 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        5 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        A
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Livingstonelaan 766]]></title>
+        <id>https://www.beumer.nl/wonen/object/livingstonelaan-766-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/livingstonelaan-766-utrecht/"/>
+        <updated>2025-11-11T17:44:26.206Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/livingstonelaan-766-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-scaled-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-scaled-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-150x150.jpg" alt="                        Livingstonelaan 766
+                    " src="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Livingstonelaan 766
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 395.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>109 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        4 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        C
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hertestraat 11]]></title>
         <id>https://www.beumer.nl/wonen/object/hertestraat-11-utrecht/</id>
@@ -156,56 +306,6 @@
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Van Vollenhovenlaan 265]]></title>
-        <id>https://www.beumer.nl/wonen/object/van-vollenhovenlaan-265-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/van-vollenhovenlaan-265-utrecht/"/>
-        <updated>2025-10-28T17:48:25.646Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/van-vollenhovenlaan-265-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103219/UT103219-239209-Van-Vollenhovenlaan-265-Utrecht-251235554-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103219/UT103219-239209-Van-Vollenhovenlaan-265-Utrecht-251235554-scaled-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103219/UT103219-239209-Van-Vollenhovenlaan-265-Utrecht-251235554-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103219/UT103219-239209-Van-Vollenhovenlaan-265-Utrecht-251235554-scaled-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/UT103219/UT103219-239209-Van-Vollenhovenlaan-265-Utrecht-251235554-150x150.jpg" alt="                        Van Vollenhovenlaan 265
-                    " src="/app/uploads/sure/media/UT103219/UT103219-239209-Van-Vollenhovenlaan-265-Utrecht-251235554-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Van Vollenhovenlaan 265
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 395.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>102 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        4 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        C
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nieuwe Keizersgracht 37 BS]]></title>
         <id>https://www.beumer.nl/wonen/object/nieuwe-keizersgracht-37bs-utrecht/</id>
         <link href="https://www.beumer.nl/wonen/object/nieuwe-keizersgracht-37bs-utrecht/"/>
@@ -218,7 +318,7 @@
                         <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103059/UT103059-224509-Nieuwe-Keizersgracht-37BS-Utrecht-238113234-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103059/UT103059-224509-Nieuwe-Keizersgracht-37BS-Utrecht-238113234-600x476-c-default.webp">
                         <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103059/UT103059-224509-Nieuwe-Keizersgracht-37BS-Utrecht-238113234-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103059/UT103059-224509-Nieuwe-Keizersgracht-37BS-Utrecht-238113234-400x317-c-default.webp">
                         <img loading="lazy" data-src="/app/uploads/sure/media/UT103059/UT103059-224509-Nieuwe-Keizersgracht-37BS-Utrecht-238113234-150x150.jpg" alt="                        Nieuwe Keizersgracht 37 BS
-                    " src="/app/uploads/sure/media/UT103059/UT103059-224509-Nieuwe-Keizersgracht-37BS-Utrecht-238113234-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    " src="/app/uploads/sure/media/UT103059/UT103059-224509-Nieuwe-Keizersgracht-37BS-Utrecht-238113234-150x150.jpg" data-ll-status="native">
                     </picture>
                             
                         <div class="card-house__label__holder">

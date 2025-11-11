@@ -2,7 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://365makelaardij.nl/wonen/zoeken/heel-nederland/koop/utrecht/3-slaapkamers/beschikbaar/</id>
     <title>365makelaardij</title>
-    <updated>2025-11-11T05:53:08.329Z</updated>
+    <updated>2025-11-11T17:48:55.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://365makelaardij.nl/app/uploads-makelaardij/2024/05/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Adelboldstraat 52]]></title>
+        <id>https://365makelaardij.nl/wonen/object/adelboldstraat-52-utrecht/</id>
+        <link href="https://365makelaardij.nl/wonen/object/adelboldstraat-52-utrecht/"/>
+        <updated>2025-11-11T17:44:57.617Z</updated>
+        <content type="html"><![CDATA[<a href="https://365makelaardij.nl/wonen/object/adelboldstraat-52-utrecht/" class="card-property" title="Adelboldstraat 52">
+    <div class="card-property__image">
+            
+<picture>
+                                                    
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png" type="image/png" media="(min-width: 2560px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png" type="image/png" media="(min-width: 1280px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png" type="image/png" media="(min-width: 1024px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png" type="image/png" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png" type="image/png" media="(min-width: 460px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png" type="image/png" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750.png">
+            
+                                                <img fetchpriority="high" src="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750-150x150.png" data-src="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102062/UT102062-41174-Adelboldstraat-52-Utrecht-253596750-150x150.png" alt="UT102062-41174-Adelboldstraat-52,-Utrecht-253596750" class=" ls-is-cached lazyloaded" loading="lazy">
+                                        </picture>
+    </div>
+
+            <div class="card-property__label">
+            <span>Beschikbaar</span>
+        </div>
+    
+    <div class="card-property__content">
+        <div class="row align-items-end">
+            <div class="col-md-6">
+                <h4>Adelboldstraat 52</h4>
+                                                                    <ul class="card-property__list">
+                                                    <li class="card-property__list-item">
+                                € 550.000
+                            </li>
+                                                                            <li class="card-property__list-item">
+                                Utrecht
+                            </li>
+                                            </ul>
+                            </div>
+
+                                                    <div class="col-md-6 mt-15 mt-md-0 d-flex justify-content-md-end">
+                    <ul class="card-property__list justify-content-md-end">
+                                                    <li class="card-property__list-item">
+                                <i class="icon-surface"></i>72m²
+                            </li>
+                                                                            <li class="card-property__list-item">
+                                <i class="icon-door"></i>5
+                            </li>
+                                            </ul>
+                </div>
+                    </div>
+    </div>
+</a>]]></content>
+    </entry>
 </feed>
