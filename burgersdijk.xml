@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-11-12T05:55:25.042Z</updated>
+    <updated>2025-11-12T17:52:30.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
     <entry>
@@ -182,15 +182,15 @@
         </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brigittenstraat 12 
-                        3512 KK UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/brigittenstraat-12-utrecht-9533454</id>
-        <link href="https://burgersdijk.com/koopwoningen/brigittenstraat-12-utrecht-9533454"/>
-        <updated>2025-10-29T17:56:51.904Z</updated>
+        <title type="html"><![CDATA[Prinsendaalderhof 20 
+                        3541 GW UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/prinsendaalderhof-20-utrecht-9518026</id>
+        <link href="https://burgersdijk.com/koopwoningen/prinsendaalderhof-20-utrecht-9518026"/>
+        <updated>2025-11-12T17:50:23.859Z</updated>
         <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
             <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-brigittenstraat-12-utrecht-251676906.4923a6d6416826dec0b7375d80fdd2af.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-brigittenstraat-12-utrecht-251676906.4923a6d6416826dec0b7375d80fdd2af.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-brigittenstraat-12-utrecht-251676906.31f91c89950aa2f5577978bbd9f05a5f.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-brigittenstraat-12-utrecht-251676906.31f91c89950aa2f5577978bbd9f05a5f.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.5d1f6c7725e2c1b386c792bd7f9924a2.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.5d1f6c7725e2c1b386c792bd7f9924a2.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.07f4f49ab38b84f685cf814eae31bd3e.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.07f4f49ab38b84f685cf814eae31bd3e.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
                 
                     
                 
@@ -198,27 +198,27 @@
             <div class="uk-card-body uk-card-small vcard">
                 <span class="adr">
                     <h3 class="uk-text-default">
-                        <span class="street-address">Brigittenstraat 12 </span><br>
-                        <span class="postal-code">3512 KK</span> <span class="locality">UTRECHT</span>
+                        <span class="street-address">Prinsendaalderhof 20 </span><br>
+                        <span class="postal-code">3541 GW</span> <span class="locality">UTRECHT</span>
                     </h3>
                     
                         
                             
-                                <p class="selling_price">€ 485.000 <span>k.k.</span></p>
+                                <p class="selling_price">€ 585.000 <span>k.k.</span></p>
                             
                         
                                                     
                         
                     
                     <p>
-                        Woonoppervlakte 89 m<sup>2</sup><br>
+                        Woonoppervlakte 69 m<sup>2</sup><br>
                         Aantal kamers 3
                     </p>
                     <span class="uk-hidden">
                         <span class="country-name">Nederland</span>
                         <span class="geo">
-                            <span class="latitude">52.0886691</span>
-                            <span class="longitude">5.1261727</span>
+                            <span class="latitude">52.0913314</span>
+                            <span class="longitude">5.0762135</span>
                         </span>
                     </span>
                 </span>
