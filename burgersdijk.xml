@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-11-13T05:50:46.473Z</updated>
+    <updated>2025-11-13T17:54:31.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
     <entry>
@@ -263,50 +263,6 @@
                         <span class="geo">
                             <span class="latitude">52.0906742</span>
                             <span class="longitude">5.1333511</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oudenoord 389 
-                        3513 EP UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/oudenoord-389-utrecht-9558946</id>
-        <link href="https://burgersdijk.com/koopwoningen/oudenoord-389-utrecht-9558946"/>
-        <updated>2025-10-19T17:46:44.764Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-249370470.2fdec6979ca0720f22db6e4821180007.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-249370470.2fdec6979ca0720f22db6e4821180007.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-249370470.11eff4d91312a841217d5326080b2587.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-249370470.11eff4d91312a841217d5326080b2587.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Oudenoord 389 </span><br>
-                        <span class="postal-code">3513 EP</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 535.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 92 m<sup>2</sup><br>
-                        Aantal kamers 4
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.1000482</span>
-                            <span class="longitude">5.10924</span>
                         </span>
                     </span>
                 </span>

@@ -2,7 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/</id>
     <title>Waltmann Makelaars</title>
-    <updated>2025-11-13T05:50:46.491Z</updated>
+    <updated>2025-11-13T17:54:31.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.waltmann.nl/app/themes/supress/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Kernkampplantsoen 25]]></title>
+        <id>https://www.waltmann.nl/wonen/object/kernkampplantsoen-25-utrecht-2/</id>
+        <link href="https://www.waltmann.nl/wonen/object/kernkampplantsoen-25-utrecht-2/"/>
+        <updated>2025-11-13T17:49:35.725Z</updated>
+        <content type="html"><![CDATA[<div class="card-house__image">
+        <picture>
+                            <img src="/app/uploads/sure/media/UT105531/UT105531-78484-Kernkampplantsoen-25-Utrecht-253523996-scaled.jpg" alt="">
+                    </picture>
+
+                    <div class="card-house__tag">Te Koop</div>
+            </div>
+
+    <div class="card-house__content">
+                    <div class="card-house__subtitle">Utrecht</div>
+        
+                    <h4>Kernkampplantsoen 25 </h4>
+        
+        <p>
+                                                Vraagprijs:  € 429.000,-  Kosten koper
+                                    </p>
+
+                    <p class="card-house__subtitle mt-5">&nbsp;</p>
+        
+        <div class="card-house__bottom">
+            <ul class="list-unstyled d-flex">
+                                    <li>
+                        <i class="icon-expand"></i>
+                        <span>93 m<sup>2</sup></span>
+                    </li>
+                
+                                    <li>
+                        <i class="icon-bedroom"></i>
+                        <span>2</span>
+                    </li>
+                                            <li><i class="icon-energylabel"></i>ENERGIELABEL D</li>
+                                                </ul>
+
+            <span class="btn btn--text btn--il">
+                <i class="icon-chevron-right"></i>
+                                    Bekijk deze woning
+                
+            </span>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marie Curielaan 34]]></title>
+        <id>https://www.waltmann.nl/wonen/object/marie-curielaan-34-utrecht/</id>
+        <link href="https://www.waltmann.nl/wonen/object/marie-curielaan-34-utrecht/"/>
+        <updated>2025-11-13T17:49:35.813Z</updated>
+        <content type="html"><![CDATA[<div class="card-house__image">
+        <picture>
+                            <img src="/app/uploads/sure/media/UT105518/UT105518-78518-Marie-Curielaan-34-Utrecht-253051680-scaled.jpg" alt="">
+                    </picture>
+
+                    <div class="card-house__tag">Te Koop</div>
+            </div>
+
+    <div class="card-house__content">
+                    <div class="card-house__subtitle">Utrecht</div>
+        
+                    <h4>Marie Curielaan 34 </h4>
+        
+        <p>
+                                                Vraagprijs:  € 315.000,-  Kosten koper
+                                    </p>
+
+                    <p class="card-house__subtitle mt-5">&nbsp;</p>
+        
+        <div class="card-house__bottom">
+            <ul class="list-unstyled d-flex">
+                                    <li>
+                        <i class="icon-expand"></i>
+                        <span>61 m<sup>2</sup></span>
+                    </li>
+                
+                                    <li>
+                        <i class="icon-bedroom"></i>
+                        <span>2</span>
+                    </li>
+                                            <li><i class="icon-energylabel"></i>ENERGIELABEL G</li>
+                                                </ul>
+
+            <span class="btn btn--text btn--il">
+                <i class="icon-chevron-right"></i>
+                                    Bekijk deze woning
+                
+            </span>
+        </div>
+    </div>]]></content>
+    </entry>
 </feed>
