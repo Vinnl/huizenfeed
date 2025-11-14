@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.makelaarsland.nl/huis-kopen/?_q=Utrecht&amp;min=&amp;max=700000&amp;type=&amp;kamers=4</id>
     <title>Makelaarsland</title>
-    <updated>2025-11-14T05:54:37.413Z</updated>
+    <updated>2025-11-14T17:52:28.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.makelaarsland.nl/content/themes/makelaarsland/assets/favicon/favicon-32x32.png</icon>
     <entry>
@@ -369,6 +369,68 @@
           </div>
           <div class="m-search-result__details">
             <h3 class="m-search-result__price"><span>€</span> 650.000</h3>
+
+            <div class="m-search-result__status-wrap">
+              
+                          </div>
+
+          </div>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detmoldstraat 3
+            Utrecht
+            5 kamers
+          
+          
+            € 550.000]]></title>
+        <id>https://www.makelaarsland.nl/huis-kopen/utrecht-detmoldstraat-3/</id>
+        <link href="https://www.makelaarsland.nl/huis-kopen/utrecht-detmoldstraat-3/"/>
+        <updated>2025-11-14T17:41:56.946Z</updated>
+        <content type="html"><![CDATA[<figure class="m-search-result__slider-wrap">
+  <button class="m-search-result__button hidden" data-previous-slide="previous"></button>
+  <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-detmoldstraat-3/">
+    <div class="m-search-result-slider" data-slider-container="" style="width: 1860px;">
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/42989065-3403-41ae-857b-f056f8a561d9" class="m-search-result__image" data-index="0" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/915e63d6-e671-4499-a95b-bc93a0923257" class="m-search-result__image" data-index="1" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/8bb2cc65-2222-4e81-92c2-654c34a33d12" class="m-search-result__image" data-index="2" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/513dd973-5341-4bd4-8254-6fba224f505f" class="m-search-result__image" data-index="3" style="width: 372px;"></div>
+
+      
+        
+        
+        <div data-image-src="https://media.nvm.nl/512x/287ae9fa-6426-43cb-97aa-b583f377cd86" class="m-search-result__image" data-index="4" style="width: 372px;"></div>
+
+      
+    </div>
+  </a>
+  <button class="m-search-result__button" data-next-slide="next"></button>
+</figure>
+
+        <a href="https://www.makelaarsland.nl/huis-kopen/utrecht-detmoldstraat-3/" class="m-search-result__content-wrap">
+          <div class="m-search-result__content">
+            <h3 class="m-search-result__adress">Detmoldstraat 3</h3>
+            <h3 class="m-search-result__city">Utrecht</h3>
+            <h4 class="m-search-result__amount-of-rooms">5 kamers</h4>
+          </div>
+          <div class="m-search-result__details">
+            <h3 class="m-search-result__price"><span>€</span> 550.000</h3>
 
             <div class="m-search-result__status-wrap">
               
