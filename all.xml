@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-15T05:52:06.194Z</updated>
+    <updated>2025-11-15T17:49:27.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[TE KOOP! Bemuurde Weerd W.Z. 2 (MOIB makelaars)]]></title>
@@ -102,7 +102,7 @@
 																																	<div class="object-image-img">
 													
 			
-			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/249855458.jpg?portalid=4286&amp;check=api_sha256%3a91ee1990de4212230f5210fc95332a289a2e7b7c0523bb1340808ba33a01ec31&amp;=20251113105459&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy loaded" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/249855458.jpg?portalid=4286&amp;check=api_sha256%3a91ee1990de4212230f5210fc95332a289a2e7b7c0523bb1340808ba33a01ec31&amp;=20251113105459&amp;width=1080&amp;height=720" data-ll-status="loaded">
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/249855458.jpg?portalid=4286&amp;check=api_sha256%3a91ee1990de4212230f5210fc95332a289a2e7b7c0523bb1340808ba33a01ec31&amp;=20251113105459&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/249855458.jpg?portalid=4286&amp;check=api_sha256%3a91ee1990de4212230f5210fc95332a289a2e7b7c0523bb1340808ba33a01ec31&amp;=20251113105459&amp;width=1080&amp;height=720" data-ll-status="native">
 
 																																									</div>
 																							<div class="object-image-info w-100 position-absolute p-3">
@@ -433,7 +433,7 @@
 																																	<div class="object-image-img">
 													
 			
-			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/249856496.jpg?portalid=4286&amp;check=api_sha256%3a64ab7c5f3faa10020becad9e4557715d4da4e52fa413e9e0c91f18c5456b1259&amp;=20251113102413&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy loaded" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/249856496.jpg?portalid=4286&amp;check=api_sha256%3a64ab7c5f3faa10020becad9e4557715d4da4e52fa413e9e0c91f18c5456b1259&amp;=20251113102413&amp;width=1080&amp;height=720" data-ll-status="loaded">
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/249856496.jpg?portalid=4286&amp;check=api_sha256%3a64ab7c5f3faa10020becad9e4557715d4da4e52fa413e9e0c91f18c5456b1259&amp;=20251113102413&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/249856496.jpg?portalid=4286&amp;check=api_sha256%3a64ab7c5f3faa10020becad9e4557715d4da4e52fa413e9e0c91f18c5456b1259&amp;=20251113102413&amp;width=1080&amp;height=720" data-ll-status="native">
 
 																																									</div>
 																							<div class="object-image-info w-100 position-absolute p-3">
@@ -1080,13 +1080,13 @@
         <title type="html"><![CDATA[Catalonië 35 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-11-15T05:41:04.950Z</updated>
+        <updated>2025-11-15T17:37:20.433Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-6106d59e67a9ffeed" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-cf35f2c10b7c5e91c" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 37">
                             <img loading="lazy" alt="Catalonië 35 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.646.950/253887878-1024x683.jpg" class="swiper-lazy">
                             
@@ -1236,10 +1236,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-6106d59e67a9ffeed" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-cf35f2c10b7c5e91c" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-6106d59e67a9ffeed" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-cf35f2c10b7c5e91c" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -1259,13 +1259,13 @@
         <title type="html"><![CDATA[Kanaalstraat 229BS (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-11-15T05:41:04.951Z</updated>
+        <updated>2025-11-15T17:37:20.434Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-c83fe1ef3b68915e" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-34cb87b10e4b97b33" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 33">
                             <img loading="lazy" alt="Kanaalstraat 229BS – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.670.452/253633282-1024x684.jpg" class="swiper-lazy">
                             
@@ -1399,10 +1399,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-c83fe1ef3b68915e" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-34cb87b10e4b97b33" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-c83fe1ef3b68915e" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-34cb87b10e4b97b33" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -1422,20 +1422,20 @@
         <title type="html"><![CDATA[Larixstraat 12 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-11-15T05:41:04.955Z</updated>
+        <updated>2025-11-15T17:37:20.437Z</updated>
         <content type="html"><![CDATA[<span class="status">
             Nieuw
         </span>
                 <div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-41024d756cd95a418" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-aa73803653d310056" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 26">
                             <img loading="lazy" alt="Larixstraat 12 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.666.258/253466256-1024x648.jpg" class="swiper-lazy">
-                            
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                                                     <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 26">
                             <img loading="lazy" alt="Larixstraat 12 – Foto 3" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.666.258/253466260-1024x683.jpg" class="swiper-lazy">
-                            
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                                                     <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 26">
                             <img loading="lazy" alt="Larixstraat 12 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.666.258/253466262-1024x683.jpg" class="swiper-lazy">
@@ -1534,10 +1534,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-41024d756cd95a418" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-aa73803653d310056" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-41024d756cd95a418" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-aa73803653d310056" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -1557,17 +1557,17 @@
         <title type="html"><![CDATA[Livingstonelaan 62 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-11-15T05:41:04.958Z</updated>
+        <updated>2025-11-15T17:37:20.440Z</updated>
         <content type="html"><![CDATA[<div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-fbb125a42f269dad" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-2f7f7a90a09a656c" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 35">
                             <img loading="lazy" alt="Livingstonelaan 62 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617084-1024x682.jpg" class="swiper-lazy">
-                            
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                                                     <div class="swiper-slide swiper-slide-next" style="width: 380px;" role="group" aria-label="2 / 35">
                             <img loading="lazy" alt="Livingstonelaan 62 – Foto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617224-1024x683.jpg" class="swiper-lazy">
-                            
+                            <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                                                     <div class="swiper-slide" style="width: 380px;" role="group" aria-label="3 / 35">
                             <img loading="lazy" alt="Livingstonelaan 62 – Foto 2" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617192-1024x683.jpg" class="swiper-lazy">
@@ -1702,10 +1702,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-fbb125a42f269dad" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-2f7f7a90a09a656c" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-fbb125a42f269dad" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-2f7f7a90a09a656c" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -3217,69 +3217,6 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Stap makelaars)]]></title>
-        <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/</id>
-        <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/"/>
-        <updated>2025-11-04T17:54:43.732Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/" class="card__overlay u-pin u-z2 u-overlay u-focus-after-5-4">
-        <span class="u-vh">Bekijk detail pagina van Jacob Simonsz. de Rijkstraat 38</span>
-    </a>
-
-    <div class="energielabel energieA">A</div>
-    <div class="imagecontainer">
-        
-        <div class="card__figure u-clip flickity--item card__figure--slider u-contain u-z3 flickity-enabled is-draggable" data-flickity="{&quot;lazyLoad&quot;: 1, &quot;cellAlign&quot;: &quot;left&quot;, &quot;wrapAround&quot;: true, &quot;imagesLoaded&quot;: true, &quot;pageDots&quot;: true, &quot;prevNextButtons&quot;: true}" tabindex="0">
-
-                                            
-                                            
-                                            
-                                            
-                                            
-                    <div class="flickity-viewport" style="height: 217.45px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-500%);"><div class="card__slide u-contain is-selected" style="position: absolute; left: 500%;">
-                    <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/" aria-label="Bekijk detail pagina van Jacob Simonsz. de Rijkstraat 38"></a>
-                    <img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/251827940-900x600.jpg" alt="Afbeelding voor Jacob Simonsz. de Rijkstraat 38">
-                </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 100%;">
-                    <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/" aria-label="Bekijk detail pagina van Jacob Simonsz. de Rijkstraat 38"></a>
-                    <img width="900" height="600" class="card__image flickity-lazyloaded" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Afbeelding voor Jacob Simonsz. de Rijkstraat 38" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/252550544-900x600.jpg"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/252550544-900x600.jpg" alt="Afbeelding voor Jacob Simonsz. de Rijkstraat 38"></noscript>
-                </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 200%;">
-                    <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/" aria-label="Bekijk detail pagina van Jacob Simonsz. de Rijkstraat 38"></a>
-                    <img width="900" height="600" class="card__image flickity-lazyloaded" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Afbeelding voor Jacob Simonsz. de Rijkstraat 38" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/252550548-900x600.jpg"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/252550548-900x600.jpg" alt="Afbeelding voor Jacob Simonsz. de Rijkstraat 38"></noscript>
-                </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 300%;">
-                    <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/" aria-label="Bekijk detail pagina van Jacob Simonsz. de Rijkstraat 38"></a>
-                    <img width="900" height="600" class="card__image flickity-lazyloaded" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20600'%3E%3C/svg%3E" alt="Afbeelding voor Jacob Simonsz. de Rijkstraat 38" data-lazy-src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/251827950-900x600.jpg"><noscript><img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/251827950-900x600.jpg" alt="Afbeelding voor Jacob Simonsz. de Rijkstraat 38"></noscript>
-                </div><div class="card__slide u-contain" aria-hidden="true" style="position: absolute; left: 400%;">
-                    <a class="u-pin u-z2 u-overlay" href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/" aria-label="Bekijk detail pagina van Jacob Simonsz. de Rijkstraat 38"></a>
-                    <img width="900" height="600" class="card__image flickity-lazyloaded" src="https://www.stapmakelaars.nl/wp-content/uploads/realworks/wonen/7.248.271/251827962-900x600.jpg" alt="Afbeelding voor Jacob Simonsz. de Rijkstraat 38">
-                </div></div></div><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow"></path></svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></button><ol class="flickity-page-dots"><li class="dot is-selected" aria-label="Page dot 1" aria-current="step"></li><li class="dot" aria-label="Page dot 2"></li><li class="dot" aria-label="Page dot 3"></li><li class="dot" aria-label="Page dot 4"></li><li class="dot" aria-label="Page dot 5"></li></ol></div>
-
-    </div>
-
-    <div class="street">
-        <a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/">Jacob Simonsz. de Rijkstraat 38</a>
-    </div>
-    <div class="city">
-        <a href="https://www.stapmakelaars.nl/woningaanbod/utrecht/jacob-simonsz-de-rijkstraat-38/">Utrecht</a>
-    </div>
-
-    <div class="detailstable">
-        <dl>
-            <dt>Status</dt>
-            <dd>Beschikbaar</dd>
-        </dl>
-        <dl>
-            <dt>Vraagprijs</dt>
-            <dd>€ 475.000,- k.k.</dd>
-        </dl>
-
-        <dl><dt>Soort object</dt><dd>Appartement</dd></dl>                <dl><dt>Soort appartement</dt><dd>Maisonnette</dd></dl>        <dl><dt>Bouwjaar</dt><dd>2011</dd></dl>        <dl><dt>Woonoppervlakte</dt><dd>105 m<sup>2</sup></dd></dl>        <dl><dt>Kamers</dt><dd>2</dd></dl>    </div>
-
-    <div class="woningaanbodbtn ctabtn">
-        <a href="">
-            Stap binnen
-        </a>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Stap makelaars)]]></title>
         <id>https://www.stapmakelaars.nl/woningaanbod/utrecht/adriaen-van-ostadelaan-165/</id>
         <link href="https://www.stapmakelaars.nl/woningaanbod/utrecht/adriaen-van-ostadelaan-165/"/>
         <updated>2025-10-30T17:52:42.760Z</updated>
@@ -4054,9 +3991,9 @@
         <id>https://www.van-doorn.nl/woning/utrecht-st-winfridusstraat-61/</id>
         <link href="https://www.van-doorn.nl/woning/utrecht-st-winfridusstraat-61/"/>
         <updated>2025-11-05T17:52:59.924Z</updated>
-        <content type="html"><![CDATA[<a class="bg-[#f8f8f8] relative  h-full flex justify-center items-center h-full md:h-[400px] order-1 " href="https://www.van-doorn.nl/woning/utrecht-st-winfridusstraat-61/">
+        <content type="html"><![CDATA[<a class="bg-[#f8f8f8] relative  h-full flex justify-center items-center h-full md:h-[400px] order-1 md:order-2 " href="https://www.van-doorn.nl/woning/utrecht-st-winfridusstraat-61/">
 			<img width="2500" height="1667" src="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620.jpg" class="object-cover object-center w-full h-full md:h-[400px] wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620.jpg 2500w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620-300x200.jpg 300w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620-1024x683.jpg 1024w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620-768x512.jpg 768w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620-1536x1024.jpg 1536w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620-2048x1366.jpg 2048w" sizes="auto, (max-width: 2500px) 100vw, 2500px">		</a>
-    <div class="grid grid-cols-1 h-full bg-gray-dark p-30 order-2 ">
+    <div class="grid grid-cols-1 h-full bg-gray-dark p-30 order-2 md:order-1 ">
             <div class="flex flex-col justify-center flex-1 order-2 mb-0">
                     <header>
 					<a href="https://www.van-doorn.nl/woning/utrecht-st-winfridusstraat-61/" rel="bookmark">
