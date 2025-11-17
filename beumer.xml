@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-11-17T06:03:16.964Z</updated>
+    <updated>2025-11-17T17:50:32.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Van Bijnkershoeklaan 381]]></title>
+        <id>https://www.beumer.nl/wonen/object/van-bijnkershoeklaan-381-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/van-bijnkershoeklaan-381-utrecht/"/>
+        <updated>2025-11-17T17:44:23.129Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/van-bijnkershoeklaan-381-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103237/UT103237-243258-Van-Bijnkershoeklaan-381-Utrecht-251475462-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103237/UT103237-243258-Van-Bijnkershoeklaan-381-Utrecht-251475462-scaled-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103237/UT103237-243258-Van-Bijnkershoeklaan-381-Utrecht-251475462-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103237/UT103237-243258-Van-Bijnkershoeklaan-381-Utrecht-251475462-scaled-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/UT103237/UT103237-243258-Van-Bijnkershoeklaan-381-Utrecht-251475462-150x150.jpg" alt="                        Van Bijnkershoeklaan 381
+                    " src="/app/uploads/sure/media/UT103237/UT103237-243258-Van-Bijnkershoeklaan-381-Utrecht-251475462-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Van Bijnkershoeklaan 381
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 350.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>106 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        6 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        C
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Montfoortlaan 56]]></title>
         <id>https://www.beumer.nl/wonen/object/montfoortlaan-56-utrecht/</id>
@@ -195,56 +245,6 @@
                                                     <p>
                         <i class="icon icon-doorstep"></i>
                         5 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melissekade 235]]></title>
-        <id>https://www.beumer.nl/wonen/object/melissekade-235-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/melissekade-235-utrecht/"/>
-        <updated>2025-11-04T17:47:07.249Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/melissekade-235-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24691/MN24691-240263-Melissekade-235-Utrecht-251993080-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24691/MN24691-240263-Melissekade-235-Utrecht-251993080-scaled-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24691/MN24691-240263-Melissekade-235-Utrecht-251993080-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24691/MN24691-240263-Melissekade-235-Utrecht-251993080-scaled-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24691/MN24691-240263-Melissekade-235-Utrecht-251993080-150x150.jpg" alt="                        Melissekade 235
-                    " src="/app/uploads/sure/media/MN24691/MN24691-240263-Melissekade-235-Utrecht-251993080-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Melissekade 235
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 475.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>100 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        4 kamer(s)
                     </p>
                                                     <p>
                         <i class="icon icon-label"></i>
