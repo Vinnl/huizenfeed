@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-11-19T05:55:00.561Z</updated>
+    <updated>2025-11-19T17:51:05.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Simon Carmiggeltplantsoen 8]]></title>
+        <id>https://www.beumer.nl/wonen/object/simon-carmiggeltplantsoen-8-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/simon-carmiggeltplantsoen-8-utrecht/"/>
+        <updated>2025-11-19T17:44:56.426Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/simon-carmiggeltplantsoen-8-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24741/MN24741-243756-Simon-Carmiggeltplantsoen-8-Utrecht-254140944-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24741/MN24741-243756-Simon-Carmiggeltplantsoen-8-Utrecht-254140944-scaled-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24741/MN24741-243756-Simon-Carmiggeltplantsoen-8-Utrecht-254140944-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24741/MN24741-243756-Simon-Carmiggeltplantsoen-8-Utrecht-254140944-scaled-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24741/MN24741-243756-Simon-Carmiggeltplantsoen-8-Utrecht-254140944-150x150.jpg" alt="                        Simon Carmiggeltplantsoen 8
+                    " src="/app/uploads/sure/media/MN24741/MN24741-243756-Simon-Carmiggeltplantsoen-8-Utrecht-254140944-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Simon Carmiggeltplantsoen 8
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 700.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>119 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        5 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        A
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Van Bijnkershoeklaan 381]]></title>
         <id>https://www.beumer.nl/wonen/object/van-bijnkershoeklaan-381-utrecht/</id>
@@ -95,56 +145,6 @@
                                                     <p>
                         <i class="icon icon-doorstep"></i>
                         4 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prof. Zonnebloemlaan 17]]></title>
-        <id>https://www.beumer.nl/wonen/object/prof-zonnebloemlaan-17-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/prof-zonnebloemlaan-17-utrecht/"/>
-        <updated>2025-11-11T17:44:26.192Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/prof-zonnebloemlaan-17-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-scaled-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-scaled-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-150x150.jpg" alt="                        Prof. Zonnebloemlaan 17
-                    " src="/app/uploads/sure/media/UT103250/UT103250-241735-Prof.-Zonnebloemlaan-17-Utrecht-253264014-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Prof. Zonnebloemlaan 17
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 700.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>123 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        5 kamer(s)
                     </p>
                                                     <p>
                         <i class="icon icon-label"></i>
