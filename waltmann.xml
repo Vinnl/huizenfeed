@@ -2,9 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.waltmann.nl/wonen/zoeken/heel-nederland/0-650000/koop/utrecht/3-kamers/beschikbaar/</id>
     <title>Waltmann Makelaars</title>
-    <updated>2025-11-20T05:56:09.513Z</updated>
+    <updated>2025-11-20T18:00:18.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.waltmann.nl/app/themes/supress/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Van Eysingalaan 318]]></title>
+        <id>https://www.waltmann.nl/wonen/object/van-eysingalaan-318-utrecht/</id>
+        <link href="https://www.waltmann.nl/wonen/object/van-eysingalaan-318-utrecht/"/>
+        <updated>2025-11-20T17:46:53.877Z</updated>
+        <content type="html"><![CDATA[<div class="card-house__image">
+        <picture>
+                            <img src="/app/uploads/sure/media/UT105533/UT105533-78691-Van-Eysingalaan-318-Utrecht-253803590-scaled.jpg" alt="">
+                    </picture>
+
+                    <div class="card-house__tag">Te Koop</div>
+            </div>
+
+    <div class="card-house__content">
+                    <div class="card-house__subtitle">Utrecht</div>
+        
+                    <h4>Van Eysingalaan 318 </h4>
+        
+        <p>
+                                                Vraagprijs:  € 325.000,-  Kosten koper
+                                    </p>
+
+                    <p class="card-house__subtitle mt-5">&nbsp;</p>
+        
+        <div class="card-house__bottom">
+            <ul class="list-unstyled d-flex">
+                                    <li>
+                        <i class="icon-expand"></i>
+                        <span>67 m<sup>2</sup></span>
+                    </li>
+                
+                                    <li>
+                        <i class="icon-bedroom"></i>
+                        <span>2</span>
+                    </li>
+                                            <li><i class="icon-energylabel"></i>ENERGIELABEL C</li>
+                                                </ul>
+
+            <span class="btn btn--text btn--il">
+                <i class="icon-chevron-right"></i>
+                                    Bekijk deze woning
+                
+            </span>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fruinplantsoen 38]]></title>
+        <id>https://www.waltmann.nl/wonen/object/fruinplantsoen-38-utrecht-2/</id>
+        <link href="https://www.waltmann.nl/wonen/object/fruinplantsoen-38-utrecht-2/"/>
+        <updated>2025-11-20T17:46:53.879Z</updated>
+        <content type="html"><![CDATA[<div class="card-house__image">
+        <picture>
+                            <img src="/app/uploads/sure/media/UT105529/UT105529-78663-Fruinplantsoen-38-Utrecht-254497440-scaled.jpg" alt="">
+                    </picture>
+
+                    <div class="card-house__tag">Te Koop</div>
+            </div>
+
+    <div class="card-house__content">
+                    <div class="card-house__subtitle">Utrecht</div>
+        
+                    <h4>Fruinplantsoen 38 </h4>
+        
+        <p>
+                                                Vraagprijs:  € 445.000,-  Kosten koper
+                                    </p>
+
+                    <p class="card-house__subtitle mt-5">&nbsp;</p>
+        
+        <div class="card-house__bottom">
+            <ul class="list-unstyled d-flex">
+                                    <li>
+                        <i class="icon-expand"></i>
+                        <span>94 m<sup>2</sup></span>
+                    </li>
+                
+                                    <li>
+                        <i class="icon-bedroom"></i>
+                        <span>3</span>
+                    </li>
+                                            <li><i class="icon-energylabel"></i>ENERGIELABEL C</li>
+                                                </ul>
+
+            <span class="btn btn--text btn--il">
+                <i class="icon-chevron-right"></i>
+                                    Bekijk deze woning
+                
+            </span>
+        </div>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kernkampplantsoen 25]]></title>
         <id>https://www.waltmann.nl/wonen/object/kernkampplantsoen-25-utrecht-2/</id>

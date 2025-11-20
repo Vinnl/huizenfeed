@@ -2,33 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.dinaverkoopt.nl/woning-aanbod/?view=list&amp;straat&amp;plaats=utrecht&amp;prijs_vanaf=0&amp;prijs_tot=600000&amp;buitenruimte%5B0%5D=achtertuin&amp;buitenruimte%5B1%5D=patio-atrium&amp;buitenruimte%5B2%5D=voortuin&amp;buitenruimte%5B3%5D=zijtuin&amp;buitenruimte%5B4%5D=zonneterras&amp;woonoppervlakte=75</id>
     <title>Dina verkoopt</title>
-    <updated>2025-11-20T05:56:09.355Z</updated>
+    <updated>2025-11-20T18:00:18.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.dinaverkoopt.nl/wp-content/uploads/2018/08/cropped-DINA_LOGO-los_DEF3128-32x32.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Hermannus Elconiusstraat 104-BS]]></title>
-        <id>https://www.dinaverkoopt.nl/woning-aanbod/hermannus-elconiusstraat-104-bs/</id>
-        <link href="https://www.dinaverkoopt.nl/woning-aanbod/hermannus-elconiusstraat-104-bs/"/>
-        <updated>2025-11-03T17:55:45.652Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.dinaverkoopt.nl/woning-aanbod/hermannus-elconiusstraat-104-bs/" class="grid-house-item ">
-	<div class="grid-house-item__image">
-					<img width="300" height="200" src="https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/52712-250054690-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/52712-250054690-300x200.jpg 300w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/52712-250054690-1024x683.jpg 1024w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/52712-250054690-768x512.jpg 768w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/52712-250054690-1536x1024.jpg 1536w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/52712-250054690-2048x1365.jpg 2048w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/52712-250054690-1120x747.jpg 1120w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/52712-250054690-560x373.jpg 560w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/52712-250054690-373x249.jpg 373w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/52712-250054690-746x497.jpg 746w" sizes="auto, (max-width: 300px) 100vw, 300px">		
-        <div class="grid-house-item__status status--beschikbaar">Beschikbaar</div>
-	</div>
-
-	<div class="grid-house-item__content">
-        <div class="grid-house-item__primary-info">
-            <div class="grid-house-item__city">Utrecht</div>
-            <h4 class="grid-house-item__title">Hermannus Elconiusstraat 104-BS</h4>
-            <div class="grid-house-item__price">€ 525.000 k.k.</div>
-        </div>
-        <div class="grid-house-item__secondary-info">
-            <div class="grid-house-item__size">99 m<sup>2</sup></div>
-            <div class="grid-house-item__bedrooms">3 slaapkamers</div>
-
-        </div>
-	</div>
-
-</a>]]></content>
-    </entry>
 </feed>

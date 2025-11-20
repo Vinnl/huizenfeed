@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-11-20T05:56:09.471Z</updated>
+    <updated>2025-11-20T18:00:18.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Houtrakgracht 195]]></title>
+        <id>https://www.beumer.nl/wonen/object/houtrakgracht-195-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/houtrakgracht-195-utrecht/"/>
+        <updated>2025-11-20T17:46:09.444Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/houtrakgracht-195-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24571/MN24571-243883-Houtrakgracht-195-Utrecht-244697306-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24571/MN24571-243883-Houtrakgracht-195-Utrecht-244697306-scaled-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24571/MN24571-243883-Houtrakgracht-195-Utrecht-244697306-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24571/MN24571-243883-Houtrakgracht-195-Utrecht-244697306-scaled-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24571/MN24571-243883-Houtrakgracht-195-Utrecht-244697306-150x150.jpg" alt="                        Houtrakgracht 195
+                    " src="/app/uploads/sure/media/MN24571/MN24571-243883-Houtrakgracht-195-Utrecht-244697306-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Houtrakgracht 195
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 629.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>129 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        4 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        A
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simon Carmiggeltplantsoen 8]]></title>
         <id>https://www.beumer.nl/wonen/object/simon-carmiggeltplantsoen-8-utrecht/</id>
@@ -199,56 +249,6 @@
                                                     <p>
                         <i class="icon icon-label"></i>
                         C
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hertestraat 11]]></title>
-        <id>https://www.beumer.nl/wonen/object/hertestraat-11-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/hertestraat-11-utrecht/"/>
-        <updated>2025-11-08T05:47:56.027Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/hertestraat-11-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103215/UT103215-241121-Hertestraat-11-Utrecht-253133312-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103215/UT103215-241121-Hertestraat-11-Utrecht-253133312-scaled-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103215/UT103215-241121-Hertestraat-11-Utrecht-253133312-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103215/UT103215-241121-Hertestraat-11-Utrecht-253133312-scaled-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/UT103215/UT103215-241121-Hertestraat-11-Utrecht-253133312-150x150.jpg" alt="                        Hertestraat 11
-                    " src="/app/uploads/sure/media/UT103215/UT103215-241121-Hertestraat-11-Utrecht-253133312-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Hertestraat 11
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 535.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>105 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        5 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A
                     </p>
                             </div>
         </div>
