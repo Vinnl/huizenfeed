@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.wijmakelaardij.nl/woningaanbod/koop/#q1ZKTClKLY4vyElMLAFS-cUlyfkpqUpWSqElRanJGSVKOkrZ-fkFBUWZWcVKVtVKuYkVQEkzAxBQqoVIZpSWFilZRYPZSrG1AA</id>
     <title>Wij Makelaardij</title>
-    <updated>2025-11-21T05:57:57.190Z</updated>
+    <updated>2025-11-21T17:56:44.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.wijmakelaardij.nl/wp-content/uploads/2019/03/cropped-logo-1-1-32x32.png</icon>
     <entry>
@@ -43,44 +43,5 @@
         </div>
     </div>
     <a class="overlay" href="https://www.wijmakelaardij.nl/woning/utrecht-nicolaasweg-140bs/"></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antonius Matthaeuslaan 43]]></title>
-        <id>https://www.wijmakelaardij.nl/woning/utrecht-antonius-matthaeuslaan-43/</id>
-        <link href="https://www.wijmakelaardij.nl/woning/utrecht-antonius-matthaeuslaan-43/"/>
-        <updated>2025-11-10T17:46:29.915Z</updated>
-        <content type="html"><![CDATA[<div class="woning_img">
-        <img class="list-image" src="https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/9.506.748/252871064-768x512.jpg" alt="">
-    </div>
-    <div class="content" style="background-image:url(https://www.wijmakelaardij.nl/wp-content/uploads/realworks/wonen/9.506.748/252871064-768x512.jpg);">
-        <div class="status ">
-                            Beschikbaar                    </div>
-        <div class="title clearfix">
-            <div class="left grid">
-                <h2>Utrecht</h2>
-                <p>Antonius Matthaeuslaan 43</p>
-            </div>
-            <div class="left list">
-                <h2>Antonius Matthaeuslaan 43, Utrecht</h2>
-                <p>Bovenwoning € 500.000,- k.k.</p>
-            </div>
-            <div class="right grid">
-                <span>Bovenwoning</span>
-                <p>€ 500.000,- k.k.</p>
-            </div>
-            <div class="bottom clearfix">
-                <p>
-                    <i class="fa fa-home"></i>
-                    103 m<sup>2</sup>                </p>
-                <p>
-                    <i class="fa fa-bed"></i>
-                    4                </p>
-                <p>
-                    <i class="fa fa-bath"></i>
-                    2                </p>
-            </div>
-        </div>
-    </div>
-    <a class="overlay" href="https://www.wijmakelaardij.nl/woning/utrecht-antonius-matthaeuslaan-43/"></a>]]></content>
     </entry>
 </feed>
