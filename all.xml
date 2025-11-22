@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-21T17:56:44.854Z</updated>
+    <updated>2025-11-22T05:49:53.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[TE KOOP! Bemuurde Weerd W.Z. 2 (MOIB makelaars)]]></title>
@@ -102,7 +102,7 @@
 																																	<div class="object-image-img">
 													
 			
-			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/233240602.jpg?portalid=4286&amp;check=api_sha256%3a0342062351bf7737339ce04f762f787f0c27e60f200fa0e3d014456fb4f8efb6&amp;=20250610115750&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/233240602.jpg?portalid=4286&amp;check=api_sha256%3a0342062351bf7737339ce04f762f787f0c27e60f200fa0e3d014456fb4f8efb6&amp;=20250610115750&amp;width=1080&amp;height=720" data-ll-status="native">
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/233240602.jpg?portalid=4286&amp;check=api_sha256%3a0342062351bf7737339ce04f762f787f0c27e60f200fa0e3d014456fb4f8efb6&amp;=20250610115750&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy loaded" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/233240602.jpg?portalid=4286&amp;check=api_sha256%3a0342062351bf7737339ce04f762f787f0c27e60f200fa0e3d014456fb4f8efb6&amp;=20250610115750&amp;width=1080&amp;height=720" data-ll-status="loaded">
 
 																																									</div>
 																							<div class="object-image-info w-100 position-absolute p-3">
@@ -460,7 +460,7 @@
 																																	<div class="object-image-img">
 													
 			
-			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/249856496.jpg?portalid=4286&amp;check=api_sha256%3a64ab7c5f3faa10020becad9e4557715d4da4e52fa413e9e0c91f18c5456b1259&amp;=20251113102413&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/249856496.jpg?portalid=4286&amp;check=api_sha256%3a64ab7c5f3faa10020becad9e4557715d4da4e52fa413e9e0c91f18c5456b1259&amp;=20251113102413&amp;width=1080&amp;height=720" data-ll-status="native">
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/249856496.jpg?portalid=4286&amp;check=api_sha256%3a64ab7c5f3faa10020becad9e4557715d4da4e52fa413e9e0c91f18c5456b1259&amp;=20251113102413&amp;width=1080&amp;height=720" class="img-fluid img-cover w-100 lazy loaded" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/249856496.jpg?portalid=4286&amp;check=api_sha256%3a64ab7c5f3faa10020becad9e4557715d4da4e52fa413e9e0c91f18c5456b1259&amp;=20251113102413&amp;width=1080&amp;height=720" data-ll-status="loaded">
 
 																																									</div>
 																							<div class="object-image-info w-100 position-absolute p-3">
@@ -1443,10 +1443,10 @@
         <title type="html"><![CDATA[Kanaalstraat 229BS (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-11-21T17:42:15.887Z</updated>
+        <updated>2025-11-22T05:41:04.229Z</updated>
         <content type="html"><![CDATA[<div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-90e650b23b6bd9d9" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-d9f3adabae9e8511" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 33">
                             <img loading="lazy" alt="Kanaalstraat 229BS – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.670.452/253633282-1024x684.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
@@ -1580,10 +1580,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-90e650b23b6bd9d9" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-d9f3adabae9e8511" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-90e650b23b6bd9d9" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-d9f3adabae9e8511" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -1603,10 +1603,10 @@
         <title type="html"><![CDATA[Larixstraat 12 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-11-21T17:42:15.891Z</updated>
+        <updated>2025-11-22T05:41:04.231Z</updated>
         <content type="html"><![CDATA[<div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-cdcea1255a3da10cd" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-75ab91fbdd22a370" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 26">
                             <img loading="lazy" alt="Larixstraat 12 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.666.258/253466256-1024x648.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
@@ -1712,10 +1712,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-cdcea1255a3da10cd" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-75ab91fbdd22a370" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-cdcea1255a3da10cd" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-75ab91fbdd22a370" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -1735,10 +1735,10 @@
         <title type="html"><![CDATA[Livingstonelaan 62 (De Keizer makelaarsgroep)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-11-21T17:42:15.905Z</updated>
+        <updated>2025-11-22T05:41:04.235Z</updated>
         <content type="html"><![CDATA[<div class="slider-chevron">
             <div class="swiper chevron swiper-initialized swiper-horizontal">
-                <div class="swiper-wrapper" id="swiper-wrapper-ad5f3efba6144923" aria-live="polite">
+                <div class="swiper-wrapper" id="swiper-wrapper-dca456108a3d10a305" aria-live="polite">
                                                                     <div class="swiper-slide swiper-slide-active" style="width: 380px;" role="group" aria-label="1 / 35">
                             <img loading="lazy" alt="Livingstonelaan 62 – Hoofdfoto" src="https://www.dekeizer.nl/wp-content/uploads/realworks/wonen/9.275.876/242617084-1024x682.jpg" class="swiper-lazy">
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
@@ -1880,10 +1880,10 @@
                             <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>
                         </div>
                                     </div>
-                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-ad5f3efba6144923" aria-disabled="true">
+                <div class="nav swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-dca456108a3d10a305" aria-disabled="true">
                     <span class="chevron secondary left"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
-                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-ad5f3efba6144923" aria-disabled="false">
+                <div class="nav swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-dca456108a3d10a305" aria-disabled="false">
                     <span class="chevron secondary right"></span>
                 <svg class="swiper-navigation-icon" width="11" height="20" viewBox="0 0 11 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M0.38296 20.0762C0.111788 19.805 0.111788 19.3654 0.38296 19.0942L9.19758 10.2796L0.38296 1.46497C0.111788 1.19379 0.111788 0.754138 0.38296 0.482966C0.654131 0.211794 1.09379 0.211794 1.36496 0.482966L10.4341 9.55214C10.8359 9.9539 10.8359 10.6053 10.4341 11.007L1.36496 20.0762C1.09379 20.3474 0.654131 20.3474 0.38296 20.0762Z" fill="currentColor"></path></svg></div>
             <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
@@ -2373,13 +2373,13 @@
         <title type="html"><![CDATA[undefined (Makelaarsland)]]></title>
         <id>https://Vinnl.github.io/huizenfeed/all.xml</id>
         <link href="https://Vinnl.github.io/huizenfeed/all.xml"/>
-        <updated>2025-11-21T17:42:28.700Z</updated>
+        <updated>2025-11-22T05:42:20.147Z</updated>
         <content type="html"><![CDATA[<div class="m-search-result-nvm">
     <div class="m-search-result-nvm__content">
 
        
 
-      <h3 class="e-title e-title--secondary">Bekijk <strong>335 woningen</strong> in het complete NVM aanbod.</h3>
+      <h3 class="e-title e-title--secondary">Bekijk <strong>338 woningen</strong> in het complete NVM aanbod.</h3>
 
       <a id="nvm-dynamic-link" href="https://mijn.makelaarsland.nl/aanbod/zoeken/?zoekterm=Utrecht&amp;minimum=&amp;maximum=700000&amp;huistype=&amp;aantalkamers=4" data-href="https://mijn.makelaarsland.nl/aanbod/zoeken/" class="e-btn e-btn--simple" target="_blank">Bekijk alle woningen</a>
 
@@ -4334,9 +4334,9 @@
         <id>https://www.van-doorn.nl/woning/utrecht-st-winfridusstraat-61/</id>
         <link href="https://www.van-doorn.nl/woning/utrecht-st-winfridusstraat-61/"/>
         <updated>2025-11-05T17:52:59.924Z</updated>
-        <content type="html"><![CDATA[<a class="bg-[#f8f8f8] relative  h-full flex justify-center items-center h-full md:h-[400px] order-1 " href="https://www.van-doorn.nl/woning/utrecht-st-winfridusstraat-61/">
+        <content type="html"><![CDATA[<a class="bg-[#f8f8f8] relative  h-full flex justify-center items-center h-full md:h-[400px] order-1 md:order-2 " href="https://www.van-doorn.nl/woning/utrecht-st-winfridusstraat-61/">
 			<img width="2500" height="1667" src="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620.jpg" class="object-cover object-center w-full h-full md:h-[400px] wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620.jpg 2500w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620-300x200.jpg 300w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620-1024x683.jpg 1024w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620-768x512.jpg 768w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620-1536x1024.jpg 1536w, https://www.van-doorn.nl/wp-content/uploads/realworks/wonen/9.477.938/252309620-2048x1366.jpg 2048w" sizes="auto, (max-width: 2500px) 100vw, 2500px">		</a>
-    <div class="grid grid-cols-1 h-full bg-gray-dark p-30 order-2 ">
+    <div class="grid grid-cols-1 h-full bg-gray-dark p-30 order-2 md:order-1 ">
             <div class="flex flex-col justify-center flex-1 order-2 mb-0">
                     <header>
 					<a href="https://www.van-doorn.nl/woning/utrecht-st-winfridusstraat-61/" rel="bookmark">
@@ -4367,6 +4367,32 @@
             
             </div>
     </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laan van Nieuw-Guinea 81 (Dina verkoopt)]]></title>
+        <id>https://www.dinaverkoopt.nl/woning-aanbod/laan-van-nieuw-guinea-81/</id>
+        <link href="https://www.dinaverkoopt.nl/woning-aanbod/laan-van-nieuw-guinea-81/"/>
+        <updated>2025-11-22T05:46:33.527Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.dinaverkoopt.nl/woning-aanbod/laan-van-nieuw-guinea-81/" class="grid-house-item ">
+	<div class="grid-house-item__image">
+					<img width="300" height="200" src="https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/54526-254726396-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/54526-254726396-300x200.jpg 300w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/54526-254726396-1024x683.jpg 1024w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/54526-254726396-768x512.jpg 768w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/54526-254726396-1536x1024.jpg 1536w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/54526-254726396-2048x1365.jpg 2048w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/54526-254726396-1120x747.jpg 1120w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/54526-254726396-560x373.jpg 560w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/54526-254726396-373x249.jpg 373w, https://www.dinaverkoopt.nl/wp-content/uploads/2025/11/54526-254726396-746x497.jpg 746w" sizes="auto, (max-width: 300px) 100vw, 300px">		
+        <div class="grid-house-item__status status--beschikbaar">Beschikbaar</div>
+	</div>
+
+	<div class="grid-house-item__content">
+        <div class="grid-house-item__primary-info">
+            <div class="grid-house-item__city">Utrecht</div>
+            <h4 class="grid-house-item__title">Laan van Nieuw-Guinea 81</h4>
+            <div class="grid-house-item__price">€ 480.000 k.k.</div>
+        </div>
+        <div class="grid-house-item__secondary-info">
+            <div class="grid-house-item__size">81 m<sup>2</sup></div>
+            <div class="grid-house-item__bedrooms">3 slaapkamers</div>
+
+        </div>
+	</div>
+
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Johannes Uitenbogaertstraat 46BS (REMAX)]]></title>
