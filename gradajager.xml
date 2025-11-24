@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gradajager.nl/aanbod/?city=Utrecht&amp;minprice=&amp;maxprice=600000</id>
     <title>Gradajager</title>
-    <updated>2025-11-24T06:01:52.464Z</updated>
+    <updated>2025-11-24T17:57:03.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.gradajager.nl/wp-content/uploads/2025/05/cropped-Logo_Grada_Jager_CMYK-favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Vlietstraat 15]]></title>
+        <id>https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18345-vlietstraat-15</id>
+        <link href="https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18345-vlietstraat-15"/>
+        <updated>2025-11-24T17:54:52.253Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18345-vlietstraat-15">
+								<div class="aanbod_content">
+									<div class="aanbodfoto" style="background-image: url('https://www.mijnwoningwebsite.nl/objfoto/400/aHR0cHM6Ly9pbWFnZXMucmVhbHdvcmtzLm5sL3NlcnZsZXRzL2ltYWdlcy9tZWRpYS5vYmplY3RtZWRpYS8yNTMzNTQ2MTYuanBnP3BvcnRhbGlkPTEyMTc2JmNoZWNrPWFwaV9zaGEyNTYlM0FlN2MxMGEyYWRkNDc5NzUwZGI1Y2NhMzZkN2ZiNTI3NmY1NGRmOGRiNDVlZmQ3Y2ZjYzliY2ZkNTdhNDBjYTIyJnJlc2l6ZT00');">
+										<div class="statuslabel ">
+											Beschikbaar										</div>
+									</div>
+									<div class="aanbod_info">
+										<div class="titel notranslate">Vlietstraat 15</div>
+										<p class="notranslate">Utrecht</p> 
+									<div class="aanbod_kenmerken">
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/woonoppervlakte.svg" alt="woonoppervlakte_icon">
+												95 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/kamers.svg" alt="kamers_icon">
+												6 kamers
+											</div>
+										</div>
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/perceeloppervlakte.svg" alt="perceeloppervlakte_icon">
+												46 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/slaapkamers.svg" alt="slaapkamers_icon">
+												5 slaapkamers
+											</div>
+										</div>
+									</div>
+										<div class="prijs_container">
+											<div class="prijs">
+												<div class="price">
+																											€ 
+														475.000,- k.k.																									</div>
+											</div>
+											<div class="icon">
+												<i class="icon-right-open-big" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fregatstraat 120]]></title>
         <id>https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18305-fregatstraat-120</id>
