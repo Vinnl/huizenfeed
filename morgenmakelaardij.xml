@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.morgenmakelaardij.nl/nl/woningaanbod/koop?salesRentals=sales#{%22view%22:%22grid%22,%22sort%22:%22addedDesc%22,%22address%22:%22%22,%22title%22:%22%22,%22salesRentals%22:%22sales%22,%22salesPriceMin%22:0,%22salesPriceMax%22:650000,%22devSalesPriceMin%22:0,%22devSalesPriceMax%22:9999999999,%22rentalsPriceMin%22:0,%22rentalsPriceMax%22:9999999999,%22devRentalsPriceMin%22:0,%22devRentalsPriceMax%22:9999999999,%22surfaceMin%22:0,%22surfaceMax%22:9999999999,%22unitsMin%22:0,%22unitsMax%22:9999999999,%22devSurfaceMin%22:0,%22devSurfaceMax%22:9999999999,%22plotSurfaceMin%22:0,%22plotSurfaceMax%22:9999999999,%22roomsMin%22:4,%22roomsMax%22:9999999999,%22bedroomsMin%22:0,%22bedroomsMax%22:9999999999,%22bathroomsMin%22:0,%22bathroomsMax%22:9999999999,%22city%22:[],%22district%22:[],%22mainType%22:[],%22buildType%22:[],%22tag%22:[],%22country%22:[],%22state%22:[],%22listingsType%22:[],%22ignoreType%22:[],%22categories%22:[],%22status%22:%22available%22,%22statusStrict%22:true,%22user%22:%22%22,%22branch%22:%22%22,%22archiveTime%22:15778463,%22page%22:1}</id>
     <title>Morgen Makelaardij</title>
-    <updated>2025-11-23T17:46:32.098Z</updated>
+    <updated>2025-11-24T06:01:52.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.morgenmakelaardij.nl/favicon-32x32.png</icon>
 </feed>
