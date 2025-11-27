@@ -2,7 +2,207 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gradajager.nl/aanbod/?city=Utrecht&amp;minprice=&amp;maxprice=600000</id>
     <title>Gradajager</title>
-    <updated>2025-11-26T17:54:20.405Z</updated>
+    <updated>2025-11-27T05:57:32.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>data:,</icon>
+    <icon>https://www.gradajager.nl/wp-content/uploads/2025/05/cropped-Logo_Grada_Jager_CMYK-favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Vlietstraat 15]]></title>
+        <id>https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18345-vlietstraat-15</id>
+        <link href="https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18345-vlietstraat-15"/>
+        <updated>2025-11-27T05:55:21.846Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18345-vlietstraat-15">
+								<div class="aanbod_content">
+									<div class="aanbodfoto" style="background-image: url('https://www.mijnwoningwebsite.nl/objfoto/400/aHR0cHM6Ly9pbWFnZXMucmVhbHdvcmtzLm5sL3NlcnZsZXRzL2ltYWdlcy9tZWRpYS5vYmplY3RtZWRpYS8yNTMzNTQ2MTYuanBnP3BvcnRhbGlkPTEyMTc2JmNoZWNrPWFwaV9zaGEyNTYlM0FlN2MxMGEyYWRkNDc5NzUwZGI1Y2NhMzZkN2ZiNTI3NmY1NGRmOGRiNDVlZmQ3Y2ZjYzliY2ZkNTdhNDBjYTIyJnJlc2l6ZT00');">
+										<div class="statuslabel ">
+											Beschikbaar										</div>
+									</div>
+									<div class="aanbod_info">
+										<div class="titel notranslate">Vlietstraat 15</div>
+										<p class="notranslate">Utrecht</p> 
+									<div class="aanbod_kenmerken">
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/woonoppervlakte.svg" alt="woonoppervlakte_icon">
+												95 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/kamers.svg" alt="kamers_icon">
+												6 kamers
+											</div>
+										</div>
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/perceeloppervlakte.svg" alt="perceeloppervlakte_icon">
+												46 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/slaapkamers.svg" alt="slaapkamers_icon">
+												5 slaapkamers
+											</div>
+										</div>
+									</div>
+										<div class="prijs_container">
+											<div class="prijs">
+												<div class="price">
+																											€ 
+														475.000,- k.k.																									</div>
+											</div>
+											<div class="icon">
+												<i class="icon-right-open-big" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fregatstraat 120]]></title>
+        <id>https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18305-fregatstraat-120</id>
+        <link href="https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18305-fregatstraat-120"/>
+        <updated>2025-11-27T05:55:21.847Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18305-fregatstraat-120">
+								<div class="aanbod_content">
+									<div class="aanbodfoto" style="background-image: url('https://www.mijnwoningwebsite.nl/objfoto/400/aHR0cHM6Ly9pbWFnZXMucmVhbHdvcmtzLm5sL3NlcnZsZXRzL2ltYWdlcy9tZWRpYS5vYmplY3RtZWRpYS8yNTUwNjU2MjQuanBnP3BvcnRhbGlkPTEyMTc2JmNoZWNrPWFwaV9zaGEyNTYlM0FmYzNmMjgwNDFlMzFjZTc5ZTgwMjg5ZTc1M2U1MDQ3ZmIwMWZiNjNiMzNlMmE2YmRmOTgwMzY2YTkzY2M3NzgxJnJlc2l6ZT00');">
+										<div class="statuslabel ">
+											Beschikbaar										</div>
+									</div>
+									<div class="aanbod_info">
+										<div class="titel notranslate">Fregatstraat 120</div>
+										<p class="notranslate">Utrecht</p> 
+									<div class="aanbod_kenmerken">
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/woonoppervlakte.svg" alt="woonoppervlakte_icon">
+												104 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/kamers.svg" alt="kamers_icon">
+												5 kamers
+											</div>
+										</div>
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/perceeloppervlakte.svg" alt="perceeloppervlakte_icon">
+												107 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/slaapkamers.svg" alt="slaapkamers_icon">
+												4 slaapkamers
+											</div>
+										</div>
+									</div>
+										<div class="prijs_container">
+											<div class="prijs">
+												<div class="price">
+																											€ 
+														550.000,- k.k.																									</div>
+											</div>
+											<div class="icon">
+												<i class="icon-right-open-big" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groeneweg 107 Bs]]></title>
+        <id>https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht//17426-groeneweg-107-bs</id>
+        <link href="https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht//17426-groeneweg-107-bs"/>
+        <updated>2025-11-27T05:55:21.850Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht//17426-groeneweg-107-bs">
+								<div class="aanbod_content">
+									<div class="aanbodfoto" style="background-image: url('https://www.mijnwoningwebsite.nl/objfoto/400/aHR0cHM6Ly9pbWFnZXMucmVhbHdvcmtzLm5sL3NlcnZsZXRzL2ltYWdlcy9tZWRpYS5vYmplY3RtZWRpYS8yNDg2NjQwMzEuanBnP3BvcnRhbGlkPTEyMTc2JmNoZWNrPWFwaV9zaGEyNTYlM0E4YTU3MDUyYTczZGUxYTI0NTg2MzVjMGZmZGU3ZTFiOTk1MjFhZjM5NmZjOTJhNTdiM2Y1NDBiYTFjZmVhMDcxJnJlc2l6ZT00');">
+										<div class="statuslabel ">
+											Beschikbaar										</div>
+									</div>
+									<div class="aanbod_info">
+										<div class="titel notranslate">Groeneweg 107 Bs</div>
+										<p class="notranslate">Utrecht</p> 
+									<div class="aanbod_kenmerken">
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/woonoppervlakte.svg" alt="woonoppervlakte_icon">
+												104 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/kamers.svg" alt="kamers_icon">
+												4 kamers
+											</div>
+										</div>
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/perceeloppervlakte.svg" alt="perceeloppervlakte_icon">
+												0 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/slaapkamers.svg" alt="slaapkamers_icon">
+												3 slaapkamers
+											</div>
+										</div>
+									</div>
+										<div class="prijs_container">
+											<div class="prijs">
+												<div class="price">
+																											€ 
+														399.000,- k.k.																									</div>
+											</div>
+											<div class="icon">
+												<i class="icon-right-open-big" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homeruslaan 26 1]]></title>
+        <id>https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht//16085-homeruslaan-26-1</id>
+        <link href="https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht//16085-homeruslaan-26-1"/>
+        <updated>2025-11-27T05:55:21.851Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.gradajager.nl/aanbod-detail/woningaanbod/utrecht//16085-homeruslaan-26-1">
+								<div class="aanbod_content">
+									<div class="aanbodfoto" style="background-image: url('https://www.mijnwoningwebsite.nl/objfoto/400/aHR0cHM6Ly9pbWFnZXMucmVhbHdvcmtzLm5sL3NlcnZsZXRzL2ltYWdlcy9tZWRpYS5vYmplY3RtZWRpYS8yMzg0NzczMjQuanBnP3BvcnRhbGlkPTEyMTc2JmNoZWNrPWFwaV9zaGEyNTYlM0FlMzBkYjQyZWJiY2M3ZDRiOWUxMjJiN2MwNGIxYWM1OTdhYmIwOWFjNDY3NzAwZGYzOTU3NDUwYjU4OTQ5NGY3JnJlc2l6ZT00');">
+										<div class="statuslabel ">
+											Beschikbaar										</div>
+									</div>
+									<div class="aanbod_info">
+										<div class="titel notranslate">Homeruslaan 26 1</div>
+										<p class="notranslate">Utrecht</p> 
+									<div class="aanbod_kenmerken">
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/woonoppervlakte.svg" alt="woonoppervlakte_icon">
+												116 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/kamers.svg" alt="kamers_icon">
+												6 kamers
+											</div>
+										</div>
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/perceeloppervlakte.svg" alt="perceeloppervlakte_icon">
+												0 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://www.gradajager.nl/wp-content/themes/betheme-child/svg/slaapkamers.svg" alt="slaapkamers_icon">
+												3 slaapkamers
+											</div>
+										</div>
+									</div>
+										<div class="prijs_container">
+											<div class="prijs">
+												<div class="price">
+																											€ 
+														575.000,- k.k.																									</div>
+											</div>
+											<div class="icon">
+												<i class="icon-right-open-big" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>]]></content>
+    </entry>
 </feed>

@@ -2,7 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kraaijkampmakelaars.nl/nl/koop/woning-aanbod/</id>
     <title>Kraaijkamp Makelaars</title>
-    <updated>2025-11-26T17:54:20.320Z</updated>
+    <updated>2025-11-27T05:57:32.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>data:,</icon>
+    <icon>https://kraaijkampmakelaars.nl/images/Logo-KM.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bagdaddreef 24]]></title>
+        <id>https://kraaijkampmakelaars.nl/nl/woning/utrecht-bagdaddreef-24-9669896</id>
+        <link href="https://kraaijkampmakelaars.nl/nl/woning/utrecht-bagdaddreef-24-9669896"/>
+        <updated>2025-11-27T05:43:53.897Z</updated>
+        <content type="html"><![CDATA[<a href="https://kraaijkampmakelaars.nl/nl/woning/utrecht-bagdaddreef-24-9669896">
+						<div class="wow fadeIn animated" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;">
+								<div class="uitgelicht-image aanbod">
+                    			 
+									<img src="https://images.realworks.nl/servlets/images/media.objectmedia/255193772.jpg?portalid=8533&amp;check=api_sha256%3Acb4d67e7eb393ce317246fb06e8ffb0a74b972b5383d1feefdf0fa7721e40ab5&amp;width=500&amp;height=330&amp;resize=5&amp;size=500x330" width="100%" alt="Bagdaddreef 24  UTRECHT">
+									                				<span class="leesmeer py-4 px-6 btn btn-smallest no-animation">Lees meer</span>
+																<span class="img-label green aanbod">
+										<span class="woning-labels nieuw">Nieuw</span>								</span>
+								<span class="pl-naam pt-4 pl-4 md:pl-8 pr-8 md:pr-12 bg-white text-xl font-bold">UTRECHT</span>
+								</div>
+								<div class="px-8 py-4">
+									<h3>Bagdaddreef 24 </h3>
+									<span class="prijs">
+																													</span>
+																	</div>
+								<div class="prijs pt-4 pb-8 px-8 text-primary font-bold text-2xl">
+									€ 535.000,-								
+								</div>
+						</div>
+					</a>]]></content>
+    </entry>
 </feed>
