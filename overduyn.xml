@@ -2,7 +2,384 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://overduyn.nl/koopaanbod/?_prijs_tot=1-650000&amp;_plaatsen=utrecht&amp;_slaapkamers=3-100</id>
     <title>overduyn makelaars</title>
-    <updated>2025-11-27T05:57:32.556Z</updated>
+    <updated>2025-11-27T17:45:54.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://overduyn.nl/wp-content/uploads/2025/02/favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Daalseweg
+				
+						
+												
+								
+																			
+										187]]></title>
+        <id>https://overduyn.nl/woningen/daalseweg-187-utrecht-116870935df8d87cd4db1b8414158e215e9ec/</id>
+        <link href="https://overduyn.nl/woningen/daalseweg-187-utrecht-116870935df8d87cd4db1b8414158e215e9ec/"/>
+        <updated>2025-11-27T17:42:39.008Z</updated>
+        <content type="html"><![CDATA[<div class="object object-status-beschikbaar object-price-koop  mb-4">
+																					<div class="row">
+																	<div class="col-12">
+																											
+										
+										<div class="object-image position-relative mb-3">
+																					
+																							<a href="https://overduyn.nl/woningen/daalseweg-187-utrecht-116870935df8d87cd4db1b8414158e215e9ec/" class="position-relative text-decoration-none d-block">
+																																	<div class="object-image-img">
+													
+			
+			<img data-src="https://images.realworks.nl/servlets/images/media.objectmedia/254951018.jpg?portalid=4286&amp;check=api_sha256%3aa24c01987776d8eb52108ab9a768bd95465056d1219fdbe223c2e408cf522a49&amp;=20251124095835&amp;width=720&amp;height=480" class="img-fluid img-cover w-100 lazy loaded" loading="lazy" src="https://images.realworks.nl/servlets/images/media.objectmedia/254951018.jpg?portalid=4286&amp;check=api_sha256%3aa24c01987776d8eb52108ab9a768bd95465056d1219fdbe223c2e408cf522a49&amp;=20251124095835&amp;width=720&amp;height=480" data-ll-status="loaded">
+
+																																									</div>
+																																											</a>
+										
+																				</div>
+
+																												</div>
+																	<div class="col-12">
+																		<div class="object-info">
+									
+														
+					
+			<div class="object-address notranslate mb-3">
+
+					
+							
+						
+				<div class="object-address-line notranslate">
+			
+						
+				
+					
+										
+							<span class="object-street">Daalseweg</span>
+				
+						
+												
+								
+																			
+										<span class="object-housenumber">187</span>
+							
+									
+									
+													
+							
+					
+							
+						
+				</div>
+			
+						
+						
+				
+									
+						<div class="object-address-line">
+				
+									
+										
+										
+							<span class="object-place">Utrecht</span>
+				
+										
+										
+										
+										
+										
+									
+									
+						</div>
+				
+					
+							
+						
+							
+		
+			</div>
+
+				
+		
+																		<div class="object-price mb-3 object-price-status-beschikbaar">
+		
+									<div class="object-price-sale">
+			
+			
+				
+					<span class="object-price-kind-of">
+
+						
+							Vraagprijs
+						
+					</span>
+
+				
+			
+			
+				
+					<span class="object-price-value">
+						
+						
+							€ 475.000
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+							k.k.
+						
+					</span>
+
+				
+			
+							</div>
+			
+		
+		
+			
+			
+				
+			
+			
+				
+					<span class="object-price-value">
+
+						
+						
+					</span>
+
+				
+				
+					<span class="object-price-type">
+
+						
+					</span>
+
+				
+			
+			
+		
+			</div>
+	
+		
+																																								<div class="object-features mb-3">
+											
+																								
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-bouwjaar ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Bouwjaar				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								1946 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-woonoppervlakte ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Woonopp.				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								81 m²				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+					
+				<div class="object-feature object-feature-totalekadestraleoppervlakte ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Perceelopp.				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								146 m²				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-feature-aantalkamers ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Aantal kamers				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								4 kamers 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+				
+	
+	
+	
+	
+	
+					
+				<div class="object-feature object-features-energy object-features-energy-D ">
+				
+					<div class="row">
+				
+						<div class="col-5">
+				
+							<div class="object-feature-title text-truncate">
+				
+							Energielabel				
+							</div>
+				
+						</div>
+				
+						<div class="col-7">
+				
+							<div class="object-feature-info text-truncate">
+				
+								D 				
+							</div>
+				
+						</div>
+				
+					</div>
+				
+				</div>
+				
+					
+	
+	
+	
+	
+			
+			
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+											</div>
+																																																					<div class="object-view mb-3">
+																																						<a href="https://overduyn.nl/woningen/daalseweg-187-utrecht-116870935df8d87cd4db1b8414158e215e9ec/" class="position-relative p-3 text-decoration-none d-table" title="Daalseweg 187 Utrecht">
+																										Bekijk object													</a>
+												</div>
+																															</div>
+									</div>
+								</div>
+							</div>]]></content>
+    </entry>
 </feed>

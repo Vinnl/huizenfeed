@@ -2,7 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vanscherpenzeel.nl/aanbod/?city=Utrecht&amp;minprice=&amp;maxprice=600000</id>
     <title>Van Scherpenzeel Makelaars</title>
-    <updated>2025-11-27T05:57:32.422Z</updated>
+    <updated>2025-11-27T17:45:54.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>data:,</icon>
+    <icon>https://vanscherpenzeel.nl/wp-content/uploads/2025/01/cropped-Huisjes-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18029-vleutenseweg-466</id>
+        <link href="https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18029-vleutenseweg-466"/>
+        <updated>2025-11-27T17:40:41.204Z</updated>
+        <content type="html"><![CDATA[<a href="https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18029-vleutenseweg-466">
+								<div class="aanbod_content">
+									<div class="aanbodfoto" style="background-image: url('https://www.mijnwoningwebsite.nl/objfoto/400/aHR0cHM6Ly9pbWFnZXMucmVhbHdvcmtzLm5sL3NlcnZsZXRzL2ltYWdlcy9tZWRpYS5vYmplY3RtZWRpYS8yNTI3NTA4NDAuanBnP3BvcnRhbGlkPTExMjUxJmNoZWNrPWFwaV9zaGEyNTYlM0EyMzE1NmRiYjNiZjY4ZmU5YmExYThmMWNlZDk5ZGJiZTYxMDc2MjcxY2FlNGYxNmZlMDA4OGI4Mjc0NmQxMWQ4JnJlc2l6ZT00');">
+										<div class="statuslabel ">
+											Beschikbaar										</div>
+									</div>
+									<div class="aanbod_info">
+										<div class="titel notranslate">Vleutenseweg 466</div>
+										<p class="notranslate">Utrecht</p> 
+									<div class="aanbod_kenmerken">
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/woonoppervlakte.svg" alt="woonoppervlakte_icon">
+												107 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/kamers.svg" alt="kamers_icon">
+												5 kamers
+											</div>
+										</div>
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/perceeloppervlakte.svg" alt="perceeloppervlakte_icon">
+												76 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/slaapkamers.svg" alt="slaapkamers_icon">
+												4 slaapkamers
+											</div>
+										</div>
+									</div>
+										<div class="prijs_container">
+											<div class="prijs">
+												<div class="price">
+																											€ 
+														459.000,- k.k.																									</div>
+											</div>
+											<div class="icon">
+												<i class="icon-right-open-big" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>]]></content>
+    </entry>
 </feed>
