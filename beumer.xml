@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-11-28T05:49:35.878Z</updated>
+    <updated>2025-11-28T17:50:07.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hooft Graaflandstraat 61]]></title>
+        <id>https://www.beumer.nl/wonen/object/hooft-graaflandstraat-61-utrecht/</id>
+        <link href="https://www.beumer.nl/wonen/object/hooft-graaflandstraat-61-utrecht/"/>
+        <updated>2025-11-28T17:42:48.179Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/hooft-graaflandstraat-61-utrecht/" class="card-house">
+    <div class="offer">
+        <div class="card-house__thumb">
+
+                                                <picture class="background">
+                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103292/UT103292-245792-Hooft-Graaflandstraat-61-Utrecht-255892944-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103292/UT103292-245792-Hooft-Graaflandstraat-61-Utrecht-255892944-scaled-600x476-c-default.webp">
+                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103292/UT103292-245792-Hooft-Graaflandstraat-61-Utrecht-255892944-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103292/UT103292-245792-Hooft-Graaflandstraat-61-Utrecht-255892944-scaled-400x317-c-default.webp">
+                        <img loading="lazy" data-src="/app/uploads/sure/media/UT103292/UT103292-245792-Hooft-Graaflandstraat-61-Utrecht-255892944-150x150.jpg" alt="                        Hooft Graaflandstraat 61
+                    " src="/app/uploads/sure/media/UT103292/UT103292-245792-Hooft-Graaflandstraat-61-Utrecht-255892944-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    </picture>
+                            
+                        <div class="card-house__label__holder">
+                                                                                        <div class="card-house__label">Beschikbaar</div>
+                                                            
+                            </div>
+        </div>
+        <div class="card-house__content">
+            <h3>
+                                    Hooft Graaflandstraat 61
+                            </h3>
+
+            <p>
+                                                    Utrecht •
+                                                                            € 625.000
+                        ,- k.k.
+                                                </p>
+
+            <div class="card-house__content__data">
+                                    <p>
+                        <i class="icon icon-house"></i>
+                        <span>101 m<sup>2</sup></span>
+                    </p>
+                                                    <p>
+                        <i class="icon icon-doorstep"></i>
+                        5 kamer(s)
+                    </p>
+                                                    <p>
+                        <i class="icon icon-label"></i>
+                        C
+                    </p>
+                            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agaatvlindersingel 78]]></title>
         <id>https://www.beumer.nl/wonen/object/agaatvlindersingel-78-utrecht/</id>
@@ -268,7 +318,7 @@
                         <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-scaled-600x476-c-default.webp">
                         <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-scaled-400x317-c-default.webp">
                         <img loading="lazy" data-src="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-150x150.jpg" alt="                        Livingstonelaan 766
-                    " src="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-150x150.jpg" data-ll-status="loaded" class="loaded">
+                    " src="/app/uploads/sure/media/UT103228/UT103228-241826-Livingstonelaan-766-Utrecht-252801006-150x150.jpg" data-ll-status="native">
                     </picture>
                             
                         <div class="card-house__label__holder">

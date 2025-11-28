@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-11-28T05:49:35.928Z</updated>
+    <updated>2025-11-28T17:50:07.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -31,6 +31,38 @@
                             <div class="d-flex info-specs">
                     <span><i class="icon-area"></i>53 m²</span>
                     <span><i class="icon-home1"></i>4</span>
+                    <span><i class="icon-bed"></i>2</span>
+                </div>
+                        <span class="lees-meer"><i class="icon-arrow-right"></i></span>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barnsteenlaan 63 1]]></title>
+        <id>https://www.remax.nl/woningen/barnsteenlaan-63-1-utrecht-3372</id>
+        <link href="https://www.remax.nl/woningen/barnsteenlaan-63-1-utrecht-3372"/>
+        <updated>2025-11-28T17:48:52.646Z</updated>
+        <content type="html"><![CDATA[<figure>
+        <div class="images">
+            <div class="first-image">
+                <img src="https://cloud01.topsite.nl/remax.nl/property/3372/19879822-158624_600x400_fit.jpg.webp" alt="Barnsteenlaan 63 1">
+            </div>
+        </div>
+                   <figcaption class="nieuw">
+                Nieuw</figcaption>
+            </figure>
+    <div class="text d-flex flex-column flex-grow-1">
+        <div class="flex-grow-1">
+                            <span class="office">REMAX Dè Makelaar</span>
+                        <span class="title">Barnsteenlaan 63 1</span>
+            <div class="d-flex gap-2 flex-wrap city-price">
+                <span class="price">UTRECHT<br>€ 365.000,- k.k.</span>
+            </div>
+        </div>
+        <div class="info d-flex justify-content-between">
+                            <div class="d-flex info-specs">
+                    <span><i class="icon-area"></i>71 m²</span>
+                    <span><i class="icon-home1"></i>3</span>
                     <span><i class="icon-bed"></i>2</span>
                 </div>
                         <span class="lees-meer"><i class="icon-arrow-right"></i></span>
