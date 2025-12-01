@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://damenhooftmakelaars.nl/woningaanbod/koop/utrecht?availability=1&amp;locationofinterest=Utrecht&amp;minrooms=4&amp;moveunavailablelistingstothebottom=true&amp;orderby=10&amp;orderdescending=true&amp;pricerange.maxprice=600000</id>
     <title>Dam en Hooft makelaars</title>
-    <updated>2025-12-01T05:58:55.348Z</updated>
+    <updated>2025-12-01T17:54:28.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://hayweb.blob.core.windows.net/public/qhkmd3/2-beta/favicon-32x32.png</icon>
     <entry>
@@ -27,8 +27,8 @@
                 </div>
 
                 <div class="content">
-                    <img width="350" alt="Te koop: Eisenhowerlaan 55, 3527HG Utrecht" class="img-responsive object_image_srcset img-fluid" loading="lazy" srcset="https://haywebattachments.blob.core.windows.net/public/3244/3848368/118796837/$m/250652694.jpg 600w,
-                            https://haywebattachments.blob.core.windows.net/public/3244/3848368/118796837/$s/250652694.jpg 300w" sizes="auto" src="https://haywebattachments.blob.core.windows.net/public/3244/3848368/118796837/$s/250652694.jpg">
+                    <img width="350" alt="Te koop: Eisenhowerlaan 55, 3527HG Utrecht" class="img-responsive object_image_srcset img-fluid" loading="lazy" srcset="https://haywebattachments.blob.core.windows.net/public/3244/3848368/120609809/$m/250653096.jpg 600w,
+                            https://haywebattachments.blob.core.windows.net/public/3244/3848368/120609809/$s/250653096.jpg 300w" sizes="auto" src="https://haywebattachments.blob.core.windows.net/public/3244/3848368/120609809/$s/250653096.jpg">
                 </div>
             </a>
 
