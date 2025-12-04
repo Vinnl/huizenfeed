@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-12-03T17:50:47.435Z</updated>
+    <updated>2025-12-04T05:54:52.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
     <entry>
@@ -13,8 +13,8 @@
         <updated>2025-11-26T17:49:05.678Z</updated>
         <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
             <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-255582302.1791635d8140a7d7ad4a96fe51cebad0.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-255582302.1791635d8140a7d7ad4a96fe51cebad0.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-255582302.ec552fcb0b8a99c26246b59ab6efa768.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-255582302.ec552fcb0b8a99c26246b59ab6efa768.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-255582302.1791635d8140a7d7ad4a96fe51cebad0.jpg" class="uk-hidden@l" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-255582302.1791635d8140a7d7ad4a96fe51cebad0.jpg" uk-img="" width="610" height="408" alt="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-255582302.1660751ef2bca84419206b7cd0aad843.jpg" class="uk-visible@l" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-oudenoord-389-utrecht-255582302.1660751ef2bca84419206b7cd0aad843.jpg" uk-img="" width="390" height="261" alt="" loading="lazy">
                 
                     
                 
@@ -57,8 +57,8 @@
         <updated>2025-11-07T17:49:26.929Z</updated>
         <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
             <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/003-hoofdfoto-bankstraat-7-utrecht-252642348.649fb362137fa541c7d48633ca37da12.jpg" data-src="/assets/components/phpthumbof/cache/003-hoofdfoto-bankstraat-7-utrecht-252642348.649fb362137fa541c7d48633ca37da12.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/003-hoofdfoto-bankstraat-7-utrecht-252642348.16bc7f5cfda3bc44848158d63cf41756.jpg" data-src="/assets/components/phpthumbof/cache/003-hoofdfoto-bankstraat-7-utrecht-252642348.16bc7f5cfda3bc44848158d63cf41756.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/003-hoofdfoto-bankstraat-7-utrecht-252642348.649fb362137fa541c7d48633ca37da12.jpg" class="uk-hidden@l" data-src="/assets/components/phpthumbof/cache/003-hoofdfoto-bankstraat-7-utrecht-252642348.649fb362137fa541c7d48633ca37da12.jpg" uk-img="" width="610" height="408" alt="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/003-hoofdfoto-bankstraat-7-utrecht-252642348.82a6c19f8760df7db337eda4139b2771.jpg" class="uk-visible@l" data-src="/assets/components/phpthumbof/cache/003-hoofdfoto-bankstraat-7-utrecht-252642348.82a6c19f8760df7db337eda4139b2771.jpg" uk-img="" width="390" height="261" alt="" loading="lazy">
                 
                     
                 
@@ -101,8 +101,8 @@
         <updated>2025-11-12T17:50:23.859Z</updated>
         <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
             <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.5d1f6c7725e2c1b386c792bd7f9924a2.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.5d1f6c7725e2c1b386c792bd7f9924a2.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.07f4f49ab38b84f685cf814eae31bd3e.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.07f4f49ab38b84f685cf814eae31bd3e.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.5d1f6c7725e2c1b386c792bd7f9924a2.jpg" class="uk-hidden@l" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.5d1f6c7725e2c1b386c792bd7f9924a2.jpg" uk-img="" width="610" height="408" alt="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.86d999b7c722acee46caff4f03a972d8.jpg" class="uk-visible@l" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-prinsendaalderhof-20-utrecht-251954638.86d999b7c722acee46caff4f03a972d8.jpg" uk-img="" width="390" height="261" alt="" loading="lazy">
                 
                     
                 
@@ -145,8 +145,8 @@
         <updated>2025-11-20T17:48:32.459Z</updated>
         <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
             <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.33cbccd9e0308a307a1a021c8bb9b5f0.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.33cbccd9e0308a307a1a021c8bb9b5f0.jpg" uk-img="" class="uk-width-1-1 uk-hidden@l" width="610" height="408" alt="" uk-svg="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.a31b729295f9cfe2609ab85429f63314.jpg" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.a31b729295f9cfe2609ab85429f63314.jpg" uk-img="" class="uk-width-1-1 uk-visible@l" width="300" height="200" alt="" uk-svg="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.33cbccd9e0308a307a1a021c8bb9b5f0.jpg" class="uk-hidden@l" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.33cbccd9e0308a307a1a021c8bb9b5f0.jpg" uk-img="" width="610" height="408" alt="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.39f546e5e6ef086350062b690b53327d.jpg" class="uk-visible@l" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.39f546e5e6ef086350062b690b53327d.jpg" uk-img="" width="390" height="261" alt="" loading="lazy">
                 
                     
                 
