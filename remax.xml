@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.remax.nl/koop?plaats=Utrecht&amp;prijs_max=600000&amp;order=asc&amp;kamers=3</id>
     <title>REMAX</title>
-    <updated>2025-12-05T05:55:25.012Z</updated>
+    <updated>2025-12-05T17:52:47.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.remax.nl/img/icons/android-icon-192x192.png</icon>
     <entry>
@@ -46,9 +46,7 @@
                 <img src="https://cloud01.topsite.nl/remax.nl/property/3372/19879822-158624_600x400_fit.jpg.webp" alt="Barnsteenlaan 63 1">
             </div>
         </div>
-                   <figcaption class="nieuw">
-                Nieuw</figcaption>
-            </figure>
+           </figure>
     <div class="text d-flex flex-column flex-grow-1">
         <div class="flex-grow-1">
                             <span class="office">REMAX Dè Makelaar</span>
