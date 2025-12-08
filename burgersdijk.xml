@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-12-08T05:57:18.534Z</updated>
+    <updated>2025-12-08T17:55:54.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Cornelis Mertenssstraat 35 BS
+                        3553 JN UTRECHT]]></title>
+        <id>https://burgersdijk.com/koopwoningen/cornelis-mertenssstraat-35-utrecht-9143352</id>
+        <link href="https://burgersdijk.com/koopwoningen/cornelis-mertenssstraat-35-utrecht-9143352"/>
+        <updated>2025-12-08T17:53:53.439Z</updated>
+        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
+            <div class="uk-card-media-top uk-inline bg-image">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-cornelis-mertenssstraat-35-utrecht-246179348.4f8ed9d811adc908114860c8173d90c0.jpg" class="uk-hidden@l" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-cornelis-mertenssstraat-35-utrecht-246179348.4f8ed9d811adc908114860c8173d90c0.jpg" uk-img="" width="610" height="408" alt="" loading="lazy">
+                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-cornelis-mertenssstraat-35-utrecht-246179348.591ef98c1f50e8db06d5de00a628eadf.jpg" class="uk-visible@l" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-cornelis-mertenssstraat-35-utrecht-246179348.591ef98c1f50e8db06d5de00a628eadf.jpg" uk-img="" width="390" height="261" alt="" loading="lazy">
+                
+                    
+                
+            </div>
+            <div class="uk-card-body uk-card-small vcard">
+                <span class="adr">
+                    <h3 class="uk-text-default">
+                        <span class="street-address">Cornelis Mertenssstraat 35 BS</span><br>
+                        <span class="postal-code">3553 JN</span> <span class="locality">UTRECHT</span>
+                    </h3>
+                    
+                        
+                            
+                                <p class="selling_price">€ 499.000 <span>k.k.</span></p>
+                            
+                        
+                                                    
+                        
+                    
+                    <p>
+                        Woonoppervlakte 113 m<sup>2</sup><br>
+                        Aantal kamers 5
+                    </p>
+                    <span class="uk-hidden">
+                        <span class="country-name">Nederland</span>
+                        <span class="geo">
+                            <span class="latitude">52.1065169</span>
+                            <span class="longitude">5.0928074</span>
+                        </span>
+                    </span>
+                </span>
+            </div>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nicolaas Beetsstraat 168 
                         3511 HG UTRECHT]]></title>

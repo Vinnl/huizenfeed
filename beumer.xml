@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.beumer.nl/wonen/zoeken/heel-nederland/0-700000/utrecht/100-oppervlakte/3-slaapkamers/beschikbaar/</id>
     <title>Beumer Utrecht</title>
-    <updated>2025-12-08T05:57:18.472Z</updated>
+    <updated>2025-12-08T17:55:54.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.beumer.nl/app/uploads/2021/11/cropped-favicon-150x150.png</icon>
     <entry>
@@ -99,106 +99,6 @@
                                                     <p>
                         <i class="icon icon-label"></i>
                         C
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agaatvlindersingel 78]]></title>
-        <id>https://www.beumer.nl/wonen/object/agaatvlindersingel-78-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/agaatvlindersingel-78-utrecht/"/>
-        <updated>2025-11-27T17:41:10.776Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/agaatvlindersingel-78-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24778/MN24778-244966-Agaatvlindersingel-78-Utrecht-254976976-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24778/MN24778-244966-Agaatvlindersingel-78-Utrecht-254976976-scaled-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24778/MN24778-244966-Agaatvlindersingel-78-Utrecht-254976976-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24778/MN24778-244966-Agaatvlindersingel-78-Utrecht-254976976-scaled-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24778/MN24778-244966-Agaatvlindersingel-78-Utrecht-254976976-150x150.jpg" alt="                        Agaatvlindersingel 78
-                    " src="/app/uploads/sure/media/MN24778/MN24778-244966-Agaatvlindersingel-78-Utrecht-254976976-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Agaatvlindersingel 78
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 625.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>110 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        5 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A+
-                    </p>
-                            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Donsvlinder 17]]></title>
-        <id>https://www.beumer.nl/wonen/object/donsvlinder-17-utrecht/</id>
-        <link href="https://www.beumer.nl/wonen/object/donsvlinder-17-utrecht/"/>
-        <updated>2025-11-26T05:44:13.697Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.beumer.nl/wonen/object/donsvlinder-17-utrecht/" class="card-house">
-    <div class="offer">
-        <div class="card-house__thumb">
-
-                                                <picture class="background">
-                        <source media="(min-width:1024px)" data-srcset="/app/uploads/sure/media/MN24186/MN24186-244708-Donsvlinder-17-Utrecht-225249408-scaled-600x476-c-default.webp" srcset="/app/uploads/sure/media/MN24186/MN24186-244708-Donsvlinder-17-Utrecht-225249408-scaled-600x476-c-default.webp">
-                        <source media="(min-width:100px)" data-srcset="/app/uploads/sure/media/MN24186/MN24186-244708-Donsvlinder-17-Utrecht-225249408-scaled-400x317-c-default.webp" srcset="/app/uploads/sure/media/MN24186/MN24186-244708-Donsvlinder-17-Utrecht-225249408-scaled-400x317-c-default.webp">
-                        <img loading="lazy" data-src="/app/uploads/sure/media/MN24186/MN24186-244708-Donsvlinder-17-Utrecht-225249408-150x150.jpg" alt="                        Donsvlinder 17
-                    " src="/app/uploads/sure/media/MN24186/MN24186-244708-Donsvlinder-17-Utrecht-225249408-150x150.jpg" data-ll-status="loaded" class="loaded">
-                    </picture>
-                            
-                        <div class="card-house__label__holder">
-                                                                                        <div class="card-house__label">Beschikbaar</div>
-                                                            
-                            </div>
-        </div>
-        <div class="card-house__content">
-            <h3>
-                                    Donsvlinder 17
-                            </h3>
-
-            <p>
-                                                    Utrecht •
-                                                                            € 615.000
-                        ,- k.k.
-                                                </p>
-
-            <div class="card-house__content__data">
-                                    <p>
-                        <i class="icon icon-house"></i>
-                        <span>123 m<sup>2</sup></span>
-                    </p>
-                                                    <p>
-                        <i class="icon icon-doorstep"></i>
-                        4 kamer(s)
-                    </p>
-                                                    <p>
-                        <i class="icon icon-label"></i>
-                        A
                     </p>
                             </div>
         </div>
