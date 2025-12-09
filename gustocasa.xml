@@ -2,37 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.gustocasa.nl/woningen/</id>
     <title>Gusto Casa</title>
-    <updated>2025-12-09T05:55:16.984Z</updated>
+    <updated>2025-12-09T17:57:33.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/2019/10/cropped-cropped-Logo_Zwart_Groot-32x32.jpg?media=1764322600</icon>
-    <entry>
-        <title type="html"><![CDATA[Hoola van Nootenstraat 374
-				3521 HB UTRECHT
-				€ 525.000,- k.k.Beschikbaar]]></title>
-        <id>https://www.gustocasa.nl/woning/utrecht-hoola-van-nootenstraat-374/</id>
-        <link href="https://www.gustocasa.nl/woning/utrecht-hoola-van-nootenstraat-374/"/>
-        <updated>2025-11-26T17:42:47.802Z</updated>
-        <content type="html"><![CDATA[<div class="item">
-		<a href="https://www.gustocasa.nl/woning/utrecht-hoola-van-nootenstraat-374/" class="thumbnail">
-            <!--Nieuw-->
-            <img fetchpriority="high" width="2560" height="1707" src="https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.681.176/255247028-scaled.jpg?media=1764322600" class="attachment-full size-full wp-post-image" alt="255247028 scaled" decoding="async" srcset="https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.681.176/255247028-scaled.jpg?media=1764322600 2560w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.681.176/255247028-376x251.jpg?media=1764322600 376w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.681.176/255247028-1024x683.jpg?media=1764322600 1024w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.681.176/255247028-768x512.jpg?media=1764322600 768w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.681.176/255247028-1536x1024.jpg?media=1764322600 1536w, https://usercontent.one/wp/www.gustocasa.nl/wp-content/uploads/realworks/wonen/9.681.176/255247028-2048x1366.jpg?media=1764322600 2048w" sizes="(max-width: 2560px) 100vw, 2560px" title="Woningen">		</a>
-
-		<div class="item-content">
-			<div class="item-content-inner">
-				<h3>Hoola van Nootenstraat 374</h3>
-				<p class="item-address">3521 HB UTRECHT</p>
-				<div class="item-info"><div class="item-price">€ 525.000,- k.k.</div><div class="item-status Beschikbaar">Beschikbaar</div></div>
-			</div>
-			<!--<header>
-				<h2>Utrecht – Hoola van Nootenstraat 374</h2>
-			</header>-->
-
-			<!--<div class="entry-content hidden-sm">
-				
-				<dl><dt>Koopprijs</dt><dd>&euro; 525.000,- k.k.</dd><dt>Status</dt><dd>Beschikbaar</dd><dt>Woonopp.</dt><dd>59 m<sup>2</sup></dd></dl>			</div>-->
-		</div>
-
-		<a href="https://www.gustocasa.nl/woning/utrecht-hoola-van-nootenstraat-374/" class="overlay" rel="bookmark"></a>
-	</div>]]></content>
-    </entry>
 </feed>
