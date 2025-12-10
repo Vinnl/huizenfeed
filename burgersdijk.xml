@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://burgersdijk.com/koopwoningen/?in=utrecht&amp;tot=600000</id>
     <title>Burgersdijk makelaars</title>
-    <updated>2025-12-10T05:56:22.713Z</updated>
+    <updated>2025-12-10T17:56:49.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://burgersdijk.com/assets/template/icons/makelaars/android-icon-192x192.png</icon>
     <entry>
@@ -219,50 +219,6 @@
                         <span class="geo">
                             <span class="latitude">52.0913314</span>
                             <span class="longitude">5.0762135</span>
-                        </span>
-                    </span>
-                </span>
-            </div>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maliebaan 53 T
-                        3581 CD UTRECHT]]></title>
-        <id>https://burgersdijk.com/koopwoningen/maliebaan-53-utrecht-5838600</id>
-        <link href="https://burgersdijk.com/koopwoningen/maliebaan-53-utrecht-5838600"/>
-        <updated>2025-11-20T17:48:32.459Z</updated>
-        <content type="html"><![CDATA[<div class="uk-card uk-card-default uk-card-hover">
-            <div class="uk-card-media-top uk-inline bg-image">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.33cbccd9e0308a307a1a021c8bb9b5f0.jpg" class="uk-hidden@l" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.33cbccd9e0308a307a1a021c8bb9b5f0.jpg" uk-img="" width="610" height="408" alt="" loading="lazy">
-                <img src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.39f546e5e6ef086350062b690b53327d.jpg" class="uk-visible@l" data-src="/assets/components/phpthumbof/cache/001-hoofdfoto-maliebaan-53-utrecht-247549296.39f546e5e6ef086350062b690b53327d.jpg" uk-img="" width="390" height="261" alt="" loading="lazy">
-                
-                    
-                
-            </div>
-            <div class="uk-card-body uk-card-small vcard">
-                <span class="adr">
-                    <h3 class="uk-text-default">
-                        <span class="street-address">Maliebaan 53 T</span><br>
-                        <span class="postal-code">3581 CD</span> <span class="locality">UTRECHT</span>
-                    </h3>
-                    
-                        
-                            
-                                <p class="selling_price">€ 590.000 <span>k.k.</span></p>
-                            
-                        
-                                                    
-                        
-                    
-                    <p>
-                        Woonoppervlakte 93 m<sup>2</sup><br>
-                        Aantal kamers 4
-                    </p>
-                    <span class="uk-hidden">
-                        <span class="country-name">Nederland</span>
-                        <span class="geo">
-                            <span class="latitude">52.0906742</span>
-                            <span class="longitude">5.1333511</span>
                         </span>
                     </span>
                 </span>
