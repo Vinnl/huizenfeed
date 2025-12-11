@@ -2,11 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vanscherpenzeel.nl/aanbod/?city=Utrecht&amp;minprice=&amp;maxprice=600000</id>
     <title>Van Scherpenzeel Makelaars</title>
-    <updated>2025-12-10T17:56:49.213Z</updated>
+    <updated>2025-12-11T05:51:53.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vanscherpenzeel.nl/wp-content/uploads/2025/01/cropped-Huisjes-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
+        <id>https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht//18614-sumatrastraat-31-bs</id>
+        <link href="https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht//18614-sumatrastraat-31-bs"/>
+        <updated>2025-12-11T05:47:06.867Z</updated>
+        <content type="html"><![CDATA[<a href="https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht//18614-sumatrastraat-31-bs">
+								<div class="aanbod_content">
+									<div class="aanbodfoto" style="background-image: url('https://www.mijnwoningwebsite.nl/objfoto/400/aHR0cHM6Ly9pbWFnZXMucmVhbHdvcmtzLm5sL3NlcnZsZXRzL2ltYWdlcy9tZWRpYS5vYmplY3RtZWRpYS8yNTY3MzkyMzAuanBnP3BvcnRhbGlkPTExMjUxJmNoZWNrPWFwaV9zaGEyNTYlM0E5YzAxYjE5YmRhMmE5MjFiNzExZjBlNTAyY2NmZDlkZTg0MzZlMzBhYzljNWJlYzNiNjM2NjA5ZjliOTIxNDJkJnJlc2l6ZT00');">
+										<div class="statuslabel ">
+											Beschikbaar										</div>
+									</div>
+									<div class="aanbod_info">
+										<div class="titel notranslate">Sumatrastraat 31 Bs</div>
+										<p class="notranslate">Utrecht</p> 
+									<div class="aanbod_kenmerken">
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/woonoppervlakte.svg" alt="woonoppervlakte_icon">
+												96 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/kamers.svg" alt="kamers_icon">
+												5 kamers
+											</div>
+										</div>
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/perceeloppervlakte.svg" alt="perceeloppervlakte_icon">
+												69 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/slaapkamers.svg" alt="slaapkamers_icon">
+												3 slaapkamers
+											</div>
+										</div>
+									</div>
+										<div class="prijs_container">
+											<div class="prijs">
+												<div class="price">
+																											€ 
+														475.000,- k.k.																									</div>
+											</div>
+											<div class="icon">
+												<i class="icon-right-open-big" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht//18573-b-f-suermanstraat-17-bs</id>
+        <link href="https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht//18573-b-f-suermanstraat-17-bs"/>
+        <updated>2025-12-11T05:47:06.871Z</updated>
+        <content type="html"><![CDATA[<a href="https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht//18573-b-f-suermanstraat-17-bs">
+								<div class="aanbod_content">
+									<div class="aanbodfoto" style="background-image: url('https://www.mijnwoningwebsite.nl/objfoto/400/aHR0cHM6Ly9pbWFnZXMucmVhbHdvcmtzLm5sL3NlcnZsZXRzL2ltYWdlcy9tZWRpYS5vYmplY3RtZWRpYS8yNTU4MTg5MjIuanBnP3BvcnRhbGlkPTExMjUxJmNoZWNrPWFwaV9zaGEyNTYlM0EwZGJhNzNlNGQ5NzY5NWNiZjM3OGU5NWIwZjQ1ZjUwMWM0NjQxODVmYTRlYWI1ZjdjMDA5NzNiZmY5NDY4ZTZlJnJlc2l6ZT00');">
+										<div class="statuslabel ">
+											Beschikbaar										</div>
+									</div>
+									<div class="aanbod_info">
+										<div class="titel notranslate">B.F. Suermanstraat 17 Bs</div>
+										<p class="notranslate">Utrecht</p> 
+									<div class="aanbod_kenmerken">
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/woonoppervlakte.svg" alt="woonoppervlakte_icon">
+												94 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/kamers.svg" alt="kamers_icon">
+												4 kamers
+											</div>
+										</div>
+										<div class="kenmerken_col">
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/perceeloppervlakte.svg" alt="perceeloppervlakte_icon">
+												113 m²
+											</div>
+											<div class="kenmerk">
+												<img class="aanbod_icon" src="https://vanscherpenzeel.nl/wp-content/themes/betheme-child/svg/slaapkamers.svg" alt="slaapkamers_icon">
+												3 slaapkamers
+											</div>
+										</div>
+									</div>
+										<div class="prijs_container">
+											<div class="prijs">
+												<div class="price">
+																											€ 
+														575.000,- k.k.																									</div>
+											</div>
+											<div class="icon">
+												<i class="icon-right-open-big" aria-hidden="true"></i>
+											</div>
+										</div>
+									</div>
+								</div>
+							</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
         <id>https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18029-vleutenseweg-466</id>
         <link href="https://vanscherpenzeel.nl/aanbod-detail/woningaanbod/utrecht/eengezinswoning/18029-vleutenseweg-466"/>
         <updated>2025-11-27T17:40:41.204Z</updated>
