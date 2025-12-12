@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rvlmakelaars.nl/koopwoningen-utrecht?a=Utrecht&amp;e=700000</id>
     <title>Rosenberg Van Leusden makelaars</title>
-    <updated>2025-12-12T06:00:55.654Z</updated>
+    <updated>2025-12-12T17:55:30.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.rvlmakelaars.nl/themes/rvl/favicon.ico</icon>
     <entry>
@@ -12,10 +12,11 @@
         <link href="https://www.rvlmakelaars.nl/abstederdijk-133-utrecht"/>
         <updated>2025-12-09T17:43:21.824Z</updated>
         <content type="html"><![CDATA[<a href="https://www.rvlmakelaars.nl/abstederdijk-133-utrecht" class="home">
-                        <div class="left  change1 ">
+
+                        <div class="left ">
                             <img class="u-photo" src="https://www.rvlmakelaars.nl/cache/images/257150946_250x250_adaptiveResize.jpg" alt="Abstederdijk 133 ">
                         </div>
-                        <div class="right  change2 ">
+                        <div class="right">
                             <span class="old p-name">
                                 Abstederdijk 133                                     <small>
                                         Utrecht                                    </small>
