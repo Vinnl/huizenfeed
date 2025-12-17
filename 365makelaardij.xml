@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://365makelaardij.nl/wonen/zoeken/heel-nederland/koop/utrecht/3-slaapkamers/beschikbaar/</id>
     <title>365makelaardij</title>
-    <updated>2025-12-17T05:57:09.201Z</updated>
+    <updated>2025-12-17T18:00:39.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://365makelaardij.nl/app/uploads-makelaardij/2024/05/cropped-favicon-150x150.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hoendiepstraat 17]]></title>
+        <id>https://365makelaardij.nl/wonen/object/hoendiepstraat-17-utrecht/</id>
+        <link href="https://365makelaardij.nl/wonen/object/hoendiepstraat-17-utrecht/"/>
+        <updated>2025-12-17T17:54:52.125Z</updated>
+        <content type="html"><![CDATA[<a href="https://365makelaardij.nl/wonen/object/hoendiepstraat-17-utrecht/" class="card-property" title="Hoendiepstraat 17">
+    <div class="card-property__image">
+            
+<picture>
+                                                    
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg" type="image/jpeg" media="(min-width: 2560px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg" type="image/jpeg" media="(min-width: 1280px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg" type="image/jpeg" media="(min-width: 1024px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg" type="image/jpeg" media="(min-width: 768px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg" type="image/jpeg" media="(min-width: 460px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg">
+            
+                                                            
+                                            <source data-srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg" type="image/jpeg" media="(min-width: 320px)" srcset="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-scaled.jpg">
+            
+                                                <img fetchpriority="high" src="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-150x150.jpg" data-src="https://365makelaardij.nl/app/uploads-makelaardij/sure/media/UT102020/UT102020-47102-Hoendiepstraat-17-Utrecht-257653864-150x150.jpg" alt="UT102020-47102-Hoendiepstraat-17,-Utrecht-257653864" class=" ls-is-cached lazyloaded" loading="lazy">
+                                        </picture>
+    </div>
+
+            <div class="card-property__label">
+            <span>Beschikbaar</span>
+        </div>
+    
+    <div class="card-property__content">
+        <div class="row align-items-end">
+            <div class="col-md-6">
+                <h4>Hoendiepstraat 17</h4>
+                                                                    <ul class="card-property__list">
+                                                    <li class="card-property__list-item">
+                                € 475.000
+                            </li>
+                                                                            <li class="card-property__list-item">
+                                Utrecht
+                            </li>
+                                            </ul>
+                            </div>
+
+                                                    <div class="col-md-6 mt-15 mt-md-0 d-flex justify-content-md-end">
+                    <ul class="card-property__list justify-content-md-end">
+                                                    <li class="card-property__list-item">
+                                <i class="icon-surface"></i>95m²
+                            </li>
+                                                                            <li class="card-property__list-item">
+                                <i class="icon-door"></i>5
+                            </li>
+                                            </ul>
+                </div>
+                    </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adelboldstraat 52]]></title>
         <id>https://365makelaardij.nl/wonen/object/adelboldstraat-52-utrecht/</id>
